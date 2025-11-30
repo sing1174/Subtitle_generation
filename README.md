@@ -1,4 +1,4 @@
-# TranscribeAI_subtitle_generation
+# Subtitle generation for YouTube Videos
 
 This research aims to enhance video subtitle alignment
 and segmentation for better accessibility and
