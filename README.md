@@ -29,7 +29,7 @@ Improved SRT file for Subtitles:
 
 ![Display of GUI, downloading audio and
 video from a YouTube link given as input and generating
-Improved SRT file for Subtitles](https://github.com/anwesha-umn/TranscribeAI_subtitle_generation/blob/main/images/gui1.png)
+Improved SRT file for Subtitles](https://github.com/sing1174/Subtitle_generation/blob/main/images/gui1.png)
 
 Custom segmentation helps to refine the captions,
 ensuring accurate and well-structured subtitles.
@@ -42,5 +42,5 @@ results in an interactive demo.
 
 
 The final output video with added Subtitles:
-![gui2](https://github.com/anwesha-umn/TranscribeAI_subtitle_generation/blob/main/images/gui2.png)
+![gui2](https://github.com/sing1174/Subtitle_generation/blob/main/images/gui2.png)
 
