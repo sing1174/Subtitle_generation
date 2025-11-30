@@ -1,0 +1,312 @@
+1
+00:00:00,333 --> 00:00:01,133
+okay
+
+2
+00:00:02,066 --> 00:00:02,866
+hello
+
+3
+00:00:03,133 --> 00:00:04,241
+and welcome to
+
+4
+00:00:04,241 --> 00:00:08,166
+kind of like a special little interlude episode that
+
+5
+00:00:08,300 --> 00:00:09,700
+I wanted to put out before
+
+6
+00:00:09,700 --> 00:00:12,166
+the next Disco Elysium stream goes live
+
+7
+00:00:12,166 --> 00:00:14,400
+so this is something I may do from time to time
+
+8
+00:00:14,400 --> 00:00:15,533
+kind of like taking
+
+9
+00:00:16,000 --> 00:00:18,666
+a chunk of the analysis and putting it in its own video
+
+10
+00:00:18,666 --> 00:00:20,000
+sometimes because it takes me a while
+
+11
+00:00:20,000 --> 00:00:21,866
+to sort of collect my thoughts on things
+
+12
+00:00:21,866 --> 00:00:22,766
+and it doesn't always happen
+
+13
+00:00:22,766 --> 00:00:24,566
+like while we're live on stream
+
+14
+00:00:24,566 --> 00:00:26,066
+but also because
+
+15
+00:00:27,266 --> 00:00:29,600
+I can kind of already foresee that this
+
+16
+00:00:29,600 --> 00:00:31,800
+playthrough of Disco Elysium is going to be
+
+17
+00:00:31,900 --> 00:00:34,366
+quite long going at our usual pace
+
+18
+00:00:35,533 --> 00:00:38,000
+and I know it can be pretty hard to get into
+
+19
+00:00:38,000 --> 00:00:38,966
+a let's play
+
+20
+00:00:40,300 --> 00:00:42,066
+when it's like episode 30
+
+21
+00:00:42,066 --> 00:00:44,166
+or something and so if you weren't really
+
+22
+00:00:44,200 --> 00:00:45,766
+there for the beginning of it
+
+23
+00:00:46,733 --> 00:00:48,133
+it's kinda hard to hop in
+
+24
+00:00:48,400 --> 00:00:49,800
+that far down the line so
+
+25
+00:00:49,800 --> 00:00:51,400
+I thought it would be cool to kind of like do
+
+26
+00:00:51,500 --> 00:00:53,700
+like little chunks of our
+
+27
+00:00:53,800 --> 00:00:55,166
+character studies and
+
+28
+00:00:55,266 --> 00:00:56,640
+like analysis of the games
+
+29
+00:00:56,640 --> 00:00:59,133
+ systems like how they represent different
+
+30
+00:00:59,133 --> 00:01:00,533
+parts of mental health like
+
+31
+00:01:00,700 --> 00:01:02,166
+just as their own separate videos
+
+32
+00:01:02,166 --> 00:01:05,933
+basically for the people who can't commit the time to watch
+
+33
+00:01:06,000 --> 00:01:07,600
+all of the let's play videos or
+
+34
+00:01:07,700 --> 00:01:09,366
+can't make it to the streams or that sort of thing
+
+35
+00:01:09,700 --> 00:01:10,700
+they can still enjoy
+
+36
+00:01:10,966 --> 00:01:14,200
+kind of the psychological breakdown parts of it so
+
+37
+00:01:14,300 --> 00:01:15,366
+that's what we're gonna be doing today
+
+38
+00:01:15,366 --> 00:01:16,466
+there's something that
+
+39
+00:01:16,566 --> 00:01:19,000
+I have to talk about basically like
+
+40
+00:01:19,266 --> 00:01:21,100
+I just couldn't really wait until
+
+41
+00:01:21,133 --> 00:01:23,733
+the next time I get on stream to talk about it
+
+42
+00:01:23,866 --> 00:01:25,066
+so that's what we're gonna do now
+
+43
+00:01:25,066 --> 00:01:28,725
+okay so there is something that Disco Elysium does
+
+44
+00:01:28,725 --> 00:01:32,375
+in its portrayal of a very specific aspect of mental health
+
+45
+00:01:32,375 --> 00:01:35,366
+ that I have never seen portrayed this way
+
+46
+00:01:35,566 --> 00:01:36,500
+anywhere else
+
+47
+00:01:36,500 --> 00:01:38,933
+so one of the biggest challenges when talking about
+
+48
+00:01:39,300 --> 00:01:40,966
+anything related to mental health
+
+49
+00:01:40,966 --> 00:01:43,675
+whether depression mental illness addiction
+
+50
+00:01:43,675 --> 00:01:46,900
+is it can sometimes be really hard to explain
+
+51
+00:01:48,100 --> 00:01:50,000
+how can you want something
+
+52
+00:01:50,000 --> 00:01:53,650
+you could desperately want to not be depressed
+
+53
+00:01:53,650 --> 00:01:56,900
+you can desperately want to be sober
+
+54
+00:01:56,933 --> 00:02:01,400
+and yet sometimes our behaviors really don't agree with that desire
+
+55
+00:02:01,466 --> 00:02:03,600
+and how you explain that to someone that
+
+56
+00:02:03,600 --> 00:02:05,166
+you sitting there wondering like
+
+57
+00:02:06,066 --> 00:02:08,333
+all I want in the world is to stop using
+
+58
+00:02:08,333 --> 00:02:09,866
+but I just can't
+
+59
+00:02:09,900 --> 00:02:11,000
+and this is kind of
+
+60
+00:02:11,100 --> 00:02:13,466
+you know a mentality that I imagine like our
+
+61
+00:02:13,700 --> 00:02:14,866
+lead detective
+
+62
+00:02:15,333 --> 00:02:17,366
+having been in at some point
+
+63
+00:02:17,533 --> 00:02:19,133
+before he lost his memory
+
+64
+00:02:19,133 --> 00:02:20,666
+and at least in my playthrough
+
+65
+00:02:20,666 --> 00:02:22,733
+it's something he's still struggling with right
+
+66
+00:02:22,733 --> 00:02:25,866
+as he does whatever he can find a pack of cigarettes
+
+67
+00:02:26,000 --> 00:02:27,133
+and for me it comes down to this
+
+68
+00:02:27,133 --> 00:02:29,200
+we tend to have a very limited
+
+69
+00:02:29,900 --> 00:02:32,933
+way of talking about the subject of motivation
+
+70
+00:02:32,933 --> 00:02:35,800
+like why you actually do things why you want things
+
+71
+00:02:35,900 --> 00:02:38,266
+and this is where Disco Elysium comes into the picture
+
+72
+00:02:38,266 --> 00:02:42,166
+with these different aspects of the main character psyche who
+
+73
+00:02:42,300 --> 00:02:43,966
+seem to have different
+
+74
+00:02:44,066 --> 00:02:45,766
+motivations for him
+
+75
+00:02:45,766 --> 00:02:48,066
+and they influence you as the player to sort of
+
+76
+00:02:48,066 --> 00:02:49,700
+follow different paths
+
+77
+00:02:50,133 --> 00:02:54,666
+one motivation in terms of the authority voice will tell you like
+
+78
+00:02:55,466 --> 00:02:57,866
+you need to smack that kid right
+

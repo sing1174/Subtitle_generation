@@ -1,0 +1,5132 @@
+﻿1
+00:00:00,684 --> 00:00:01,297
+hello
+
+2
+00:00:01,297 --> 00:00:02,451
+ and welcome back to my
+
+3
+00:00:02,451 --> 00:00:05,117
+therapist plays Disco Elysium Analysis series
+
+4
+00:00:05,353 --> 00:00:06,167
+in today's episode
+
+5
+00:00:06,167 --> 00:00:08,853
+we are going to be taking a very thorough look at
+
+6
+00:00:09,017 --> 00:00:12,572
+how Disco Elysium portrays intrusive thinking
+
+7
+00:00:12,572 --> 00:00:16,192
+ when electrochemistry starts giving us thoughts  
+
+8
+00:00:16,192 --> 00:00:19,917
+and they are very much opposed to the thoughts of volition 
+
+9
+00:00:19,917 --> 00:00:23,317
+and how this actually very accurately represents 
+
+10
+00:00:23,717 --> 00:00:25,951
+some of our very real thinking patterns
+
+11
+00:00:25,951 --> 00:00:28,317
+so we're gonna be using actual theory to break this down 
+
+12
+00:00:28,551 --> 00:00:30,484
+using the cognitive model
+
+13
+00:00:30,484 --> 00:00:33,351
+how actual cognitive behavioral therapy works
+
+14
+00:00:33,351 --> 00:00:36,246
+and how we might apply it to a situation that
+
+15
+00:00:36,246 --> 00:00:40,117
+ our detective finds himself in with his own intrusive thinking 
+
+16
+00:00:40,217 --> 00:00:41,551
+this one's gonna be quite in depth
+
+17
+00:00:41,551 --> 00:00:43,617
+so I'm excited to get into it
+
+18
+00:00:44,117 --> 00:00:44,917
+let's dive it
+
+19
+00:00:46,351 --> 00:00:47,151
+all right
+
+20
+00:00:47,151 --> 00:00:51,151
+so what we need to do now is figure out
+
+21
+00:00:53,917 --> 00:00:54,884
+where to go
+
+22
+00:01:00,817 --> 00:01:03,017
+this door he wants me to bust down
+
+23
+00:01:22,217 --> 00:01:25,551
+oh there's a end-of-day debrief 
+
+24
+00:01:26,351 --> 00:01:27,961
+Kim can answer any lingering questions  
+
+25
+00:01:27,961 --> 00:01:29,471
+you may have about the case and the RCM 
+
+26
+00:01:29,471 --> 00:01:32,451
+ join him in the Whirling-in-Rags' balcony after 10
+
+27
+00:01:33,917 --> 00:01:35,117
+so what time is it
+
+28
+00:01:36,351 --> 00:01:37,517
+it's almost 10
+
+29
+00:01:37,717 --> 00:01:42,117
+so we've got a little bit of time before we can do that 
+
+30
+00:01:50,484 --> 00:01:54,884
+do we have enough money to pay back Mr Garte
+
+31
+00:01:56,684 --> 00:01:57,484
+do we have enough
+
+32
+00:01:57,651 --> 00:01:59,917
+do we have it's got a ton of trash
+
+33
+00:02:01,951 --> 00:02:03,484
+let's go turn in the trash
+
+34
+00:02:03,651 --> 00:02:07,117
+let's pay a visit to the best character in this entire game 
+
+35
+00:02:08,217 --> 00:02:09,151
+Frittte girl
+
+36
+00:02:10,717 --> 00:02:12,017
+let's see what she's up to
+
+37
+00:02:12,551 --> 00:02:14,484
+and let's get some money
+
+38
+00:02:23,517 --> 00:02:25,851
+yeah we're not accepting that bribe fuck that guy
+
+39
+00:02:28,451 --> 00:02:29,686
+I don't care I'll
+
+40
+00:02:29,686 --> 00:02:31,658
+we'll solve our many problems
+
+41
+00:02:31,658 --> 00:02:34,417
+ through rigorous environmentalism 
+
+42
+00:02:49,551 --> 00:02:52,528
+I believe I'm supposed to talk to this gentleman first though 
+
+43
+00:02:52,528 --> 00:02:53,705
+ see what he's got to say
+
+44
+00:02:53,705 --> 00:02:55,851
+ so how'd you like our harbor 
+
+45
+00:02:59,284 --> 00:03:00,151
+was nice enough
+
+46
+00:03:00,151 --> 00:03:01,684
+let's remain neutral
+
+47
+00:03:01,684 --> 00:03:05,298
+it's but a rest area on the path leading across open plains 
+
+48
+00:03:07,651 --> 00:03:08,465
+all right
+
+49
+00:03:08,465 --> 00:03:09,369
+you talk to the boss
+
+50
+00:03:09,369 --> 00:03:12,098
+eye-to-eye like men of the plain
+
+51
+00:03:12,751 --> 00:03:15,017
+if you have any more questions I'm set to talk
+
+52
+00:03:15,617 --> 00:03:17,334
+Evrart said you have a key to the door
+
+53
+00:03:17,334 --> 00:03:17,954
+a key huh
+
+54
+00:03:19,117 --> 00:03:20,951
+what door is this key supposed to open
+
+55
+00:03:21,817 --> 00:03:23,851
+he set it belonged to a weasel
+
+56
+00:03:25,251 --> 00:03:27,084
+I was hoping you could tell me let's just go with that
+
+57
+00:03:27,084 --> 00:03:28,717
+of course I got you
+
+58
+00:03:28,851 --> 00:03:30,217
+you don't know anything
+
+59
+00:03:32,517 --> 00:03:33,951
+he taps the side of his nose with a little
+
+60
+00:03:33,951 --> 00:03:35,851
+I got that key right here
+
+61
+00:03:36,084 --> 00:03:37,017
+and let me tell you
+
+62
+00:03:37,017 --> 00:03:39,717
+it's mighty good of you to help us out during the strike 
+
+63
+00:03:40,084 --> 00:03:41,951
+working class solidarity as they say
+
+64
+00:03:48,517 --> 00:03:50,484
+see if I can get some information out of him
+
+65
+00:03:51,117 --> 00:03:52,717
+I'm a hustle grinder
+
+66
+00:03:56,151 --> 00:03:58,117
+I'm not really doing this for political reasons
+
+67
+00:03:58,117 --> 00:03:59,451
+that's very in line with me
+
+68
+00:03:59,451 --> 00:04:01,451
+oh so the none-of-the-above type are you
+
+69
+00:04:01,751 --> 00:04:03,017
+I get it I get it
+
+70
+00:04:03,351 --> 00:04:04,951
+I like to keep my distance too
+
+71
+00:04:05,717 --> 00:04:06,684
+but it doesn't matter
+
+72
+00:04:07,051 --> 00:04:09,717
+it's a good thing you're doing thanks
+
+73
+00:04:10,151 --> 00:04:13,036
+what you're looking for is a basement door behind the greenhouse 
+
+74
+00:04:13,036 --> 00:04:15,259
+ that's behind the Whirling-in-rags
+
+75
+00:04:15,259 --> 00:04:16,484
+that's all I know
+
+76
+00:04:16,917 --> 00:04:19,917
+our organization is what you call compartmentalized
+
+77
+00:04:20,317 --> 00:04:22,217
+means we keep out of each other's business
+
+78
+00:04:23,317 --> 00:04:25,484
+okay but where did you get the key from 
+
+79
+00:04:25,884 --> 00:04:26,317
+good question
+
+80
+00:04:26,317 --> 00:04:27,484
+the janitor gave it to me
+
+81
+00:04:27,817 --> 00:04:28,991
+nice fella
+
+82
+00:04:28,991 --> 00:04:32,084
+ we talked about life and things that really truly matter 
+
+83
+00:04:33,917 --> 00:04:37,284
+none of this mess we're in this javing and juggling
+
+84
+00:04:37,484 --> 00:04:38,351
+what's it for
+
+85
+00:04:39,017 --> 00:04:40,651
+to feed our children I guess
+
+86
+00:04:42,284 --> 00:04:44,284
+anything else I should know about this task
+
+87
+00:04:44,284 --> 00:04:45,151
+this weasel person
+
+88
+00:04:45,151 --> 00:04:45,917
+when he'll be home
+
+89
+00:04:45,917 --> 00:04:48,117
+I'm more of a philosophical dockworker
+
+90
+00:04:48,284 --> 00:04:50,451
+I like to talk about the big picture stuff
+
+91
+00:04:50,517 --> 00:04:52,417
+who I am who you are
+
+92
+00:04:52,717 --> 00:04:54,117
+what we are fighting for
+
+93
+00:04:56,051 --> 00:04:58,417
+hey thank you so much for the hydrate immortal
+
+94
+00:04:59,551 --> 00:05:00,517
+we'll do that now
+
+95
+00:05:08,284 --> 00:05:11,017
+so he's a he's a deep thinker
+
+96
+00:05:11,117 --> 00:05:14,284
+who he is and what they're fighting for
+
+97
+00:05:14,951 --> 00:05:16,151
+this is interesting
+
+98
+00:05:16,451 --> 00:05:17,684
+why are you striking
+
+99
+00:05:17,684 --> 00:05:19,151
+we're negotiating our share
+
+100
+00:05:19,684 --> 00:05:20,442
+your share 
+
+101
+00:05:20,442 --> 00:05:20,917
+aye
+
+102
+00:05:24,251 --> 00:05:26,417
+how large a share would you like
+
+103
+00:05:26,551 --> 00:05:27,451
+let's ask him
+
+104
+00:05:28,484 --> 00:05:29,284
+all of it
+
+105
+00:05:30,017 --> 00:05:31,017
+however right now
+
+106
+00:05:31,017 --> 00:05:33,884
+we want all the harbor workers to be on the company's board 
+
+107
+00:05:33,951 --> 00:05:36,817
+so they could take part in the decision making process
+
+108
+00:05:38,717 --> 00:05:41,205
+let's ask him about Evrart
+
+109
+00:05:41,205 --> 00:05:42,817
+I think it's best you make up your own mind
+
+110
+00:05:42,817 --> 00:05:43,617
+now that you've made
+
+111
+00:05:44,651 --> 00:05:45,317
+in my eyes
+
+112
+00:05:45,317 --> 00:05:48,284
+he is a capable organizer and a decent businessman
+
+113
+00:05:48,617 --> 00:05:50,684
+what has bossing the union entails anyway
+
+114
+00:05:50,684 --> 00:05:52,251
+I guess you kinda get to be the village chief
+
+115
+00:05:52,617 --> 00:05:53,817
+he oversees the harbor
+
+116
+00:05:53,817 --> 00:05:56,317
+makes deals with the owners or other relevant parties
+
+117
+00:05:56,651 --> 00:05:57,717
+watches out for his own
+
+118
+00:05:58,340 --> 00:06:00,051
+by that you mean corruption
+
+119
+00:06:00,717 --> 00:06:01,496
+got him 
+
+120
+00:06:01,496 --> 00:06:03,317
+by heavens why would he not be corrupt
+
+121
+00:06:03,684 --> 00:06:05,884
+we live in a harsh and disorder world see
+
+122
+00:06:06,417 --> 00:06:07,351
+and in this world
+
+123
+00:06:07,617 --> 00:06:09,966
+the old man is corrupt for our benefit
+
+124
+00:06:09,966 --> 00:06:10,817
+ and we know it
+
+125
+00:06:11,117 --> 00:06:12,217
+appreciate it even
+
+126
+00:06:12,717 --> 00:06:15,084
+he is personally not too lavish
+
+127
+00:06:17,017 --> 00:06:18,717
+that desk seemed lavish to me
+
+128
+00:06:18,717 --> 00:06:20,551
+he is reasonably lavish sure
+
+129
+00:06:21,017 --> 00:06:22,217
+that's his prerogative
+
+130
+00:06:22,551 --> 00:06:25,651
+it's not like you want a saintly demeanor on a corrupt motherfucker 
+
+131
+00:06:26,451 --> 00:06:28,484
+that would be a manipulative illusion
+
+132
+00:06:30,451 --> 00:06:32,951
+as someone so careful with your words
+
+133
+00:06:33,484 --> 00:06:36,617
+you're letting some vulgarity slip through here friend
+
+134
+00:06:36,617 --> 00:06:37,151
+what's going on
+
+135
+00:06:37,151 --> 00:06:37,651
+besides
+
+136
+00:06:37,651 --> 00:06:40,217
+there are no non-corrupt systems in the world anyway
+
+137
+00:06:40,217 --> 00:06:42,717
+and moralism is the most corruptive them all
+
+138
+00:06:44,551 --> 00:06:45,351
+what
+
+139
+00:06:45,751 --> 00:06:47,917
+not you you would like to say
+
+140
+00:06:48,451 --> 00:06:50,551
+but then there's that weasle door
+
+141
+00:06:54,684 --> 00:06:56,551
+how is moralism corrupt
+
+142
+00:06:57,251 --> 00:07:01,417
+I don't really know what moralism entails in this context though 
+
+143
+00:07:01,751 --> 00:07:03,021
+are you a communist
+
+144
+00:07:03,021 --> 00:07:03,517
+ no
+
+145
+00:07:04,684 --> 00:07:06,217
+I don't think I'm a communist
+
+146
+00:07:06,484 --> 00:07:09,385
+seeing something of value when saying I want it all to myself 
+
+147
+00:07:09,385 --> 00:07:11,651
+ is a much older and simpler notion
+
+148
+00:07:12,084 --> 00:07:13,279
+no science to it at all
+
+149
+00:07:13,279 --> 00:07:15,251
+ even a weak child can think it
+
+150
+00:07:15,711 --> 00:07:19,151
+the only things holding someone back are I can't and I shouldn't 
+
+151
+00:07:23,617 --> 00:07:25,717
+moralism is centralism
+
+152
+00:07:26,084 --> 00:07:28,551
+that does not help me
+
+153
+00:07:31,417 --> 00:07:36,051
+that I am further from understanding that now actually 
+
+154
+00:07:37,084 --> 00:07:39,411
+you shouldn't take what's not yours  
+
+155
+00:07:39,411 --> 00:07:40,451
+I mean I agree with that
+
+156
+00:07:40,551 --> 00:07:42,717
+then how can anything ever be mine
+
+157
+00:07:43,351 --> 00:07:44,388
+but that's okay 
+
+158
+00:07:44,388 --> 00:07:45,651
+we don't have to agree
+
+159
+00:07:46,117 --> 00:07:48,451
+the prairie is wide enough for all of us
+
+160
+00:07:51,351 --> 00:07:54,717
+moralism is the international political group that took over the revolution 
+
+161
+00:07:54,717 --> 00:07:56,117
+like Rene talked about
+
+162
+00:07:57,259 --> 00:07:59,751
+it's the main ideology of the ruling class
+
+163
+00:08:01,851 --> 00:08:04,251
+it's basically American liberalism
+
+164
+00:08:05,751 --> 00:08:09,151
+centrism coalition they're the do-nothing party
+
+165
+00:08:11,313 --> 00:08:13,680
+there's so many things here that I
+
+166
+00:08:14,278 --> 00:08:16,117
+that are out of my scope
+
+167
+00:08:22,409 --> 00:08:25,017
+ah yeah well there's a spoiler policy
+
+168
+00:08:25,017 --> 00:08:28,284
+but sometimes I'm just gonna ask for information because like 
+
+169
+00:08:28,551 --> 00:08:30,017
+I'll be honest like
+
+170
+00:08:31,017 --> 00:08:31,817
+I'm gonna
+
+171
+00:08:32,651 --> 00:08:35,051
+I'm inviting this now I know but like
+
+172
+00:08:36,651 --> 00:08:39,917
+certain kinds of spoilers I really don't care about
+
+173
+00:08:40,951 --> 00:08:42,151
+like obviously
+
+174
+00:08:42,151 --> 00:08:43,151
+I don't want people to tell me
+
+175
+00:08:43,151 --> 00:08:44,117
+what happens in the game
+
+176
+00:08:44,117 --> 00:08:46,617
+if I am gonna find that out on my own
+
+177
+00:08:47,251 --> 00:08:48,051
+but like
+
+178
+00:08:49,051 --> 00:08:52,084
+the things that are the most egregious spoilers to me are like 
+
+179
+00:08:52,117 --> 00:08:54,251
+character things
+
+180
+00:08:54,751 --> 00:08:58,051
+like I do wish that I would have probably discovered the 
+
+181
+00:08:58,684 --> 00:09:00,917
+the name thing on my own
+
+182
+00:09:01,884 --> 00:09:04,117
+I don't think it's like the worst thing ever but
+
+183
+00:09:07,151 --> 00:09:09,917
+like character development as spoilers to me
+
+184
+00:09:11,317 --> 00:09:13,159
+but telling me what moralism is like 
+
+185
+00:09:13,159 --> 00:09:14,084
+tell me because
+
+186
+00:09:15,651 --> 00:09:16,817
+so out of my scope
+
+187
+00:09:18,817 --> 00:09:21,851
+you seem to think you seem to have spent a lot of time 
+
+188
+00:09:21,851 --> 00:09:23,551
+thinking about the political situation
+
+189
+00:09:23,551 --> 00:09:24,309
+let's ask him that
+
+190
+00:09:24,309 --> 00:09:26,817
+ sure I've had the necessary free time
+
+191
+00:09:27,617 --> 00:09:29,517
+fortunately there's always time
+
+192
+00:09:31,751 --> 00:09:35,251
+okay the look in his brown eyes conjures up an understanding 
+
+193
+00:09:35,351 --> 00:09:39,517
+for him having command of his time is the most important thing 
+
+194
+00:09:40,217 --> 00:09:42,251
+the man sits on the railing
+
+195
+00:09:42,451 --> 00:09:44,684
+his hands reaching far and wide
+
+196
+00:09:44,951 --> 00:09:50,317
+yet it feels as if he could effortlessly go even wider if need be 
+
+197
+00:09:50,517 --> 00:09:52,451
+an endless torrent of time
+
+198
+00:09:53,051 --> 00:09:54,717
+hmm okay well 
+
+199
+00:09:54,717 --> 00:09:59,017
+he did say he would tell me more about this murder once I talked to his boss  
+
+200
+00:09:59,017 --> 00:10:00,417
+any idea who killed the hangman
+
+201
+00:10:00,417 --> 00:10:01,651
+the mercenary aye
+
+202
+00:10:02,717 --> 00:10:04,884
+who could have killed him that's indeed the question
+
+203
+00:10:05,651 --> 00:10:07,151
+why even do such a thing
+
+204
+00:10:09,817 --> 00:10:10,517
+it's a good question
+
+205
+00:10:10,517 --> 00:10:12,557
+the Harbor is a prime area of suspicion 
+
+206
+00:10:12,557 --> 00:10:15,517
+in your opinion are the dockworkers involved in the killing 
+
+207
+00:10:15,517 --> 00:10:16,517
+what a thought
+
+208
+00:10:17,151 --> 00:10:19,417
+why would noble workers resort to such a thing
+
+209
+00:10:20,451 --> 00:10:22,284
+unless they were pushed of course
+
+210
+00:10:25,317 --> 00:10:25,840
+pushed how
+
+211
+00:10:25,840 --> 00:10:26,917
+ your dead guy
+
+212
+00:10:27,451 --> 00:10:29,551
+was an enemy combatant
+
+213
+00:10:29,551 --> 00:10:31,451
+did you kill him no we're not gonna go there
+
+214
+00:10:31,517 --> 00:10:32,451
+hold up what does that mean
+
+215
+00:10:32,451 --> 00:10:34,151
+it was an agent of the opposition
+
+216
+00:10:34,351 --> 00:10:36,884
+attempting to undermine our honorable efforts
+
+217
+00:10:37,617 --> 00:10:38,084
+did you kill him
+
+218
+00:10:38,084 --> 00:10:39,217
+I ain't the murderin' type
+
+219
+00:10:39,451 --> 00:10:40,351
+but that's just me
+
+220
+00:10:40,851 --> 00:10:42,617
+large organizations like our union
+
+221
+00:10:42,617 --> 00:10:43,817
+have all sorts of men
+
+222
+00:10:44,284 --> 00:10:46,317
+with all sorts of skills
+
+223
+00:10:47,317 --> 00:10:48,617
+this could be a red herring
+
+224
+00:10:49,717 --> 00:10:52,484
+couldn't have nothing to do with the union at all
+
+225
+00:10:53,217 --> 00:10:55,984
+he means a more violent faction 
+
+226
+00:10:55,984 --> 00:10:58,217
+could easily take care of such a thing 
+
+227
+00:10:59,084 --> 00:11:01,117
+or the least violent
+
+228
+00:11:01,117 --> 00:11:01,917
+understood
+
+229
+00:11:02,151 --> 00:11:03,851
+this has been of limited use
+
+230
+00:11:04,251 --> 00:11:05,317
+still thank you
+
+231
+00:11:06,017 --> 00:11:08,684
+no problem I wish the best to you in your search
+
+232
+00:11:09,284 --> 00:11:10,917
+sure am glad it's not my search
+
+233
+00:11:13,017 --> 00:11:14,517
+all right gotta run 
+
+234
+00:11:15,884 --> 00:11:16,717
+so
+
+235
+00:11:18,084 --> 00:11:20,717
+trash money sleep
+
+236
+00:11:21,651 --> 00:11:23,817
+parasympathetic nervous system
+
+237
+00:11:23,817 --> 00:11:26,484
+is telling me my body needs to rest
+
+238
+00:11:28,617 --> 00:11:30,884
+damn that felt good 
+
+239
+00:11:31,484 --> 00:11:33,917
+your heart's pounding nicely
+
+240
+00:11:34,617 --> 00:11:37,484
+you should tell people to fuck off more often
+
+241
+00:11:37,751 --> 00:11:38,899
+I should I should do that
+
+242
+00:11:38,899 --> 00:11:40,084
+ no you shouldn't
+
+243
+00:11:40,351 --> 00:11:41,884
+you're an officer of the law
+
+244
+00:11:41,884 --> 00:11:42,884
+maybe I shouldn't
+
+245
+00:11:43,517 --> 00:11:44,374
+I love this
+
+246
+00:11:44,374 --> 00:11:46,651
+ I fucking love this
+
+247
+00:11:47,417 --> 00:11:49,862
+this portrayal of mental states 
+
+248
+00:11:49,862 --> 00:11:51,717
+that are in competition with one another 
+
+249
+00:11:51,717 --> 00:11:54,517
+is so good so accurate
+
+250
+00:11:56,551 --> 00:12:01,651
+like I really do actually want to talk about this 
+
+251
+00:12:07,651 --> 00:12:08,817
+a little more in depth
+
+252
+00:12:10,417 --> 00:12:17,151
+if you don't mind me indulging a little bit in some psychology 
+
+253
+00:12:20,617 --> 00:12:23,782
+so like I talked about that here 
+
+254
+00:12:23,782 --> 00:12:25,751
+the whole competing mental states thing 
+
+255
+00:12:25,751 --> 00:12:30,751
+but let me give you a little bit of like additional context so 
+
+256
+00:12:31,451 --> 00:12:32,251
+like
+
+257
+00:12:34,651 --> 00:12:37,484
+CBT right cognitive behavioral therapy
+
+258
+00:12:37,951 --> 00:12:40,651
+it uses something called the cognitive model
+
+259
+00:12:41,017 --> 00:12:42,517
+which is like essentially
+
+260
+00:12:43,517 --> 00:12:45,540
+that the chain of events is 
+
+261
+00:12:45,540 --> 00:12:46,851
+we have a thought
+
+262
+00:12:49,251 --> 00:12:50,951
+we have an emotion
+
+263
+00:12:51,817 --> 00:12:54,017
+and then we have like a behavior
+
+264
+00:12:56,473 --> 00:13:00,140
+and most of the time we actually work backwards 
+
+265
+00:13:00,140 --> 00:13:02,592
+when we are detecting these things 
+
+266
+00:13:02,592 --> 00:13:05,351
+because our behaviors are so much more observable right 
+
+267
+00:13:05,351 --> 00:13:06,884
+it's like simple cause and effect
+
+268
+00:13:07,950 --> 00:13:11,117
+for example I'll do it like this 
+
+269
+00:13:17,351 --> 00:13:19,451
+my behavior is I smoked
+
+270
+00:13:21,317 --> 00:13:24,417
+my behavior is I confronted someone
+
+271
+00:13:26,084 --> 00:13:30,351
+my behavior is that I cried 
+
+272
+00:13:31,451 --> 00:13:33,951
+my behavior is that I
+
+273
+00:13:34,751 --> 00:13:36,751
+you know slouched in the chair
+
+274
+00:13:39,117 --> 00:13:44,851
+my behavior in Evrart's office was like 
+
+275
+00:13:45,817 --> 00:13:46,751
+fidgeting
+
+276
+00:13:48,917 --> 00:13:50,684
+right my behavior
+
+277
+00:13:54,284 --> 00:13:56,751
+when I was talking to Frittte girl is like
+
+278
+00:13:58,484 --> 00:14:01,617
+right just talking conversing
+
+279
+00:14:01,817 --> 00:14:03,151
+let's put conversing
+
+280
+00:14:08,884 --> 00:14:13,217
+some of my other behaviors would be 
+
+281
+00:14:14,551 --> 00:14:15,617
+fighting
+
+282
+00:14:22,417 --> 00:14:23,684
+cursing right
+
+283
+00:14:23,751 --> 00:14:25,884
+because we're talking about like telling people to fuck off 
+
+284
+00:14:25,884 --> 00:14:27,517
+and confronting and that sort of thing
+
+285
+00:14:30,151 --> 00:14:32,217
+resting right that's another behavior
+
+286
+00:14:32,251 --> 00:14:33,517
+you can see that like
+
+287
+00:14:33,517 --> 00:14:36,284
+it's very easy to identify our behaviors
+
+288
+00:14:36,284 --> 00:14:37,817
+these are the things that we do
+
+289
+00:14:40,317 --> 00:14:44,251
+we're quite good at giving like a historical account of things 
+
+290
+00:14:44,351 --> 00:14:45,851
+and I think that for our character
+
+291
+00:14:45,851 --> 00:14:48,417
+it's also particularly interesting because he's like
+
+292
+00:14:50,684 --> 00:14:53,551
+he's asking a lot of questions like what did I do
+
+293
+00:14:54,317 --> 00:14:55,884
+in terms of like who was I
+
+294
+00:14:56,484 --> 00:14:57,917
+some of his questions have been like
+
+295
+00:14:59,417 --> 00:15:01,086
+was I a good cop right
+
+296
+00:15:01,086 --> 00:15:02,551
+ like did I do my job
+
+297
+00:15:02,551 --> 00:15:03,211
+did I perform well 
+
+298
+00:15:03,211 --> 00:15:04,331
+was I a good person right 
+
+299
+00:15:04,331 --> 00:15:06,351
+here behavior is 
+
+300
+00:15:07,751 --> 00:15:11,417
+the most obvious most avert part of this process 
+
+301
+00:15:11,417 --> 00:15:13,051
+but it's also the most limited in
+
+302
+00:15:13,051 --> 00:15:16,051
+understanding the source of our anxieties right
+
+303
+00:15:16,451 --> 00:15:19,884
+because like now we have to take a step back actually 
+
+304
+00:15:20,817 --> 00:15:22,817
+the way it works is we have a thought
+
+305
+00:15:23,217 --> 00:15:24,817
+that thought gives us an emotion
+
+306
+00:15:24,817 --> 00:15:27,217
+and based on that emotion we make a behavior
+
+307
+00:15:27,251 --> 00:15:28,817
+but when we're trying to understand these things
+
+308
+00:15:28,817 --> 00:15:31,217
+we actually have to work our way backwards right
+
+309
+00:15:31,517 --> 00:15:34,817
+so if I did something like smoked
+
+310
+00:15:35,084 --> 00:15:36,617
+the behavior is
+
+311
+00:15:38,485 --> 00:15:40,617
+you know lighting up a cigarette or something
+
+312
+00:15:40,717 --> 00:15:41,675
+what is the emotion
+
+313
+00:15:41,675 --> 00:15:48,017
+what is the emotion that I'm having as I do that right 
+
+314
+00:15:51,617 --> 00:15:54,884
+some of the emotions my character has had are like
+
+315
+00:15:55,717 --> 00:15:56,851
+anxiety
+
+316
+00:15:58,317 --> 00:15:59,117
+fear
+
+317
+00:16:00,017 --> 00:16:00,951
+regret
+
+318
+00:16:02,151 --> 00:16:03,351
+sadness
+
+319
+00:16:04,251 --> 00:16:05,002
+grief 
+
+320
+00:16:05,220 --> 00:16:07,284
+loss of personal self
+
+321
+00:16:15,351 --> 00:16:17,717
+I would actually say that like empathy is
+
+322
+00:16:17,751 --> 00:16:20,017
+more of a behavior in this sense
+
+323
+00:16:20,017 --> 00:16:21,884
+like we are empathizing with someone
+
+324
+00:16:21,884 --> 00:16:23,817
+that's a verb right we empathize
+
+325
+00:16:23,884 --> 00:16:26,951
+but the emotion attached to empathy is
+
+326
+00:16:30,717 --> 00:16:32,151
+it's even hard for me to come up with some of these
+
+327
+00:16:32,151 --> 00:16:33,317
+sometimes right like
+
+328
+00:16:35,117 --> 00:16:36,851
+it's a kind of like sadness
+
+329
+00:16:36,851 --> 00:16:38,183
+what did what did Tommy call it
+
+330
+00:16:38,183 --> 00:16:41,751
+ like an aching of the soul or something 
+
+331
+00:16:42,217 --> 00:16:43,417
+right it's painful
+
+332
+00:16:48,651 --> 00:16:52,084
+some of the emotions that we've had were like happiness right 
+
+333
+00:16:52,717 --> 00:16:58,451
+we were happy when we got like a cigarette when
+
+334
+00:16:59,351 --> 00:17:01,551
+when we got some money right
+
+335
+00:17:01,951 --> 00:17:03,684
+compassion yeah that's a great one
+
+336
+00:17:06,012 --> 00:17:07,351
+feeling compassionate
+
+337
+00:17:12,317 --> 00:17:14,017
+anger is a big one
+
+338
+00:17:16,051 --> 00:17:17,284
+loneliness
+
+339
+00:17:20,151 --> 00:17:21,217
+isolation
+
+340
+00:17:22,817 --> 00:17:24,254
+it's kind of like one of those 
+
+341
+00:17:24,254 --> 00:17:25,917
+shame yeah great
+
+342
+00:17:26,751 --> 00:17:27,551
+right
+
+343
+00:17:29,951 --> 00:17:34,317
+so like it's pretty it's a little bit more difficult 
+
+344
+00:17:34,317 --> 00:17:36,284
+but still we can detect these things right
+
+345
+00:17:36,284 --> 00:17:39,284
+and we can even say okay well when I'm feeling anxious
+
+346
+00:17:39,684 --> 00:17:41,084
+I might do all of these things
+
+347
+00:17:41,084 --> 00:17:42,451
+I might smoke when I'm anxious
+
+348
+00:17:42,451 --> 00:17:43,851
+I might confront someone
+
+349
+00:17:43,951 --> 00:17:45,376
+I might start crying
+
+350
+00:17:45,376 --> 00:17:46,684
+ I might slouch in my chair
+
+351
+00:17:46,684 --> 00:17:47,884
+I might start fidgeting
+
+352
+00:17:48,017 --> 00:17:50,151
+I might start talking right
+
+353
+00:17:50,151 --> 00:17:51,251
+I might fight with someone
+
+354
+00:17:51,251 --> 00:17:54,317
+like anxiety can be a source for all of these things
+
+355
+00:17:58,151 --> 00:18:00,617
+what could shame make us want to do right
+
+356
+00:18:00,617 --> 00:18:02,317
+it could make us want to isolate
+
+357
+00:18:02,317 --> 00:18:05,617
+it could make us fight with people 
+
+358
+00:18:05,617 --> 00:18:08,651
+it could make us cry as well right like
+
+359
+00:18:10,751 --> 00:18:12,817
+there's multiple routes that this can take
+
+360
+00:18:13,551 --> 00:18:16,051
+but this is where Disco Elysium comes in with like
+
+361
+00:18:17,351 --> 00:18:21,251
+the the thoughts that your character is having right
+
+362
+00:18:22,617 --> 00:18:24,217
+this is brilliant right here
+
+363
+00:18:24,217 --> 00:18:27,217
+so the game is saying like damn that felt good
+
+364
+00:18:29,484 --> 00:18:30,451
+that s a thought
+
+365
+00:18:34,017 --> 00:18:34,817
+right
+
+366
+00:18:35,317 --> 00:18:41,117
+this is a neutral objective like automatic thought that we're having 
+
+367
+00:18:41,117 --> 00:18:45,709
+and like the emotion that we might have from that 
+
+368
+00:18:45,709 --> 00:18:48,217
+ is maybe one over like relief 
+
+369
+00:18:49,451 --> 00:18:54,217
+and so when we have this thought and this emotion
+
+370
+00:18:54,251 --> 00:18:57,317
+like what is the behavior that it's telling us to do
+
+371
+00:18:57,451 --> 00:19:00,017
+it's telling us to go confront someone right
+
+372
+00:19:00,317 --> 00:19:02,617
+it's saying damn that felt good
+
+373
+00:19:02,717 --> 00:19:03,951
+your heart's pounding nicely
+
+374
+00:19:03,951 --> 00:19:06,417
+you should tell people to fuck off more often
+
+375
+00:19:08,084 --> 00:19:11,551
+is this a good way to experience relief though
+
+376
+00:19:13,084 --> 00:19:15,109
+because I think without the thought
+
+377
+00:19:15,109 --> 00:19:16,617
+ if I took this away
+
+378
+00:19:18,117 --> 00:19:20,917
+right and I asked you well what do we
+
+379
+00:19:21,251 --> 00:19:24,517
+what's the when we feel relief what do we do
+
+380
+00:19:25,884 --> 00:19:27,484
+we might say oh well you know
+
+381
+00:19:27,484 --> 00:19:31,251
+we we rest we have a good conversation right
+
+382
+00:19:31,451 --> 00:19:36,617
+we might socialize we might relax 
+
+383
+00:19:37,851 --> 00:19:39,750
+but no right 
+
+384
+00:19:41,417 --> 00:19:44,448
+the emotion is only connected to a behavior 
+
+385
+00:19:45,107 --> 00:19:47,851
+in a very limited sense 
+
+386
+00:19:48,017 --> 00:19:51,517
+we don't get the full context of how emotions work
+
+387
+00:19:51,651 --> 00:19:55,884
+unless we actually have a thought attached to it
+
+388
+00:19:58,117 --> 00:20:01,117
+which can totally upset the relationship between
+
+389
+00:20:01,451 --> 00:20:03,658
+something like relief and a behavior
+
+390
+00:20:03,658 --> 00:20:04,351
+ because
+
+391
+00:20:05,517 --> 00:20:06,451
+that felt good
+
+392
+00:20:06,451 --> 00:20:09,851
+is telling me that relief is connected to confrontation 
+
+393
+00:20:10,217 --> 00:20:14,117
+that in fact feeling anxiety like that
+
+394
+00:20:14,651 --> 00:20:17,155
+kind of like heart pumping tension
+
+395
+00:20:17,155 --> 00:20:18,451
+ is like good for you
+
+396
+00:20:18,451 --> 00:20:20,051
+like you should get in more fights
+
+397
+00:20:20,051 --> 00:20:22,451
+you should curse more often right
+
+398
+00:20:23,151 --> 00:20:26,017
+if you want to feel relief you cannot empathize
+
+399
+00:20:27,151 --> 00:20:30,351
+half light is disrupting your
+
+400
+00:20:33,817 --> 00:20:36,917
+what we would say is a healthy relationship between
+
+401
+00:20:36,917 --> 00:20:40,373
+the emotion of relief and the behaviors that might follow it  
+
+402
+00:20:40,862 --> 00:20:43,173
+but then you have something like volition that comes in 
+
+403
+00:20:43,173 --> 00:20:45,484
+ and says like no you shouldn't 
+
+404
+00:20:45,484 --> 00:20:47,973
+you're an officer of the law right 
+
+405
+00:20:47,973 --> 00:20:49,151
+what is this
+
+406
+00:20:57,179 --> 00:21:01,017
+ this is appealing to my own sense of moralism
+
+407
+00:21:01,351 --> 00:21:04,884
+and the idea that like you should
+
+408
+00:21:06,217 --> 00:21:08,517
+you shouldn't do that you're an officer of the law
+
+409
+00:21:08,717 --> 00:21:14,284
+to me what that's getting into is like a sense of shame 
+
+410
+00:21:14,583 --> 00:21:16,958
+ over like that's not something that someone
+
+411
+00:21:16,958 --> 00:21:18,751
+ with a strong moral code would do 
+
+412
+00:21:19,884 --> 00:21:20,550
+regret
+
+413
+00:21:20,550 --> 00:21:22,317
+ you should not have made that choice
+
+414
+00:21:22,317 --> 00:21:23,153
+and fear 
+
+415
+00:21:23,153 --> 00:21:29,551
+for how you will come off to people who are trying to uphold a professional  
+
+416
+00:21:29,717 --> 00:21:32,417
+you know law abiding posture to
+
+417
+00:21:32,951 --> 00:21:34,517
+and then those
+
+418
+00:21:34,684 --> 00:21:37,151
+despite shame regret and fear
+
+419
+00:21:37,317 --> 00:21:39,451
+seeming like very negative emotions
+
+420
+00:21:39,451 --> 00:21:41,951
+what kinds of behaviors are they going to lead to
+
+421
+00:21:43,717 --> 00:21:48,017
+they're actually going to lead you to empathy 
+
+422
+00:21:53,551 --> 00:21:55,051
+standing up for someone
+
+423
+00:21:56,084 --> 00:22:00,517
+to not confronting them but trying to understand right
+
+424
+00:22:01,684 --> 00:22:04,251
+they're going to lead you to honesty
+
+425
+00:22:04,251 --> 00:22:06,651
+the behavior of honesty right
+
+426
+00:22:06,851 --> 00:22:09,484
+they're going to lead you to apology
+
+427
+00:22:13,317 --> 00:22:16,595
+and so now you have what looked like negative emotions 
+
+428
+00:22:16,595 --> 00:22:22,317
+ leading you to very positive coded behaviors right 
+
+429
+00:22:23,717 --> 00:22:26,217
+so the cognitive model is all about how like
+
+430
+00:22:26,451 --> 00:22:27,717
+when you're missing
+
+431
+00:22:30,051 --> 00:22:30,939
+this part of it 
+
+432
+00:22:30,939 --> 00:22:34,051
+right like when we do not include this
+
+433
+00:22:34,484 --> 00:22:38,464
+emotions and behaviors do not tell a full story  
+
+434
+00:22:38,464 --> 00:22:40,501
+we assume that 
+
+435
+00:22:40,501 --> 00:22:43,926
+oh well we avoid anxiety right  
+
+436
+00:22:43,926 --> 00:22:45,251
+when we fear
+
+437
+00:22:45,617 --> 00:22:46,964
+we're always isolating
+
+438
+00:22:46,964 --> 00:22:47,517
+ no
+
+439
+00:22:48,351 --> 00:22:52,651
+fear can have a very positive impact on you 
+
+440
+00:22:52,851 --> 00:22:54,915
+but you have to consider where it came from
+
+441
+00:22:54,915 --> 00:22:55,960
+ it's the thought  
+
+442
+00:22:55,960 --> 00:22:57,817
+no you shouldn't officer
+
+443
+00:22:58,017 --> 00:22:59,851
+right you're an officer of the law
+
+444
+00:23:00,317 --> 00:23:05,284
+fear is stimulating a very positive set of behaviors here 
+
+445
+00:23:05,684 --> 00:23:07,371
+and I love that the game does this
+
+446
+00:23:07,371 --> 00:23:09,351
+ because it demonstrates this 
+
+447
+00:23:09,617 --> 00:23:13,651
+so much with so much like effectiveness
+
+448
+00:23:14,151 --> 00:23:15,117
+right because
+
+449
+00:23:17,517 --> 00:23:18,017
+like I said
+
+450
+00:23:18,017 --> 00:23:20,084
+it's very easy to look at our behaviors and say yeah
+
+451
+00:23:20,084 --> 00:23:23,217
+like I ordered junk food yesterday
+
+452
+00:23:24,051 --> 00:23:27,217
+I canceled my appointments
+
+453
+00:23:27,717 --> 00:23:29,017
+I bailed on my friend
+
+454
+00:23:29,084 --> 00:23:31,217
+these are all behaviors what were you feeling
+
+455
+00:23:32,217 --> 00:23:33,951
+well I guess I was feeling
+
+456
+00:23:36,017 --> 00:23:36,690
+shame
+
+457
+00:23:38,267 --> 00:23:39,717
+ okay but
+
+458
+00:23:40,617 --> 00:23:43,751
+what's the thought what did you think of before
+
+459
+00:23:44,017 --> 00:23:47,684
+you felt shame and before you cancelled on your friend 
+
+460
+00:23:48,717 --> 00:23:50,251
+well my thought was
+
+461
+00:23:50,251 --> 00:23:52,484
+they don't want to hang out with me anyways
+
+462
+00:23:52,951 --> 00:23:57,284
+okay now we can actually like do some rewiring here right 
+
+463
+00:23:57,284 --> 00:23:58,717
+what's behind that
+
+464
+00:24:00,251 --> 00:24:02,317
+why is there a connection between like
+
+465
+00:24:04,351 --> 00:24:07,517
+I don't think that they want to hang out with me
+
+466
+00:24:07,684 --> 00:24:09,451
+shame and avoidance
+
+467
+00:24:10,084 --> 00:24:11,751
+and this is where you actually get into
+
+468
+00:24:12,217 --> 00:24:14,217
+what's behind this whole thing
+
+469
+00:24:14,217 --> 00:24:17,617
+this is cognitive behavioral therapy right 
+
+470
+00:24:17,884 --> 00:24:18,684
+is
+
+471
+00:24:19,484 --> 00:24:21,217
+thoughts where do they come from
+
+472
+00:24:21,451 --> 00:24:22,751
+they're automatic
+
+473
+00:24:23,017 --> 00:24:24,051
+meaning that like
+
+474
+00:24:25,684 --> 00:24:27,251
+not all thoughts are automatic obviously
+
+475
+00:24:27,251 --> 00:24:28,602
+but like the ones that are intruding 
+
+476
+00:24:28,602 --> 00:24:30,651
+into our character's mind are very automatic 
+
+477
+00:24:30,651 --> 00:24:32,951
+and many of ours are as well
+
+478
+00:24:33,617 --> 00:24:37,417
+but most of these thoughts they come from our core beliefs 
+
+479
+00:24:39,194 --> 00:24:41,817
+this is like the hidden category that's
+
+480
+00:24:42,751 --> 00:24:44,484
+way down deep
+
+481
+00:24:44,884 --> 00:24:48,351
+that is where our thoughts like sort of
+
+482
+00:24:49,117 --> 00:24:52,651
+we don't always have the ability to get insight into
+
+483
+00:24:52,651 --> 00:24:54,217
+what our core beliefs are
+
+484
+00:24:54,451 --> 00:24:56,051
+this is not core values
+
+485
+00:24:56,051 --> 00:24:58,451
+like I can tell you my core value is like
+
+486
+00:25:00,117 --> 00:25:02,051
+you know respect the law
+
+487
+00:25:02,717 --> 00:25:03,751
+live an honest life
+
+488
+00:25:04,817 --> 00:25:06,088
+treat people with kindness whatever 
+
+489
+00:25:06,088 --> 00:25:07,935
+ these are core values  
+
+490
+00:25:08,220 --> 00:25:10,617
+but a core belief something that might
+
+491
+00:25:11,117 --> 00:25:13,351
+develop into an automatic thought like
+
+492
+00:25:13,351 --> 00:25:16,284
+they don't want to hang out with me anyways is
+
+493
+00:25:16,517 --> 00:25:17,517
+you know like
+
+494
+00:25:19,817 --> 00:25:21,884
+I'm worthless right
+
+495
+00:25:22,284 --> 00:25:25,151
+or I'm uninteresting 
+
+496
+00:25:26,417 --> 00:25:27,884
+I'm not a good person right
+
+497
+00:25:27,884 --> 00:25:28,684
+a lot of
+
+498
+00:25:28,717 --> 00:25:32,117
+we can change these and develop positive core beliefs
+
+499
+00:25:32,284 --> 00:25:34,217
+but when we're having this
+
+500
+00:25:37,517 --> 00:25:39,051
+negative translation
+
+501
+00:25:39,251 --> 00:25:40,484
+thoughts behaviors
+
+502
+00:25:40,617 --> 00:25:43,117
+thoughts emotions behaviors it's coming from like a
+
+503
+00:25:43,884 --> 00:25:45,317
+core belief that is
+
+504
+00:25:48,717 --> 00:25:50,751
+maladaptive core belief right
+
+505
+00:25:52,651 --> 00:25:55,551
+and it's all on the word here right maladaptive
+
+506
+00:25:55,551 --> 00:25:58,821
+think of how many words have this prefix
+
+507
+00:25:58,821 --> 00:26:00,017
+ malice
+
+508
+00:26:01,851 --> 00:26:02,851
+malicious
+
+509
+00:26:05,717 --> 00:26:06,717
+malfunction
+
+510
+00:26:10,017 --> 00:26:11,417
+malfeasance
+
+511
+00:26:13,217 --> 00:26:14,017
+um
+
+512
+00:26:16,517 --> 00:26:17,651
+malignance
+
+513
+00:26:20,284 --> 00:26:21,717
+malnourished
+
+514
+00:26:25,117 --> 00:26:28,017
+right mal- being like a
+
+515
+00:26:29,084 --> 00:26:32,151
+oh it's a French word it means bad right
+
+516
+00:26:33,484 --> 00:26:36,951
+so when something is bad and adaptive  
+
+517
+00:26:36,951 --> 00:26:39,884
+like we are adapting to it in a negative way 
+
+518
+00:26:39,884 --> 00:26:44,717
+like our brain our emotions they have learned to develop 
+
+519
+00:26:45,817 --> 00:26:49,617
+like in a negative way a maladaptive way 
+
+520
+00:26:50,084 --> 00:26:53,684
+which results in this unproductive 
+
+521
+00:26:53,684 --> 00:26:56,251
+unhelpful chain of thoughts and motions behaviors
+
+522
+00:26:56,251 --> 00:27:01,017
+and it completely dictates most of what we're doing all the time 
+
+523
+00:27:01,017 --> 00:27:02,684
+and this game is like perfectly
+
+524
+00:27:02,684 --> 00:27:04,417
+depicting this whole thing
+
+525
+00:27:04,951 --> 00:27:09,549
+by suddenly having random thoughts
+
+526
+00:27:09,549 --> 00:27:11,417
+ that come to your mind like this 
+
+527
+00:27:14,917 --> 00:27:16,817
+but that come from different angles
+
+528
+00:27:17,417 --> 00:27:18,684
+it's fascinating
+
+529
+00:27:24,217 --> 00:27:26,035
+so we're trying to understand 
+
+530
+00:27:26,035 --> 00:27:32,977
+what sort of behavior our character might have as a result of this   
+
+531
+00:27:32,977 --> 00:27:35,585
+because we're currently lacking the insight to 
+
+532
+00:27:35,585 --> 00:27:37,284
+go all the way into this 
+
+533
+00:27:37,884 --> 00:27:40,251
+you can imagine that especially when you
+
+534
+00:27:41,151 --> 00:27:47,717
+this is hard to do when you are in possession of all of your 
+
+535
+00:27:47,717 --> 00:27:50,084
+critical faculties and you're completely sober
+
+536
+00:27:50,084 --> 00:27:54,251
+and you even have let's say a good grounding of mental health 
+
+537
+00:27:54,251 --> 00:27:55,484
+this is hard to do
+
+538
+00:27:58,117 --> 00:28:02,866
+but this is like why CBT is so effective 
+
+539
+00:28:02,866 --> 00:28:07,463
+ because like it is a practice proven method 
+
+540
+00:28:07,463 --> 00:28:11,195
+ and it is like so crossculturally validated  
+
+541
+00:28:11,195 --> 00:28:13,451
+like this is it this is how it works right 
+
+542
+00:28:16,117 --> 00:28:18,951
+I do not practice CBT religiously
+
+543
+00:28:19,284 --> 00:28:21,751
+it's foundational to a lot of the stuff that I do
+
+544
+00:28:21,751 --> 00:28:24,451
+but I put these more in a narrative context right
+
+545
+00:28:25,451 --> 00:28:28,217
+a lot of my work is focused in
+
+546
+00:28:31,317 --> 00:28:32,717
+narrative psychology
+
+547
+00:28:35,451 --> 00:28:38,117
+which is using similar ideas
+
+548
+00:28:38,117 --> 00:28:40,884
+but it's asking about them in a very different way
+
+549
+00:28:40,884 --> 00:28:41,717
+so like
+
+550
+00:28:43,884 --> 00:28:46,017
+you know that person doesn't want to hang out with me
+
+551
+00:28:46,017 --> 00:28:49,217
+instead of like going and using the language of CBT 
+
+552
+00:28:49,217 --> 00:28:52,484
+we might ask a question like where did you learn that 
+
+553
+00:28:52,517 --> 00:28:54,117
+how did that storyline start
+
+554
+00:28:54,117 --> 00:28:55,751
+that they don't want to hang out with you
+
+555
+00:28:55,917 --> 00:28:57,684
+how did the storyline start
+
+556
+00:28:58,251 --> 00:29:00,617
+that a good officer of the law
+
+557
+00:29:00,617 --> 00:29:03,217
+is not someone who confronts people that way
+
+558
+00:29:03,217 --> 00:29:06,451
+where does that narrative begin right
+
+559
+00:29:06,617 --> 00:29:09,817
+and how do we start investigating that storyline
+
+560
+00:29:10,017 --> 00:29:11,593
+so it's just using a different sort of 
+
+561
+00:29:11,593 --> 00:29:14,422
+verbal framework to address things 
+
+562
+00:29:15,884 --> 00:29:19,351
+in a way that's a little less like clinical jargony
+
+563
+00:29:25,151 --> 00:29:27,417
+this is what's so great about this game
+
+564
+00:29:32,451 --> 00:29:33,251
+and like I said
+
+565
+00:29:33,417 --> 00:29:36,617
+imagine you're in full possession of your critical faculties 
+
+566
+00:29:36,617 --> 00:29:38,616
+you're sober you're mentally well person  
+
+567
+00:29:38,616 --> 00:29:40,284
+this is still complicated
+
+568
+00:29:40,417 --> 00:29:44,093
+but now imagine you're also fiending for a cigarette 
+
+569
+00:29:44,093 --> 00:29:48,733
+ imagine you're looking for ways to get a buzz  
+
+570
+00:29:48,733 --> 00:29:50,717
+imagine you are buzzed right
+
+571
+00:29:51,017 --> 00:29:54,102
+trying to detect and trace these things 
+
+572
+00:29:54,102 --> 00:29:58,417
+ and like sort out what you're thinking what you're feeling 
+
+573
+00:29:58,417 --> 00:30:01,817
+how this results in behaviors and patterns of behaviors is 
+
+574
+00:30:01,817 --> 00:30:03,751
+like it's really really hard
+
+575
+00:30:05,851 --> 00:30:08,217
+so that's why as a substance use
+
+576
+00:30:09,717 --> 00:30:10,583
+working in substance use
+
+577
+00:30:10,583 --> 00:30:18,525
+ a lot of my work is in helping people to identify these things  
+
+578
+00:30:18,525 --> 00:30:23,917
+ and learning to do this without self judgment right 
+
+579
+00:30:23,917 --> 00:30:25,851
+because we can't come into this and say like
+
+580
+00:30:25,851 --> 00:30:27,917
+oh well I just realized that
+
+581
+00:30:29,884 --> 00:30:32,617
+I tend to confront people very negatively
+
+582
+00:30:32,617 --> 00:30:36,360
+because I've associated good feelings with
+
+583
+00:30:37,709 --> 00:30:41,451
+you know being vulgar and confronting people right
+
+584
+00:30:41,851 --> 00:30:44,617
+and getting relief from telling people to fuck off
+
+585
+00:30:44,717 --> 00:30:46,851
+I get a release of my anger that way
+
+586
+00:30:46,946 --> 00:30:48,651
+wow I must be a bad person
+
+587
+00:30:49,551 --> 00:30:50,351
+oh
+
+588
+00:30:51,451 --> 00:30:52,917
+there's another thought right
+
+589
+00:30:55,717 --> 00:30:58,051
+like you're able to put it back on the board
+
+590
+00:30:58,051 --> 00:31:01,151
+and look at these things without judgment right 
+
+591
+00:31:01,351 --> 00:31:06,834
+and as you do that you may start to develop that core self empathy 
+
+592
+00:31:10,684 --> 00:31:12,188
+because then you can learn that 
+
+593
+00:31:12,188 --> 00:31:14,651
+look my thoughts I'm not in control of these things 
+
+594
+00:31:14,651 --> 00:31:17,551
+they just they happen automatically a lot of times
+
+595
+00:31:17,751 --> 00:31:20,251
+and when I do change my core beliefs
+
+596
+00:31:20,251 --> 00:31:21,551
+I can change my thinking
+
+597
+00:31:21,551 --> 00:31:24,117
+I can change the way I respond to emotions
+
+598
+00:31:24,117 --> 00:31:25,951
+my behavior will follow suit
+
+599
+00:31:26,284 --> 00:31:30,551
+and I will have the language to tell a better story 
+
+600
+00:31:30,551 --> 00:31:32,217
+about what is happening in my life
+
+601
+00:31:34,517 --> 00:31:35,851
+that's how you do psychology
+
+602
+00:31:41,551 --> 00:31:42,888
+okay I've been going
+
+603
+00:31:43,684 --> 00:31:44,851
+I'm going on a rant here for a while
+
+604
+00:31:44,851 --> 00:31:46,417
+I'm gonna read some of your
+
+605
+00:31:46,851 --> 00:31:47,951
+some of your comments
+
+606
+00:31:56,284 --> 00:31:58,051
+Brady is there any chance to work with you
+
+607
+00:31:58,051 --> 00:32:01,710
+I think I'll learn more with you than any institute here 
+
+608
+00:32:01,710 --> 00:32:03,051
+ I'm very humbled by that
+
+609
+00:32:04,884 --> 00:32:07,449
+well this is what I can offer you at the moment 
+
+610
+00:32:07,449 --> 00:32:12,517
+ is just my janky whiteboard scribbles and 
+
+611
+00:32:14,084 --> 00:32:18,446
+semi game playing semi self therapy lesson 
+
+612
+00:32:19,093 --> 00:32:20,517
+but I hope it's helpful to someone
+
+613
+00:32:35,317 --> 00:32:36,717
+half flight is your fight or flight
+
+614
+00:32:36,717 --> 00:32:38,551
+volition is your self control and dignity 
+
+615
+00:32:38,551 --> 00:32:40,051
+yeah no I think that
+
+616
+00:32:40,551 --> 00:32:44,017
+the names that the game gives to these sources
+
+617
+00:32:44,017 --> 00:32:46,376
+that's why I was so compelled by
+
+618
+00:32:46,376 --> 00:32:48,407
+ this idea right when I at the beginning  
+
+619
+00:32:48,407 --> 00:32:51,251
+because like as I said in my first like little 
+
+620
+00:32:51,417 --> 00:32:53,551
+breakaway analysis I was like yeah
+
+621
+00:32:53,917 --> 00:32:58,198
+I struggle sometimes to explain to people  
+
+622
+00:32:58,198 --> 00:33:01,234
+that you can have multiple mental states that
+
+623
+00:33:01,234 --> 00:33:02,441
+compete with each other
+
+624
+00:33:02,441 --> 00:33:07,617
+ for like delivering this thought emotion behavior mechanism  
+
+625
+00:33:07,617 --> 00:33:08,417
+it's like
+
+626
+00:33:09,451 --> 00:33:12,417
+imagine this was the language we use to say like
+
+627
+00:33:12,417 --> 00:33:14,317
+what is volition telling you right now
+
+628
+00:33:14,951 --> 00:33:18,684
+if you're feeling your life dominated by thoughts of electrochemistry 
+
+629
+00:33:18,717 --> 00:33:21,817
+what do you think volition would say against them right
+
+630
+00:33:22,017 --> 00:33:24,951
+you could like legitimately use that dialog
+
+631
+00:33:31,007 --> 00:33:31,807
+when I was in therapy
+
+632
+00:33:31,807 --> 00:33:34,304
+CBT felt like such an unsubstantial practice  
+
+633
+00:33:34,304 --> 00:33:36,050
+because it was never explained like this
+
+634
+00:33:36,050 --> 00:33:38,607
+well that's part of the problem I think
+
+635
+00:33:38,607 --> 00:33:40,874
+is just that like CBT works
+
+636
+00:33:40,907 --> 00:33:43,541
+it does it's not perfect for everything
+
+637
+00:33:44,407 --> 00:33:46,207
+but as a good foundation for
+
+638
+00:33:49,107 --> 00:33:50,507
+seeing short term results
+
+639
+00:33:50,507 --> 00:33:55,674
+like you can see people start to make effective changes very quickly 
+
+640
+00:33:55,937 --> 00:33:57,874
+and CBT's whole goal is teaching the
+
+641
+00:33:57,874 --> 00:33:59,641
+client to become their own therapist
+
+642
+00:33:59,641 --> 00:34:01,707
+because when you're equipped with this
+
+643
+00:34:02,074 --> 00:34:03,933
+knowledge you can start doing this
+
+644
+00:34:03,933 --> 00:34:04,507
+ you can start
+
+645
+00:34:05,607 --> 00:34:10,732
+literally just start with this chain right thought emotion behavior  
+
+646
+00:34:10,732 --> 00:34:12,274
+and start writing them down
+
+647
+00:34:12,274 --> 00:34:12,741
+you know
+
+648
+00:34:12,741 --> 00:34:14,441
+that's why like we're often recommending doing
+
+649
+00:34:14,441 --> 00:34:16,241
+thought records and things like that
+
+650
+00:34:17,534 --> 00:34:20,268
+but work your way back herewards look at the behavior
+
+651
+00:34:20,268 --> 00:34:21,301
+what did you do
+
+652
+00:34:21,828 --> 00:34:25,034
+when my mom called I let the phone go to the voicemail
+
+653
+00:34:25,268 --> 00:34:26,568
+what were you feeling
+
+654
+00:34:26,668 --> 00:34:28,268
+I was feeling fear
+
+655
+00:34:28,983 --> 00:34:30,983
+what was the thought attached to it
+
+656
+00:34:31,016 --> 00:34:33,850
+I was afraid that I was in trouble for something
+
+657
+00:34:34,116 --> 00:34:34,916
+okay
+
+658
+00:34:35,616 --> 00:34:36,816
+keep doing that
+
+659
+00:34:37,250 --> 00:34:39,850
+what's the pattern right like you you
+
+660
+00:34:40,216 --> 00:34:42,716
+you can start doing this it's um
+
+661
+00:34:43,216 --> 00:34:44,916
+it's really impactful
+
+662
+00:34:51,874 --> 00:34:54,807
+if we're stopping like this every time electrochemistry tells us to do it 
+
+663
+00:34:54,807 --> 00:34:56,274
+we are here for another half year
+
+664
+00:34:56,274 --> 00:34:57,074
+yeah I know
+
+665
+00:34:58,007 --> 00:35:00,607
+I told you I try not to
+
+666
+00:35:02,107 --> 00:35:03,274
+I could be
+
+667
+00:35:03,274 --> 00:35:05,941
+I could literally do this like for a very long time
+
+668
+00:35:07,207 --> 00:35:08,307
+because I enjoy it
+
+669
+00:35:09,450 --> 00:35:11,383
+so thought cabinet ideas could be more
+
+670
+00:35:11,383 --> 00:35:14,250
+like those narratives inform how we express ourselves
+
+671
+00:35:14,250 --> 00:35:15,516
+yeah what I'm thinking about
+
+672
+00:35:15,516 --> 00:35:17,550
+thought cabinet is basically like
+
+673
+00:35:20,847 --> 00:35:25,257
+this is kind of like stepping back from the thought 
+
+674
+00:35:25,257 --> 00:35:26,880
+and getting into a core belief  
+
+675
+00:35:26,880 --> 00:35:28,814
+like exploring a core belief
+
+676
+00:35:28,880 --> 00:35:31,647
+once I have discovered that my core belief
+
+677
+00:35:31,647 --> 00:35:33,480
+or one of them might be
+
+678
+00:35:34,751 --> 00:35:36,017
+I'm sorry
+
+679
+00:35:36,017 --> 00:35:38,851
+right my core belief might be attached to this
+
+680
+00:35:39,815 --> 00:35:45,139
+the internalization of that is like me starting to examine the evidence 
+
+681
+00:35:45,139 --> 00:35:46,149
+ that's a very CBT
+
+682
+00:35:52,168 --> 00:35:53,234
+framework as well
+
+683
+00:35:53,368 --> 00:35:54,634
+examining the evidence
+
+684
+00:35:54,960 --> 00:36:00,634
+it's basically like a Socratic questioning sort of thing 
+
+685
+00:36:02,134 --> 00:36:03,901
+how did you learn that this was true
+
+686
+00:36:04,034 --> 00:36:06,501
+how did you learn that you are a worthless person
+
+687
+00:36:07,234 --> 00:36:11,434
+how did you learn that people don't want to spend time with you
+
+688
+00:36:11,834 --> 00:36:13,934
+what is the evidence that tells you that's true
+
+689
+00:36:15,792 --> 00:36:17,559
+well I don't go out very much
+
+690
+00:36:17,559 --> 00:36:19,325
+I don't have a lot of friends
+
+691
+00:36:19,325 --> 00:36:20,859
+I don't get invited to things
+
+692
+00:36:21,825 --> 00:36:24,859
+okay well what's the evidence that counters that
+
+693
+00:36:25,725 --> 00:36:27,759
+well let's look in your phone
+
+694
+00:36:27,759 --> 00:36:29,125
+how many phone calls do you have
+
+695
+00:36:29,125 --> 00:36:30,959
+well I have a lot but I didn't pick them up
+
+696
+00:36:31,040 --> 00:36:31,639
+why 
+
+697
+00:36:31,639 --> 00:36:32,725
+well because I was afraid
+
+698
+00:36:32,725 --> 00:36:33,559
+oh okay
+
+699
+00:36:33,559 --> 00:36:36,743
+well then that there's not so much evidence for this right  
+
+700
+00:36:37,287 --> 00:36:38,674
+so examining the evidence
+
+701
+00:36:39,474 --> 00:36:41,241
+when we're internalizing a thought
+
+702
+00:36:41,241 --> 00:36:42,607
+that's kind of what we're doing
+
+703
+00:36:43,107 --> 00:36:47,882
+we're looking for ways to either reinforce or
+
+704
+00:36:49,117 --> 00:36:52,307
+counteract the idea that this is a core belief
+
+705
+00:36:52,841 --> 00:36:54,674
+and that's what so brilliant about this
+
+706
+00:36:54,674 --> 00:36:57,341
+is that you can decide after you internalize this
+
+707
+00:36:57,341 --> 00:36:59,674
+that you can get rid of the thought like
+
+708
+00:37:00,441 --> 00:37:02,507
+okay well I've discovered that
+
+709
+00:37:02,841 --> 00:37:04,412
+through no fault of my own 
+
+710
+00:37:04,412 --> 00:37:07,057
+through a process of maladaptive thinking  
+
+711
+00:37:07,057 --> 00:37:09,641
+I have developed a negative core belief 
+
+712
+00:37:09,641 --> 00:37:11,707
+and I want to change that core belief
+
+713
+00:37:13,541 --> 00:37:15,749
+I don't want to be a confrontationalist 
+
+714
+00:37:15,749 --> 00:37:19,041
+I want to be an apologist or something 
+
+715
+00:37:20,674 --> 00:37:21,474
+could be like that
+
+716
+00:37:27,362 --> 00:37:30,544
+I don't know how much you've brought up about CBT in this playthrough 
+
+717
+00:37:30,544 --> 00:37:33,496
+but a narrow CBT focus analysis of discolysium
+
+718
+00:37:33,496 --> 00:37:35,248
+we wouldn't run out of things
+
+719
+00:37:35,248 --> 00:37:36,562
+well this is the first time I brought up CBT
+
+720
+00:37:36,896 --> 00:37:38,996
+probably not only on this game but like
+
+721
+00:37:40,329 --> 00:37:41,996
+even in this whole channel
+
+722
+00:37:41,996 --> 00:37:44,120
+like I really don't bring up CBT a lot
+
+723
+00:37:44,120 --> 00:37:47,729
+ because again narrative fits my framework a little better 
+
+724
+00:37:47,729 --> 00:37:48,696
+for stuff like this
+
+725
+00:37:48,696 --> 00:37:54,196
+but this game is nailing CBT how it works 
+
+726
+00:38:00,162 --> 00:38:03,566
+I just completed my Masters in psychology for a 3 months ago 
+
+727
+00:38:03,566 --> 00:38:04,896
+ but they never explained CBT like that
+
+728
+00:38:04,896 --> 00:38:05,696
+I love that
+
+729
+00:38:17,061 --> 00:38:18,728
+I suffered from depression for 10 years
+
+730
+00:38:18,728 --> 00:38:20,482
+went to many mental health specialists 
+
+731
+00:38:20,482 --> 00:38:26,695
+and these analysis are better than psychologists told me 
+
+732
+00:38:28,610 --> 00:38:31,577
+yeah I mean the way I think about medication is
+
+733
+00:38:31,610 --> 00:38:35,377
+like there are definitely aspects of mental health that 
+
+734
+00:38:36,543 --> 00:38:38,943
+that medical intervention are great for
+
+735
+00:38:39,710 --> 00:38:42,043
+especially for talking like depression right like
+
+736
+00:38:42,585 --> 00:38:45,286
+I will often let people know that 
+
+737
+00:38:45,286 --> 00:38:48,551
+look much of the work that we can do in therapy 
+
+738
+00:38:48,551 --> 00:38:51,118
+that can benefit by doing a process like this 
+
+739
+00:38:51,118 --> 00:38:52,685
+let me get rid of some of these circles
+
+740
+00:38:58,014 --> 00:39:01,014
+the thing is we can critically evaluate a lot of this stuff 
+
+741
+00:39:01,647 --> 00:39:02,580
+and that's great
+
+742
+00:39:02,814 --> 00:39:05,247
+but it's really hard to do
+
+743
+00:39:07,080 --> 00:39:12,196
+when you have fundamental parts of your biochemistry that are 
+
+744
+00:39:12,651 --> 00:39:15,380
+currently compromised by depression right
+
+745
+00:39:16,532 --> 00:39:18,976
+remember what I said about the nervous system
+
+746
+00:39:18,976 --> 00:39:20,976
+like when you are depressed
+
+747
+00:39:21,076 --> 00:39:22,600
+and alcohol is a depressant
+
+748
+00:39:22,600 --> 00:39:26,098
+but we can naturally become depressed without alcohol 
+
+749
+00:39:28,386 --> 00:39:30,852
+we're fatigued we're tired
+
+750
+00:39:31,021 --> 00:39:34,687
+it takes a lot of mental effort to listen to things like volition 
+
+751
+00:39:34,687 --> 00:39:36,554
+which tell us to make our bed
+
+752
+00:39:36,587 --> 00:39:41,026
+and get up in the morning and go have a social encounter  
+
+753
+00:39:41,026 --> 00:39:44,810
+and like do all these things that are objectively good for you 
+
+754
+00:39:44,810 --> 00:39:46,640
+ but they take a lot of energy
+
+755
+00:39:46,931 --> 00:39:51,431
+and so medication can for example like
+
+756
+00:39:52,097 --> 00:39:54,897
+just clear out some of that fog and
+
+757
+00:39:55,441 --> 00:39:57,474
+it's not gonna cure depression
+
+758
+00:39:57,474 --> 00:39:59,807
+but what it can do is it can prime you to
+
+759
+00:39:59,807 --> 00:40:02,141
+actually benefit from this process right
+
+760
+00:40:05,168 --> 00:40:07,501
+you're not gonna benefit from this if
+
+761
+00:40:09,088 --> 00:40:12,322
+it's a struggle just to get through a 45 minute conversation 
+
+762
+00:40:12,622 --> 00:40:16,294
+you're not gonna be able to do the kind of rigorous self critique
+
+763
+00:40:16,294 --> 00:40:19,422
+that like I'm asking of you as your therapist right 
+
+764
+00:40:20,819 --> 00:40:24,219
+what we need is someone who is able to sort of
+
+765
+00:40:24,752 --> 00:40:26,452
+grapple with these subjects
+
+766
+00:40:26,452 --> 00:40:28,009
+integrate this feedback 
+
+767
+00:40:28,009 --> 00:40:33,671
+actually follow through with the tasks that we are in pursuit of therapeutically 
+
+768
+00:40:33,671 --> 00:40:35,186
+ to actually make progress
+
+769
+00:40:35,252 --> 00:40:38,219
+and so like medication can help prime you for that
+
+770
+00:40:47,951 --> 00:40:48,951
+rigorous self critique
+
+771
+00:40:48,951 --> 00:40:51,151
+yeah I love that I actually do love that
+
+772
+00:40:53,768 --> 00:40:54,744
+some medication help 
+
+773
+00:40:54,744 --> 00:40:57,834
+but I still feel like I need good non medication therapy 
+
+774
+00:40:57,834 --> 00:40:59,934
+no yeah you need both right
+
+775
+00:41:00,849 --> 00:41:04,115
+I mean it's my belief that both are
+
+776
+00:41:06,161 --> 00:41:10,161
+they're cooperative in the process of this right
+
+777
+00:41:11,034 --> 00:41:14,468
+some medications can do the bulk of the work 
+
+778
+00:41:15,234 --> 00:41:18,768
+but a lot of them are treating symptomology right
+
+779
+00:41:20,422 --> 00:41:22,022
+especially when we're talking about addiction
+
+780
+00:41:22,022 --> 00:41:23,145
+for example 
+
+781
+00:41:23,145 --> 00:41:27,488
+someone stop me at any time and say play the fucking game 
+
+782
+00:41:27,922 --> 00:41:29,155
+as well because like
+
+783
+00:41:30,755 --> 00:41:34,288
+I will just keep talking if if not stopped
+
+784
+00:41:37,525 --> 00:41:42,592
+medications that are designed to help people through addiction 
+
+785
+00:41:43,161 --> 00:41:45,495
+for example medications that like
+
+786
+00:41:46,117 --> 00:41:49,840
+if the person is taking opiates 
+
+787
+00:41:49,840 --> 00:41:57,051
+we're talking heroine fentanyl these sorts of things right 
+
+788
+00:41:57,051 --> 00:42:03,114
+like your brain has opiate receptors that crave intake 
+
+789
+00:42:03,306 --> 00:42:09,943
+ and certain medications can basically just park in that receptor 
+
+790
+00:42:11,350 --> 00:42:15,020
+and so the body is like okay well there is something 
+
+791
+00:42:15,020 --> 00:42:16,617
+taking up that slot 
+
+792
+00:42:18,076 --> 00:42:19,991
+it's not all the way there
+
+793
+00:42:20,006 --> 00:42:24,791
+ but like even if you were to try to smoke a fentanyl pill 
+
+794
+00:42:25,283 --> 00:42:29,083
+that medication is already parking in the spot for the receptor 
+
+795
+00:42:29,083 --> 00:42:30,301
+so there's a good chance that 
+
+796
+00:42:30,301 --> 00:42:32,161
+that person's not even gonna get high from it   
+
+797
+00:42:32,494 --> 00:42:35,017
+and that's gonna reduce the sense of craving
+
+798
+00:42:35,288 --> 00:42:38,088
+it's going to reduce the kinds of like fucked up
+
+799
+00:42:38,322 --> 00:42:40,953
+damage that does to this whole process
+
+800
+00:42:41,224 --> 00:42:42,488
+ and the person is
+
+801
+00:42:42,622 --> 00:42:45,988
+eventually with medication and therapy
+
+802
+00:42:46,222 --> 00:42:48,888
+and peer support and all kinds of other good stuff
+
+803
+00:42:49,674 --> 00:42:52,707
+going to find that their impulses to use
+
+804
+00:42:52,841 --> 00:42:57,041
+no longer hijack the healthy operation of this network
+
+805
+00:43:00,042 --> 00:43:01,776
+so medication is good too
+
+806
+00:43:03,619 --> 00:43:05,586
+with the right understanding and intention
+
+807
+00:43:20,568 --> 00:43:22,168
+we haven't done drugs yet in the game
+
+808
+00:43:22,168 --> 00:43:24,868
+but they give you a bonus to the whole stat line
+
+809
+00:43:24,934 --> 00:43:28,834
+but that's only temporarying comes off with other side effects yeah 
+
+810
+00:43:33,941 --> 00:43:36,274
+yeah I if I could like
+
+811
+00:43:38,041 --> 00:43:41,841
+do a breakdown of every single encounter in this game
+
+812
+00:43:41,841 --> 00:43:44,941
+I would I would but we would never finish it so
+
+813
+00:43:45,707 --> 00:43:46,941
+let's continue
+
+814
+00:43:50,041 --> 00:43:52,207
+but now we understand why this is happening
+
+815
+00:43:52,507 --> 00:43:55,841
+this two lines of dialogue
+
+816
+00:43:57,386 --> 00:43:59,986
+so let's ground ourselves back in this okay
+
+817
+00:43:59,986 --> 00:44:01,913
+now that we have like a very
+
+818
+00:44:01,913 --> 00:44:04,853
+ basic understanding of the cognitive model 
+
+819
+00:44:06,653 --> 00:44:09,153
+and the way that drugs are currently
+
+820
+00:44:09,153 --> 00:44:11,753
+impairing and in fact causing this problem
+
+821
+00:44:13,719 --> 00:44:17,186
+what kind of behaviors do we think are going to happen 
+
+822
+00:44:18,159 --> 00:44:20,255
+there's a difference between what I want to say here  
+
+823
+00:44:20,255 --> 00:44:21,925
+and what I think my character would say here 
+
+824
+00:44:21,925 --> 00:44:23,925
+so let's get Kim involved
+
+825
+00:44:27,447 --> 00:44:30,314
+Kim I think I should tell people to fuck off more often
+
+826
+00:44:30,314 --> 00:44:31,680
+it felt really good
+
+827
+00:44:32,580 --> 00:44:33,713
+fuck yeah motherfuckers 
+
+828
+00:44:33,713 --> 00:44:35,314
+it's not really my style
+
+829
+00:44:35,943 --> 00:44:37,480
+we're going with it's not really my style
+
+830
+00:44:37,480 --> 00:44:39,247
+because we are starting to develop
+
+831
+00:44:41,550 --> 00:44:45,600
+more into our core belief that we are sorry we're apologetic 
+
+832
+00:44:46,583 --> 00:44:49,650
+we find that that our behaviors
+
+833
+00:44:50,475 --> 00:44:53,775
+our behavior of telling people to fuck off right 
+
+834
+00:44:53,775 --> 00:44:57,258
+this right here this confrontational 
+
+835
+00:44:58,033 --> 00:45:01,216
+it's coming from giving us a sense of relief
+
+836
+00:45:01,216 --> 00:45:02,533
+ and getting rid of shame 
+
+837
+00:45:03,391 --> 00:45:06,650
+but we're starting to not like this about ourselves just like
+
+838
+00:45:07,516 --> 00:45:10,566
+I as a person do not like that I get defensive
+
+839
+00:45:12,341 --> 00:45:15,000
+which I you know I admit frequently like 
+
+840
+00:45:15,000 --> 00:45:17,022
+I don't like that my first reaction 
+
+841
+00:45:17,022 --> 00:45:19,375
+is often defensiveness and avoidance  
+
+842
+00:45:19,675 --> 00:45:22,441
+but you know I understand that's
+
+843
+00:45:23,041 --> 00:45:26,341
+that's a behavioral result of feeling insecure and that
+
+844
+00:45:26,675 --> 00:45:28,375
+you know the core belief is like
+
+845
+00:45:32,175 --> 00:45:33,608
+people don't like me or something
+
+846
+00:45:36,375 --> 00:45:37,175
+so
+
+847
+00:45:38,475 --> 00:45:42,400
+sorry cop is finding the confrontation 
+
+848
+00:45:42,400 --> 00:45:45,934
+and the avoidance of shame through relief about confronting people
+
+849
+00:45:45,934 --> 00:45:46,675
+ does not 
+
+850
+00:45:46,808 --> 00:45:49,550
+it's not good for us 
+
+851
+00:45:49,550 --> 00:45:52,941
+we're trying to learn a better way to get relief
+
+852
+00:45:53,341 --> 00:45:55,324
+without it having to replace shame 
+
+853
+00:45:55,324 --> 00:45:59,075
+and resulting in worse social circumstances 
+
+854
+00:46:00,775 --> 00:46:01,575
+so
+
+855
+00:46:02,175 --> 00:46:04,691
+let's explore another route to that 
+
+856
+00:46:04,691 --> 00:46:05,925
+and say it's not really my style  
+
+857
+00:46:05,925 --> 00:46:09,874
+hey I've got an idea on how to fix your style 
+
+858
+00:46:10,408 --> 00:46:12,800
+maybe you should just go fuck yourself 
+
+859
+00:46:12,800 --> 00:46:14,808
+yeah ever thought of that 
+
+860
+00:46:15,275 --> 00:46:17,325
+yeah I have thought of that half life 
+
+861
+00:46:17,325 --> 00:46:20,841
+but I starting to think that you're my enemy now 
+
+862
+00:46:23,141 --> 00:46:25,875
+rejected half light rejected
+
+863
+00:46:26,341 --> 00:46:28,941
+and I don't give a fuck if it damages my morale
+
+864
+00:46:28,941 --> 00:46:33,008
+sometimes you have to go through a process of rupture and repair 
+
+865
+00:46:34,650 --> 00:46:35,716
+rupture and repair
+
+866
+00:46:36,775 --> 00:46:37,608
+that's healing
+
+867
+00:46:38,341 --> 00:46:39,141
+let's
+
+868
+00:46:43,841 --> 00:46:44,841
+ooh okay
+
+869
+00:46:46,208 --> 00:46:48,725
+now that we're sorry cop we can investigate this  
+
+870
+00:46:48,725 --> 00:46:50,775
+but we're still not there yet
+
+871
+00:46:55,175 --> 00:46:56,475
+what was I doing
+
+872
+00:46:59,141 --> 00:47:00,075
+what was I doing
+
+873
+00:47:04,875 --> 00:47:07,408
+I was gonna go see Frittte girl
+
+874
+00:47:09,975 --> 00:47:11,008
+the best character
+
+875
+00:47:14,041 --> 00:47:15,975
+oh my god this poor thing
+
+876
+00:47:16,841 --> 00:47:18,541
+is she working still
+
+877
+00:47:18,875 --> 00:47:22,008
+it's nearly 10 PM honey what are you doing here
+
+878
+00:47:23,541 --> 00:47:25,941
+I was here like in the morning
+
+879
+00:47:26,341 --> 00:47:28,075
+how long is her shift
+
+880
+00:47:36,950 --> 00:47:37,950
+overtime
+
+881
+00:47:50,408 --> 00:47:51,208
+okay
+
+882
+00:47:52,241 --> 00:47:53,475
+here's the thing all right  
+
+883
+00:47:53,475 --> 00:47:55,175
+I want to talk about Frittte girl a little bit
+
+884
+00:47:56,525 --> 00:48:00,241
+if you allow me to indulge a little bit and like 
+
+885
+00:48:00,741 --> 00:48:05,675
+how would I actually approach therapy with this young woman  
+
+886
+00:48:05,675 --> 00:48:09,208
+who from my perspective
+
+887
+00:48:10,375 --> 00:48:13,485
+spends an inordinate amount of time
+
+888
+00:48:13,485 --> 00:48:15,875
+ doing something that she hates 
+
+889
+00:48:15,975 --> 00:48:19,941
+what do you think that that's going to do to her own self esteem 
+
+890
+00:48:20,608 --> 00:48:24,675
+because I can imagine a lot of her thoughts throughout the day 
+
+891
+00:48:25,408 --> 00:48:28,675
+just being negative ones like this is a waste of time
+
+892
+00:48:28,875 --> 00:48:30,341
+these people are annoying
+
+893
+00:48:30,375 --> 00:48:31,808
+I don't like being here
+
+894
+00:48:31,875 --> 00:48:33,150
+I'm bored 
+
+895
+00:48:33,150 --> 00:48:34,175
+I don't know
+
+896
+00:48:35,341 --> 00:48:37,541
+I hate this right
+
+897
+00:48:38,075 --> 00:48:40,237
+how many negative thoughts
+
+898
+00:48:40,237 --> 00:48:42,241
+ do you think are crossing through her mind 
+
+899
+00:48:42,241 --> 00:48:46,775
+and how much of her emotion is going to be dominated by like 
+
+900
+00:48:48,075 --> 00:48:50,441
+feelings that ask her to disconnect
+
+901
+00:48:51,608 --> 00:48:54,075
+she may feel moments of sadness
+
+902
+00:48:54,075 --> 00:48:56,175
+she may feel moments of grief
+
+903
+00:48:56,241 --> 00:49:01,241
+time that she is losing where she could be spending time with friends 
+
+904
+00:49:01,241 --> 00:49:05,041
+where she could be on summer holiday somewhere enjoying life 
+
+905
+00:49:06,208 --> 00:49:09,775
+regret for the decisions made 
+
+906
+00:49:09,841 --> 00:49:13,625
+or the fact that the only way that she sees 
+
+907
+00:49:13,625 --> 00:49:17,200
+to climb out of her economic circumstances
+
+908
+00:49:17,200 --> 00:49:19,741
+is to work a job that she hates and endure 
+
+909
+00:49:20,675 --> 00:49:22,741
+living a life where
+
+910
+00:49:24,475 --> 00:49:30,541
+the pipeline of her thoughts are going to be clogged with negativity 
+
+911
+00:49:32,408 --> 00:49:35,075
+how many negative thoughts do you think she's having every single day 
+
+912
+00:49:35,575 --> 00:49:37,361
+because you and I have millions of them
+
+913
+00:49:37,361 --> 00:49:40,441
+ millions constantly right like 
+
+914
+00:49:41,141 --> 00:49:43,408
+thoughts just constantly constantly constantly
+
+915
+00:49:44,475 --> 00:49:48,275
+when you're in environment where every single one is negative like this 
+
+916
+00:49:49,875 --> 00:49:50,675
+okay
+
+917
+00:50:00,408 --> 00:50:02,241
+this is her world right now okay
+
+918
+00:50:02,941 --> 00:50:05,941
+how many positive thoughts a day is she having compared to this 
+
+919
+00:50:07,608 --> 00:50:09,975
+like it's an insane amount
+
+920
+00:50:10,341 --> 00:50:12,408
+and so at the end of the day
+
+921
+00:50:12,975 --> 00:50:17,975
+when she gets her paycheck and she maybe has one good thought  
+
+922
+00:50:17,975 --> 00:50:20,808
+like hey I can go buy myself something
+
+923
+00:50:22,841 --> 00:50:25,575
+this is not a healthy balance
+
+924
+00:50:27,375 --> 00:50:29,875
+for someone who is still developing
+
+925
+00:50:29,875 --> 00:50:33,141
+it's not even a healthy balance for someone who is fully developed 
+
+926
+00:50:33,941 --> 00:50:39,341
+like this is what working a shit job that you hate feels like 
+
+927
+00:50:39,541 --> 00:50:41,441
+is you spend all day
+
+928
+00:50:43,541 --> 00:50:47,008
+doing whatever you can not to observe and reflect on the 
+
+929
+00:50:47,275 --> 00:50:49,975
+overwhelming amount of negative thoughts that you're having 
+
+930
+00:50:49,975 --> 00:50:54,641
+and trying to find ways to avoid or suppressed the negative emotions 
+
+931
+00:50:54,641 --> 00:50:55,808
+for example
+
+932
+00:50:56,841 --> 00:51:00,475
+spending all her time reading a magazine instead of like working 
+
+933
+00:51:01,341 --> 00:51:03,941
+taking extra breaks while you're working
+
+934
+00:51:04,075 --> 00:51:05,541
+doing your work slower
+
+935
+00:51:06,608 --> 00:51:09,541
+like we're all looking for ways to avoid
+
+936
+00:51:09,675 --> 00:51:14,141
+the kind of busy work that results in this 
+
+937
+00:51:14,775 --> 00:51:17,875
+especially because the job that she's working is not super demanding 
+
+938
+00:51:17,875 --> 00:51:20,875
+she has to spend a lot of time just hanging around and waiting 
+
+939
+00:51:20,941 --> 00:51:25,775
+and that makes her vulnerable to actually like hearing these things 
+
+940
+00:51:26,175 --> 00:51:30,141
+you know if I'm like doing a job where it's like labor or something and 
+
+941
+00:51:30,208 --> 00:51:32,850
+there's a lot of like menial tasks that I'm doing  
+
+942
+00:51:32,850 --> 00:51:36,875
+I'm I'm probably not gonna think a lot about this stuff 
+
+943
+00:51:36,875 --> 00:51:42,075
+I'm probably still having them but I'm not vulnerable to the onslaught of them 
+
+944
+00:51:43,075 --> 00:51:44,778
+but she's sitting here day in day out
+
+945
+00:51:44,778 --> 00:51:48,408
+ for whoever knows how many fucking hours 
+
+946
+00:51:48,408 --> 00:51:51,299
+and she has to observe every 
+
+947
+00:51:51,299 --> 00:51:54,841
+negative thought that's coming through her mind 
+
+948
+00:51:54,875 --> 00:51:59,541
+and maybe every once in a while a positive one wanders through 
+
+949
+00:52:03,275 --> 00:52:06,875
+but it's not preparing her for like positive emotions right 
+
+950
+00:52:06,875 --> 00:52:09,575
+and what kind of behavior is this going to lead into
+
+951
+00:52:09,741 --> 00:52:13,641
+it's going to lead into being disinterested 
+
+952
+00:52:17,841 --> 00:52:20,575
+right it's going to make her avoidant of conversation
+
+953
+00:52:22,075 --> 00:52:23,141
+isolation
+
+954
+00:52:25,075 --> 00:52:27,665
+it's not telling her that this is relaxing 
+
+955
+00:52:27,665 --> 00:52:30,025
+just because she's not doing anything
+
+956
+00:52:30,841 --> 00:52:32,975
+it's not telling her that socializing
+
+957
+00:52:33,141 --> 00:52:36,241
+cures her of the awareness of all of this negativity
+
+958
+00:52:39,208 --> 00:52:43,400
+and she's standing all day long  
+
+959
+00:52:43,400 --> 00:52:48,725
+she is tired she is completely burnt out from this  
+
+960
+00:52:48,725 --> 00:52:50,131
+you can just tell
+
+961
+00:52:50,457 --> 00:52:53,808
+ from the way that she talks and and the like 
+
+962
+00:52:54,841 --> 00:52:59,846
+the subtextual body language that you can hear there right 
+
+963
+00:52:59,846 --> 00:53:00,975
+so like 
+
+964
+00:53:01,975 --> 00:53:04,475
+this is not a good life for her it definitely isn't  
+
+965
+00:53:04,475 --> 00:53:07,341
+so like what would I do to help her okay 
+
+966
+00:53:12,300 --> 00:53:15,841
+again part of this would be trying to explore with her
+
+967
+00:53:17,641 --> 00:53:19,608
+if she can't get out of this situation
+
+968
+00:53:19,608 --> 00:53:21,902
+then we need to sort of discover something that
+
+969
+00:53:21,902 --> 00:53:23,741
+ makes this worthwhile for her 
+
+970
+00:53:25,041 --> 00:53:27,875
+because the meaning of it right now is just
+
+971
+00:53:28,541 --> 00:53:30,841
+I have to do this because I have no other choice
+
+972
+00:53:31,941 --> 00:53:33,441
+presumably right
+
+973
+00:53:35,175 --> 00:53:37,775
+and so I'm burdened with all these negative thoughts
+
+974
+00:53:37,775 --> 00:53:39,641
+and there's no cure for that
+
+975
+00:53:42,041 --> 00:53:46,475
+I would really want to know what does she want from life right 
+
+976
+00:53:46,808 --> 00:53:49,941
+what would she rather be doing with her time and
+
+977
+00:53:51,808 --> 00:53:53,975
+exploring with her ways that she might
+
+978
+00:53:55,941 --> 00:54:02,375
+get that same sensation not in her workplace right 
+
+979
+00:54:02,375 --> 00:54:03,016
+because 
+
+980
+00:54:04,841 --> 00:54:08,361
+the best she can do is just escape into this little book 
+
+981
+00:54:08,361 --> 00:54:11,041
+right this little magazine
+
+982
+00:54:11,041 --> 00:54:13,775
+but how many times can she read it and not get bored
+
+983
+00:54:16,775 --> 00:54:18,208
+it's so heartbreaking
+
+984
+00:54:20,175 --> 00:54:23,675
+I would ask her like what's going on at home you know
+
+985
+00:54:26,608 --> 00:54:29,808
+does anyone ask you like what what your day was like
+
+986
+00:54:30,041 --> 00:54:33,641
+and do you speak to them honestly because
+
+987
+00:54:34,141 --> 00:54:37,875
+I I have the feeling that like when she's talking to let's say her parents 
+
+988
+00:54:37,975 --> 00:54:40,075
+it would be like yeah work was fine
+
+989
+00:54:41,008 --> 00:54:43,075
+well did anything interesting happen
+
+990
+00:54:43,075 --> 00:54:44,741
+um I don't know right
+
+991
+00:54:44,741 --> 00:54:47,241
+I'm assuming that the parents don't care but maybe they do 
+
+992
+00:54:47,475 --> 00:54:50,875
+maybe they do and she's just so disaffected that
+
+993
+00:54:52,408 --> 00:54:53,641
+she doesn't know how to communicate
+
+994
+00:54:53,641 --> 00:54:56,008
+because nothing interesting is happening right
+
+995
+00:54:58,541 --> 00:55:01,341
+she doesn't know how to make this interesting
+
+996
+00:55:03,808 --> 00:55:05,475
+yeah she might say fine
+
+997
+00:55:05,475 --> 00:55:08,975
+but like fine is the worst thing that you can say therapeutically 
+
+998
+00:55:11,175 --> 00:55:12,941
+when we say the word fine
+
+999
+00:55:16,541 --> 00:55:18,975
+what we really mean is we're functional
+
+1000
+00:55:21,075 --> 00:55:24,325
+we are functioning we are standing here 
+
+1001
+00:55:24,325 --> 00:55:27,441
+we are completing the day we are cashing the check 
+
+1002
+00:55:28,408 --> 00:55:31,808
+we're doing things we're doing behaviors but like
+
+1003
+00:55:32,808 --> 00:55:34,275
+we're just doing behaviors
+
+1004
+00:55:34,275 --> 00:55:37,175
+we're not having any of the resulting emotions right  
+
+1005
+00:55:37,175 --> 00:55:40,775
+like this word is garbage it's terrible for you 
+
+1006
+00:55:41,141 --> 00:55:43,875
+it doesn't tell a good story at all 
+
+1007
+00:55:43,875 --> 00:55:45,375
+and it really limits 
+
+1008
+00:55:47,208 --> 00:55:50,075
+your ability to like search for a solution
+
+1009
+00:55:51,608 --> 00:55:54,111
+what I find fascinating is 
+
+1010
+00:55:54,111 --> 00:55:56,641
+and I do this a little bit on purpose 
+
+1011
+00:55:58,541 --> 00:56:00,175
+this word is so common
+
+1012
+00:56:00,208 --> 00:56:05,041
+and the English language is so poisoned with 
+
+1013
+00:56:06,775 --> 00:56:08,975
+hey how you doing how's going good 
+
+1014
+00:56:09,241 --> 00:56:12,100
+all that stuff that like just common small talk that 
+
+1015
+00:56:12,100 --> 00:56:13,841
+what I'll do sometimes is like 
+
+1016
+00:56:14,075 --> 00:56:18,808
+I'll go get my client and then on the way to the therapy session 
+
+1017
+00:56:19,241 --> 00:56:21,875
+like if I'm pulling them from you know group therapy session  
+
+1018
+00:56:21,875 --> 00:56:24,008
+and I'm going to take them to do individual 
+
+1019
+00:56:24,675 --> 00:56:26,267
+I will ask them 
+
+1020
+00:56:26,620 --> 00:56:28,008
+while we're on the way 
+
+1021
+00:56:28,775 --> 00:56:29,875
+so how's your day going
+
+1022
+00:56:30,641 --> 00:56:33,175
+and they'll say you know it's going all right
+
+1023
+00:56:35,241 --> 00:56:37,441
+and then when we get in the session
+
+1024
+00:56:38,441 --> 00:56:41,341
+I'll be like so you know what's going on lately 
+
+1025
+00:56:41,341 --> 00:56:43,441
+and they're like everything is terrible
+
+1026
+00:56:44,841 --> 00:56:46,141
+ha I'm like 
+
+1027
+00:56:48,575 --> 00:56:50,541
+what does this tell you what does this tell you that
+
+1028
+00:56:50,675 --> 00:56:54,475
+when someone asks our immediate response is just to 
+
+1029
+00:56:55,875 --> 00:56:58,208
+navigate that conversation with a common answer
+
+1030
+00:56:58,208 --> 00:56:59,775
+which is that yeah things are okay 
+
+1031
+00:56:59,941 --> 00:57:03,575
+but then the mask comes off and no things are awful
+
+1032
+00:57:07,175 --> 00:57:09,141
+it's not considered socially acceptable
+
+1033
+00:57:09,141 --> 00:57:12,375
+so like how many opportunities is this young girl getting 
+
+1034
+00:57:12,475 --> 00:57:15,275
+to actually be honest about how she feels
+
+1035
+00:57:17,575 --> 00:57:18,875
+it's zero
+
+1036
+00:57:20,275 --> 00:57:21,075
+okay
+
+1037
+00:57:23,241 --> 00:57:24,975
+I genuinely want to know
+
+1038
+00:57:32,075 --> 00:57:34,075
+maybe she can try to see her work in a positive light
+
+1039
+00:57:34,075 --> 00:57:35,641
+like hey these bottles look nice
+
+1040
+00:57:35,641 --> 00:57:37,275
+organizing them is actually fun
+
+1041
+00:57:38,441 --> 00:57:40,208
+but I feel like she'd run out of like
+
+1042
+00:57:40,541 --> 00:57:42,425
+I love what our guys are doing
+
+1043
+00:57:42,941 --> 00:57:43,841
+what are we doing
+
+1044
+00:57:45,375 --> 00:57:46,473
+this poor girl
+
+1045
+00:57:52,441 --> 00:57:54,075
+I love that they're doing this
+
+1046
+00:57:54,075 --> 00:57:57,208
+Kim is helping me out with my back after I sat in that awful chair 
+
+1047
+00:57:57,975 --> 00:58:00,175
+sport fritter girl is like what the fuck is happening
+
+1048
+00:58:00,208 --> 00:58:03,675
+but hey maybe I'm giving her something interesting to talk about at home for once
+
+1049
+00:58:07,775 --> 00:58:11,008
+so I don't think I would use CBT with Frittte girl
+
+1050
+00:58:13,275 --> 00:58:14,075
+let's see
+
+1051
+00:58:19,808 --> 00:58:21,608
+so I think that
+
+1052
+00:58:23,875 --> 00:58:26,208
+the approach that I would use
+
+1053
+00:58:28,408 --> 00:58:29,575
+would kind of be
+
+1054
+00:58:30,741 --> 00:58:33,608
+something like motivational interviewing
+
+1055
+00:58:37,608 --> 00:58:39,500
+which is not so much a therapy style 
+
+1056
+00:58:39,500 --> 00:58:44,641
+as it is a general way of engaging someone  
+
+1057
+00:58:47,341 --> 00:58:48,808
+and sort of like
+
+1058
+00:58:49,675 --> 00:58:51,363
+because like I'm going off an assumption
+
+1059
+00:58:51,363 --> 00:58:53,275
+ that she wants something bigger than life
+
+1060
+00:58:53,275 --> 00:58:57,941
+but she probably has not had the platform to explore that subject
+
+1061
+00:59:00,675 --> 00:59:02,775
+I would start asking her questions like
+
+1062
+00:59:04,941 --> 00:59:07,341
+can you tell me some of your accomplishments
+
+1063
+00:59:08,808 --> 00:59:10,875
+and she'd say I don't know
+
+1064
+00:59:12,641 --> 00:59:15,008
+what did you make anything recently
+
+1065
+00:59:16,341 --> 00:59:18,075
+did you make a good meal recently
+
+1066
+00:59:18,441 --> 00:59:19,941
+did you read a good book
+
+1067
+00:59:21,175 --> 00:59:22,775
+did you have a good conversation
+
+1068
+00:59:22,808 --> 00:59:24,075
+right I would be sort of like
+
+1069
+00:59:25,575 --> 00:59:27,408
+asking her to explore
+
+1070
+00:59:28,808 --> 00:59:30,275
+things that she had completed
+
+1071
+00:59:30,275 --> 00:59:31,975
+because this feels never ending
+
+1072
+00:59:31,975 --> 00:59:35,275
+it's day in day out same bullshit all day every single day right 
+
+1073
+00:59:35,608 --> 00:59:36,408
+so
+
+1074
+00:59:37,041 --> 00:59:41,008
+nothing feels like it has any markers of progress
+
+1075
+00:59:42,975 --> 00:59:46,241
+and she'd be like um I don't know I guess right
+
+1076
+00:59:47,575 --> 00:59:51,008
+so what did it feel like to finish that book
+
+1077
+00:59:51,908 --> 00:59:53,375
+um it was okay
+
+1078
+00:59:56,841 --> 00:59:59,875
+one thing that really works especially with teenagers
+
+1079
+01:00:00,675 --> 01:00:04,275
+is like pretending you do not understand this word
+
+1080
+01:00:05,141 --> 01:00:08,208
+I mean I understand it but like basically like 
+
+1081
+01:00:09,175 --> 01:00:13,041
+okay well assume I don't know what okay means like
+
+1082
+01:00:13,141 --> 01:00:15,441
+you know can you tell me a different word like
+
+1083
+01:00:15,875 --> 01:00:16,875
+it was cool
+
+1084
+01:00:17,941 --> 01:00:21,141
+you know I don't know really what cool is anymore these days 
+
+1085
+01:00:21,141 --> 01:00:23,141
+like what are some other things that are cool
+
+1086
+01:00:24,116 --> 01:00:29,041
+um I saw something you know 
+
+1087
+01:00:29,041 --> 01:00:31,375
+I heard something cool on the radio the other day
+
+1088
+01:00:32,041 --> 01:00:33,841
+oh okay well what was it
+
+1089
+01:00:33,941 --> 01:00:36,025
+it was a story about you know  
+
+1090
+01:00:36,025 --> 01:00:38,675
+a new technological development in this region
+
+1091
+01:00:39,008 --> 01:00:40,641
+so what was so cool about it
+
+1092
+01:00:42,408 --> 01:00:46,008
+well I don't know it was interesting I hadn't heard it before 
+
+1093
+01:00:47,208 --> 01:00:48,008
+so
+
+1094
+01:00:48,875 --> 01:00:51,875
+what do you feel when you hear something interesting
+
+1095
+01:00:51,875 --> 01:00:53,408
+like when you learn something new
+
+1096
+01:00:53,691 --> 01:00:54,743
+um 
+
+1097
+01:00:55,350 --> 01:00:57,575
+I mean it's nice I guess
+
+1098
+01:00:58,000 --> 01:01:02,667
+and like I'm picking up on every time that she qualifies something 
+
+1099
+01:01:03,183 --> 01:01:06,575
+as cool interesting nice
+
+1100
+01:01:07,541 --> 01:01:11,008
+she minimizes it with I guess or I don't know
+
+1101
+01:01:11,408 --> 01:01:14,875
+and I would start picking up on that pattern right
+
+1102
+01:01:16,608 --> 01:01:18,375
+you know every time you say
+
+1103
+01:01:20,075 --> 01:01:22,375
+something good happens I notice you tend to
+
+1104
+01:01:23,375 --> 01:01:24,975
+minimize it afterwards
+
+1105
+01:01:27,275 --> 01:01:29,841
+why do you think that you know you tend to do that
+
+1106
+01:01:30,400 --> 01:01:32,408
+um I don't know
+
+1107
+01:01:35,175 --> 01:01:39,275
+maybe because like I'm not sure about how I feel about it 
+
+1108
+01:01:39,608 --> 01:01:41,808
+and maybe I'm not sure if
+
+1109
+01:01:43,675 --> 01:01:45,375
+I'm right like
+
+1110
+01:01:45,608 --> 01:01:47,741
+if I say it's interesting and you think it's lame
+
+1111
+01:01:47,741 --> 01:01:49,075
+you're gonna think I'm lame
+
+1112
+01:01:52,141 --> 01:01:55,875
+so what do you think people feel about you generally right 
+
+1113
+01:01:56,408 --> 01:01:59,141
+I would want to know about her life and her world 
+
+1114
+01:01:59,141 --> 01:02:00,441
+and how she sees the world
+
+1115
+01:02:01,841 --> 01:02:06,000
+I feel like she's so detached and so plagued by negative thoughts  
+
+1116
+01:02:06,000 --> 01:02:09,241
+that she doesn't have the vocabulary to discuss emotions 
+
+1117
+01:02:10,375 --> 01:02:13,541
+I would be trying to get her to discuss things that are cool interesting 
+
+1118
+01:02:13,541 --> 01:02:16,575
+let's expand that what does it mean to be interesting 
+
+1119
+01:02:16,575 --> 01:02:18,341
+I don't know this word
+
+1120
+01:02:19,241 --> 01:02:20,441
+break it down for me
+
+1121
+01:02:20,441 --> 01:02:22,675
+what does it mean when something is interesting
+
+1122
+01:02:22,675 --> 01:02:24,941
+well it's fun to learn something new
+
+1123
+01:02:26,575 --> 01:02:28,608
+it's cool that I can share it with someone else
+
+1124
+01:02:28,608 --> 01:02:32,975
+and I feel like they'll feel like it was worthwhile talking to me 
+
+1125
+01:02:32,975 --> 01:02:34,575
+because they learned something new
+
+1126
+01:02:34,641 --> 01:02:37,175
+and suddenly I feel a little less worthless
+
+1127
+01:02:37,808 --> 01:02:41,941
+wow that's a much deeper story than this was interesting 
+
+1128
+01:02:42,675 --> 01:02:43,975
+let's build on that
+
+1129
+01:02:44,241 --> 01:02:47,741
+you just told me a great story about what it was like to feel something good 
+
+1130
+01:02:49,275 --> 01:02:51,812
+and you may have actually done that in a place
+
+1131
+01:02:52,818 --> 01:02:59,025
+where the rest of your life is on hold paused frozen  
+
+1132
+01:02:59,025 --> 01:03:03,275
+in this fucking dystopia of a clerk shop 
+
+1133
+01:03:11,675 --> 01:03:13,175
+ Frittte girl
+
+1134
+01:03:13,408 --> 01:03:15,041
+she's the key to everything wait a second
+
+1135
+01:03:16,208 --> 01:03:18,641
+okay does she have any new dialogue from
+
+1136
+01:03:20,175 --> 01:03:22,608
+um is this about the questions again
+
+1137
+01:03:22,808 --> 01:03:25,175
+because I don't really know anything
+
+1138
+01:03:25,341 --> 01:03:27,641
+I'm gonna cry can I
+
+1139
+01:03:28,208 --> 01:03:29,941
+can I just pull her out of here
+
+1140
+01:03:33,675 --> 01:03:36,475
+she doesn't know anything can you go home please
+
+1141
+01:03:37,175 --> 01:03:39,041
+when do you get off work go home
+
+1142
+01:03:40,575 --> 01:03:42,441
+okay let's let's turn in our money
+
+1143
+01:03:42,641 --> 01:03:44,808
+the tare machine stands in the corner
+
+1144
+01:03:45,041 --> 01:03:48,941
+a sign says "one bottle = 10 cents"
+
+1145
+01:03:48,975 --> 01:03:51,041
+your bottles clunk into the machine
+
+1146
+01:03:51,041 --> 01:03:54,041
+and the money appears with a satisfying jingle
+
+1147
+01:03:54,141 --> 01:03:56,175
+you're a richer man now
+
+1148
+01:03:56,608 --> 01:03:59,275
+d'you know what you should do with that money kiddo
+
+1149
+01:03:59,841 --> 01:04:02,341
+you should *buy more alcohol*
+
+1150
+01:04:02,841 --> 01:04:05,341
+enter the endless cycle of consumption
+
+1151
+01:04:06,275 --> 01:04:08,441
+the thing is is I'm finding my
+
+1152
+01:04:09,041 --> 01:04:12,175
+electrochemistry to wield less power over me 
+
+1153
+01:04:12,175 --> 01:04:15,225
+the more I get acquainted with volition 
+
+1154
+01:04:15,225 --> 01:04:17,208
+the more I develop a 
+
+1155
+01:04:22,075 --> 01:04:24,441
+a yearning for Kim's approval
+
+1156
+01:04:27,375 --> 01:04:31,075
+these impulses are starting to influence me a little less  
+
+1157
+01:04:31,075 --> 01:04:35,541
+because they are very much built what my shame is built on 
+
+1158
+01:04:39,441 --> 01:04:41,608
+maybe there is some other dialogue I can ask her
+
+1159
+01:04:41,641 --> 01:04:43,675
+I don't know I'm gonna leave her alone for now
+
+1160
+01:04:44,041 --> 01:04:45,408
+okay let's go talk to Garte
+
+1161
+01:04:51,475 --> 01:04:52,408
+fuck you
+
+1162
+01:04:53,575 --> 01:04:55,341
+fucking garbage 
+
+1163
+01:04:56,375 --> 01:04:57,775
+just standing there all day
+
+1164
+01:05:07,741 --> 01:05:08,541
+Lena
+
+1165
+01:05:08,975 --> 01:05:11,575
+Best the second best character after Frittte girl 
+
+1166
+01:05:11,575 --> 01:05:14,975
+sorry I don't mean to blast you with with flashlight  
+
+1167
+01:05:19,541 --> 01:05:21,941
+okay can I can I barter with this guy 
+
+1168
+01:05:22,575 --> 01:05:23,841
+can I help you
+
+1169
+01:05:24,975 --> 01:05:26,341
+so about that money I owe
+
+1170
+01:05:26,341 --> 01:05:27,975
+yes have you got it
+
+1171
+01:05:27,975 --> 01:05:28,941
+how much do I owe you again
+
+1172
+01:05:28,941 --> 01:05:33,241
+a lot for the room and broken window 100 reál
+
+1173
+01:05:34,375 --> 01:05:36,341
+how the fuck am I supposed to pay that
+
+1174
+01:05:37,208 --> 01:05:38,141
+let's talk about something else
+
+1175
+01:05:38,141 --> 01:05:39,023
+like what 
+
+1176
+01:05:39,317 --> 01:05:43,408
+I was really enjoying talking about the *money* you owe me 
+
+1177
+01:05:45,075 --> 01:05:46,675
+here's your trash container key
+
+1178
+01:05:46,741 --> 01:05:49,275
+thanks I hope you found what you were looking for
+
+1179
+01:05:52,975 --> 01:05:55,084
+he doesn't need to know that that's privileged information
+
+1180
+01:05:55,084 --> 01:05:55,550
+ just trash  
+
+1181
+01:05:55,550 --> 01:05:56,875
+as it should be
+
+1182
+01:05:56,875 --> 01:05:59,441
+anyway thank you for returning my key
+
+1183
+01:06:04,541 --> 01:06:05,341
+goodbye
+
+1184
+01:06:06,608 --> 01:06:09,375
+so what can I like not go to sleep or something
+
+1185
+01:06:17,008 --> 01:06:20,575
+well kuno is the key to a part of this
+
+1186
+01:06:23,241 --> 01:06:24,408
+take bribes
+
+1187
+01:06:26,875 --> 01:06:28,408
+do something else for now
+
+1188
+01:06:30,008 --> 01:06:32,341
+it's like Elena see what she's got 
+
+1189
+01:06:32,341 --> 01:06:33,541
+hello again sweetie
+
+1190
+01:06:34,575 --> 01:06:35,701
+ah
+
+1191
+01:06:37,475 --> 01:06:39,050
+sweeties need money do swedies get money  
+
+1192
+01:06:39,050 --> 01:06:40,375
+does she have any money for me
+
+1193
+01:06:40,941 --> 01:06:44,341
+I don't want to pedal her but
+
+1194
+01:06:44,341 --> 01:06:45,241
+oh sweetie
+
+1195
+01:06:45,241 --> 01:06:48,608
+I heard your conversation with the manager about your
+
+1196
+01:06:49,275 --> 01:06:50,875
+financial troubles
+
+1197
+01:06:51,275 --> 01:06:53,341
+when do you get your next paycheck
+
+1198
+01:06:53,475 --> 01:06:57,175
+if she could this woman would feed and clothe you  
+
+1199
+01:06:57,175 --> 01:07:00,341
+and every other sad lost person on this earth 
+
+1200
+01:07:03,841 --> 01:07:04,341
+angel
+
+1201
+01:07:04,341 --> 01:07:07,241
+you've got guns of steel and a chiselled jaw
+
+1202
+01:07:07,841 --> 01:07:10,375
+(somewhere under the bloated alcohol layer)
+
+1203
+01:07:11,041 --> 01:07:13,241
+maybe she'd like to sponsor you
+
+1204
+01:07:18,041 --> 01:07:20,141
+tug on her heart strings
+
+1205
+01:07:20,641 --> 01:07:22,341
+is this exploitative though
+
+1206
+01:07:25,575 --> 01:07:28,835
+I mean I feel like it's in sorry cops 
+
+1207
+01:07:30,185 --> 01:07:30,942
+character 
+
+1208
+01:07:30,942 --> 01:07:32,600
+to just be honest  
+
+1209
+01:07:32,600 --> 01:07:34,875
+that like this is one of the only people that 
+
+1210
+01:07:37,175 --> 01:07:40,450
+that I feel would not judge me unfairly  
+
+1211
+01:07:40,450 --> 01:07:42,175
+for just asking for help
+
+1212
+01:07:42,475 --> 01:07:45,341
+this would be a huge step for my character
+
+1213
+01:07:45,975 --> 01:07:51,341
+because like I said about the apology as a utility 
+
+1214
+01:07:52,408 --> 01:07:55,808
+we would not want to use it as brute force to manipulate people 
+
+1215
+01:07:55,808 --> 01:08:02,541
+or to feel that receiving forgiveness is doing the actual work 
+
+1216
+01:08:03,775 --> 01:08:05,341
+we need to apologize
+
+1217
+01:08:06,275 --> 01:08:09,208
+accept feedback and make meaningful change
+
+1218
+01:08:10,808 --> 01:08:12,441
+and expect nothing in return
+
+1219
+01:08:15,341 --> 01:08:16,375
+let's ask for help
+
+1220
+01:08:17,208 --> 01:08:19,208
+we've got a 97 percent chance here
+
+1221
+01:08:19,975 --> 01:08:22,475
+your deportment remains dignified
+
+1222
+01:08:22,575 --> 01:08:25,041
+as you shed a single manly tear
+
+1223
+01:08:26,941 --> 01:08:29,575
+it isn't easy for me to ask this of anyone
+
+1224
+01:08:29,575 --> 01:08:31,275
+but I am at the end of my rope
+
+1225
+01:08:31,575 --> 01:08:33,008
+any money you have could help me
+
+1226
+01:08:34,275 --> 01:08:37,675
+I feel like there is a impulse to be prideful
+
+1227
+01:08:38,175 --> 01:08:40,541
+but like this is huge
+
+1228
+01:08:40,975 --> 01:08:45,141
+I would be so proud of my client for
+
+1229
+01:08:45,675 --> 01:08:47,975
+genuinely asking for help when they need it
+
+1230
+01:08:48,008 --> 01:08:53,475
+rather than looking for unscrupulous means to subvert this responsibility 
+
+1231
+01:08:56,141 --> 01:08:57,125
+this is good for us 
+
+1232
+01:08:57,125 --> 01:09:01,441
+sweetie I only have a few cents on me but I 
+
+1233
+01:09:02,208 --> 01:09:05,675
+I could give you this to pawn just to tide you over
+
+1234
+01:09:06,141 --> 01:09:06,941
+no
+
+1235
+01:09:09,141 --> 01:09:11,575
+wonderful he has a pin
+
+1236
+01:09:12,808 --> 01:09:14,975
+the pin is round and slightly tarnished
+
+1237
+01:09:14,975 --> 01:09:16,208
+oh I guess we can't take it back
+
+1238
+01:09:16,208 --> 01:09:20,500
+three sailboats in bas-relief with the sun hovering over the water behind them  
+
+1239
+01:09:20,500 --> 01:09:23,150
+a chip to green banner at the bottom reads
+
+1240
+01:09:23,150 --> 01:09:25,675
+Saint-Batiste Summer'31--Dinghy Races
+
+1241
+01:09:26,208 --> 01:09:29,800
+okay I'm so glad that we can make this up to her  
+
+1242
+01:09:29,800 --> 01:09:31,241
+because I don't want to
+
+1243
+01:09:32,375 --> 01:09:33,575
+just cope on this
+
+1244
+01:09:34,241 --> 01:09:36,541
+I will buy it back for you once I have more money
+
+1245
+01:09:36,541 --> 01:09:40,241
+oh it's not an ancient family heirloom or anything but
+
+1246
+01:09:40,741 --> 01:09:44,441
+I suppose it *would* be nice to get it back
+
+1247
+01:09:44,808 --> 01:09:48,341
+I will do everything in my power to do it
+
+1248
+01:09:48,741 --> 01:09:51,341
+I hope you are able to palm that old trinket
+
+1249
+01:09:52,575 --> 01:09:54,075
+okay at least I can give it back
+
+1250
+01:09:56,008 --> 01:09:57,008
+just want to thank you again
+
+1251
+01:09:57,008 --> 01:09:58,341
+of course dear
+
+1252
+01:09:59,075 --> 01:10:01,075
+I just wish I could have done more
+
+1253
+01:10:07,641 --> 01:10:11,175
+part of me just wants to give it back and find an honorable way to do this
+
+1254
+01:10:11,175 --> 01:10:14,275
+I would like to explore other means to collect this money
+
+1255
+01:10:14,608 --> 01:10:16,541
+and if I can't I will use it but
+
+1256
+01:10:20,208 --> 01:10:22,208
+unusually tasteful pin was produced to
+
+1257
+01:10:22,208 --> 01:10:25,275
+celebrate the Saint-Batiste Summer'31
+
+1258
+01:10:26,441 --> 01:10:27,975
+oh man this is
+
+1259
+01:10:29,375 --> 01:10:30,875
+it doesn't have enough
+
+1260
+01:10:32,075 --> 01:10:34,475
+it's not enough money to cover this
+
+1261
+01:10:34,475 --> 01:10:36,541
+so I'm just gonna give it back I think
+
+1262
+01:10:39,475 --> 01:10:42,841
+I mean I guess I can always get it from her if I need it 
+
+1263
+01:10:43,475 --> 01:10:46,141
+I hope you were able to palm that old trinket
+
+1264
+01:10:48,041 --> 01:10:51,008
+no I just can't do it I just can't do it
+
+1265
+01:10:53,441 --> 01:10:54,841
+I just can't do it
+
+1266
+01:10:57,900 --> 01:10:58,408
+yeah
+
+1267
+01:10:58,408 --> 01:10:59,408
+thank you dear
+
+1268
+01:11:00,075 --> 01:11:02,808
+I confess I am glad to see it again
+
+1269
+01:11:04,250 --> 01:11:05,741
+I just got in some free experience
+
+1270
+01:11:05,741 --> 01:11:09,008
+even the lieutenant seems happy with this turn of events
+
+1271
+01:11:13,125 --> 01:11:15,325
+solid demonstration of character from us
+
+1272
+01:11:15,775 --> 01:11:17,475
+we've won some favor with Kim
+
+1273
+01:11:17,608 --> 01:11:19,241
+now what else sweetie
+
+1274
+01:11:23,641 --> 01:11:25,641
+I couldn't do it Lena sorry 
+
+1275
+01:11:25,875 --> 01:11:27,175
+thank you for watching my video
+
+1276
+01:11:27,175 --> 01:11:29,141
+if you enjoyed it consider giving it a like
+
+1277
+01:11:29,141 --> 01:11:31,475
+and letting me know what you thought of it in the comments 
+
+1278
+01:11:31,475 --> 01:11:33,241
+you can subscribe to catch the next video here
+
+1279
+01:11:33,241 --> 01:11:36,500
+or you can see things a little bit earlier if you support the channel 
+
+1280
+01:11:36,500 --> 01:11:38,241
+either through Twitch or Patreon
+
+1281
+01:11:38,241 --> 01:11:41,675
+links to both of those and the community discord are in the description 
+
+1282
+01:11:41,775 --> 01:11:43,475
+thanks again and I will see you next time
+
+1283
+01:11:44,075 --> 01:11:44,875
+bye
+

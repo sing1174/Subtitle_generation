@@ -1,0 +1,240 @@
+1
+00:00:00,700 --> 00:00:01,485
+hello
+
+2
+00:00:01,733 --> 00:00:06,190
+and welcome back to my therapist plays disco elysium analysis series
+
+3
+00:00:06,440 --> 00:00:07,400
+so on today's episode
+
+4
+00:00:07,400 --> 00:00:11,140
+we're getting deeper into our different character studies
+
+5
+00:00:11,180 --> 00:00:14,620
+and kind of breaking down like the psychological dynamics
+
+6
+00:00:14,620 --> 00:00:17,890
+in their dialogue and their relationships
+
+7
+00:00:17,890 --> 00:00:20,200
+and everything that represents terms of mental health
+
+8
+00:00:20,360 --> 00:00:23,220
+this time I give a lot of focus to two characters in particular
+
+9
+00:00:23,260 --> 00:00:26,400
+that we meet on our journey through Revachol
+
+10
+00:00:26,560 --> 00:00:27,552
+and one of them that
+
+11
+00:00:27,552 --> 00:00:29,551
+I give kind of like my deepest
+
+12
+00:00:29,551 --> 00:00:33,940
+psychoanalytical impressions yet
+
+13
+00:00:35,200 --> 00:00:36,660
+maybe also my
+
+14
+00:00:36,660 --> 00:00:41,360
+most unhinged character analysis thus far as well
+
+15
+00:00:41,360 --> 00:00:43,631
+but it is in service of
+
+16
+00:00:43,631 --> 00:00:46,480
+actually kind of discussing like some important things about
+
+17
+00:00:46,520 --> 00:00:50,437
+how the game depicts its world building and
+
+18
+00:00:50,437 --> 00:00:52,740
+what characters do we need to look at
+
+19
+00:00:52,820 --> 00:00:56,250
+and in terms of like if we look at the shape of their mental health
+
+20
+00:00:56,666 --> 00:00:59,300
+this will tell us a lot about
+
+21
+00:00:59,700 --> 00:01:01,807
+what it is like to live in this environment
+
+22
+00:01:02,075 --> 00:01:06,080
+with these political systems with these social tensions
+
+23
+00:01:06,080 --> 00:01:08,670
+like what is the result of that on the people
+
+24
+00:01:08,670 --> 00:01:10,380
+who are actually being brought up in this world
+
+25
+00:01:10,460 --> 00:01:13,100
+so emm there's a lot to get into
+
+26
+00:01:13,100 --> 00:01:14,020
+I'm excited to share so
+
+27
+00:01:14,020 --> 00:01:16,020
+let's jump back in
+
+28
+00:01:17,520 --> 00:01:21,000
+okay let's continue
+
+29
+00:01:23,520 --> 00:01:24,898
+so I think the last thing we were doing
+
+30
+00:01:24,898 --> 00:01:27,733
+is kind of investigating our relationship with kim here
+
+31
+00:01:29,980 --> 00:01:31,280
+I guess if it's a section of this that I missed
+
+32
+00:01:31,280 --> 00:01:32,807
+I guess if it's a section of this that I missed
+
+33
+00:01:33,540 --> 00:01:35,860
+ah "cool for" I see what you mean
+
+34
+00:01:36,000 --> 00:01:37,280
+I thought it was something I had to click on
+
+35
+00:01:39,520 --> 00:01:41,050
+so let's check out Inland Empire
+
+36
+00:01:41,050 --> 00:01:42,880
+because that's our main skill and
+
+37
+00:01:43,880 --> 00:01:47,466
+I'm finding it very interesting that this was the
+
+38
+00:01:48,570 --> 00:01:50,600
+primary skill that I chose
+
+39
+00:01:54,380 --> 00:01:56,160
+especially because in the last stream
+
+40
+00:01:56,220 --> 00:01:59,540
+I found myself kind of disagreeing with its intrusions a little more
+
+41
+00:02:00,940 --> 00:02:05,800
+it says it's cool for dreamers paranatural investigators and mental creators
+
+42
+00:02:07,220 --> 00:02:09,680
+I don't know if i'd call myself paranatural
+
+43
+00:02:10,017 --> 00:02:11,038
+but I am an investigator
+
+44
+00:02:11,038 --> 00:02:12,878
+and I am a mental creator meaning that
+
+45
+00:02:12,878 --> 00:02:15,233
+I tend to make stuff in my brain
+
+46
+00:02:15,233 --> 00:02:17,560
+that's better than I can make it in reality
+
+47
+00:02:20,200 --> 00:02:24,180
+empathy is cool for judges of character interviewers interrogators
+
+48
+00:02:24,220 --> 00:02:25,140
+that's me as well
+
+49
+00:02:26,600 --> 00:02:28,920
+volition is cool for sane people
+
+50
+00:02:28,920 --> 00:02:30,580
+well-adjusted cops
+
+51
+00:02:30,580 --> 00:02:31,360
+the non-suicidal
+
+52
+00:02:31,860 --> 00:02:34,440
+that's kind of half of us right
+
+53
+00:02:36,460 --> 00:02:38,750
+authority is cool for leaders
+
+54
+00:02:38,750 --> 00:02:40,890
+experts of psychologIical warfare
+
+55
+00:02:40,890 --> 00:02:42,220
+and respect junkies
+
+56
+00:02:45,620 --> 00:02:48,240
+yes yes and yes
+
+57
+00:02:50,960 --> 00:02:52,532
+this one is cool for cops
+
+58
+00:02:52,532 --> 00:02:53,972
+cop aficionados
+
+59
+00:02:53,972 --> 00:02:55,140
+and pretend cops
+
+60
+00:02:55,200 --> 00:02:57,350
+I feel like that last one is us the pretend cop
+

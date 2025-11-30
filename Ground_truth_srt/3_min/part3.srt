@@ -1,0 +1,260 @@
+1
+00:00:00,200 --> 00:00:01,000
+okay
+
+2
+00:00:01,966 --> 00:00:04,700
+hello and also welcome
+
+3
+00:00:04,966 --> 00:00:07,266
+it's great to be back on stream
+
+4
+00:00:07,400 --> 00:00:10,666
+and continuing our Disco Elysium play through
+
+5
+00:00:11,466 --> 00:00:12,366
+if you're just joining us
+
+6
+00:00:12,366 --> 00:00:13,666
+which is a good chance that you are
+
+7
+00:00:13,666 --> 00:00:17,733
+this is kind of still at the beginning of our little play through here
+
+8
+00:00:17,733 --> 00:00:20,866
+and what we're doing is we're kind of playing through it like
+
+9
+00:00:20,866 --> 00:00:23,333
+mix of role play mix of psychoanalysis
+
+10
+00:00:23,333 --> 00:00:24,800
+I'm Brady I'm a therapist
+
+11
+00:00:25,333 --> 00:00:28,300
+and I'm going to be doing different kinds of
+
+12
+00:00:28,300 --> 00:00:30,700
+psychoanalysis on the characters
+
+13
+00:00:30,700 --> 00:00:33,233
+and kind of linking that to the game design
+
+14
+00:00:33,233 --> 00:00:35,333
+and like how it represents mental health
+
+15
+00:00:35,333 --> 00:00:37,600
+this game is just in another league
+
+16
+00:00:37,600 --> 00:00:40,266
+when it comes to that sort of thing so far like
+
+17
+00:00:40,333 --> 00:00:41,400
+I already did a video
+
+18
+00:00:41,400 --> 00:00:45,166
+kind of talking about the skill system and how it represents this like
+
+19
+00:00:45,466 --> 00:00:48,766
+very fascinating way to perceive like
+
+20
+00:00:49,066 --> 00:00:51,466
+motivation and psychological priority
+
+21
+00:00:53,000 --> 00:00:54,800
+so yeah we're like
+
+22
+00:00:55,800 --> 00:00:57,066
+we're gonna get pretty deep with this
+
+23
+00:00:57,066 --> 00:01:01,500
+the last two playthroughs or last two streams
+
+24
+00:01:02,733 --> 00:01:05,100
+I'm sort of just been figuring out the game and
+
+25
+00:01:05,133 --> 00:01:07,866
+now that I've like had some time to collect some thoughts on it
+
+26
+00:01:08,266 --> 00:01:10,133
+I'll be talking a little bit more about the
+
+27
+00:01:10,133 --> 00:01:12,700
+the characters and their dynamics and
+
+28
+00:01:12,800 --> 00:01:17,025
+like I guess why my character specifically is
+
+29
+00:01:18,500 --> 00:01:23,100
+showing a lot of avoidance and confrontation and like
+
+30
+00:01:23,866 --> 00:01:27,400
+is not maybe making some of the best decisions
+
+31
+00:01:27,400 --> 00:01:31,666
+I'm doing like a mix of my own headcanon role play like
+
+32
+00:01:32,866 --> 00:01:34,566
+I'm not trying to play the game the best way
+
+33
+00:01:34,566 --> 00:01:36,200
+honestly I'm just trying to make this fun
+
+34
+00:01:37,000 --> 00:01:39,700
+a fun play through like just kind of doing wild shit
+
+35
+00:01:41,166 --> 00:01:43,600
+we're not going to see every single part of the game
+
+36
+00:01:43,600 --> 00:01:44,733
+or every dialogue tree
+
+37
+00:01:44,733 --> 00:01:45,966
+and that's okay you know
+
+38
+00:01:46,300 --> 00:01:48,800
+but it has been great to get some recommendations
+
+39
+00:01:48,800 --> 00:01:51,433
+for things that like I just straight out missed
+
+40
+00:01:51,433 --> 00:01:52,533
+because of like
+
+41
+00:01:53,600 --> 00:01:57,433
+so far my character has just fallen into like
+
+42
+00:01:57,433 --> 00:01:59,700
+he's just failing upwards basically
+
+43
+00:01:59,700 --> 00:02:02,000
+like passing some of the early skill checks
+
+44
+00:02:02,600 --> 00:02:05,500
+some of the comments on the last video were telling me that like
+
+45
+00:02:06,133 --> 00:02:10,566
+missing or succeeding in some of these early skill checks has like
+
+46
+00:02:11,366 --> 00:02:13,600
+made me skip over a lot of tutorials
+
+47
+00:02:14,400 --> 00:02:15,266
+which makes sense
+
+48
+00:02:15,266 --> 00:02:18,000
+because I kind of feel lost on some of the systems
+
+49
+00:02:20,200 --> 00:02:20,966
+but that's okay
+
+50
+00:02:20,966 --> 00:02:22,333
+we're discovering it as we go
+
+51
+00:02:22,333 --> 00:02:27,200
+and I think that just makes for interesting play through dynamics
+
+52
+00:02:27,466 --> 00:02:29,300
+what I have been fascinated by is how well
+
+53
+00:02:29,300 --> 00:02:31,200
+the game has responded to my
+
+54
+00:02:33,733 --> 00:02:35,333
+weird way of approaching
+
+55
+00:02:35,466 --> 00:02:37,600
+it's completely fine that I skipped certain things
+
+56
+00:02:37,600 --> 00:02:38,566
+it's completely fine
+
+57
+00:02:38,566 --> 00:02:40,733
+that I don't know how to play it very well
+
+58
+00:02:41,366 --> 00:02:42,333
+it's not like
+
+59
+00:02:43,166 --> 00:02:44,733
+I've not reached a roadblock
+
+60
+00:02:44,733 --> 00:02:47,000
+where the game is like hey slow down friend
+
+61
+00:02:47,300 --> 00:02:49,133
+I need to teach you this before you move on
+
+62
+00:02:49,133 --> 00:02:51,733
+and it's happy to just let me move on and
+
+63
+00:02:52,700 --> 00:02:55,166
+try to fail my way through everything which
+
+64
+00:02:55,166 --> 00:02:56,300
+is kind of life
+
+65
+00:02:56,766 --> 00:02:57,775
+isn't it
+

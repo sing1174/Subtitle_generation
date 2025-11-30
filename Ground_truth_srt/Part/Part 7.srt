@@ -1,0 +1,6356 @@
+﻿1
+00:00:00,733 --> 00:00:01,133
+hello
+
+2
+00:00:01,566 --> 00:00:03,733
+and welcome back to my therapist plays
+
+3
+00:00:03,733 --> 00:00:05,733
+Disco Elysium analysis series
+
+4
+00:00:05,733 --> 00:00:06,933
+so on today's episode
+
+5
+00:00:06,933 --> 00:00:09,833
+we are delving even deeper into the psychology of
+
+6
+00:00:09,833 --> 00:00:11,166
+our main character
+
+7
+00:00:11,166 --> 00:00:13,000
+as this case gets more complicated
+
+8
+00:00:13,000 --> 00:00:16,166
+so does our relationship with ourselves
+
+9
+00:00:16,300 --> 00:00:17,866
+because we're also going to start
+
+10
+00:00:18,266 --> 00:00:21,266
+discovering more about who we were and
+
+11
+00:00:21,966 --> 00:00:25,466
+finding that we are not so happy with that person
+
+12
+00:00:25,466 --> 00:00:27,600
+before we had amnesia
+
+13
+00:00:27,600 --> 00:00:29,800
+and woke up as the person we are today
+
+14
+00:00:29,966 --> 00:00:30,766
+and so what does it mean
+
+15
+00:00:30,766 --> 00:00:32,500
+to be faced with some of those challenges
+
+16
+00:00:32,500 --> 00:00:35,700
+do we avoid them and try to shut them out
+
+17
+00:00:35,700 --> 00:00:37,100
+or do we look for
+
+18
+00:00:37,100 --> 00:00:40,566
+healthy ways to integrate them and move forward
+
+19
+00:00:40,766 --> 00:00:44,566
+but we also do get into a major confrontation
+
+20
+00:00:44,666 --> 00:00:46,100
+we're going to face
+
+21
+00:00:46,700 --> 00:00:48,166
+what it is like when we go up
+
+22
+00:00:48,166 --> 00:00:50,666
+against an individual named Measurehead
+
+23
+00:00:50,800 --> 00:00:52,866
+who stands between us and
+
+24
+00:00:53,133 --> 00:00:55,533
+our next objective in solving the case
+
+25
+00:00:55,533 --> 00:00:58,600
+so all that is coming up in today's episode and
+
+26
+00:00:59,400 --> 00:01:01,500
+perhaps our first moments of
+
+27
+00:01:01,500 --> 00:01:06,500
+genuine trust starting to build between ourselves and our partner Kim 
+
+28
+00:01:06,533 --> 00:01:09,700
+I'm excited to continue this journey with all of you so
+
+29
+00:01:10,266 --> 00:01:11,066
+let's jump in
+
+30
+00:01:14,666 --> 00:01:16,300
+hey there's a big gentleman
+
+31
+00:01:21,300 --> 00:01:23,233
+bastards
+
+32
+00:01:23,600 --> 00:01:26,900
+we have a right to work
+
+33
+00:01:30,266 --> 00:01:32,066
+maybe this is the gentleman who
+
+34
+00:01:35,266 --> 00:01:37,300
+was asking about our case is a large lad
+
+35
+00:01:37,300 --> 00:01:37,966
+what's going on here
+
+36
+00:01:37,966 --> 00:01:40,733
+hold up and stay frosty everyone
+
+37
+00:01:41,000 --> 00:01:42,700
+cops are here
+
+38
+00:01:44,333 --> 00:01:46,666
+the broad shouldered alpha male turns to you
+
+39
+00:01:46,666 --> 00:01:48,733
+he's a full head taller than everybody else here
+
+40
+00:01:48,733 --> 00:01:50,200
+you here to fuck with us
+
+41
+00:01:50,466 --> 00:01:52,333
+beat the honest worker down
+
+42
+00:01:54,700 --> 00:01:55,200
+why should I
+
+43
+00:01:55,200 --> 00:01:57,700
+we're here to fight for a cause
+
+44
+00:01:58,300 --> 00:02:02,333
+stripes usually have problems with people who have causes
+
+45
+00:02:06,066 --> 00:02:07,300
+okay then I think I
+
+46
+00:02:07,300 --> 00:02:09,433
+I think no I want to be on your team friend
+
+47
+00:02:09,433 --> 00:02:09,900
+good
+
+48
+00:02:10,333 --> 00:02:12,066
+we're fighting for a cause here
+
+49
+00:02:12,500 --> 00:02:14,366
+right to work
+
+50
+00:02:14,866 --> 00:02:16,800
+right to work
+
+51
+00:02:16,866 --> 00:02:17,933
+besides
+
+52
+00:02:18,133 --> 00:02:19,400
+we're not that different
+
+53
+00:02:20,466 --> 00:02:22,766
+it helps if people see us talking
+
+54
+00:02:22,766 --> 00:02:24,866
+cops and strikebringers together
+
+55
+00:02:25,766 --> 00:02:27,566
+shows authorities around our side
+
+56
+00:02:28,500 --> 00:02:29,800
+builds confidence
+
+57
+00:02:31,366 --> 00:02:33,366
+I like his perspective I agree
+
+58
+00:02:33,400 --> 00:02:34,400
+I agree with that
+
+59
+00:02:34,600 --> 00:02:36,866
+I think it's also kind of a power play that
+
+60
+00:02:36,866 --> 00:02:39,900
+I'm like grinding the flashlight in everybody's face
+
+61
+00:02:40,133 --> 00:02:42,600
+because it makes them feel like I'm really targeting them
+
+62
+00:02:43,100 --> 00:02:45,333
+which is good for my interrogation
+
+63
+00:02:46,066 --> 00:02:47,566
+what kind of problems are we talking about
+
+64
+00:02:47,800 --> 00:02:51,593
+rights of workers to have gainful employment
+
+65
+00:02:51,593 --> 00:02:53,766
+ to make a salary
+
+66
+00:02:53,766 --> 00:02:56,133
+and feed their families
+
+67
+00:02:56,800 --> 00:02:59,066
+well I don't want to politically align with him
+
+68
+00:02:59,066 --> 00:03:00,200
+but I want to be on his team
+
+69
+00:03:00,200 --> 00:03:01,733
+because it looks like he could beat me up
+
+70
+00:03:02,100 --> 00:03:04,300
+so I don't want him to be angry at me
+
+71
+00:03:06,466 --> 00:03:08,233
+I don't think I've chosen any sides
+
+72
+00:03:08,233 --> 00:03:08,866
+any time
+
+73
+00:03:09,400 --> 00:03:11,366
+don't let the fat bastards tread on you
+
+74
+00:03:12,066 --> 00:03:15,333
+cops tend to sigh with the higher-ups
+
+75
+00:03:15,366 --> 00:03:17,500
+you're essentially still workers
+
+76
+00:03:17,533 --> 00:03:21,200
+I don't trust cops but I can see you understand though
+
+77
+00:03:21,400 --> 00:03:22,733
+right to work
+
+78
+00:03:23,166 --> 00:03:24,533
+right to work
+
+79
+00:03:26,466 --> 00:03:27,800
+let's just ask them some questions
+
+80
+00:03:27,800 --> 00:03:28,866
+hey Chris Wilderness
+
+81
+00:03:28,866 --> 00:03:30,266
+thank you so much for subbing my friend
+
+82
+00:03:30,533 --> 00:03:34,133
+enjoy your early access to things through the channel discord
+
+83
+00:03:34,533 --> 00:03:36,133
+you have to link your discord and
+
+84
+00:03:36,766 --> 00:03:38,666
+your Twitch account you'll be able to see all the
+
+85
+00:03:39,300 --> 00:03:40,666
+prior streams and stuff
+
+86
+00:03:41,166 --> 00:03:43,133
+maybe you should ask them
+
+87
+00:03:43,133 --> 00:03:44,866
+(maybe you should ask them) the questions like
+
+88
+00:03:45,166 --> 00:03:47,533
+why would not allow to make a living here
+
+89
+00:03:48,400 --> 00:03:53,400
+shame on you we have families to feed you piece of shit
+
+90
+00:03:54,700 --> 00:03:56,000
+so do we scab
+
+91
+00:04:02,000 --> 00:04:03,200
+found you from your YouTube channel
+
+92
+00:04:03,200 --> 00:04:04,333
+on your playthrough of this game
+
+93
+00:04:04,333 --> 00:04:05,700
+very excited to see more of your content
+
+94
+00:04:05,700 --> 00:04:06,466
+thank you
+
+95
+00:04:06,466 --> 00:04:09,966
+it's been a very interesting seeing all of this unfold
+
+96
+00:04:11,100 --> 00:04:12,400
+but we're having a great time
+
+97
+00:04:12,900 --> 00:04:16,133
+throwing some fucking tomatoes in the chat for our friends
+
+98
+00:04:16,133 --> 00:04:20,900
+tomato is like my my hype emote
+
+99
+00:04:21,500 --> 00:04:23,533
+you may not understand why but that's okay
+
+100
+00:04:23,533 --> 00:04:25,766
+just know that tomatoes are a good thing around here
+
+101
+00:04:26,500 --> 00:04:27,333
+they mean something good
+
+102
+00:04:27,333 --> 00:04:29,366
+I don't like them as fruits
+
+103
+00:04:29,366 --> 00:04:34,166
+but I love them as metaphorical devices
+
+104
+00:04:36,166 --> 00:04:38,900
+we flood the chat with tomatoes when we're happy
+
+105
+00:04:39,266 --> 00:04:40,200
+that's all you need to know
+
+106
+00:04:42,166 --> 00:04:44,100
+I actually need to speak with the union boss
+
+107
+00:04:44,100 --> 00:04:44,600
+that is true
+
+108
+00:04:44,600 --> 00:04:45,300
+have fun
+
+109
+00:04:46,466 --> 00:04:48,266
+union shits are on full strike
+
+110
+00:04:48,266 --> 00:04:50,666
+don't think they're going to let you through the gates
+
+111
+00:04:50,900 --> 00:04:53,600
+why you want to meet that fat asshole
+
+112
+00:04:55,366 --> 00:04:56,566
+this is an official matter
+
+113
+00:04:56,566 --> 00:04:58,966
+yeah I'm not gonna get this guy involved
+
+114
+00:04:59,266 --> 00:05:03,600
+he looks like he would use my information against me
+
+115
+00:05:03,733 --> 00:05:05,300
+right to work
+
+116
+00:05:06,333 --> 00:05:08,800
+it's shameful cops doing nothing
+
+117
+00:05:09,200 --> 00:05:11,733
+you should bring backup open up the gates for us
+
+118
+00:05:12,000 --> 00:05:15,533
+blockading gainful employment for workers is a crime
+
+119
+00:05:15,666 --> 00:05:18,778
+yeah the tomatoes are a Gundam reference
+
+120
+00:05:18,778 --> 00:05:19,866
+ witch for Mercury
+
+121
+00:05:23,433 --> 00:05:25,200
+this isn't really my area of expertise
+
+122
+00:05:25,200 --> 00:05:27,866
+we are not picking a side in this  just yet sir
+
+123
+00:05:29,366 --> 00:05:31,933
+finally Kim stands behind me for once
+
+124
+00:05:32,500 --> 00:05:34,400
+let us work
+
+125
+00:05:37,733 --> 00:05:39,400
+who are all these strikebreakers
+
+126
+00:05:39,400 --> 00:05:42,800
+(honest men and) women with rights to work to be useful
+
+127
+00:05:43,100 --> 00:05:45,400
+not toys for corporate interests
+
+128
+00:05:46,566 --> 00:05:48,933
+this guy is a he's a communist right
+
+129
+00:05:49,100 --> 00:05:50,933
+we came here to help the harbor
+
+130
+00:05:50,933 --> 00:05:53,333
+run smoothly in time of crisis
+
+131
+00:05:53,900 --> 00:05:56,066
+if Union fucks don't want work
+
+132
+00:05:56,566 --> 00:06:00,000
+they ought to let indulgs who do want work
+
+133
+00:06:00,266 --> 00:06:01,400
+I have a question
+
+134
+00:06:02,000 --> 00:06:04,666
+why do all these men follow your leadership
+
+135
+00:06:04,900 --> 00:06:06,466
+that's a good question Kim
+
+136
+00:06:07,866 --> 00:06:09,800
+no he's against the strike of the union
+
+137
+00:06:09,800 --> 00:06:11,500
+the other guy is a communist
+
+138
+00:06:13,333 --> 00:06:17,100
+let me take off the mask of if there even is one
+
+139
+00:06:17,100 --> 00:06:19,533
+that I know anything about politics
+
+140
+00:06:19,700 --> 00:06:25,100
+I do not it is not my area of safe commentary
+
+141
+00:06:26,133 --> 00:06:28,333
+I am a mental health professional
+
+142
+00:06:28,600 --> 00:06:32,600
+I don't really have the vocabulary or the knowledge to
+
+143
+00:06:32,600 --> 00:06:34,933
+to give commentary on any of that shit
+
+144
+00:06:34,933 --> 00:06:37,400
+and I will just make myself look like a fucking idiot
+
+145
+00:06:37,400 --> 00:06:37,933
+if I do
+
+146
+00:06:37,933 --> 00:06:38,471
+so 
+
+147
+00:06:39,502 --> 00:06:41,333
+don't worry this game will teach you
+
+148
+00:06:41,333 --> 00:06:43,166
+I hope it does I don't like
+
+149
+00:06:44,133 --> 00:06:47,500
+it's just not my sector I spent my life studying people
+
+150
+00:06:48,000 --> 00:06:50,266
+and psychology
+
+151
+00:06:51,133 --> 00:06:53,200
+we're just informing you don't worry I know that's okay
+
+152
+00:06:54,400 --> 00:06:56,766
+mental health is political yes
+
+153
+00:06:56,766 --> 00:07:03,933
+I can see the parallel but it doesn't come up in my work as often
+
+154
+00:07:06,466 --> 00:07:10,247
+this is the crossover that you will find 
+
+155
+00:07:10,247 --> 00:07:14,166
+in mental health and politics
+
+156
+00:07:14,166 --> 00:07:21,366
+is what we might call SDOH or social determinants of health
+
+157
+00:07:24,100 --> 00:07:26,600
+what I'm referring to are all of the
+
+158
+00:07:27,200 --> 00:07:30,633
+environmental political economic systems that
+
+159
+00:07:30,633 --> 00:07:31,866
+contribute to mental health
+
+160
+00:07:31,866 --> 00:07:33,266
+so you're correct
+
+161
+00:07:33,666 --> 00:07:35,266
+an economic system that
+
+162
+00:07:36,166 --> 00:07:39,800
+does not offer like equal opportunities to people
+
+163
+00:07:40,033 --> 00:07:45,000
+is going to lead to suppressed angers resentments
+
+164
+00:07:45,000 --> 00:07:46,566
+it can lead to racism
+
+165
+00:07:46,933 --> 00:07:47,900
+that sort of thing
+
+166
+00:07:48,100 --> 00:07:49,466
+like homelessness
+
+167
+00:07:49,466 --> 00:07:52,500
+obviously is a big impact on mental health as a social determinant
+
+168
+00:07:52,533 --> 00:07:54,766
+and it is influenced by political things
+
+169
+00:07:54,900 --> 00:07:56,300
+I understand that they are
+
+170
+00:07:57,300 --> 00:07:59,400
+that there is a thread connecting them but
+
+171
+00:08:00,900 --> 00:08:04,500
+my expertise is not in commenting on politics
+
+172
+00:08:04,600 --> 00:08:08,333
+it is understanding the mental health outcomes
+
+173
+00:08:08,333 --> 00:08:10,566
+that result from political systems
+
+174
+00:08:12,166 --> 00:08:14,333
+I don't even know really what I would say I'm
+
+175
+00:08:14,866 --> 00:08:16,966
+politically but it's
+
+176
+00:08:19,333 --> 00:08:20,333
+yeah I don't know
+
+177
+00:08:20,333 --> 00:08:22,666
+it's that it's not worth diving into to be honest
+
+178
+00:08:23,466 --> 00:08:25,066
+so I do know about politics
+
+179
+00:08:26,166 --> 00:08:26,966
+sort of
+
+180
+00:08:27,933 --> 00:08:32,100
+but not not to any sort of like depth about this like 
+
+181
+00:08:32,100 --> 00:08:33,400
+I know about them
+
+182
+00:08:33,900 --> 00:08:38,000
+mental health relation but not like by themselves
+
+183
+00:08:38,733 --> 00:08:41,933
+you think they follow because I'm big and loud
+
+184
+00:08:41,933 --> 00:08:45,200
+no they follow the rules of the market
+
+185
+00:08:45,200 --> 00:08:47,100
+the rules of the economy
+
+186
+00:08:47,300 --> 00:08:48,500
+because they were
+
+187
+00:08:49,000 --> 00:08:51,133
+given a job to do
+
+188
+00:08:52,133 --> 00:08:53,266
+yeah I guess what I would say is
+
+189
+00:08:53,266 --> 00:08:56,600
+I don't know how to spot what political system is which
+
+190
+00:08:57,600 --> 00:08:59,333
+what I do know is like
+
+191
+00:09:01,533 --> 00:09:06,466
+this is going to lead to lots of outgroup resentments
+
+192
+00:09:06,466 --> 00:09:09,600
+when workers feel underprivileged
+
+193
+00:09:09,600 --> 00:09:13,966
+and they haven't been fairly represented democratically
+
+194
+00:09:16,066 --> 00:09:17,066
+what is your goal here
+
+195
+00:09:17,066 --> 00:09:20,266
+we were promised work we'd be in there working
+
+196
+00:09:20,266 --> 00:09:20,700
+working
+
+197
+00:09:20,700 --> 00:09:23,200
+if the bastards hadn't shut the gates
+
+198
+00:09:24,700 --> 00:09:26,466
+and your are unable to breach the entrance
+
+199
+00:09:26,466 --> 00:09:28,800
+would take heavy ordinance to bust it open
+
+200
+00:09:28,800 --> 00:09:30,933
+could try to get in through the secretary's office
+
+201
+00:09:31,366 --> 00:09:32,500
+doors locked
+
+202
+00:09:33,133 --> 00:09:35,800
+the guards blocking the way to the access panel
+
+203
+00:09:35,900 --> 00:09:38,500
+I don't mean the scrawny Mesque punk either
+
+204
+00:09:38,800 --> 00:09:40,933
+I mean head measurer
+
+205
+00:09:41,333 --> 00:09:43,300
+or whatever he is
+
+206
+00:09:44,966 --> 00:09:47,166
+why don't you just talk to them that's a good idea
+
+207
+00:09:47,166 --> 00:09:48,933
+like civilized folk you mean
+
+208
+00:09:49,566 --> 00:09:52,933
+these native fucks don't understand civilized
+
+209
+00:09:53,066 --> 00:09:56,100
+it would be better for the neighborhood if you went home
+
+210
+00:09:56,100 --> 00:09:58,866
+at least for now if you can't get in anyway
+
+211
+00:10:00,800 --> 00:10:03,400
+it's a very neutral stance to take Kim I like it
+
+212
+00:10:03,500 --> 00:10:04,300
+no
+
+213
+00:10:04,700 --> 00:10:06,666
+they will give up eventually
+
+214
+00:10:06,966 --> 00:10:10,300
+or get drunk leave the button unguarded
+
+215
+00:10:10,733 --> 00:10:12,800
+then we charge
+
+216
+00:10:14,933 --> 00:10:16,933
+sounds like this guy needs a little bit of that boost
+
+217
+00:10:16,933 --> 00:10:19,666
+he gets from alcohol to his physical instrument
+
+218
+00:10:20,366 --> 00:10:21,233
+what is a strike
+
+219
+00:10:21,233 --> 00:10:22,666
+(when a) bunch of ungrateful
+
+220
+00:10:22,666 --> 00:10:25,900
+lazy cockroaches can't get their act together
+
+221
+00:10:26,133 --> 00:10:29,366
+decide to block honest work for other people
+
+222
+00:10:31,300 --> 00:10:32,700
+what do the strikers want
+
+223
+00:10:33,100 --> 00:10:36,700
+they mumble nonsense about board rooms and workers rights
+
+224
+00:10:36,766 --> 00:10:41,666
+while we have the right to work
+
+225
+00:10:42,033 --> 00:10:43,766
+when the man moves around
+
+226
+00:10:43,966 --> 00:10:49,000
+you perceive some serious abs underneath his tight fitting shirt
+
+227
+00:10:49,500 --> 00:10:51,466
+this man is in shape
+
+228
+00:10:51,933 --> 00:10:52,698
+yes he is
+
+229
+00:10:52,698 --> 00:10:55,133
+this seems odd in the way he carries himself
+
+230
+00:10:55,366 --> 00:10:58,200
+his sets of clothing looks vaguely mismatched
+
+231
+00:10:58,200 --> 00:11:01,700
+the different pieces of the attire seem ill fitting
+
+232
+00:11:02,566 --> 00:11:03,100
+what is that (mean)
+
+233
+00:11:03,100 --> 00:11:06,500
+it is far too small and an unpleasantly tight fit
+
+234
+00:11:06,500 --> 00:11:08,966
+while the overalls held up by a belt
+
+235
+00:11:09,100 --> 00:11:12,133
+seem to fit a man with much more corpulence
+
+236
+00:11:13,500 --> 00:11:14,533
+interesting
+
+237
+00:11:14,566 --> 00:11:16,166
+he ignores your question
+
+238
+00:11:16,466 --> 00:11:20,100
+choosing instead to turn to the emaciated workers
+
+239
+00:11:20,133 --> 00:11:22,500
+raising both fists in the air
+
+240
+00:11:22,800 --> 00:11:25,666
+the close are obviously not his
+
+241
+00:11:26,733 --> 00:11:28,133
+very interesting
+
+242
+00:11:29,533 --> 00:11:31,533
+if all the other workers are emaciated
+
+243
+00:11:31,533 --> 00:11:33,300
+why is he so buffed out
+
+244
+00:11:34,900 --> 00:11:35,566
+here's the thing guys
+
+245
+00:11:35,566 --> 00:11:37,400
+you gotta ask yourself who benefits
+
+246
+00:11:39,166 --> 00:11:40,600
+maybe he's a stooge
+
+247
+00:11:40,966 --> 00:11:46,533
+maybe he is actually on the wealthy union side
+
+248
+00:11:46,533 --> 00:11:48,666
+or is not really a part of these individuals
+
+249
+00:11:48,666 --> 00:11:50,533
+but he is very impressionable
+
+250
+00:11:50,766 --> 00:11:51,566
+and
+
+251
+00:11:52,566 --> 00:11:56,966
+able to assume the perspective of a leader archetype
+
+252
+00:11:57,133 --> 00:11:59,900
+which lots of people will crowd around and follow
+
+253
+00:11:59,900 --> 00:12:02,500
+and think that he has their best interests
+
+254
+00:12:02,500 --> 00:12:06,133
+when really he's the one saying well we can't storm in yet
+
+255
+00:12:06,800 --> 00:12:09,300
+he's actually a plant to stone wall
+
+256
+00:12:09,700 --> 00:12:12,300
+their initiative by pretending to be one of them
+
+257
+00:12:15,133 --> 00:12:15,933
+could be
+
+258
+00:12:16,133 --> 00:12:17,566
+who's to say who benefits
+
+259
+00:12:17,566 --> 00:12:19,133
+silence is the answer
+
+260
+00:12:19,566 --> 00:12:21,300
+there's something off air
+
+261
+00:12:21,533 --> 00:12:23,266
+but he won't say what
+
+262
+00:12:23,900 --> 00:12:25,733
+fucking rhetoric coming in now
+
+263
+00:12:26,366 --> 00:12:28,733
+you've been talking to him for quite a while man
+
+264
+00:12:29,200 --> 00:12:31,333
+something is off with the sky
+
+265
+00:12:31,333 --> 00:12:32,400
+asking where he's from
+
+266
+00:12:32,566 --> 00:12:33,566
+where are you from friend
+
+267
+00:12:33,566 --> 00:12:34,566
+what's it to you
+
+268
+00:12:36,100 --> 00:12:37,866
+routine part of the investigation
+
+269
+00:12:37,866 --> 00:12:38,966
+am I a suspect
+
+270
+00:12:39,333 --> 00:12:40,766
+done no crimes
+
+271
+00:12:40,900 --> 00:12:42,733
+I only fight for the rights people
+
+272
+00:12:45,066 --> 00:12:46,766
+I'm interested in your background
+
+273
+00:12:46,766 --> 00:12:48,133
+we're all workers right
+
+274
+00:12:48,533 --> 00:12:49,700
+workers stick together
+
+275
+00:12:50,200 --> 00:12:53,400
+came from the eminent domain jamrock backgrounds
+
+276
+00:12:53,400 --> 00:12:57,466
+and odd jobs heavy lifting cargo hauling bouncer work
+
+277
+00:12:58,100 --> 00:12:59,000
+I know the drill
+
+278
+00:13:00,600 --> 00:13:01,800
+a bouncer huh
+
+279
+00:13:01,800 --> 00:13:04,366
+where I frequent a lot of bars maybe it's one I know
+
+280
+00:13:05,500 --> 00:13:07,733
+worked at Territorial
+
+281
+00:13:08,533 --> 00:13:09,333
+ring a bell
+
+282
+00:13:10,733 --> 00:13:12,600
+never heard of it are you lying
+
+283
+00:13:13,133 --> 00:13:14,133
+we're done here
+
+284
+00:13:14,466 --> 00:13:16,300
+I have a strike to break
+
+285
+00:13:17,600 --> 00:13:20,700
+sus extremely sus
+
+286
+00:13:21,400 --> 00:13:22,333
+I don't like it
+
+287
+00:13:31,366 --> 00:13:32,166
+okay
+
+288
+00:13:32,600 --> 00:13:33,933
+we need to get up in there
+
+289
+00:13:40,887 --> 00:13:42,025
+scab
+
+290
+00:13:45,666 --> 00:13:46,466
+wait
+
+291
+00:13:46,600 --> 00:13:47,400
+what's happening
+
+292
+00:13:47,566 --> 00:13:48,533
+am I about to like
+
+293
+00:13:49,300 --> 00:13:50,100
+okay
+
+294
+00:13:54,600 --> 00:13:55,966
+I'm not a scab I'm a cop
+
+295
+00:13:55,966 --> 00:13:57,600
+ah I was just messing with you
+
+296
+00:13:57,966 --> 00:13:59,700
+no one's ever seen a cop scab
+
+297
+00:14:00,700 --> 00:14:03,200
+imagine you cops going on a strike
+
+298
+00:14:03,200 --> 00:14:05,100
+but then another cop comes in and says
+
+299
+00:14:05,100 --> 00:14:07,133
+let us cop for less money
+
+300
+00:14:10,933 --> 00:14:14,766
+speaking of what brings the RCM here to the Wild North
+
+301
+00:14:14,933 --> 00:14:16,200
+come to see the strive
+
+302
+00:14:16,900 --> 00:14:18,333
+I need to speak with your boss
+
+303
+00:14:18,333 --> 00:14:19,866
+I'm a bit short on money right now
+
+304
+00:14:19,866 --> 00:14:20,966
+can you give me some of it
+
+305
+00:14:20,966 --> 00:14:23,066
+actually I think we're pretty good on money right now
+
+306
+00:14:24,000 --> 00:14:26,033
+what's the strike about anyways let's find out more
+
+307
+00:14:26,033 --> 00:14:27,466
+(you know) serious business
+
+308
+00:14:27,700 --> 00:14:29,733
+I'm sure the big boss will be glad to tell you
+
+309
+00:14:29,933 --> 00:14:31,333
+you'll have to ask him first
+
+310
+00:14:31,566 --> 00:14:32,733
+okay I'll ask him first
+
+311
+00:14:33,166 --> 00:14:35,366
+wants to talk about the strike
+
+312
+00:14:35,733 --> 00:14:38,000
+return once you've met the union boss
+
+313
+00:14:38,000 --> 00:14:41,133
+and are on a better footing with the organization
+
+314
+00:14:41,700 --> 00:14:45,733
+finally suggestion coming in with some actually good insights
+
+315
+00:14:47,666 --> 00:14:49,833
+I mean I guess it can't hurt to ask him for money right
+
+316
+00:14:49,833 --> 00:14:50,533
+(sure thing) my friend
+
+317
+00:14:50,933 --> 00:14:51,966
+I can help you out
+
+318
+00:14:55,300 --> 00:14:56,100
+wait
+
+319
+00:14:56,100 --> 00:14:58,500
+why don't I just let it fall on the ground and then pick it up
+
+320
+00:15:04,966 --> 00:15:06,066
+right can't I
+
+321
+00:15:06,200 --> 00:15:08,333
+I don't want to embarrass myself again
+
+322
+00:15:09,800 --> 00:15:11,766
+I can't go through another embarrassment
+
+323
+00:15:11,766 --> 00:15:13,066
+I know let it fall in the ground
+
+324
+00:15:14,066 --> 00:15:15,966
+because it's lame well he think it's stupid
+
+325
+00:15:19,666 --> 00:15:20,466
+catch it
+
+326
+00:15:22,000 --> 00:15:24,866
+should I go for it we don't need worse morale I know
+
+327
+00:15:24,933 --> 00:15:25,766
+well look I
+
+328
+00:15:27,566 --> 00:15:29,933
+either I try to catch it and I embarrassed myself right
+
+329
+00:15:29,933 --> 00:15:32,166
+let it fall on the ground and I've seen his lame
+
+330
+00:15:32,566 --> 00:15:35,600
+what what am I supposed to do here okay this is the
+
+331
+00:15:35,966 --> 00:15:39,866
+hardest like conundrum to be put in
+
+332
+00:15:40,866 --> 00:15:42,466
+a cool cop would catch it
+
+333
+00:15:44,900 --> 00:15:46,400
+a cool cop would catch it
+
+334
+00:15:47,100 --> 00:15:49,633
+it would be so fucking lame to let it fall on the ground
+
+335
+00:15:49,633 --> 00:15:50,366
+and then pick it up
+
+336
+00:15:50,366 --> 00:15:52,133
+that's almost even more embarrassing
+
+337
+00:15:54,000 --> 00:15:56,300
+what would authority say authority would say
+
+338
+00:15:57,300 --> 00:16:00,533
+snatch that fucking coin purse out of this man's hands
+
+339
+00:16:02,366 --> 00:16:03,900
+this is the decision
+
+340
+00:16:03,966 --> 00:16:07,133
+I feel like everything kind of hinges on this
+
+341
+00:16:09,600 --> 00:16:12,966
+what if I drop a point into my hand eye coordination
+
+342
+00:16:12,966 --> 00:16:15,100
+I feel like I've been failing these over and over again
+
+343
+00:16:15,100 --> 00:16:15,900
+let's do it
+
+344
+00:16:18,600 --> 00:16:19,400
+yes
+
+345
+00:16:22,166 --> 00:16:24,500
+58 percent roll the dice baby
+
+346
+00:16:24,533 --> 00:16:27,766
+the coin narrowly slips by your outstretched fingers
+
+347
+00:16:27,766 --> 00:16:29,366
+and falls to the ground
+
+348
+00:16:30,066 --> 00:16:30,866
+fuck
+
+349
+00:16:44,266 --> 00:16:45,400
+God damn it
+
+350
+00:16:46,133 --> 00:16:48,000
+spending a point made it uncool
+
+351
+00:16:48,166 --> 00:16:48,966
+well look
+
+352
+00:16:49,166 --> 00:16:51,700
+all I'm trying to do is be the coolest cop around
+
+353
+00:16:58,400 --> 00:17:01,166
+no feeling like investing into a skill and then failing anyways
+
+354
+00:17:01,600 --> 00:17:03,066
+that's just my guys life
+
+355
+00:17:07,133 --> 00:17:08,800
+lost the point and dropped the coin
+
+356
+00:17:08,800 --> 00:17:10,700
+I know that's extremely lame
+
+357
+00:17:11,100 --> 00:17:13,300
+oh I'm sorry didn't mean to throw it like that
+
+358
+00:17:13,400 --> 00:17:14,866
+it's a thing we harbor folk do
+
+359
+00:17:14,866 --> 00:17:16,300
+passing around cargo and such
+
+360
+00:17:16,300 --> 00:17:17,900
+oh well he didn't he didn't actually
+
+361
+00:17:17,900 --> 00:17:19,400
+(was not meant) as provocation or ridicule
+
+362
+00:17:20,766 --> 00:17:23,133
+okay so he didn't he didn't scold me for it
+
+363
+00:17:23,133 --> 00:17:24,066
+but what does Kim think
+
+364
+00:17:24,066 --> 00:17:26,666
+the boiadeiro stares at you with respect
+
+365
+00:17:27,066 --> 00:17:30,266
+then gestures towards the trickles of blood
+
+366
+00:17:30,266 --> 00:17:31,866
+adorning your clothes
+
+367
+00:17:34,866 --> 00:17:35,666
+wait
+
+368
+00:17:37,666 --> 00:17:38,466
+wait
+
+369
+00:17:41,566 --> 00:17:43,466
+not catching the coin
+
+370
+00:17:46,066 --> 00:17:48,666
+just brought me and Kim closer together
+
+371
+00:17:51,333 --> 00:17:52,700
+I think yeah I think chat's right
+
+372
+00:17:52,700 --> 00:17:54,466
+there is probably a wrong voice line
+
+373
+00:17:55,333 --> 00:17:58,133
+but Kim just picked up the coin and handed it to me
+
+374
+00:18:03,533 --> 00:18:05,066
+that brings me closer to him
+
+375
+00:18:08,133 --> 00:18:10,942
+something about getting out of the labyrinth of
+
+376
+00:18:10,942 --> 00:18:13,200
+ words and dialogue
+
+377
+00:18:13,266 --> 00:18:15,866
+just by showing with his actions that
+
+378
+00:18:16,966 --> 00:18:18,466
+he will pick up where I fail
+
+379
+00:18:18,466 --> 00:18:21,100
+and not challenge or judge me for it
+
+380
+00:18:22,300 --> 00:18:25,300
+actually makes me feel a little more trusting of him
+
+381
+00:18:27,400 --> 00:18:29,000
+do I have a crush on Kim no
+
+382
+00:18:29,400 --> 00:18:32,100
+so far I have not been very trusting of Kim and
+
+383
+00:18:32,300 --> 00:18:34,100
+part of that is because I don't know
+
+384
+00:18:34,566 --> 00:18:37,266
+if he is earnest towards me
+
+385
+00:18:38,933 --> 00:18:40,033
+he says he has my back
+
+386
+00:18:40,033 --> 00:18:42,800
+but I don't know if I am just useful to him
+
+387
+00:18:43,866 --> 00:18:44,666
+but
+
+388
+00:18:45,066 --> 00:18:47,700
+so far he's been happy to just let me embarrass myself
+
+389
+00:18:47,700 --> 00:18:48,666
+and not really
+
+390
+00:18:50,000 --> 00:18:52,800
+well if not like directly feed into that embarrassment or
+
+391
+00:18:52,800 --> 00:18:54,366
+critique me in front of people
+
+392
+00:18:54,366 --> 00:18:55,466
+undermining me
+
+393
+00:18:55,900 --> 00:18:56,966
+but this time he just like
+
+394
+00:18:57,066 --> 00:18:59,066
+quietly picks up the coin and gives it to me
+
+395
+00:19:03,366 --> 00:19:04,533
+yeah this
+
+396
+00:19:05,733 --> 00:19:06,866
+maybe maybe for me
+
+397
+00:19:06,866 --> 00:19:09,500
+an action speaks louder than words sometimes
+
+398
+00:19:11,300 --> 00:19:12,300
+thank you Kim
+
+399
+00:19:12,700 --> 00:19:15,066
+right always glad to help out the RCM
+
+400
+00:19:15,166 --> 00:19:16,966
+we're on the same branch you and I
+
+401
+00:19:17,566 --> 00:19:20,366
+humans I mean not slithering scabs
+
+402
+00:19:20,466 --> 00:19:21,966
+okay I need to get moving here
+
+403
+00:19:22,400 --> 00:19:25,366
+good good what matters do you want to discuss with Evart
+
+404
+00:19:26,566 --> 00:19:28,966
+I'm not gonna disclose those details with you yet
+
+405
+00:19:30,333 --> 00:19:31,600
+so mysterious
+
+406
+00:19:31,700 --> 00:19:32,700
+I'll come back to you
+
+407
+00:19:34,466 --> 00:19:37,600
+either way the road in front of you is wide and open
+
+408
+00:19:38,900 --> 00:19:39,800
+does this mean you can let me (through the gate)
+
+409
+00:19:39,800 --> 00:19:41,700
+I don't operate in that capacity
+
+410
+00:19:42,133 --> 00:19:44,566
+I'm not a granter of passage
+
+411
+00:19:45,300 --> 00:19:46,933
+the passage grants itself
+
+412
+00:19:47,133 --> 00:19:47,700
+that's simple
+
+413
+00:19:48,400 --> 00:19:50,933
+walk right past Measurehead and go in
+
+414
+00:19:51,300 --> 00:19:52,600
+okay past Measurehead
+
+415
+00:19:52,600 --> 00:19:56,900
+yeah the two and a half meter tall Semenese supremacists there
+
+416
+00:19:57,300 --> 00:19:58,900
+walk right past him
+
+417
+00:19:59,666 --> 00:20:00,066
+okay
+
+418
+00:20:00,066 --> 00:20:02,000
+then press the button to unlock the door
+
+419
+00:20:02,300 --> 00:20:02,733
+okay
+
+420
+00:20:02,733 --> 00:20:03,733
+go past him again
+
+421
+00:20:04,233 --> 00:20:04,500
+okay
+
+422
+00:20:04,500 --> 00:20:07,166
+enter the arbor through the office
+
+423
+00:20:09,058 --> 00:20:11,400
+uh okay
+
+424
+00:20:11,900 --> 00:20:13,400
+I don't think that's gonna be that easy
+
+425
+00:20:13,400 --> 00:20:14,766
+(don't worry I'm sure it's not) completely impossible
+
+426
+00:20:15,366 --> 00:20:17,309
+for example you could best Measurehead 
+
+427
+00:20:17,309 --> 00:20:19,000
+in a physical confrontation
+
+428
+00:20:19,466 --> 00:20:22,600
+or you could convert to a Semenese supremacist world view
+
+429
+00:20:23,100 --> 00:20:23,900
+or
+
+430
+00:20:25,700 --> 00:20:28,300
+maybe it actually is completely impossible
+
+431
+00:20:29,333 --> 00:20:31,666
+well why are you misleading me
+
+432
+00:20:31,666 --> 00:20:33,266
+how do I get to where I want to go
+
+433
+00:20:36,466 --> 00:20:39,066
+I do have the physical instrument shirt on
+
+434
+00:20:40,400 --> 00:20:41,666
+are we extolling why
+
+435
+00:20:41,666 --> 00:20:44,200
+Kim Kitsuragi is the best damn cop in all of Revachol
+
+436
+00:20:44,200 --> 00:20:45,100
+and a damn good friend
+
+437
+00:20:45,100 --> 00:20:47,166
+well best cop I would say
+
+438
+00:20:47,600 --> 00:20:48,366
+I can agree with
+
+439
+00:20:48,366 --> 00:20:50,766
+best friend I'm I
+
+440
+00:20:51,866 --> 00:20:54,000
+it's a it's a I want to trust him
+
+441
+00:20:54,133 --> 00:20:56,900
+but I'm scared kind of thing with me and Kim right now
+
+442
+00:20:58,166 --> 00:20:59,666
+due to my character's
+
+443
+00:20:59,666 --> 00:21:02,533
+extreme trauma and abandonment issues presumably
+
+444
+00:21:02,533 --> 00:21:04,733
+that's just what I detect from him
+
+445
+00:21:05,400 --> 00:21:09,133
+it's making it hard for me to trust that he truly is
+
+446
+00:21:11,700 --> 00:21:12,900
+what he says to me
+
+447
+00:21:13,000 --> 00:21:14,666
+I want to believe it's true but
+
+448
+00:21:15,133 --> 00:21:16,200
+I still have my doubts
+
+449
+00:21:16,200 --> 00:21:19,166
+and yeah also he's been really fucking rude to me at
+
+450
+00:21:19,166 --> 00:21:21,200
+very important moments
+
+451
+00:21:22,166 --> 00:21:23,133
+not yet no
+
+452
+00:21:24,000 --> 00:21:24,866
+he's
+
+453
+00:21:25,366 --> 00:21:27,100
+incredibly strong
+
+454
+00:21:28,333 --> 00:21:32,066
+nothing a couple of solid hooks from Dexter and Sinister won't fix 
+
+455
+00:21:32,066 --> 00:21:34,000
+wait is that the name of my hands
+
+456
+00:21:34,000 --> 00:21:35,300
+Dexter and Sinister
+
+457
+00:21:36,200 --> 00:21:39,000
+Jean-Luc himself would say the philosophy has proven
+
+458
+00:21:39,166 --> 00:21:41,700
+overly heroic for the scabs to convert to
+
+459
+00:21:42,500 --> 00:21:43,000
+sure
+
+460
+00:21:45,366 --> 00:21:46,300
+alright friend
+
+461
+00:21:49,566 --> 00:21:52,133
+there's got to be another way to get around this guy right
+
+462
+00:21:55,866 --> 00:21:56,733
+what do we got here
+
+463
+00:21:57,600 --> 00:22:00,566
+in case of a strike press button behind the guard
+
+464
+00:22:05,333 --> 00:22:07,533
+there's no lock picking or door kicking this one
+
+465
+00:22:10,466 --> 00:22:12,333
+we've got another cigarette friend here
+
+466
+00:22:12,733 --> 00:22:14,066
+can we talk to them no
+
+467
+00:22:15,800 --> 00:22:17,500
+okay we're finally at the harbor
+
+468
+00:22:17,900 --> 00:22:18,800
+let's see if we can
+
+469
+00:22:19,000 --> 00:22:21,266
+discuss our way through this conundrum
+
+470
+00:22:22,675 --> 00:22:26,275
+your body betrays your degeneracy
+
+471
+00:22:27,700 --> 00:22:29,225
+yeah Measurehead
+
+472
+00:22:29,225 --> 00:22:32,766
+his body totally betrays his degeneracy
+
+473
+00:22:34,350 --> 00:22:35,675
+don't say anything
+
+474
+00:22:35,950 --> 00:22:37,400
+ size him up first
+
+475
+00:22:37,600 --> 00:22:39,325
+yeah fucking let's go authority 
+
+476
+00:22:39,325 --> 00:22:40,633
+this is when I need you
+
+477
+00:22:40,833 --> 00:22:43,633
+this is when I need you to throw out your best dice rolls 
+
+478
+00:22:43,766 --> 00:22:45,270
+let's fucking size this guy up 
+
+479
+00:22:45,270 --> 00:22:46,123
+that's a power play
+
+480
+00:22:46,123 --> 00:22:50,233
+are you admiring my morphophysiology
+
+481
+00:22:52,233 --> 00:22:54,318
+a ripple of muscle passes underneath his skin
+
+482
+00:22:54,318 --> 00:22:54,958
+he lets you look
+
+483
+00:22:54,958 --> 00:22:58,400
+it must be frightening to stand in the shadow
+
+484
+00:22:58,400 --> 00:23:00,817
+of this *Racial Pinnacle*
+
+485
+00:23:01,766 --> 00:23:04,812
+be calm ham sandwich
+
+486
+00:23:04,812 --> 00:23:07,590
+ you are not in danger 
+
+487
+00:23:08,166 --> 00:23:11,700
+because you are not a threat to me
+
+488
+00:23:12,000 --> 00:23:14,466
+you know what friend I'm not a threat to you
+
+489
+00:23:18,266 --> 00:23:19,233
+let's keep him talking
+
+490
+00:23:19,233 --> 00:23:20,600
+let's just puff it out a little bit
+
+491
+00:23:20,600 --> 00:23:26,200
+what is this *androgynous* display of sexual maturity
+
+492
+00:23:27,869 --> 00:23:31,500
+merely standing up makes you swept profusely
+
+493
+00:23:31,733 --> 00:23:33,933
+your breathing is erratic
+
+494
+00:23:33,933 --> 00:23:37,500
+your own heart beating your ears grows frantic
+
+495
+00:23:37,566 --> 00:23:40,466
+and you feel your blood pressure rise
+
+496
+00:23:40,466 --> 00:23:41,033
+okay
+
+497
+00:23:41,033 --> 00:23:41,866
+stop it
+
+498
+00:23:42,250 --> 00:23:46,233
+you are embarrassing yourself in front of this woman
+
+499
+00:23:46,366 --> 00:23:48,766
+and your pedomophic friend
+
+500
+00:23:50,016 --> 00:23:52,065
+everything I do is embarrassing
+
+501
+00:23:52,065 --> 00:23:52,865
+khm...
+
+502
+00:23:55,900 --> 00:23:57,700
+my endurance is down by the cigs
+
+503
+00:23:57,700 --> 00:23:59,833
+no I trust that the cigarettes have had
+
+504
+00:23:59,833 --> 00:24:01,500
+no negative consequences on me
+
+505
+00:24:01,500 --> 00:24:05,666
+this display of weakness may appeal to older women
+
+506
+00:24:05,666 --> 00:24:08,666
+with a stronger maternal instinct
+
+507
+00:24:08,766 --> 00:24:13,833
+but it is a liability here on *Battlefield Martinaise*
+
+508
+00:24:14,725 --> 00:24:15,301
+okay 
+
+509
+00:24:15,301 --> 00:24:15,950
+Jean-Luc
+
+510
+00:24:16,300 --> 00:24:19,700
+his body is betraying his degeneracy pretty hard
+
+511
+00:24:19,900 --> 00:24:21,766
+maybe you can ask him to leave
+
+512
+00:24:23,566 --> 00:24:25,066
+how about I just go with the uh
+
+513
+00:24:26,466 --> 00:24:28,166
+well let's ask him to clarify that
+
+514
+00:24:28,300 --> 00:24:30,666
+you have succumbed to *Al Gul*
+
+515
+00:24:33,233 --> 00:24:34,800
+you reek of it
+
+516
+00:24:35,233 --> 00:24:39,966
+an invisible sword of *Al Gul* emerges from your throat
+
+517
+00:24:40,566 --> 00:24:44,200
+you cannot see it but others can
+
+518
+00:24:44,766 --> 00:24:48,491
+it is making the woman in my company sick
+
+519
+00:24:48,925 --> 00:24:50,566
+look I don't give a fuck about her
+
+520
+00:24:50,566 --> 00:24:51,600
+if she's there or not
+
+521
+00:24:51,600 --> 00:24:53,990
+has nothing to do with my investigation of here
+
+522
+00:24:54,240 --> 00:24:54,765
+ sir
+
+523
+00:24:56,291 --> 00:24:56,800
+you 
+
+524
+00:24:56,850 --> 00:24:58,891
+you think you think that just by
+
+525
+00:24:59,466 --> 00:25:00,266
+by
+
+526
+00:25:01,300 --> 00:25:03,991
+triggering my inferior masculinity that
+
+527
+00:25:05,750 --> 00:25:07,566
+that I'm gonna be afraid of you because
+
+528
+00:25:08,100 --> 00:25:10,033
+A: you're probably right
+
+529
+00:25:11,125 --> 00:25:11,900
+but B:
+
+530
+00:25:13,166 --> 00:25:14,500
+I just smoked a cigarette
+
+531
+00:25:14,500 --> 00:25:16,400
+my intellect is gonna help me out of this
+
+532
+00:25:18,158 --> 00:25:19,525
+let's just stand our ground
+
+533
+00:25:23,383 --> 00:25:24,725
+well maybe I can get him talking
+
+534
+00:25:24,725 --> 00:25:26,900
+ yes *Al Gul*
+
+535
+00:25:27,091 --> 00:25:27,800
+what is *Al Gul*
+
+536
+00:25:27,800 --> 00:25:31,518
+*Al Gul* is an ancient Iilmaraan poison
+
+537
+00:25:31,875 --> 00:25:36,199
+a parasitic fungus that has colonized your race
+
+538
+00:25:36,591 --> 00:25:40,000
+it is a trick that desert pygmees played on you
+
+539
+00:25:40,366 --> 00:25:44,600
+for humiliating them stripping them of their land
+
+540
+00:25:44,784 --> 00:25:45,891
+you mean alcohol
+
+541
+00:25:45,891 --> 00:25:49,925
+correct my small-skulled servant
+
+542
+00:25:53,766 --> 00:25:55,916
+enough I need you to open the door
+
+543
+00:25:55,916 --> 00:25:57,205
+no you don't
+
+544
+00:25:57,505 --> 00:26:00,575
+ you need to get another drink
+
+545
+00:26:00,825 --> 00:26:06,638
+occidental haplogroup B4 is done giving orders around here
+
+546
+00:26:07,250 --> 00:26:12,475
+the influence of the *ham sandwich race* is waning
+
+547
+00:26:13,033 --> 00:26:15,066
+show him the ham still got it
+
+548
+00:26:15,833 --> 00:26:18,033
+fucking yeah authority
+
+549
+00:26:23,483 --> 00:26:27,433
+I am the police and I need you to comply now
+
+550
+00:26:31,666 --> 00:26:34,266
+or do I ask him to help me do my job
+
+551
+00:26:34,950 --> 00:26:36,833
+there's no way I can
+
+552
+00:26:36,833 --> 00:26:38,900
+I'm gonna get my fucking ass beat aren't I
+
+553
+00:26:41,866 --> 00:26:43,316
+what do I do here Kim
+
+554
+00:26:43,316 --> 00:26:45,400
+Kim let's get Kim involved I need your help
+
+555
+00:26:45,400 --> 00:26:47,266
+why is he standing so far away from me
+
+556
+00:26:47,500 --> 00:26:48,600
+I just noticed that
+
+557
+00:26:50,475 --> 00:26:51,275
+Kim
+
+558
+00:26:52,166 --> 00:26:53,300
+I need you up here
+
+559
+00:26:55,366 --> 00:26:57,458
+I'm just gonna try to rationalize with him
+
+560
+00:26:57,458 --> 00:26:59,433
+ begging for help 
+
+561
+00:26:59,433 --> 00:27:02,566
+attempting to pass fear for cooperation
+
+562
+00:27:02,666 --> 00:27:06,300
+how far the occidental haplogroup has fallen
+
+563
+00:27:06,466 --> 00:27:10,400
+you were once a noble and powerful race
+
+564
+00:27:10,633 --> 00:27:11,533
+yeah let's get Kim involved
+
+565
+00:27:11,533 --> 00:27:15,766
+you gave the world *eugenics* electricity
+
+566
+00:27:15,766 --> 00:27:21,541
+and powerful weapons of war like missiles and aerostatic aircraft
+
+567
+00:27:21,800 --> 00:27:27,250
+you made great gains in metallurgy race theory and statecraft
+
+568
+00:27:28,033 --> 00:27:31,116
+you dominated lesser cultures
+
+569
+00:27:31,116 --> 00:27:36,500
+like the deformed Himeans and the inexplicably potato-obsessed Kojkos
+
+570
+00:27:36,950 --> 00:27:41,300
+but now your ascend to the genetic summit has halted
+
+571
+00:27:41,666 --> 00:27:46,833
+you are obsessed with sadness and with frivolous pop culture
+
+572
+00:27:47,350 --> 00:27:48,866
+you've got me all figured out buddy
+
+573
+00:27:48,866 --> 00:27:51,000
+you will be superseded
+
+574
+00:27:51,350 --> 00:27:53,666
+isn't that right babe
+
+575
+00:27:53,900 --> 00:27:57,000
+it is baby yeah you know it
+
+576
+00:27:57,166 --> 00:28:00,033
+isn't she a part of the ham sandwich collective
+
+577
+00:28:00,033 --> 00:28:01,800
+that he is deriding so much
+
+578
+00:28:01,800 --> 00:28:03,700
+there is a button right behind him
+
+579
+00:28:04,100 --> 00:28:05,766
+just out of reach
+
+580
+00:28:05,766 --> 00:28:08,599
+it must be the one that opens the door to the harbour
+
+581
+00:28:11,266 --> 00:28:13,433
+push him out of the way no
+
+582
+00:28:14,833 --> 00:28:17,166
+I need you to move 20 centimeters
+
+583
+00:28:21,666 --> 00:28:23,718
+whoa this
+
+584
+00:28:29,516 --> 00:28:31,700
+I'm just gonna cut right to the chase
+
+585
+00:28:31,700 --> 00:28:33,800
+enough with this begging
+
+586
+00:28:33,941 --> 00:28:38,233
+you should leave the stage of history with dignity
+
+587
+00:28:38,233 --> 00:28:42,966
+by inviting the other races to a *great world war*
+
+588
+00:28:43,341 --> 00:28:47,633
+bring your troops to the Semenine Islands and to Boogie Street 
+
+589
+00:28:47,633 --> 00:28:49,700
+and we will pulverize you
+
+590
+00:28:50,400 --> 00:28:54,100
+when you are gone we will build a museum for you
+
+591
+00:28:54,900 --> 00:28:59,166
+the walls will be lined with bottles of *Al Gul*
+
+592
+00:28:59,700 --> 00:29:01,904
+your beloved beverage
+
+593
+00:29:01,904 --> 00:29:07,235
+ inside we will store the odes to homo-sexuality you call art 
+
+594
+00:29:07,235 --> 00:29:10,233
+and your microcephalic skulls
+
+595
+00:29:12,383 --> 00:29:18,050
+okay I have a 42% chance to knock this motherfucker out
+
+596
+00:29:19,466 --> 00:29:22,433
+I mean it's about defeating racism right
+
+597
+00:29:23,566 --> 00:29:25,066
+I can retry this one
+
+598
+00:29:25,916 --> 00:29:28,000
+do I have any skill points I do
+
+599
+00:29:28,000 --> 00:29:29,200
+let's fucking go
+
+600
+00:29:29,466 --> 00:29:32,566
+let's drop one into physical instrument and go for it
+
+601
+00:29:35,200 --> 00:29:36,966
+or I could become a racism
+
+602
+00:29:37,500 --> 00:29:38,300
+oh
+
+603
+00:29:39,400 --> 00:29:39,766
+nah
+
+604
+00:29:39,766 --> 00:29:42,300
+I don't think I don't think I'm gonna go with that one
+
+605
+00:29:43,500 --> 00:29:44,833
+save the skill point
+
+606
+00:29:47,300 --> 00:29:50,266
+time to get physical I feel like I kind of have to
+
+607
+00:29:51,500 --> 00:29:54,800
+this is redemption for Cuno alright as Cuno's...
+
+608
+00:29:56,066 --> 00:29:59,766
+as Cuno's Pig what better thing can I do
+
+609
+00:29:59,766 --> 00:30:01,800
+than try to knock this guy out
+
+610
+00:30:05,600 --> 00:30:07,000
+let's whittle in about down a little bit
+
+611
+00:30:07,000 --> 00:30:08,133
+with some dialogue
+
+612
+00:30:08,166 --> 00:30:10,366
+oh don't be vulgar
+
+613
+00:30:10,800 --> 00:30:14,666
+white or not has got little to do with this
+
+614
+00:30:15,400 --> 00:30:20,200
+the *race enigma* runs much deeper than that
+
+615
+00:30:20,600 --> 00:30:22,266
+it could impress Kuno it could
+
+616
+00:30:23,566 --> 00:30:26,500
+there must be some friction there
+
+617
+00:30:26,733 --> 00:30:28,900
+he's keeping it well hidden however
+
+618
+00:30:29,933 --> 00:30:31,266
+good point authority
+
+619
+00:30:31,766 --> 00:30:33,733
+only invest points after the failing
+
+620
+00:30:33,733 --> 00:30:35,000
+yeah I can retry it
+
+621
+00:30:37,500 --> 00:30:39,900
+you still surf him how does that factor into your life
+
+622
+00:30:39,900 --> 00:30:42,400
+oh we're gonna wheel him down and then suck him
+
+623
+00:30:45,566 --> 00:30:49,600
+Mr Claire is a man of vision and means
+
+624
+00:30:49,866 --> 00:30:54,300
+he has the will to confront antarma shunal capital
+
+625
+00:30:54,500 --> 00:30:59,600
+which is something *your* race navistic communists never did 
+
+626
+00:30:59,600 --> 00:31:01,333
+let's fucking defeat racism chat
+
+627
+00:31:01,333 --> 00:31:02,133
+also
+
+628
+00:31:02,800 --> 00:31:05,100
+to serve is noble
+
+629
+00:31:05,600 --> 00:31:07,366
+it takes discipline
+
+630
+00:31:08,200 --> 00:31:11,533
+your petulant individualism has only
+
+631
+00:31:11,533 --> 00:31:14,866
+contributed to your *race failure*
+
+632
+00:31:15,700 --> 00:31:18,366
+it is lax and moronic
+
+633
+00:31:19,166 --> 00:31:21,933
+my jam is a mysterious fourth thing
+
+634
+00:31:23,216 --> 00:31:24,800
+jam
+
+635
+00:31:25,300 --> 00:31:27,133
+individualism
+
+636
+00:31:28,266 --> 00:31:29,700
+you have gotten these
+
+637
+00:31:29,700 --> 00:31:34,000
+ideas from degenerate you've culture have you not
+
+638
+00:31:34,066 --> 00:31:38,700
+you have picked them up from rock and roll songs
+
+639
+00:31:40,041 --> 00:31:42,170
+she is the definition of cool and 
+
+640
+00:31:42,170 --> 00:31:43,566
+the cultural center of this world 
+
+641
+00:31:43,566 --> 00:31:44,933
+as far as I'm concerned
+
+642
+00:31:47,600 --> 00:31:49,366
+I've gotten it from disco actually
+
+643
+00:31:49,366 --> 00:31:53,184
+offshoots of the semenese people invented disco  
+
+644
+00:31:53,184 --> 00:31:57,366
+while having sex under the influence of cocaine 
+
+645
+00:31:57,933 --> 00:32:00,527
+it is a shame upon my race
+
+646
+00:32:01,166 --> 00:32:03,933
+but what is done is done
+
+647
+00:32:03,933 --> 00:32:05,533
+you have heard enough
+
+648
+00:32:05,533 --> 00:32:08,733
+about our phylogenetic secrets for today
+
+649
+00:32:09,200 --> 00:32:12,700
+you have extinction to come to terms with
+
+650
+00:32:12,900 --> 00:32:16,800
+and *never* getting him into the harbor
+
+651
+00:32:17,066 --> 00:32:19,533
+let's get Kim involved Kim what do you think about this
+
+652
+00:32:19,533 --> 00:32:22,100
+I think this racist is better than the last
+
+653
+00:32:22,366 --> 00:32:25,066
+but the next racist will be the really good one
+
+654
+00:32:26,200 --> 00:32:27,500
+okay that's a good line
+
+655
+00:32:29,966 --> 00:32:32,200
+I like the previous racist better actually
+
+656
+00:32:37,100 --> 00:32:39,100
+that is understandable
+
+657
+00:32:39,533 --> 00:32:43,800
+the previous racist was probably at occidental
+
+658
+00:32:44,366 --> 00:32:47,000
+did not prove a real adversary
+
+659
+00:32:47,000 --> 00:32:48,533
+this guy is advanced racism
+
+660
+00:32:48,533 --> 00:32:51,600
+these cops are just jealous Jean-Luc
+
+661
+00:32:51,933 --> 00:32:53,100
+just jealous
+
+662
+00:32:53,733 --> 00:32:55,933
+let's ask him about his stupid tattoos then
+
+663
+00:32:55,933 --> 00:32:56,733
+how about that
+
+664
+00:32:57,400 --> 00:32:58,166
+make a fool of them
+
+665
+00:32:58,166 --> 00:33:00,800
+racists are generally not
+
+666
+00:33:00,800 --> 00:33:03,466
+very good examples of their race
+
+667
+00:33:04,600 --> 00:33:07,166
+I am not like them
+
+668
+00:33:07,700 --> 00:33:10,533
+I am chraniometric perfection
+
+669
+00:33:11,133 --> 00:33:13,366
+I have taken the trouble to
+
+670
+00:33:13,366 --> 00:33:16,700
+permanently draw a freenologic grid
+
+671
+00:33:16,700 --> 00:33:19,600
+on my skull and features
+
+672
+00:33:20,266 --> 00:33:23,366
+this should dispel any doubt
+
+673
+00:33:23,800 --> 00:33:25,666
+so not only are you a racist
+
+674
+00:33:25,666 --> 00:33:28,466
+you subscribe to fraudulent
+
+675
+00:33:29,900 --> 00:33:32,366
+scientific theory about phrenology
+
+676
+00:33:33,100 --> 00:33:35,166
+that is a noble cranium
+
+677
+00:33:35,333 --> 00:33:37,466
+but you got a hard noggin yourself
+
+678
+00:33:37,466 --> 00:33:40,933
+I do I do physical instrument my noggin is pretty hard
+
+679
+00:33:44,500 --> 00:33:47,266
+you sure I'm not craniometrically superior to you
+
+680
+00:33:47,266 --> 00:33:50,533
+you exhibit forward projection of the jaw
+
+681
+00:33:50,966 --> 00:33:56,700
+indicative of schizophrenia and sexual inaccountability
+
+682
+00:33:57,333 --> 00:34:00,500
+from a purely aesthetic standpoint
+
+683
+00:34:00,666 --> 00:34:04,766
+the dimple in your jaw makes you look like a baby
+
+684
+00:34:05,366 --> 00:34:07,466
+this is not craniomtry
+
+685
+00:34:07,966 --> 00:34:10,133
+just an observation
+
+686
+00:34:10,133 --> 00:34:10,866
+what else
+
+687
+00:34:10,866 --> 00:34:12,566
+it is impossible to see any more of your bone structure
+
+688
+00:34:12,566 --> 00:34:15,333
+it is impossible to see any more of your bone structure
+
+689
+00:34:16,233 --> 00:34:19,700
+it is covered in the ravages of al gul
+
+690
+00:34:20,133 --> 00:34:26,366
+from what remain of your features I can see *fleshy lips*
+
+691
+00:34:26,500 --> 00:34:28,666
+*baldness of the head*
+
+692
+00:34:29,000 --> 00:34:33,166
+and long arms relative to lower limbs
+
+693
+00:34:33,266 --> 00:34:39,566
+this leads me to conclude you are not a police officer
+
+694
+00:34:39,966 --> 00:34:42,600
+you are a common criminal
+
+695
+00:34:42,975 --> 00:34:48,066
+an offspring of murderers and sailors from SUR-LA-CLEF
+
+696
+00:34:48,333 --> 00:34:49,400
+and Vesper
+
+697
+00:34:50,266 --> 00:34:55,566
+and possibly even the degenerate shee headers of *UBI*
+
+698
+00:34:56,466 --> 00:34:59,566
+interesting so my ancestors was Sir Lucklefe and the other one 
+
+699
+00:34:59,566 --> 00:35:02,733
+your racial heritage is uninteresting
+
+700
+00:35:03,366 --> 00:35:06,733
+it is the same as all revacholians
+
+701
+00:35:07,100 --> 00:35:09,412
+your parents and their parents  
+
+702
+00:35:09,412 --> 00:35:12,200
+made the decision to reproduce
+
+703
+00:35:12,200 --> 00:35:15,466
+while under the influence of al gul
+
+704
+00:35:15,900 --> 00:35:19,566
+that's the only reason you are here 
+
+705
+00:35:19,800 --> 00:35:20,966
+he's right there
+
+706
+00:35:21,200 --> 00:35:23,800
+it's almost impossible to get it on
+
+707
+00:35:23,933 --> 00:35:25,933
+unless you're both drunk
+
+708
+00:35:26,166 --> 00:35:28,600
+it's too scary when people are sober
+
+709
+00:35:29,500 --> 00:35:30,300
+all right
+
+710
+00:35:30,300 --> 00:35:31,600
+let's fucking do it
+
+711
+00:35:32,933 --> 00:35:36,266
+let's fucking swing if I'm gonna get any checks
+
+712
+00:35:37,366 --> 00:35:38,533
+hand it back to me
+
+713
+00:35:39,566 --> 00:35:42,900
+it's gotta be this one for for all of the fucking
+
+714
+00:35:44,133 --> 00:35:47,000
+non racists out here let's knock him out
+
+715
+00:35:47,366 --> 00:35:48,800
+Kim back me up
+
+716
+00:35:53,500 --> 00:35:54,900
+fucking let's go
+
+717
+00:35:56,766 --> 00:35:59,600
+just like that instinct took over
+
+718
+00:36:00,400 --> 00:36:03,266
+a solid strike straight into his throat
+
+719
+00:36:03,400 --> 00:36:04,933
+into the cartilage
+
+720
+00:36:05,400 --> 00:36:07,966
+you can swear you felt the soft palate break
+
+721
+00:36:08,266 --> 00:36:09,400
+let's fucking go
+
+722
+00:36:09,466 --> 00:36:12,500
+the man is reeling gasping for air
+
+723
+00:36:13,000 --> 00:36:15,133
+time stands still around you
+
+724
+00:36:15,466 --> 00:36:16,466
+in the distance
+
+725
+00:36:16,466 --> 00:36:19,866
+the sounds of the harbor are falling silent laughs
+
+726
+00:36:21,200 --> 00:36:24,533
+yeah so how about that fucking Al Ghul defeats racism
+
+727
+00:36:24,533 --> 00:36:27,333
+all you hear is a small gurglin sound
+
+728
+00:36:27,400 --> 00:36:29,733
+as a trickle of blood appears on the mess
+
+729
+00:36:31,366 --> 00:36:35,066
+okay there's no way I can do a 360 flying spin kick
+
+730
+00:36:35,166 --> 00:36:37,300
+let's rip into him with a right hook
+
+731
+00:36:38,733 --> 00:36:40,200
+or can I fail this
+
+732
+00:36:42,266 --> 00:36:45,400
+360 spin is there spin to win
+
+733
+00:36:48,300 --> 00:36:49,566
+can I fail this
+
+734
+00:36:50,100 --> 00:36:51,066
+should I try it
+
+735
+00:36:51,350 --> 00:36:52,466
+do it
+
+736
+00:36:53,191 --> 00:36:54,191
+fuck it
+
+737
+00:36:54,466 --> 00:36:55,300
+fuck it
+
+738
+00:36:58,125 --> 00:36:59,566
+Raphael
+
+739
+00:37:00,366 --> 00:37:01,800
+no fucking way
+
+740
+00:37:03,733 --> 00:37:06,000
+the man lands while a dull thump
+
+741
+00:37:06,733 --> 00:37:10,000
+like a broken down puppet of muscles and sinew
+
+742
+00:37:10,366 --> 00:37:13,866
+for a moment he still tries to keep his head up
+
+743
+00:37:14,325 --> 00:37:18,400
+dazed eyes looking at you with unimaginable suprise
+
+744
+00:37:18,766 --> 00:37:22,000
+to your left is *the button*
+
+745
+00:37:23,200 --> 00:37:25,200
+the coolest thing to do here would to be say
+
+746
+00:37:25,200 --> 00:37:26,200
+nothing right
+
+747
+00:37:26,266 --> 00:37:27,366
+just press the button
+
+748
+00:37:28,300 --> 00:37:29,500
+fucking let's go
+
+749
+00:37:29,500 --> 00:37:32,266
+as you slam your fist on the button
+
+750
+00:37:32,300 --> 00:37:34,266
+the man collapses entirely
+
+751
+00:37:34,566 --> 00:37:36,466
+his head rolling to the side
+
+752
+00:37:36,466 --> 00:37:38,900
+yeah what do these fucking ladies have to say about that 
+
+753
+00:37:38,900 --> 00:37:40,466
+Cuno would be so proud of me
+
+754
+00:37:40,466 --> 00:37:42,866
+looks like you're the new measure head now
+
+755
+00:37:43,000 --> 00:37:44,066
+I'm measure head dude
+
+756
+00:37:44,066 --> 00:37:46,200
+Cuno is gonna think I'm the fucking coolest
+
+757
+00:37:46,200 --> 00:37:48,300
+her voice is surprisingly calm
+
+758
+00:37:48,500 --> 00:37:50,566
+no one is the new measure head
+
+759
+00:37:50,666 --> 00:37:52,300
+let's go before he gets up
+
+760
+00:37:53,400 --> 00:37:55,966
+let's go let's fucking go
+
+761
+00:37:56,700 --> 00:37:57,666
+get wrecked
+
+762
+00:37:58,700 --> 00:38:01,133
+the man is still knocked out
+
+763
+00:38:01,566 --> 00:38:04,700
+he breathes slowly and steadily
+
+764
+00:38:07,466 --> 00:38:10,666
+all right well let's check out what's in that box first
+
+765
+00:38:11,400 --> 00:38:12,666
+maybe there's some trash
+
+766
+00:38:15,800 --> 00:38:18,166
+I'm rewarded for my efforts
+
+767
+00:38:19,066 --> 00:38:21,266
+let's go let's go
+
+768
+00:38:24,100 --> 00:38:26,800
+that was the best outcome I could have hoped for
+
+769
+00:38:26,900 --> 00:38:29,800
+I can't catch the coin but I can knock out fucking
+
+770
+00:38:30,533 --> 00:38:32,100
+a giant racist man
+
+771
+00:38:36,500 --> 00:38:38,150
+Knoked him out good..
+
+772
+00:38:38,733 --> 00:38:40,300
+like the Flying Desperado
+
+773
+00:38:41,000 --> 00:38:42,466
+what is the Flying Desperado
+
+774
+00:38:42,466 --> 00:38:43,200
+it is that really cool
+
+775
+00:38:43,200 --> 00:38:45,766
+flying desperado spin kick you did boiadeiro
+
+776
+00:38:46,300 --> 00:38:47,200
+often performed by
+
+777
+00:38:47,200 --> 00:38:49,733
+the most hard-bodied boiadeiros on the steppes
+
+778
+00:38:49,900 --> 00:38:50,600
+that was nothing
+
+779
+00:38:50,600 --> 00:38:52,400
+so what's on your mind this time
+
+780
+00:38:52,700 --> 00:38:54,566
+yeah good talking to you I just wanted to get your
+
+781
+00:38:55,100 --> 00:38:57,333
+impression on my fucking sick move
+
+782
+00:38:59,300 --> 00:39:00,300
+let's pop in here
+
+783
+00:39:04,466 --> 00:39:05,666
+all right we're in
+
+784
+00:39:06,266 --> 00:39:08,966
+I love how there was an option to
+
+785
+00:39:10,166 --> 00:39:11,017
+become racist 
+
+786
+00:39:11,017 --> 00:39:12,200
+that I could fail
+
+787
+00:39:12,900 --> 00:39:14,333
+but try again like
+
+788
+00:39:14,933 --> 00:39:16,600
+somehow I could go away
+
+789
+00:39:16,933 --> 00:39:19,933
+become more racist and then convince him that I
+
+790
+00:39:19,966 --> 00:39:21,400
+subscribed his ideology
+
+791
+00:39:22,133 --> 00:39:23,866
+what does it look like to fail racism
+
+792
+00:39:23,866 --> 00:39:25,333
+with someone that you'd assume would be
+
+793
+00:39:25,333 --> 00:39:27,900
+more than happy that someone was trying to be racist
+
+794
+00:39:32,500 --> 00:39:35,600
+oh he just you can deny it later that makes sense
+
+795
+00:39:39,166 --> 00:39:41,500
+okay let's check out our environment really quick
+
+796
+00:39:46,000 --> 00:39:48,200
+every worker a member of the board
+
+797
+00:39:48,900 --> 00:39:49,866
+what we got over here
+
+798
+00:39:53,200 --> 00:39:54,966
+we've got a postcard
+
+799
+00:39:55,733 --> 00:39:57,566
+probably sell that for some cash
+
+800
+00:40:02,733 --> 00:40:05,333
+see here coffee machine like the sound of that
+
+801
+00:40:10,100 --> 00:40:12,066
+on second glance 
+
+802
+00:40:12,066 --> 00:40:12,148
+on second glance 
+
+803
+00:40:12,148 --> 00:40:15,700
+someone has forgotten to properly close one of the drawers 
+
+804
+00:40:15,733 --> 00:40:17,400
+that's gotta be an Inland Empire thing
+
+805
+00:40:17,700 --> 00:40:19,533
+it's unfortunate for the union
+
+806
+00:40:19,533 --> 00:40:22,300
+to just leave the paperwork laying around like these
+
+807
+00:40:22,733 --> 00:40:25,333
+let's see what's inside he thinks
+
+808
+00:40:25,538 --> 00:40:26,421
+open the drawer 
+
+809
+00:40:26,421 --> 00:40:28,383
+the drawer opens smoothly
+
+810
+00:40:28,733 --> 00:40:33,000
+inside is a well organized selection of brown folders
+
+811
+00:40:33,400 --> 00:40:33,866
+browse them
+
+812
+00:40:33,866 --> 00:40:37,266
+hundreds of documents containing logistical data
+
+813
+00:40:37,700 --> 00:40:40,200
+two kinds of transactions stand out
+
+814
+00:40:40,666 --> 00:40:44,366
+materials coming into Revachol from the outside world
+
+815
+00:40:44,600 --> 00:40:48,366
+from Muindi Grod and even ilmara
+
+816
+00:40:48,766 --> 00:40:50,766
+I like to think that shining the flashlight on them
+
+817
+00:40:50,766 --> 00:40:52,133
+makes me be able to read them better
+
+818
+00:40:53,100 --> 00:40:55,733
+and the same materials being handed over
+
+819
+00:40:55,733 --> 00:40:57,766
+to companies inside Rivershaw
+
+820
+00:40:57,866 --> 00:41:00,000
+Couron Coal City
+
+821
+00:41:00,200 --> 00:41:02,133
+LA Delta and Jamrock
+
+822
+00:41:02,133 --> 00:41:04,085
+are listed among the many districts
+
+823
+00:41:04,085 --> 00:41:06,333
+where the imports are being sold
+
+824
+00:41:06,466 --> 00:41:09,900
+it's hard to make sense of this thicket of company names 
+
+825
+00:41:09,900 --> 00:41:12,700
+dates quantities and percentages
+
+826
+00:41:12,700 --> 00:41:16,366
+you try to focus but the lines are getting blurry
+
+827
+00:41:16,800 --> 00:41:18,600
+oh 83 percent
+
+828
+00:41:20,100 --> 00:41:21,500
+I mean I can't fail that right
+
+829
+00:41:21,500 --> 00:41:24,300
+every time I say that though I fail it
+
+830
+00:41:28,166 --> 00:41:30,766
+I'm definitely gonna succeed at this let's try that
+
+831
+00:41:31,366 --> 00:41:34,000
+look how blurry all the lines on these papers are
+
+832
+00:41:34,266 --> 00:41:37,466
+how unwieldy your own willpower is to yourself
+
+833
+00:41:37,800 --> 00:41:40,133
+you're like an absurdist Samuran monk
+
+834
+00:41:40,200 --> 00:41:42,366
+focusing through not focusing
+
+835
+00:41:43,800 --> 00:41:45,466
+it's unbelievable
+
+836
+00:41:45,533 --> 00:41:47,000
+it's actually unbelievable
+
+837
+00:41:47,000 --> 00:41:48,866
+I defeated racism
+
+838
+00:41:50,566 --> 00:41:51,800
+I defeat
+
+839
+00:41:55,400 --> 00:41:57,066
+this is such a weird playthrough
+
+840
+00:41:58,366 --> 00:41:59,600
+what the fuck
+
+841
+00:41:59,966 --> 00:42:02,133
+Raphael what's wrong with you
+
+842
+00:42:02,566 --> 00:42:04,300
+do I have a point still yeah
+
+843
+00:42:05,866 --> 00:42:06,666
+I do
+
+844
+00:42:10,766 --> 00:42:12,100
+what was that one for
+
+845
+00:42:13,366 --> 00:42:16,400
+I guess I should probably put something in volition
+
+846
+00:42:17,400 --> 00:42:19,300
+was that what I failed at yeah
+
+847
+00:42:19,500 --> 00:42:20,900
+I wasn't too far off
+
+848
+00:42:23,500 --> 00:42:24,825
+I spent all my luck 
+
+849
+00:42:24,825 --> 00:42:26,766
+too high on nicotine to read
+
+850
+00:42:33,566 --> 00:42:36,266
+is that what you're doing with those folders over there
+
+851
+00:42:40,866 --> 00:42:41,966
+no of course not
+
+852
+00:42:41,966 --> 00:42:46,066
+my thought exactly officer shall we
+
+853
+00:42:50,533 --> 00:42:53,366
+okay should I put one in volition for other reasons
+
+854
+00:42:53,366 --> 00:42:56,733
+I mean I'm kind of like mainlining my psyche here
+
+855
+00:42:57,366 --> 00:43:00,800
+and I feel like I've messed up some volition checks
+
+856
+00:43:01,533 --> 00:43:03,500
+makes you hypersane when you're about to get funky
+
+857
+00:43:03,500 --> 00:43:04,500
+it keeps you normal
+
+858
+00:43:04,500 --> 00:43:07,100
+I do need some help keeping myself in check
+
+859
+00:43:09,366 --> 00:43:11,566
+I'm losing morale daily here
+
+860
+00:43:15,600 --> 00:43:17,966
+volition to balance out my crazy side
+
+861
+00:43:17,966 --> 00:43:19,300
+yeah I have to agree there
+
+862
+00:43:20,766 --> 00:43:23,266
+what other checks could I do that's a good question
+
+863
+00:43:25,100 --> 00:43:27,100
+oh one of these was with Kim
+
+864
+00:43:28,366 --> 00:43:29,266
+what was it
+
+865
+00:43:31,966 --> 00:43:33,466
+map information in complete
+
+866
+00:43:33,466 --> 00:43:34,533
+I thought I had a map
+
+867
+00:43:37,266 --> 00:43:39,366
+didn't I have a map earlier
+
+868
+00:43:40,533 --> 00:43:42,966
+the drawer slights shut smooth 
+
+869
+00:43:45,966 --> 00:43:47,566
+what the fuck I thought I had a map
+
+870
+00:43:49,600 --> 00:43:51,266
+don't metagame that checks too hard
+
+871
+00:43:53,166 --> 00:43:53,966
+I mean
+
+872
+00:43:54,366 --> 00:43:55,166
+I still feel like
+
+873
+00:43:55,166 --> 00:43:58,500
+volition was is a worthwhile one to spec into here
+
+874
+00:43:59,466 --> 00:44:02,466
+I know you can get them from things as well
+
+875
+00:44:02,766 --> 00:44:05,166
+oh I just don't have a map of this area okay
+
+876
+00:44:08,166 --> 00:44:09,933
+to be a good guy to yourself
+
+877
+00:44:11,200 --> 00:44:12,600
+to others and yourself
+
+878
+00:44:12,600 --> 00:44:13,733
+I feel like that's important
+
+879
+00:44:13,733 --> 00:44:15,066
+for the healing of my character
+
+880
+00:44:16,200 --> 00:44:18,066
+the will to finish the investigation
+
+881
+00:44:18,066 --> 00:44:20,733
+well I need that my guy keeps getting sidetracked
+
+882
+00:44:22,000 --> 00:44:24,300
+okay we're gonna level this up I feel like it's
+
+883
+00:44:25,400 --> 00:44:26,866
+not something that I can really
+
+884
+00:44:28,966 --> 00:44:29,800
+it's not gonna
+
+885
+00:44:29,800 --> 00:44:30,766
+chat:所以你*确实*想要治疗？
+
+886
+00:44:30,766 --> 00:44:32,266
+I do want to heal I do
+
+887
+00:44:32,266 --> 00:44:35,499
+the whole game is gonna be about psychological healing for me 
+
+888
+00:44:37,733 --> 00:44:40,366
+I feel like I can't lose if I before I
+
+889
+00:44:40,366 --> 00:44:42,866
+the file cabinet stands steady as ever
+
+890
+00:44:43,000 --> 00:44:46,466
+and the unlocked drawer slides out to greet you
+
+891
+00:44:47,600 --> 00:44:51,466
+92 percent that's a mighty success rate let's go
+
+892
+00:44:52,100 --> 00:44:54,600
+whatever's hidden here is hidden well
+
+893
+00:44:55,266 --> 00:44:56,966
+concentration isn't enough
+
+894
+00:44:57,200 --> 00:45:00,466
+only a trained accountant with a background in logistics 
+
+895
+00:45:00,466 --> 00:45:03,166
+would be able to *really* make sense of it
+
+896
+00:45:03,633 --> 00:45:06,931
+however there *is* a little hand-written note
+
+897
+00:45:06,931 --> 00:45:08,833
+ stuck on the side of the drawer 
+
+898
+00:45:08,961 --> 00:45:09,426
+look at the note
+
+899
+00:45:09,426 --> 00:45:10,943
+it appears to be a to-do list 
+
+900
+00:45:10,943 --> 00:45:14,092
+written in large uneven capital letters 
+
+901
+00:45:14,833 --> 00:45:15,859
+remember Leo 
+
+902
+00:45:15,859 --> 00:45:17,600
+*Everarts shoes
+
+903
+00:45:17,800 --> 00:45:19,443
+*special whirling borscht 
+
+904
+00:45:19,443 --> 00:45:21,800
+*water Evrart's plants
+
+905
+00:45:22,100 --> 00:45:23,636
+*sweep office floor 
+
+906
+00:45:23,636 --> 00:45:24,900
+*more banners
+
+907
+00:45:29,425 --> 00:45:32,033
+all items on the list have been crossed out
+
+908
+00:45:32,033 --> 00:45:34,800
+ and the note itself is crumpled 
+
+909
+00:45:35,875 --> 00:45:36,775
+let's get Kim involved
+
+910
+00:45:36,775 --> 00:45:40,100
+ Evrart Claire probably the head of the Débardeurs' Union
+
+911
+00:45:40,800 --> 00:45:44,616
+one of his aids must have left it nothing incriminating here
+
+912
+00:45:45,808 --> 00:45:49,166
+what is so special about this *borscht*
+
+913
+00:45:49,433 --> 00:45:53,041
+code for drugs booze blood 
+
+914
+00:45:53,500 --> 00:45:54,633
+let's take another look here
+
+915
+00:45:54,666 --> 00:45:55,456
+remember Leo 
+
+916
+00:45:55,456 --> 00:45:57,566
+*Everarts shoes
+
+917
+00:45:57,833 --> 00:45:59,362
+*special whirling borscht 
+
+918
+00:45:59,362 --> 00:46:01,700
+*water Evrart's plants
+
+919
+00:46:01,700 --> 00:46:03,500
+*sweep office floor
+
+920
+00:46:04,616 --> 00:46:07,466
+all items on the list have been crossed out
+
+921
+00:46:07,466 --> 00:46:10,033
+and the note itself is crumpled
+
+922
+00:46:10,400 --> 00:46:11,500
+hmm okay
+
+923
+00:46:11,500 --> 00:46:14,366
+the drawer slides shut smoothly
+
+924
+00:46:16,175 --> 00:46:18,675
+all right I'm not sure exactly what we learned from that but
+
+925
+00:46:20,166 --> 00:46:21,700
+I'm sure it will prove valuable
+
+926
+00:46:25,666 --> 00:46:27,400
+what do we got what do we got here
+
+927
+00:46:27,800 --> 00:46:30,083
+looks like someone left his tarpaulin cloak 
+
+928
+00:46:30,083 --> 00:46:31,900
+hanging on the railing here
+
+929
+00:46:32,233 --> 00:46:35,123
+the white rectangle of the Revachol Citizens Militia
+
+930
+00:46:35,123 --> 00:46:37,250
+ is clearly visible on its back
+
+931
+00:46:37,833 --> 00:46:39,525
+this is *your* cloak 
+
+932
+00:46:39,525 --> 00:46:40,375
+what
+
+933
+00:46:40,375 --> 00:46:41,466
+you can feel it
+
+934
+00:46:43,866 --> 00:46:45,658
+let's ask Kim does he think it's my coat
+
+935
+00:46:45,658 --> 00:46:48,600
+yes it does bear RCM insignia
+
+936
+00:46:48,833 --> 00:46:50,900
+and we're the only detectives in Martinaise
+
+937
+00:46:50,900 --> 00:46:52,765
+maybe it has my badge in it Kim 
+
+938
+00:46:52,765 --> 00:46:54,896
+ the service cloak issued to you by your station
+
+939
+00:46:54,896 --> 00:46:56,351
+ yes yes I do
+
+940
+00:46:56,351 --> 00:46:58,392
+as your fingers touch the tarpauling
+
+941
+00:46:58,392 --> 00:46:59,032
+ oh fuck yes
+
+942
+00:46:59,032 --> 00:47:01,833
+it almost feels like the cloak wants to deliver
+
+943
+00:47:01,833 --> 00:47:04,500
+a message of comfort through your fingertips
+
+944
+00:47:04,500 --> 00:47:05,100
+yes 
+
+945
+00:47:05,100 --> 00:47:09,400
+*I will shield you from the elements and give you my life for yours*
+
+946
+00:47:09,766 --> 00:47:11,666
+that's what the cloak is relaying
+
+947
+00:47:13,166 --> 00:47:13,966
+okay
+
+948
+00:47:15,433 --> 00:47:16,841
+fucking finally
+
+949
+00:47:19,625 --> 00:47:22,732
+shivers absolutely going for it
+
+950
+00:47:23,291 --> 00:47:24,633
+look at my dude
+
+951
+00:47:25,250 --> 00:47:26,100
+fucking
+
+952
+00:47:27,066 --> 00:47:28,233
+badass
+
+953
+00:47:31,666 --> 00:47:35,000
+okay what is it doing up here is my next question
+
+954
+00:47:37,500 --> 00:47:40,450
+this is a very cop like coat
+
+955
+00:47:45,666 --> 00:47:47,900
+right now the answer to good benefits is it's me
+
+956
+00:47:50,766 --> 00:47:53,100
+no I don't think I'm ready to look in the mirror just yet 
+
+957
+00:47:56,300 --> 00:47:59,350
+all those empty wine bottles and cigarette butts on the ground
+
+958
+00:48:00,266 --> 00:48:04,600
+someone *partied* really really hard here
+
+959
+00:48:04,800 --> 00:48:06,000
+did I do this
+
+960
+00:48:06,000 --> 00:48:10,833
+well yes I think we can say with relative confidence that it was you 
+
+961
+00:48:12,166 --> 00:48:14,800
+oh this is really sad I must have been miserable
+
+962
+00:48:14,800 --> 00:48:16,209
+see this is the kind of introspection 
+
+963
+00:48:16,209 --> 00:48:18,066
+I have been looking for right
+
+964
+00:48:18,400 --> 00:48:22,433
+every new moment that gets me in touch with who I was
+
+965
+00:48:23,233 --> 00:48:24,700
+challenges my character
+
+966
+00:48:25,433 --> 00:48:28,466
+on do I want to integrate these things
+
+967
+00:48:29,800 --> 00:48:32,366
+because I have the strong sensation that
+
+968
+00:48:32,600 --> 00:48:35,021
+Raphael does not have very positive feelings
+
+969
+00:48:35,021 --> 00:48:37,032
+ about the person he was before he woke up
+
+970
+00:48:37,900 --> 00:48:40,066
+and this is very much the experience
+
+971
+00:48:40,066 --> 00:48:42,633
+of people who I work with in addiction
+
+972
+00:48:42,633 --> 00:48:45,481
+where they're reflecting on like 
+
+973
+00:48:45,481 --> 00:48:48,633
+who they were when they were in their addiction
+
+974
+00:48:49,766 --> 00:48:52,566
+they do not have positive feelings about who this person was 
+
+975
+00:48:52,966 --> 00:48:55,366
+and so there is a strong urge to like
+
+976
+00:48:55,991 --> 00:48:57,425
+let's move on from them
+
+977
+00:48:57,900 --> 00:48:59,957
+but we neglect the idea that
+
+978
+00:48:59,957 --> 00:49:03,326
+there are valuable things left in who you were
+
+979
+00:49:04,526 --> 00:49:06,304
+that we can integrate with
+
+980
+00:49:06,304 --> 00:49:08,083
+ the person you're trying to be right
+
+981
+00:49:08,566 --> 00:49:10,966
+it is not an all or nothing process like
+
+982
+00:49:12,000 --> 00:49:14,754
+integrating the past parts of your identity with your present one  
+
+983
+00:49:14,754 --> 00:49:18,166
+it's way harder than saying let's just start clean 
+
+984
+00:49:20,566 --> 00:49:24,166
+but it's a lot more impactful if you're able to do it right 
+
+985
+00:49:24,766 --> 00:49:27,264
+it's impactful if you're able to sort out things like
+
+986
+00:49:27,545 --> 00:49:31,500
+ the fact that someone who was selling narcotics 
+
+987
+00:49:32,666 --> 00:49:34,266
+gain some valuable skills from this
+
+988
+00:49:34,266 --> 00:49:37,233
+is able to read and understand people very well
+
+989
+00:49:37,233 --> 00:49:39,600
+knows how to put pressure on someone
+
+990
+00:49:40,492 --> 00:49:43,236
+to the degree where they 
+
+991
+00:49:43,236 --> 00:49:45,600
+you know get what they owed from them
+
+992
+00:49:45,600 --> 00:49:47,092
+but not doing so that they might 
+
+993
+00:49:47,092 --> 00:49:49,900
+remove a repeating customer 
+
+994
+00:49:50,400 --> 00:49:53,233
+were these used for good intentions no
+
+995
+00:49:53,366 --> 00:49:55,728
+but these are valuable like psychosocial skills 
+
+996
+00:49:55,728 --> 00:49:59,166
+ that are not worthy of abandonment right 
+
+997
+00:49:59,266 --> 00:50:01,185
+and that's something I legitimately work on 
+
+998
+00:50:01,185 --> 00:50:03,243
+with people in recovery all the time
+
+999
+00:50:03,643 --> 00:50:06,783
+ which is we have to understand that 
+
+1000
+00:50:08,833 --> 00:50:13,700
+the qualities you have are not what made you a bad person
+
+1001
+00:50:13,700 --> 00:50:15,875
+or made your decisions bad 
+
+1002
+00:50:15,875 --> 00:50:20,200
+it's the decision making that wasn't in your best interest 
+
+1003
+00:50:20,200 --> 00:50:23,708
+and that decision making was influenced by the addiction
+
+1004
+00:50:23,708 --> 00:50:26,600
+and all kinds of other life pressures
+
+1005
+00:50:27,666 --> 00:50:30,633
+and so here's what I imagine my character doing it's like
+
+1006
+00:50:31,766 --> 00:50:34,866
+he doesn't want to integrate his past
+
+1007
+00:50:34,966 --> 00:50:35,981
+I can sense that 
+
+1008
+00:50:35,981 --> 00:50:38,419
+like in the way that I haven't looked in the mirror yet
+
+1009
+00:50:39,566 --> 00:50:42,466
+I know it's kind of odd that I haven't done that 
+
+1010
+00:50:42,466 --> 00:50:45,261
+but it's part of a role playing decision  
+
+1011
+00:50:45,261 --> 00:50:49,633
+and it's also like how I genuinely understand
+
+1012
+00:50:49,633 --> 00:50:52,638
+people in recovery to experience this
+
+1013
+00:50:54,433 --> 00:50:56,207
+because he's not ready he's not sure yet
+
+1014
+00:50:56,207 --> 00:50:59,536
+ if there are things about his past self  
+
+1015
+00:50:59,536 --> 00:51:02,300
+that are worth bringing forward right 
+
+1016
+00:51:04,266 --> 00:51:06,266
+that's kind of the struggle that he is in right now
+
+1017
+00:51:07,633 --> 00:51:10,751
+and I think finding his coat finding his badge
+
+1018
+00:51:10,751 --> 00:51:14,800
+starting to see the destruction that he left
+
+1019
+00:51:14,966 --> 00:51:17,900
+both in his own life and just to his own body
+
+1020
+00:51:19,066 --> 00:51:21,791
+are the early signs of like
+
+1021
+00:51:23,766 --> 00:51:27,966
+is that person I was worth saving something from 
+
+1022
+00:51:29,600 --> 00:51:31,066
+or is it all bad
+
+1023
+00:51:32,358 --> 00:51:34,262
+and that's some of the that's the line of questioning
+
+1024
+00:51:34,262 --> 00:51:36,566
+I would probably go into therapy with with him 
+
+1025
+00:51:38,241 --> 00:51:39,975
+but yeah I think that
+
+1026
+00:51:40,766 --> 00:51:42,800
+that's a question I often ask people in recovery
+
+1027
+00:51:43,583 --> 00:51:47,516
+what is worthwhile about who you were that's
+
+1028
+00:51:50,566 --> 00:51:51,700
+something you want to keep
+
+1029
+00:51:53,833 --> 00:51:55,139
+let's go with some self reflection here
+
+1030
+00:51:55,139 --> 00:51:58,966
+ yes this scene isn't exactly ripping with joy 
+
+1031
+00:51:59,600 --> 00:52:00,700
+let's just move on
+
+1032
+00:52:02,175 --> 00:52:04,141
+sympathetic I understand
+
+1033
+00:52:05,466 --> 00:52:06,266
+Kim
+
+1034
+00:52:07,175 --> 00:52:10,033
+wants me to avoid feeling sad but I do need this
+
+1035
+00:52:15,166 --> 00:52:18,000
+I need this Kim I need to face who I was
+
+1036
+00:52:18,500 --> 00:52:20,300
+or my healing to take place
+
+1037
+00:52:24,166 --> 00:52:26,300
+this is the nightwatchman's booth
+
+1038
+00:52:26,466 --> 00:52:30,033
+the name on the door reads *René Arnoux*
+
+1039
+00:52:30,766 --> 00:52:32,800
+so this is where René works I'm gonna look around
+
+1040
+00:52:32,800 --> 00:52:33,700
+if you must
+
+1041
+00:52:33,866 --> 00:52:36,766
+but please hurry we are pretty easy to spot up here
+
+1042
+00:52:37,600 --> 00:52:38,625
+equip the bag
+
+1043
+00:52:39,675 --> 00:52:40,571
+oh I forgot I wasn't holding my bag
+
+1044
+00:52:40,571 --> 00:52:42,600
+nothing incriminating catches your eye
+
+1045
+00:52:43,200 --> 00:52:44,262
+the cabinets are clean 
+
+1046
+00:52:44,262 --> 00:52:47,633
+and their sparse contents meticulously organized 
+
+1047
+00:52:47,833 --> 00:52:50,100
+there's a framed photograph on the table
+
+1048
+00:52:51,500 --> 00:52:52,285
+ let's get that picture
+
+1049
+00:52:52,285 --> 00:52:55,925
+it's a black and white photo of a young couple out in a street fair
+
+1050
+00:52:56,233 --> 00:53:00,500
+the man René is dressed in a Royal Carabineer uniform
+
+1051
+00:53:00,833 --> 00:53:03,066
+the girl is young and very pretty
+
+1052
+00:53:03,500 --> 00:53:06,066
+she is smiling playfully at the camera
+
+1053
+00:53:06,100 --> 00:53:08,166
+Renee looks like he's about to smile
+
+1054
+00:53:08,833 --> 00:53:11,500
+this photo must be tied to some good memories
+
+1055
+00:53:11,500 --> 00:53:13,300
+why did you take that picture of René
+
+1056
+00:53:18,833 --> 00:53:19,966
+I'm gonna ask him about that
+
+1057
+00:53:19,966 --> 00:53:22,600
+you're *really* interested in that old soldier
+
+1058
+00:53:23,233 --> 00:53:24,989
+not sure I understand your fascination 
+
+1059
+00:53:24,989 --> 00:53:26,400
+but sure
+
+1060
+00:53:26,400 --> 00:53:28,366
+as long as it doesn't take up a whole lot of time
+
+1061
+00:53:28,366 --> 00:53:29,525
+oh
+
+1062
+00:53:30,475 --> 00:53:32,970
+buddy everything we do takes up a lot of time
+
+1063
+00:53:35,266 --> 00:53:38,900
+okay I totally forgot that I have to equip my bag here
+
+1064
+00:53:39,700 --> 00:53:42,566
+I don't need to be holding my cigarettes at all times
+
+1065
+00:53:42,566 --> 00:53:45,291
+even though it does make me feel comfortable 
+
+1066
+00:53:52,566 --> 00:53:53,716
+let's pick up these bottles
+
+1067
+00:53:57,800 --> 00:53:59,200
+oh I can take all of them
+
+1068
+00:54:02,366 --> 00:54:03,400
+I'm rich
+
+1069
+00:54:04,066 --> 00:54:05,533
+I'm gonna be fucking wealthy
+
+1070
+00:54:14,633 --> 00:54:15,333
+perfect
+
+1071
+00:54:18,233 --> 00:54:19,577
+what about in the windows 
+
+1072
+00:54:20,525 --> 00:54:22,075
+all good can't do anything there
+
+1073
+00:54:23,833 --> 00:54:25,700
+umm let's see here
+
+1074
+00:54:28,600 --> 00:54:30,100
+let's go check out that door
+
+1075
+00:54:33,500 --> 00:54:35,916
+okay I think that was all I could do up here
+
+1076
+00:54:38,700 --> 00:54:40,166
+I think we might be a communist
+
+1077
+00:54:40,166 --> 00:54:41,745
+also I'm gonna be fucking wealthy 
+
+1078
+00:54:41,745 --> 00:54:43,075
+hell yes we are
+
+1079
+00:54:43,666 --> 00:54:46,566
+look wealth is how I gain 
+
+1080
+00:54:47,766 --> 00:54:50,300
+the influence to help the people
+
+1081
+00:54:51,733 --> 00:54:52,825
+that's how we do it
+
+1082
+00:54:54,400 --> 00:54:57,200
+an imposing combination of a punch clock
+
+1083
+00:54:57,200 --> 00:55:00,466
+and a payphone is looking down at you from the wall
+
+1084
+00:55:00,866 --> 00:55:03,100
+a note on the side says
+
+1085
+00:55:03,100 --> 00:55:07,466
+tokens unavailable due to strike use change
+
+1086
+00:55:07,900 --> 00:55:10,425
+I did just pick up some cash
+
+1087
+00:55:11,600 --> 00:55:13,966
+the machine swallows your coin
+
+1088
+00:55:14,000 --> 00:55:16,866
+and seems to be waiting for your next move
+
+1089
+00:55:18,200 --> 00:55:20,158
+I've been here before huh
+
+1090
+00:55:23,466 --> 00:55:24,300
+let's try it out
+
+1091
+00:55:24,916 --> 00:55:28,066
+it's unclear whether you actually have muscle memory
+
+1092
+00:55:28,100 --> 00:55:30,116
+right now your finger is just drawing
+
+1093
+00:55:30,116 --> 00:55:32,266
+vaguely occult patterns in the air
+
+1094
+00:55:32,400 --> 00:55:33,333
+god damn it
+
+1095
+00:55:35,166 --> 00:55:36,166
+I might try this again
+
+1096
+00:55:36,166 --> 00:55:37,633
+undoubtedly no
+
+1097
+00:55:37,633 --> 00:55:41,500
+sure why not muscle memory is a tricky thing
+
+1098
+00:55:41,900 --> 00:55:43,400
+nothing tricky about that
+
+1099
+00:55:43,766 --> 00:55:46,866
+you just do fail repeat
+
+1100
+00:55:47,200 --> 00:55:48,366
+until it works
+
+1101
+00:55:48,566 --> 00:55:51,800
+all it takes is motivation and practice
+
+1102
+00:55:53,000 --> 00:55:55,400
+okay I guess there were some stairs that I missed
+
+1103
+00:55:58,766 --> 00:56:00,366
+are these ones okay
+
+1104
+00:56:09,133 --> 00:56:10,100
+what do we got here
+
+1105
+00:56:10,933 --> 00:56:13,500
+White Pine trees are printed onto the screen covering
+
+1106
+00:56:13,500 --> 00:56:15,066
+looks like a forest under snow
+
+1107
+00:56:27,566 --> 00:56:28,333
+what's this
+
+1108
+00:56:28,333 --> 00:56:31,266
+a rusting control panel with several knobs
+
+1109
+00:56:31,466 --> 00:56:36,933
+two buttons marked *Marche* and *Arret* are faded with use
+
+1110
+00:56:37,266 --> 00:56:39,800
+it seems to control the large crane above
+
+1111
+00:56:40,100 --> 00:56:43,466
+a container is attached to its hook block
+
+1112
+00:56:51,133 --> 00:56:53,100
+marche on
+
+1113
+00:56:53,766 --> 00:56:55,500
+arret of 
+
+1114
+00:56:59,466 --> 00:57:01,000
+rusting control panel with several knobs
+
+1115
+00:57:01,000 --> 00:57:02,400
+two buttons marked *Marche*
+
+1116
+00:57:07,466 --> 00:57:09,100
+sorry I was distracted by something
+
+1117
+00:57:09,100 --> 00:57:11,200
+hello there this is editor Brady
+
+1118
+00:57:11,400 --> 00:57:12,533
+my apologies for
+
+1119
+00:57:12,533 --> 00:57:14,766
+interrupting your viewing of the episode
+
+1120
+00:57:14,766 --> 00:57:16,866
+but I just wanted to
+
+1121
+00:57:17,066 --> 00:57:20,400
+mention for those who didn't catch this stream live
+
+1122
+00:57:21,466 --> 00:57:23,533
+around now in the play through
+
+1123
+00:57:23,733 --> 00:57:27,133
+I started to like really lose a lot of focus because
+
+1124
+00:57:27,366 --> 00:57:28,364
+I started to notice there was
+
+1125
+00:57:28,364 --> 00:57:32,366
+ a whole bunch of spam comments happening in the chat 
+
+1126
+00:57:32,400 --> 00:57:34,800
+and so my focus was kind of like all over the place
+
+1127
+00:57:34,800 --> 00:57:36,366
+trying to like ban these people
+
+1128
+00:57:36,766 --> 00:57:39,200
+um but the longer it went on
+
+1129
+00:57:39,200 --> 00:57:40,400
+we started to realize that like
+
+1130
+00:57:40,400 --> 00:57:43,900
+we were just getting like bot rated or something 
+
+1131
+00:57:43,900 --> 00:57:45,595
+there were just like hundreds of people 
+
+1132
+00:57:45,595 --> 00:57:47,525
+coming in and following all at once 
+
+1133
+00:57:47,525 --> 00:57:49,366
+and just spamming the same comments 
+
+1134
+00:57:49,366 --> 00:57:50,166
+so
+
+1135
+00:57:50,666 --> 00:57:52,900
+there's a couple of times during this whole like
+
+1136
+00:57:53,466 --> 00:57:55,966
+part at the docks that like I'm not
+
+1137
+00:57:56,400 --> 00:57:57,585
+you know paying 
+
+1138
+00:57:57,585 --> 00:57:59,666
+the closest attention to what's happening 
+
+1139
+00:58:00,000 --> 00:58:01,900
+um and it actually did have to like 
+
+1140
+00:58:01,900 --> 00:58:03,933
+end the play through early because of it
+
+1141
+00:58:03,933 --> 00:58:05,533
+so if you see me like
+
+1142
+00:58:05,866 --> 00:58:08,566
+looking away from the game at important moments
+
+1143
+00:58:08,933 --> 00:58:10,266
+uh that's why like
+
+1144
+00:58:10,266 --> 00:58:12,533
+chat was just being totally overrun with these things
+
+1145
+00:58:12,533 --> 00:58:14,266
+so my apologies for that
+
+1146
+00:58:14,400 --> 00:58:16,866
+and uh yeah editor Brady out
+
+1147
+00:58:24,066 --> 00:58:26,700
+container is trashed to its hook block
+
+1148
+00:58:28,366 --> 00:58:29,500
+I mean let's turn it on
+
+1149
+00:58:29,500 --> 00:58:32,733
+with a loud grind the crane shifts overhead
+
+1150
+00:58:32,900 --> 00:58:35,533
+moving a massive metal container through the air
+
+1151
+00:58:37,366 --> 00:58:40,266
+and with a surprisingly quiet thunk
+
+1152
+00:58:40,466 --> 00:58:42,800
+the crane places the container down
+
+1153
+00:58:43,066 --> 00:58:45,166
+this crane was built with a purpose
+
+1154
+00:58:45,166 --> 00:58:46,966
+which has now been fulfilled
+
+1155
+00:58:47,333 --> 00:58:49,566
+to move this container
+
+1156
+00:58:49,866 --> 00:58:51,266
+what's inside the container
+
+1157
+00:58:51,266 --> 00:58:54,733
+who can say all you know is it's special
+
+1158
+00:58:54,733 --> 00:58:57,200
+I can't see how that was worth the ruckus
+
+1159
+00:58:57,533 --> 00:58:59,400
+except for seeing the crane in action
+
+1160
+00:58:59,666 --> 00:59:01,500
+which I admit was satisfying
+
+1161
+00:59:02,000 --> 00:59:02,800
+okay
+
+1162
+00:59:06,333 --> 00:59:07,333
+let's go inspect
+
+1163
+00:59:11,900 --> 00:59:13,866
+some cash all right
+
+1164
+00:59:15,466 --> 00:59:17,266
+oh and something that can heal me
+
+1165
+00:59:18,466 --> 00:59:19,566
+thank goodness
+
+1166
+00:59:24,133 --> 00:59:25,800
+so was this a container
+
+1167
+00:59:25,800 --> 00:59:28,500
+before you stands a cargo container
+
+1168
+00:59:28,800 --> 00:59:30,800
+just one of many in the yard
+
+1169
+00:59:32,666 --> 00:59:33,100
+lieutenant
+
+1170
+00:59:33,100 --> 00:59:35,733
+I think there's something special about this container
+
+1171
+00:59:35,733 --> 00:59:36,533
+you do
+
+1172
+00:59:36,966 --> 00:59:38,000
+because I don't
+
+1173
+00:59:39,066 --> 00:59:41,133
+there are a million containers here
+
+1174
+00:59:41,400 --> 00:59:43,300
+why are you fixing on this one
+
+1175
+00:59:45,100 --> 00:59:46,866
+it was hanging from the crane
+
+1176
+00:59:48,100 --> 00:59:49,466
+maybe there's contraband in there
+
+1177
+00:59:49,466 --> 00:59:50,349
+there may very well be
+
+1178
+00:59:50,349 --> 00:59:52,166
+ but we are not here to look for that 
+
+1179
+00:59:53,133 --> 00:59:55,566
+we are not here to interact with containers
+
+1180
+00:59:55,600 --> 00:59:58,000
+we are here to interview the union boss
+
+1181
+00:59:58,500 --> 01:00:01,866
+well we did say that we would investigate the drug trade
+
+1182
+01:00:02,166 --> 01:00:03,491
+we did say that Kim
+
+1183
+01:00:05,125 --> 01:00:08,166
+you attempt to turn the handle to no avail
+
+1184
+01:00:08,666 --> 01:00:11,300
+the doors seem to be mechanically locked
+
+1185
+01:00:11,566 --> 01:00:14,700
+to your left the lieutenant considers your actions
+
+1186
+01:00:14,766 --> 01:00:16,066
+with some puzzlement
+
+1187
+01:00:16,733 --> 01:00:17,533
+no reply
+
+1188
+01:00:21,933 --> 01:00:23,700
+let's persuade the door to open
+
+1189
+01:00:24,700 --> 01:00:25,933
+3% I mean
+
+1190
+01:00:26,766 --> 01:00:27,766
+what's the harm right
+
+1191
+01:00:28,700 --> 01:00:32,133
+why are you even trying to open a door with rhetoric
+
+1192
+01:00:33,333 --> 01:00:36,300
+because getting physical wasn't an option
+
+1193
+01:00:37,766 --> 01:00:40,666
+now is not the time to get philosophical detective
+
+1194
+01:00:40,666 --> 01:00:42,466
+you can do that after hours
+
+1195
+01:00:42,666 --> 01:00:43,466
+okay
+
+1196
+01:00:43,966 --> 01:00:45,941
+somehow we'll have to get this door open
+
+1197
+01:00:53,300 --> 01:00:55,100
+but we won't be able to do it right now
+
+1198
+01:01:01,533 --> 01:01:03,566
+can try this white once every day
+
+1199
+01:01:03,566 --> 01:01:06,000
+I don't think we're gonna put any points into rhetoric
+
+1200
+01:01:06,000 --> 01:01:06,800
+so
+
+1201
+01:01:07,700 --> 01:01:09,300
+oh I've got some money here
+
+1202
+01:01:09,400 --> 01:01:11,558
+I'm fucking rolling in cash right now
+
+1203
+01:01:11,558 --> 01:01:15,300
+four real that's enough for two packs of cigarettes almost
+
+1204
+01:01:18,733 --> 01:01:21,300
+oh I do have a crowbar yes
+
+1205
+01:01:22,066 --> 01:01:23,200
+let's get the crowbar
+
+1206
+01:01:23,766 --> 01:01:27,166
+fucking that door is coming open now
+
+1207
+01:01:27,766 --> 01:01:30,266
+look I was able to knock out the racist
+
+1208
+01:01:30,333 --> 01:01:33,400
+if I can't get this door open I am truly lost
+
+1209
+01:01:33,866 --> 01:01:36,300
+let's go let's fucking go
+
+1210
+01:01:37,100 --> 01:01:38,466
+I will bust this thing open
+
+1211
+01:01:38,466 --> 01:01:39,800
+you're back before the cargo container
+
+1212
+01:01:40,200 --> 01:01:40,916
+open it
+
+1213
+01:01:40,916 --> 01:01:42,366
+you attempt to turn the handle
+
+1214
+01:01:42,533 --> 01:01:43,866
+to no avail
+
+1215
+01:01:43,866 --> 01:01:47,500
+to your left the lieutenant considers your actions
+
+1216
+01:01:47,533 --> 01:01:48,800
+with some puzzlement
+
+1217
+01:01:49,925 --> 01:01:51,933
+I can't open this with the crow
+
+1218
+01:01:58,000 --> 01:01:59,933
+the package not the door okay
+
+1219
+01:02:00,533 --> 01:02:01,700
+oh wait there's some money
+
+1220
+01:02:01,900 --> 01:02:04,491
+why is there just a bunch of money hanging around out there
+
+1221
+01:02:12,066 --> 01:02:12,933
+what we got
+
+1222
+01:02:16,066 --> 01:02:17,900
+oh some gloves
+
+1223
+01:02:21,350 --> 01:02:25,300
+okay so I can swap these for my interfacing ones
+
+1224
+01:02:26,066 --> 01:02:27,533
+the union is rich
+
+1225
+01:02:29,800 --> 01:02:31,133
+that's a good point
+
+1226
+01:02:31,566 --> 01:02:33,733
+mechanically sealed shipping crates are stronger than a
+
+1227
+01:02:33,733 --> 01:02:35,700
+pseudoscientific Übermensch
+
+1228
+01:02:38,800 --> 01:02:39,733
+look I just figured that
+
+1229
+01:02:39,733 --> 01:02:41,900
+if I could defeat racism with a punch
+
+1230
+01:02:41,933 --> 01:02:45,333
+then I should be able to pry open those doors
+
+1231
+01:02:52,566 --> 01:02:54,133
+wait there's a gentleman here
+
+1232
+01:02:54,133 --> 01:02:56,466
+let's ask him what he thinks about the situation
+
+1233
+01:02:56,466 --> 01:02:59,900
+container container I'll turn you nice and red
+
+1234
+01:03:00,075 --> 01:03:03,975
+container container put the logos on
+
+1235
+01:03:05,200 --> 01:03:08,366
+I've been having a lot of luck with my interactions 
+
+1236
+01:03:08,366 --> 01:03:10,133
+when I point the flashlight directly at them
+
+1237
+01:03:10,133 --> 01:03:11,600
+I feel like it's sort of a power play
+
+1238
+01:03:11,600 --> 01:03:12,400
+so I'm gonna keep doing that
+
+1239
+01:03:12,400 --> 01:03:15,866
+the accent is so thick it's impossible not to notice
+
+1240
+01:03:15,866 --> 01:03:17,016
+he's Ubi
+
+1241
+01:03:17,275 --> 01:03:21,391
+from the vanishing Peninsula of Ubi Sunt?(sic)on Mundi
+
+1242
+01:03:21,641 --> 01:03:22,566
+okay
+
+1243
+01:03:22,566 --> 01:03:25,850
+container container used to be Wild Pines
+
+1244
+01:03:25,850 --> 01:03:30,600
+container container now belongs to Evrart
+
+1245
+01:03:33,091 --> 01:03:33,766
+Hello
+
+1246
+01:03:33,766 --> 01:03:37,650
+Evrart Evrart Evrart he looks after everyone
+
+1247
+01:03:38,600 --> 01:03:39,400
+well
+
+1248
+01:03:39,533 --> 01:03:41,900
+hey there how can I help you mister
+
+1249
+01:03:42,066 --> 01:03:44,066
+the look in his deep blue eyes
+
+1250
+01:03:44,066 --> 01:03:46,466
+is as sincere as you've ever seen
+
+1251
+01:03:46,933 --> 01:03:50,388
+kind of makes you feel like an asshole for no apparent reason
+
+1252
+01:03:52,775 --> 01:03:55,400
+what did I say about social comparison right like
+
+1253
+01:03:56,250 --> 01:03:59,366
+it makes complete sense that seeing someone so jovial
+
+1254
+01:04:01,200 --> 01:04:03,449
+makes me immediately recognize 
+
+1255
+01:04:03,449 --> 01:04:06,766
+the contrast in my own mental health 
+
+1256
+01:04:08,400 --> 01:04:10,600
+I see you are not a union man Mister
+
+1257
+01:04:10,733 --> 01:04:11,900
+did you get lost
+
+1258
+01:04:11,933 --> 01:04:13,600
+you're not one of them scabs are you
+
+1259
+01:04:14,933 --> 01:04:17,100
+I am not a scab no
+
+1260
+01:04:18,866 --> 01:04:19,933
+what is it with you people
+
+1261
+01:04:19,933 --> 01:04:22,000
+I mean I don't personally mind
+
+1262
+01:04:22,000 --> 01:04:25,650
+folks are just folks you know and folks gotta eat
+
+1263
+01:04:26,466 --> 01:04:27,900
+just some of the other guys
+
+1264
+01:04:27,900 --> 01:04:29,966
+don't look too kindly on the scabbing kind
+
+1265
+01:04:29,966 --> 01:04:31,400
+if you know what I mean Mister
+
+1266
+01:04:32,766 --> 01:04:33,533
+you're Ubi right
+
+1267
+01:04:33,533 --> 01:04:36,100
+Oh yes born and raised in Iraesh Mister
+
+1268
+01:04:36,100 --> 01:04:38,766
+Mum had to leave my dad after he got a bit violent
+
+1269
+01:04:38,866 --> 01:04:40,600
+took us here to the new new world
+
+1270
+01:04:40,600 --> 01:04:43,800
+I was about 10 then too old to lose my accent then
+
+1271
+01:04:43,800 --> 01:04:44,733
+people say us
+
+1272
+01:04:44,733 --> 01:04:46,200
+Ubis are up to all sorts of
+
+1273
+01:04:46,200 --> 01:04:48,566
+trouble with sheep and other animals and what not
+
+1274
+01:04:48,666 --> 01:04:49,772
+I just want you to know 
+
+1275
+01:04:49,772 --> 01:04:52,300
+there was never any of that where I come from 
+
+1276
+01:04:52,300 --> 01:04:55,266
+no sir those are just nasty rumours
+
+1277
+01:04:55,266 --> 01:04:57,300
+thank you for clarifying that sir
+
+1278
+01:04:58,716 --> 01:04:59,666
+okay
+
+1279
+01:05:00,208 --> 01:05:01,566
+where is everyone
+
+1280
+01:05:01,566 --> 01:05:04,133
+oh most of the guys are down at the gates
+
+1281
+01:05:04,133 --> 01:05:05,900
+keeping the scabs from coming in
+
+1282
+01:05:06,358 --> 01:05:07,500
+we're on a strike
+
+1283
+01:05:07,500 --> 01:05:09,100
+the whole union is
+
+1284
+01:05:09,166 --> 01:05:11,441
+you don't have to work when you're on strike
+
+1285
+01:05:12,275 --> 01:05:14,666
+we haven't worked for two months now
+
+1286
+01:05:14,733 --> 01:05:15,600
+I guess it's good
+
+1287
+01:05:15,600 --> 01:05:16,700
+no one is working
+
+1288
+01:05:17,966 --> 01:05:19,966
+not everyone is down there of course
+
+1289
+01:05:20,333 --> 01:05:23,266
+Mr Evtart is in his office where he always is
+
+1290
+01:05:23,333 --> 01:05:25,533
+and Jean-Luc is guarding the gate
+
+1291
+01:05:25,533 --> 01:05:27,008
+not anymore
+
+1292
+01:05:28,266 --> 01:05:30,700
+but Titus and his boys got into some drunken trouble
+
+1293
+01:05:30,700 --> 01:05:33,300
+and Eva sent him on a nice vacation
+
+1294
+01:05:33,400 --> 01:05:34,666
+for a week or so
+
+1295
+01:05:36,933 --> 01:05:39,500
+um one second
+
+1296
+01:05:41,500 --> 01:05:44,500
+what kind of trouble did this Titus and his friends get into 
+
+1297
+01:05:44,500 --> 01:05:45,666
+to talk about that
+
+1298
+01:05:45,766 --> 01:05:47,400
+that's union business
+
+1299
+01:05:48,733 --> 01:05:49,966
+sorry I'm a little distracted
+
+1300
+01:05:49,966 --> 01:05:51,209
+because there's a bunch of people spamming
+
+1301
+01:05:51,209 --> 01:05:52,900
+ a bunch of bullshit in chat 
+
+1302
+01:05:54,066 --> 01:05:56,666
+so I'm just trying to like clean them up
+
+1303
+01:05:57,575 --> 01:05:58,900
+while I'm doing this
+
+1304
+01:06:00,266 --> 01:06:01,533
+I'm not really supposed to talk about that
+
+1305
+01:06:01,533 --> 01:06:02,466
+that's union vision
+
+1306
+01:06:02,466 --> 01:06:04,533
+him and his boys stirred something up in town
+
+1307
+01:06:04,533 --> 01:06:07,333
+probably drank too much and got into a fight or something
+
+1308
+01:06:07,533 --> 01:06:10,500
+I heard Mr Evrart telling him to take some time off
+
+1309
+01:06:10,533 --> 01:06:13,766
+don't go all bad cop on this simple friendly fellow
+
+1310
+01:06:17,933 --> 01:06:18,766
+here's the thing
+
+1311
+01:06:18,800 --> 01:06:19,875
+every time I see someone
+
+1312
+01:06:19,875 --> 01:06:21,360
+who is in good mood 
+
+1313
+01:06:21,360 --> 01:06:24,266
+or approaches me with a very open posture
+
+1314
+01:06:24,266 --> 01:06:25,900
+I'm immediately suspicious of them
+
+1315
+01:06:27,100 --> 01:06:31,733
+it happened with the very  
+
+1316
+01:06:32,200 --> 01:06:33,866
+approachable lady in the wheelchair
+
+1317
+01:06:33,866 --> 01:06:36,166
+however she immediately disarmed me with her
+
+1318
+01:06:39,266 --> 01:06:40,133
+I guess like
+
+1319
+01:06:40,566 --> 01:06:44,933
+simple admiration of me and her very honest reflections
+
+1320
+01:06:47,666 --> 01:06:50,200
+guys mod team can we
+
+1321
+01:06:51,166 --> 01:06:53,100
+ban all of these people
+
+1322
+01:06:53,133 --> 01:06:55,500
+who are just spamming a bunch of bullshit
+
+1323
+01:06:55,500 --> 01:06:57,600
+I'm trying to do some of them myself but
+
+1324
+01:06:59,600 --> 01:07:01,400
+I'm suspicious because like
+
+1325
+01:07:01,716 --> 01:07:03,566
+the natural conclusion
+
+1326
+01:07:06,000 --> 01:07:10,487
+that most of the people who like I encounter in this world  
+
+1327
+01:07:10,487 --> 01:07:12,133
+have some sort of issue
+
+1328
+01:07:12,133 --> 01:07:13,200
+they want something
+
+1329
+01:07:14,666 --> 01:07:15,733
+what does he want
+
+1330
+01:07:16,475 --> 01:07:17,666
+what does he want from me
+
+1331
+01:07:19,000 --> 01:07:22,575
+I guess the boys got a bit too rowdy and had to let out some steam
+
+1332
+01:07:22,575 --> 01:07:24,700
+I don't really know the details
+
+1333
+01:07:24,700 --> 01:07:26,500
+that's just how boys are you know
+
+1334
+01:07:27,600 --> 01:07:30,533
+I haven't been in a fight since I was in middle school
+
+1335
+01:07:31,100 --> 01:07:33,966
+easy Leo let's keep this on the Hardies
+
+1336
+01:07:37,866 --> 01:07:40,333
+too rowdy Leo what kind of a fight did they get into
+
+1337
+01:07:40,400 --> 01:07:41,333
+did they kill a mercenary
+
+1338
+01:07:41,333 --> 01:07:44,300
+too late Leo's mouth is still moving
+
+1339
+01:07:44,300 --> 01:07:46,500
+and the words are sprewing forth
+
+1340
+01:07:46,733 --> 01:07:50,400
+words words and look even more words
+
+1341
+01:07:50,566 --> 01:07:53,733
+this guy could go on until the end of days
+
+1342
+01:07:53,733 --> 01:07:54,733
+what's he seen though
+
+1343
+01:07:54,733 --> 01:07:58,266
+now he's talking about some drunk Sawmill owner who
+
+1344
+01:07:58,700 --> 01:08:00,200
+no he already
+
+1345
+01:08:00,200 --> 01:08:02,166
+switched to a prized fishing rod
+
+1346
+01:08:02,166 --> 01:08:04,333
+he apparently owned at some point
+
+1347
+01:08:04,533 --> 01:08:05,333
+you know what
+
+1348
+01:08:05,500 --> 01:08:08,300
+just cut in there with your questions
+
+1349
+01:08:09,200 --> 01:08:10,733
+all right Leo what's up with the containers
+
+1350
+01:08:10,733 --> 01:08:13,566
+oh I'm just making some covers for them containers here
+
+1351
+01:08:13,700 --> 01:08:15,400
+yes I am yes I am
+
+1352
+01:08:15,533 --> 01:08:18,333
+so it's easier for the crane operators to spot them
+
+1353
+01:08:19,766 --> 01:08:20,933
+17 percent
+
+1354
+01:08:21,566 --> 01:08:24,766
+I have not failed a 17 percenter yet
+
+1355
+01:08:28,066 --> 01:08:31,566
+17 percent is 100% so far it has been in my book
+
+1356
+01:08:32,366 --> 01:08:34,700
+everything is so pretty and red
+
+1357
+01:08:34,766 --> 01:08:36,507
+you and Leo look like brothers
+
+1358
+01:08:36,507 --> 01:08:40,391
+ as you glance around with similar childlike wonder 
+
+1359
+01:08:41,591 --> 01:08:44,183
+okay I'm starting to recognize
+
+1360
+01:08:44,183 --> 01:08:48,566
+that my early luck was very very limited
+
+1361
+01:08:52,066 --> 01:08:53,800
+I'll just keep the amazement to yourself
+
+1362
+01:08:53,800 --> 01:08:56,366
+and hums a jaunty to himself
+
+1363
+01:08:56,366 --> 01:08:57,333
+okay
+
+1364
+01:08:57,333 --> 01:09:00,700
+yes everybody needs a job and this is mine
+
+1365
+01:09:00,700 --> 01:09:02,133
+I'm Leonard by the way
+
+1366
+01:09:02,166 --> 01:09:05,266
+Leonard Bellec but everyone calls me Leo
+
+1367
+01:09:07,533 --> 01:09:08,466
+oh my God
+
+1368
+01:09:09,300 --> 01:09:11,866
+every every time I ban someone there's another one
+
+1369
+01:09:12,216 --> 01:09:13,066
+fuck off
+
+1370
+01:09:15,900 --> 01:09:18,041
+I'm like Mr Evrart's right hand man
+
+1371
+01:09:18,041 --> 01:09:19,966
+when Mr Edgar is out of town
+
+1372
+01:09:20,000 --> 01:09:23,825
+and Mr Edgar's right hand man when Mr Evrart is away
+
+1373
+01:09:25,500 --> 01:09:27,933
+actually Ms Beaufort is the right hand man
+
+1374
+01:09:27,933 --> 01:09:29,466
+but she's a lady
+
+1375
+01:09:30,966 --> 01:09:32,566
+who is this Miss Beauforr
+
+1376
+01:09:34,533 --> 01:09:35,891
+a real pretty lady
+
+1377
+01:09:35,891 --> 01:09:38,493
+ with a skin like those 'Doux & Sucre' 
+
+1378
+01:09:38,493 --> 01:09:40,166
+caddy bars my missus like so much 
+
+1379
+01:09:40,166 --> 01:09:43,300
+them are real nice to suckle on once the dinner is done
+
+1380
+01:09:43,300 --> 01:09:44,900
+and me and the messes sit down
+
+1381
+01:09:44,900 --> 01:09:46,133
+besides the radio
+
+1382
+01:09:48,400 --> 01:09:50,733
+but I can't listen to the radio all the time
+
+1383
+01:09:50,733 --> 01:09:52,350
+there's so much to do around here
+
+1384
+01:09:52,350 --> 01:09:54,933
+and I'm always busy keeping things running here
+
+1385
+01:09:55,000 --> 01:09:56,900
+yes I am yes I am
+
+1386
+01:09:57,200 --> 01:10:00,000
+stay on this Miss Beaufort topic
+
+1387
+01:10:00,300 --> 01:10:01,333
+who is this Miss Beaufort
+
+1388
+01:10:01,333 --> 01:10:02,075
+oh Lizzie
+
+1389
+01:10:02,341 --> 01:10:04,500
+she is a real sharp tool
+
+1390
+01:10:04,800 --> 01:10:07,966
+Mr. Evrart put her through some fancy school and everything 
+
+1391
+01:10:07,966 --> 01:10:09,166
+east of the river
+
+1392
+01:10:09,533 --> 01:10:10,900
+four years she was gone
+
+1393
+01:10:10,900 --> 01:10:14,333
+and when she came back she was all fancy and loyerly
+
+1394
+01:10:16,333 --> 01:10:19,933
+yeah I am only lucky with the important checks
+
+1395
+01:10:19,933 --> 01:10:24,125
+it's a good point that like a lot of these like very simple ones
+
+1396
+01:10:24,125 --> 01:10:25,800
+those are the ones I'm failing
+
+1397
+01:10:26,000 --> 01:10:28,145
+but I'm not having any trouble with like the major
+
+1398
+01:10:29,422 --> 01:10:30,635
+ game defining ones 
+
+1399
+01:10:30,635 --> 01:10:31,900
+ like shooting the guy down
+
+1400
+01:10:32,566 --> 01:10:34,400
+but she's a real nice girl
+
+1401
+01:10:34,600 --> 01:10:36,333
+grew up in this here neighborhood
+
+1402
+01:10:36,333 --> 01:10:39,100
+knows everybody and gets along with everyone
+
+1403
+01:10:39,100 --> 01:10:42,166
+real pillar of the community one day I'm sure
+
+1404
+01:10:42,933 --> 01:10:46,733
+for a fraction of a second this sadness in his eyes
+
+1405
+01:10:48,733 --> 01:10:50,266
+let's peel back the layers of Leo
+
+1406
+01:10:50,266 --> 01:10:51,933
+if me missus and me was to have a child
+
+1407
+01:10:51,933 --> 01:10:54,300
+I'd be real happy if she turned out like her
+
+1408
+01:10:54,600 --> 01:10:56,333
+but she can't have kids
+
+1409
+01:10:56,600 --> 01:10:58,500
+oh fuck Leo
+
+1410
+01:10:58,666 --> 01:11:00,533
+and she knows about such things
+
+1411
+01:11:00,800 --> 01:11:03,700
+being a doctor for almost 50 years she has
+
+1412
+01:11:04,700 --> 01:11:06,800
+I think you're doing a great job around here Leo
+
+1413
+01:11:06,800 --> 01:11:09,066
+this place really seems to run like clockwork
+
+1414
+01:11:09,100 --> 01:11:10,133
+keep it up Leo
+
+1415
+01:11:10,766 --> 01:11:14,466
+well thanks a lot coming from you it means a lot really
+
+1416
+01:11:16,366 --> 01:11:17,200
+sometimes I feel
+
+1417
+01:11:17,200 --> 01:11:18,685
+some of the guys don't really get 
+
+1418
+01:11:18,685 --> 01:11:20,700
+how much I bust my ass for them here 
+
+1419
+01:11:20,900 --> 01:11:22,266
+but you guys are all right
+
+1420
+01:11:22,566 --> 01:11:24,900
+the white rectangle on your clothes
+
+1421
+01:11:24,900 --> 01:11:27,366
+might not mean an awful lot in Martinaise
+
+1422
+01:11:27,366 --> 01:11:29,866
+but the recognition from an authority figure
+
+1423
+01:11:30,000 --> 01:11:31,500
+made Leo's day
+
+1424
+01:11:31,733 --> 01:11:33,300
+oh look at that
+
+1425
+01:11:33,733 --> 01:11:36,725
+see here's another point that like I said
+
+1426
+01:11:36,725 --> 01:11:38,533
+sometimes people who are 
+
+1427
+01:11:39,220 --> 01:11:41,616
+really working through something difficult
+
+1428
+01:11:41,616 --> 01:11:43,166
+especially like
+
+1429
+01:11:44,166 --> 01:11:46,966
+the relationship with yourself kind of thing
+
+1430
+01:11:47,733 --> 01:11:50,266
+they tend to overlook moments like this
+
+1431
+01:11:50,266 --> 01:11:52,333
+where they actually do like
+
+1432
+01:11:54,750 --> 01:11:58,250
+do something that they should be proud of right
+
+1433
+01:11:59,133 --> 01:12:00,867
+I think that my guy would
+
+1434
+01:12:00,867 --> 01:12:04,566
+ find it very easy to minimize situations like this 
+
+1435
+01:12:05,066 --> 01:12:05,900
+where he would say well
+
+1436
+01:12:05,900 --> 01:12:07,900
+it was only because Kim was there that
+
+1437
+01:12:08,200 --> 01:12:10,133
+Leo felt good after we said that
+
+1438
+01:12:10,166 --> 01:12:12,933
+oh it's only because I was wearing the coat
+
+1439
+01:12:13,133 --> 01:12:16,449
+I think he would overlook and not necessarily assign  
+
+1440
+01:12:16,449 --> 01:12:19,000
+the fact that it was my dialogue with him and
+
+1441
+01:12:19,275 --> 01:12:23,350
+the earnestness that we were having this conversation
+
+1442
+01:12:26,133 --> 01:12:28,666
+that actually made this guy's day right
+
+1443
+01:12:29,925 --> 01:12:32,525
+something about this interaction should tell Raphael
+
+1444
+01:12:32,525 --> 01:12:35,166
+that like you have the capacity to be a good person
+
+1445
+01:12:37,333 --> 01:12:40,733
+and empathy I'm glad chimed in to let us know that
+
+1446
+01:12:40,733 --> 01:12:42,600
+but look I almost didn't succeed at that
+
+1447
+01:12:43,916 --> 01:12:46,200
+these are the kinds of narratives that I would want my
+
+1448
+01:12:46,525 --> 01:12:48,100
+character to focus on
+
+1449
+01:12:51,858 --> 01:12:53,600
+are you the Leo who wrote the note to make more banners
+
+1450
+01:12:53,600 --> 01:12:57,200
+oh yes yes I leave all kinds of notes for myself
+
+1451
+01:12:57,200 --> 01:12:58,266
+that old head of mine
+
+1452
+01:12:58,266 --> 01:13:00,366
+ain't so good at keeping things in no more
+
+1453
+01:13:00,366 --> 01:13:02,666
+I almost forgot about the borscht
+
+1454
+01:13:03,625 --> 01:13:04,700
+what was that about the borscht
+
+1455
+01:13:04,700 --> 01:13:05,333
+oh yes
+
+1456
+01:13:05,333 --> 01:13:08,100
+I've been taking special whirling borscht to the men
+
+1457
+01:13:08,100 --> 01:13:10,666
+every day since the strike started
+
+1458
+01:13:11,800 --> 01:13:13,700
+that's very very good
+
+1459
+01:13:13,700 --> 01:13:16,166
+makes a man feel so warm and happy
+
+1460
+01:13:16,166 --> 01:13:19,000
+I feel like I could take on Mr Renaudin's boardogs
+
+1461
+01:13:19,000 --> 01:13:20,950
+every time the lunch is done
+
+1462
+01:13:21,466 --> 01:13:25,386
+see measurehead okay 
+
+1463
+01:13:25,386 --> 01:13:26,933
+ a little bit of Al Gul
+
+1464
+01:13:27,900 --> 01:13:30,133
+is what is brightening up Leo's world
+
+1465
+01:13:30,133 --> 01:13:31,266
+look how happy he is
+
+1466
+01:13:31,266 --> 01:13:32,400
+power borscht
+
+1467
+01:13:32,766 --> 01:13:34,500
+never heard of a borscht that turns little
+
+1468
+01:13:34,500 --> 01:13:36,100
+guys into dogfighters
+
+1469
+01:13:36,525 --> 01:13:38,333
+alcohol however
+
+1470
+01:13:39,741 --> 01:13:42,300
+yes yes I'm taking it to them
+
+1471
+01:13:42,333 --> 01:13:45,133
+the borscht keeps them happy and in Fighting spirits
+
+1472
+01:13:45,133 --> 01:13:46,766
+makes you all warm inside
+
+1473
+01:13:46,766 --> 01:13:49,300
+they brew it in the whirling in rags
+
+1474
+01:13:49,300 --> 01:13:50,966
+wait hold up is it the guy in the
+
+1475
+01:13:50,966 --> 01:13:52,600
+in the kitchen who I couldn't talk to
+
+1476
+01:13:52,600 --> 01:13:54,166
+oh the whirlings cook
+
+1477
+01:13:54,166 --> 01:13:55,566
+he makes it
+
+1478
+01:13:55,566 --> 01:13:56,033
+It is
+
+1479
+01:13:56,033 --> 01:13:59,533
+talking with Mr Manana in that weird language and laughing together
+
+1480
+01:13:59,566 --> 01:14:02,500
+he doesn't speak what we speak he's from Graad
+
+1481
+01:14:02,566 --> 01:14:06,700
+fuck okay Mr Manana is the guy we need to talk to then
+
+1482
+01:14:10,466 --> 01:14:11,666
+looks like the borscht is spiking
+
+1483
+01:14:11,666 --> 01:14:12,933
+oh sure master
+
+1484
+01:14:13,133 --> 01:14:15,900
+sure you do that yes sir
+
+1485
+01:14:17,400 --> 01:14:18,300
+what's in the container
+
+1486
+01:14:18,300 --> 01:14:21,700
+oh that one that should be empty as far as I know
+
+1487
+01:14:21,966 --> 01:14:24,366
+lots of containers here have nothing in them
+
+1488
+01:14:24,366 --> 01:14:26,333
+they're just waiting to be loaded up
+
+1489
+01:14:26,500 --> 01:14:27,300
+told you
+
+1490
+01:14:29,891 --> 01:14:30,933
+Alright I'm looking for the leader
+
+1491
+01:14:30,933 --> 01:14:32,600
+oh you want Mr Evrart then
+
+1492
+01:14:32,766 --> 01:14:34,700
+he's an awfully nice fellow he is
+
+1493
+01:14:34,900 --> 01:14:36,966
+him and his brother are both nice fellows
+
+1494
+01:14:36,966 --> 01:14:39,766
+they've lived their entire lives in this here neighborhood
+
+1495
+01:14:41,100 --> 01:14:43,800
+guys like Mr Evrart and Mr Edgar his brother
+
+1496
+01:14:43,800 --> 01:14:45,100
+are real good guys
+
+1497
+01:14:45,266 --> 01:14:47,066
+made Martinaise what it is today
+
+1498
+01:14:47,533 --> 01:14:49,466
+Mr Evrart and Mr Edgar and I
+
+1499
+01:14:49,466 --> 01:14:51,000
+went to the same school we did
+
+1500
+01:14:51,000 --> 01:14:52,300
+when we were boys
+
+1501
+01:14:52,300 --> 01:14:53,133
+patience
+
+1502
+01:14:53,700 --> 01:14:56,366
+deep down you have the mental power to keep listening
+
+1503
+01:14:56,800 --> 01:14:59,466
+not many would but you do
+
+1504
+01:15:00,600 --> 01:15:02,966
+I'm glad I expected to volition for this
+
+1505
+01:15:03,133 --> 01:15:04,166
+let's keep going
+
+1506
+01:15:05,466 --> 01:15:08,266
+at an arithmetics teacher Miss Bellows
+
+1507
+01:15:09,266 --> 01:15:11,000
+her real name was Miss Bellams
+
+1508
+01:15:11,000 --> 01:15:14,133
+she was a real pretty lady but when she got mad
+
+1509
+01:15:14,133 --> 01:15:16,800
+all the boys liked her if you know what I mean Mister
+
+1510
+01:15:16,966 --> 01:15:19,100
+we used to sneak in her yard in the dark and
+
+1511
+01:15:19,100 --> 01:15:20,300
+peek through the window
+
+1512
+01:15:20,500 --> 01:15:22,866
+one time we saw Miss Bellows with a fellow
+
+1513
+01:15:22,966 --> 01:15:25,266
+yes we did yes we did Mister
+
+1514
+01:15:26,900 --> 01:15:27,933
+don't say anything
+
+1515
+01:15:30,100 --> 01:15:31,700
+or no I should play into it
+
+1516
+01:15:31,766 --> 01:15:34,866
+yes we did we did master indeed we did
+
+1517
+01:15:35,000 --> 01:15:36,800
+Ham was a big big fellow
+
+1518
+01:15:36,933 --> 01:15:40,000
+used to drive the Troyka near our'ses school and everything 
+
+1519
+01:15:41,333 --> 01:15:42,766
+them was all naked too
+
+1520
+01:15:43,000 --> 01:15:44,500
+that's all I got to say about that
+
+1521
+01:15:45,066 --> 01:15:46,300
+thank you for telling me the whole time
+
+1522
+01:15:46,300 --> 01:15:47,800
+thank you eh
+
+1523
+01:15:47,933 --> 01:15:48,933
+almost forgot
+
+1524
+01:15:49,266 --> 01:15:52,066
+Mr Evrart is usually in that container over there
+
+1525
+01:15:52,100 --> 01:15:54,266
+but he usually leaves around 10 PM
+
+1526
+01:15:54,266 --> 01:15:56,266
+so you got to be quick if you want to catch him
+
+1527
+01:15:57,066 --> 01:15:58,733
+wait he's in the container
+
+1528
+01:16:02,141 --> 01:16:04,989
+lonesome long Way home
+
+1529
+01:16:07,100 --> 01:16:08,900
+ah this was the thought there we go
+
+1530
+01:16:09,200 --> 01:16:10,333
+home awaits
+
+1531
+01:16:10,366 --> 01:16:14,066
+walk past station 41 and through the market
+
+1532
+01:16:14,100 --> 01:16:16,200
+past the Boogie Street sparehead
+
+1533
+01:16:16,200 --> 01:16:18,066
+to the other side of the lake
+
+1534
+01:16:18,133 --> 01:16:20,733
+the frozen eye at the center of the district
+
+1535
+01:16:21,166 --> 01:16:24,866
+then past the video rental store on the corner
+
+1536
+01:16:24,866 --> 01:16:29,266
+there at the end of a street lined with pine trees
+
+1537
+01:16:29,266 --> 01:16:32,666
+a small house no larger than a matchbox
+
+1538
+01:16:32,966 --> 01:16:35,000
+11 Voyager Road
+
+1539
+01:16:35,366 --> 01:16:36,800
+you no longer live there
+
+1540
+01:16:37,066 --> 01:16:38,500
+those times are gone
+
+1541
+01:16:38,800 --> 01:16:40,366
+and so are those people
+
+1542
+01:16:40,933 --> 01:16:42,266
+why did you come here
+
+1543
+01:16:42,566 --> 01:16:44,066
+why are you still here
+
+1544
+01:16:44,366 --> 01:16:46,100
+and where's the dealer
+
+1545
+01:16:46,600 --> 01:16:48,400
+you have to get back to work
+
+1546
+01:16:48,700 --> 01:16:50,133
+that's all you have now
+
+1547
+01:16:51,075 --> 01:16:52,000
+okay
+
+1548
+01:16:52,133 --> 01:16:53,750
+some more insights into our past here
+
+1549
+01:16:53,750 --> 01:16:54,900
+what did we get
+
+1550
+01:16:57,133 --> 01:16:59,700
+our perceptions learning cap raise to 5
+
+1551
+01:16:59,700 --> 01:17:01,700
+speed gives one to sigh
+
+1552
+01:17:02,566 --> 01:17:03,366
+okay
+
+1553
+01:17:08,733 --> 01:17:10,133
+so it seems like
+
+1554
+01:17:10,466 --> 01:17:13,200
+we're actually looking for Mr Evrart in
+
+1555
+01:17:15,133 --> 01:17:16,258
+the container
+
+1556
+01:17:18,566 --> 01:17:20,000
+perception capterized
+
+1557
+01:17:20,000 --> 01:17:22,100
+yeah the thing is is I don't have very
+
+1558
+01:17:22,100 --> 01:17:24,533
+many points in perception anyways
+
+1559
+01:17:27,933 --> 01:17:30,300
+Evrart it's to the left of Leo so he's over here
+
+1560
+01:17:34,133 --> 01:17:37,425
+okay well I'm thinking of pausing here
+
+1561
+01:17:37,900 --> 01:17:38,900
+one because
+
+1562
+01:17:39,766 --> 01:17:42,617
+I can tell that my brain rot is developing
+
+1563
+01:17:42,617 --> 01:17:43,600
+ and also
+
+1564
+01:17:44,591 --> 01:17:47,658
+this will make a good starting point for their next stream
+
+1565
+01:17:48,566 --> 01:17:49,799
+yeah we're going to stop here
+
+1566
+01:17:49,799 --> 01:17:53,666
+ one because where chat is currently being overridden with bots 
+
+1567
+01:17:53,933 --> 01:17:57,566
+and I would like to cleanse all of them immediately
+
+1568
+01:17:58,166 --> 01:18:00,166
+it's a little distracting and also
+
+1569
+01:18:00,366 --> 01:18:03,100
+I've been streaming for almost 6 hours and this
+
+1570
+01:18:03,333 --> 01:18:05,166
+this is where brainrot settles in and
+
+1571
+01:18:05,400 --> 01:18:08,775
+I no longer have anything coherent to say
+
+1572
+01:18:09,866 --> 01:18:12,466
+yeah I did say I was gonna stream disco for one hour
+
+1573
+01:18:12,466 --> 01:18:13,266
+didn't I
+
+1574
+01:18:14,566 --> 01:18:16,066
+well that didn't succeed
+
+1575
+01:18:16,200 --> 01:18:19,166
+I've been streaming disco for almost three hours now
+
+1576
+01:18:19,266 --> 01:18:20,166
+what can I say
+
+1577
+01:18:20,466 --> 01:18:22,333
+it's a great fucking game and
+
+1578
+01:18:23,100 --> 01:18:24,333
+I feel like this time we actually
+
+1579
+01:18:24,333 --> 01:18:28,066
+made a decent little bit of progress in the narrative 
+
+1580
+01:18:28,933 --> 01:18:30,200
+thank you for watching my video
+
+1581
+01:18:30,200 --> 01:18:32,166
+if you enjoyed it consider giving it a like
+
+1582
+01:18:32,166 --> 01:18:34,466
+and letting me know what you thought of it in the comments 
+
+1583
+01:18:34,466 --> 01:18:36,266
+you can subscribe to catch the next video here
+
+1584
+01:18:36,266 --> 01:18:38,400
+or you can see things a little bit earlier
+
+1585
+01:18:38,400 --> 01:18:39,600
+if you support the channel
+
+1586
+01:18:39,600 --> 01:18:41,300
+either through Twitch or Patreon
+
+1587
+01:18:41,300 --> 01:18:42,300
+links to both of those
+
+1588
+01:18:42,300 --> 01:18:44,733
+and the community discord are in the description
+
+1589
+01:18:44,800 --> 01:18:46,533
+thanks again and I will see you next time
+

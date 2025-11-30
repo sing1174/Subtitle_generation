@@ -1,0 +1,5281 @@
+﻿1
+00:00:00,600 --> 00:00:01,400
+hello
+
+2
+00:00:01,400 --> 00:00:05,366
+and welcome to my therapist plays disco elysium analysis series
+
+3
+00:00:05,366 --> 00:00:06,933
+so on today's episode
+
+4
+00:00:06,933 --> 00:00:09,743
+the plot signed we are going to 
+
+5
+00:00:09,743 --> 00:00:15,546
+see if we can establish our authority with Titus the union boss   
+
+6
+00:00:15,546 --> 00:00:19,133
+we're gonna see if we can get a little closer to a confession from him on 
+
+7
+00:00:19,533 --> 00:00:23,533
+who exactly was involved with the murder in Martinez
+
+8
+00:00:23,800 --> 00:00:25,700
+and over on the analysis side
+
+9
+00:00:26,000 --> 00:00:31,140
+we're gonna be taking a deep dive into the rigorous self critique thought 
+
+10
+00:00:31,140 --> 00:00:33,291
+ now that we've finally internalized this one  
+
+11
+00:00:33,291 --> 00:00:35,500
+it opens the door for a lot of discussion on
+
+12
+00:00:35,966 --> 00:00:37,700
+Harry's sense of self
+
+13
+00:00:37,700 --> 00:00:40,716
+and kind of digging into the question of
+
+14
+00:00:40,716 --> 00:00:42,573
+ is he actually a good person
+
+15
+00:00:42,573 --> 00:00:43,790
+ and if he's not 
+
+16
+00:00:43,790 --> 00:00:47,100
+does  he think that it's possible to become one 
+
+17
+00:00:47,100 --> 00:00:49,200
+this one's a little bit heavier on the analysis
+
+18
+00:00:49,200 --> 00:00:49,250
+这一点在分析中占比会更大
+
+19
+00:00:49,266 --> 00:00:53,674
+but it's pretty exciting to finally peel back more layers of our character 
+
+20
+00:00:53,674 --> 00:00:55,400
+ so let's jump in
+
+21
+00:00:57,400 --> 00:01:00,866
+any predictions on where the story will go or who's the killer
+
+22
+00:01:02,566 --> 00:01:04,500
+I kind of had the idea
+
+23
+00:01:04,500 --> 00:01:04,566
+that we would be somewhat involved in the killing like
+
+24
+00:01:04,566 --> 00:01:07,733
+that we would be somewhat involved in the killing like
+
+25
+00:01:08,500 --> 00:01:12,133
+because we are so uninitiated to our own past
+
+26
+00:01:16,666 --> 00:01:19,766
+I don't think that we did it like would have hung him up like that
+
+27
+00:01:19,766 --> 00:01:22,333
+but I sort of have the suspicion that
+
+28
+00:01:24,466 --> 00:01:26,866
+the dock workers are kind of like a red herring
+
+29
+00:01:27,800 --> 00:01:29,100
+I just don't buy it
+
+30
+00:01:29,400 --> 00:01:30,733
+I just don't buy it
+
+31
+00:01:30,733 --> 00:01:32,600
+that's that's what we're leading
+
+32
+00:01:32,600 --> 00:01:33,500
+but I could be wrong
+
+33
+00:01:33,766 --> 00:01:37,066
+I am notoriously bad at predicting the plot
+
+34
+00:01:37,066 --> 00:01:38,600
+of anything ever like
+
+35
+00:01:38,766 --> 00:01:40,933
+when you have already probably noticed this
+
+36
+00:01:40,933 --> 00:01:46,000
+but like when politics or the plot are part of the dialogue
+
+37
+00:01:46,000 --> 00:01:47,733
+my brain like
+
+38
+00:01:49,266 --> 00:01:50,566
+it does this it feels like
+
+39
+00:01:50,566 --> 00:01:52,027
+it condenses down to like 
+
+40
+00:01:52,027 --> 00:01:54,100
+I have to I've had to do this before
+
+41
+00:01:54,100 --> 00:01:56,500
+where I’m like  okay what is happening here  
+
+42
+00:01:56,500 --> 00:02:00,400
+my brain is just equipped for like character or an analysis
+
+43
+00:02:00,933 --> 00:02:02,764
+and the way I engage with media just privately 
+
+44
+00:02:02,764 --> 00:02:04,133
+ is like when I’m watching something
+
+45
+00:02:04,133 --> 00:02:05,650
+I’m not really thinking about the plot 
+
+46
+00:02:05,998 --> 00:02:07,400
+I’m very rarely like what
+
+47
+00:02:07,400 --> 00:02:09,000
+I’m not like watching shutter island
+
+48
+00:02:09,000 --> 00:02:10,200
+and I’m like where is this going
+
+49
+00:02:10,466 --> 00:02:12,166
+I wonder what's gonna happen next
+
+50
+00:02:12,533 --> 00:02:14,459
+my brain just like accepts whatever's going to happen
+
+51
+00:02:14,459 --> 00:02:15,766
+but what I’m thinking about
+
+52
+00:02:15,766 --> 00:02:18,102
+is like wow what is that character feeling right now  
+
+53
+00:02:18,392 --> 00:02:19,430
+you know 
+
+54
+00:02:19,906 --> 00:02:21,700
+I wonder how like
+
+55
+00:02:22,066 --> 00:02:23,579
+whatever is going to happen to them  
+
+56
+00:02:23,579 --> 00:02:25,845
+is going to change their worldview 
+
+57
+00:02:25,845 --> 00:02:28,733
+like it's that's more where my mind is focused 
+
+58
+00:02:29,366 --> 00:02:30,787
+and I kind of just accept the plot
+
+59
+00:02:30,787 --> 00:02:33,366
+ whatever it is it doesn't that matter that much to me 
+
+60
+00:02:34,966 --> 00:02:36,733
+the sequence of things happening
+
+61
+00:02:36,900 --> 00:02:40,300
+unless it is so egregious that I’m like this doesn't make any sense 
+
+62
+00:02:41,966 --> 00:02:43,466
+what if it was Lena well
+
+63
+00:02:45,100 --> 00:02:46,628
+I refuse to accept that 
+
+64
+00:02:46,628 --> 00:02:49,415
+Lena is too kind hearted and good natured 
+
+65
+00:02:49,415 --> 00:02:50,966
+ for her to be involved in that 
+
+66
+00:02:53,475 --> 00:02:53,500
+（读chat）“有趣的是 心理治疗师们似乎很抗拒做这种事
+
+67
+00:02:53,500 --> 00:02:55,708
+it's funny therapists often seem to struggle with things like
+
+68
+00:02:55,708 --> 00:02:55,733
+it's funny therapists often seem to struggle with things like
+
+69
+00:02:55,733 --> 00:02:58,000
+predicting stuff or telling if someone is lying well
+
+70
+00:02:58,366 --> 00:03:01,400
+it's true because like at the risk of  
+
+71
+00:03:01,400 --> 00:03:02,790
+like I always go on some sort of rant 
+
+72
+00:03:02,790 --> 00:03:05,766
+ at the beginning of these streams but um 
+
+73
+00:03:07,800 --> 00:03:10,933
+that's the thing is we are not detectives right
+
+74
+00:03:10,933 --> 00:03:12,700
+a therapist is not a detective
+
+75
+00:03:13,100 --> 00:03:16,900
+if someone comes into my uh therapy session
+
+76
+00:03:16,900 --> 00:03:20,001
+I’m always pretty upfront about the fact that like 
+
+77
+00:03:20,001 --> 00:03:25,533
+look my role is to help you in whatever capacity that I can right 
+
+78
+00:03:27,066 --> 00:03:30,400
+my philosophy on this is like if you give me good information
+
+79
+00:03:31,133 --> 00:03:33,333
+if you are honest about what you're going through
+
+80
+00:03:33,333 --> 00:03:36,400
+if you are open to challenging things
+
+81
+00:03:36,866 --> 00:03:39,966
+and the the the information that you give me about your life
+
+82
+00:03:39,966 --> 00:03:41,000
+and what you're going through is good
+
+83
+00:03:41,000 --> 00:03:44,300
+you will get good therapy right
+
+84
+00:03:44,300 --> 00:03:45,100
+because like I’m only
+
+85
+00:03:45,100 --> 00:03:47,805
+I’m gonna work off of what I receive  
+
+86
+00:03:48,684 --> 00:03:51,400
+if you give me bad information 
+
+87
+00:03:51,533 --> 00:03:55,700
+meaning that if you are dishonest if you are withholding things
+
+88
+00:03:55,700 --> 00:03:58,133
+if you lie about something
+
+89
+00:03:58,800 --> 00:04:03,361
+I’m gonna respond to that as if that's really 
+
+90
+00:04:03,361 --> 00:04:04,700
+you know that's honest because like 
+
+91
+00:04:04,700 --> 00:04:08,989
+I’m not there to like sort out of someone's lying to me or not  
+
+92
+00:04:08,989 --> 00:04:11,933
+I’m there to work off of their investment
+
+93
+00:04:11,933 --> 00:04:16,333
+like I can't work harder than them in some respects right
+
+94
+00:04:17,100 --> 00:04:18,166
+so if you give me good information
+
+95
+00:04:18,166 --> 00:04:19,126
+you'll get good help
+
+96
+00:04:19,126 --> 00:04:20,366
+ if you give me bad information
+
+97
+00:04:20,366 --> 00:04:21,162
+you'll get bad help 
+
+98
+00:04:21,162 --> 00:04:23,266
+because you could come in and say yeah
+
+99
+00:04:26,200 --> 00:04:30,133
+I’m doing great at my job there's nothing to talk about there
+
+100
+00:04:30,666 --> 00:04:33,133
+and you could be like failing at your job you could hate it 
+
+101
+00:04:33,133 --> 00:04:34,666
+it could be like the source of your depression
+
+102
+00:04:34,666 --> 00:04:37,466
+but if you tell me you're doing great I’m gonna be like cool let's move on 
+
+103
+00:04:38,533 --> 00:04:40,672
+I may have a suspicion down the line like 
+
+104
+00:04:40,672 --> 00:04:46,400
+hmm wait a second like you said earlier that your job is fine 
+
+105
+00:04:46,400 --> 00:04:49,400
+but it sounds like there are some stressful things
+
+106
+00:04:49,400 --> 00:04:53,133
+there like I might push into that at some point
+
+107
+00:04:54,600 --> 00:04:56,666
+but again like I’m only gonna really
+
+108
+00:04:57,733 --> 00:05:00,290
+I’m not there to like sort out what's true or not
+
+109
+00:05:00,290 --> 00:05:04,733
+I’m there to work off of what's brought in you know
+
+110
+00:05:04,933 --> 00:05:07,500
+so I guess that's why I’m not super good at detecting lies 
+
+111
+00:05:07,500 --> 00:05:09,600
+ because I’m not really looking for them
+
+112
+00:05:12,933 --> 00:05:14,766
+it takes you being honest I think
+
+113
+00:05:16,200 --> 00:05:20,266
+well sometimes I am surprised by my own predictions yes
+
+114
+00:05:20,800 --> 00:05:23,333
+it does happen from time to time that I get something
+
+115
+00:05:23,566 --> 00:05:27,666
+I have predicted like five things extremely accurately
+
+116
+00:05:27,666 --> 00:05:30,462
+in the course of like watching anime and stuff
+
+117
+00:05:30,462 --> 00:05:33,900
+ and everything else I just like someone said it in 
+
+118
+00:05:36,966 --> 00:05:40,533
+in one of the comments or something like
+
+119
+00:05:40,533 --> 00:05:42,608
+whenever I start saying like maybe 
+
+120
+00:05:42,608 --> 00:05:44,735
+you know that like just some random 
+
+121
+00:05:44,735 --> 00:05:46,866
+unhinged stuff is about to happen
+
+122
+00:05:46,866 --> 00:05:49,966
+do I have any personal idea of who the killer could be
+
+123
+00:05:51,700 --> 00:05:54,500
+who do I think did it well
+
+124
+00:05:56,366 --> 00:05:59,966
+look I gotta ask first if I’m asking who did it
+
+125
+00:05:59,966 --> 00:06:01,933
+I gotta ask who benefits okay
+
+126
+00:06:01,933 --> 00:06:01,966
+我要问谁是这起事件的受益者
+
+127
+00:06:01,966 --> 00:06:03,366
+I gotta ask myself
+
+128
+00:06:06,566 --> 00:06:13,166
+what does what does killing this man bring okay 
+
+129
+00:06:14,266 --> 00:06:17,800
+and I don't think that it was like a crime of passion
+
+130
+00:06:19,166 --> 00:06:20,415
+or it could be I don't know 
+
+131
+00:06:20,415 --> 00:06:22,966
+like I said prepare for me to get this wildly wrong 
+
+132
+00:06:22,966 --> 00:06:24,866
+this is wild speculation Brady
+
+133
+00:06:26,566 --> 00:06:29,066
+part of me wants to reject the impulse
+
+134
+00:06:29,066 --> 00:06:31,766
+that this is like a crime of passion
+
+135
+00:06:33,933 --> 00:06:36,400
+because it looks like pretty gruesome
+
+136
+00:06:37,166 --> 00:06:38,800
+and it makes me want to think well
+
+137
+00:06:39,466 --> 00:06:44,895
+I would only be here i f there were this murder 
+
+138
+00:06:45,261 --> 00:06:49,466
+ I think this is less about the murder victim 
+
+139
+00:06:49,466 --> 00:06:52,466
+and more about the changes to the society
+
+140
+00:06:52,466 --> 00:06:57,266
+that the murder will bring it will bring myself and Kim here 
+
+141
+00:06:57,866 --> 00:07:00,266
+lead us down some sort of path
+
+142
+00:07:02,733 --> 00:07:05,666
+I might not know enough about the guy that died to intuit something like that
+
+143
+00:07:05,666 --> 00:07:09,966
+oh I don't right like I said this is like baseless speculation 
+
+144
+00:07:11,900 --> 00:07:16,366
+just on like trying to find an interesting angle on it
+
+145
+00:07:17,333 --> 00:07:19,866
+I kind of doubt that it's any of these people
+
+146
+00:07:25,133 --> 00:07:26,266
+it's Tuesday
+
+147
+00:07:28,366 --> 00:07:30,466
+we need to interrogate the men in the union booth
+
+148
+00:07:30,466 --> 00:07:32,933
+find out what they know about the hanging in Martinez
+
+149
+00:07:38,066 --> 00:07:40,966
+it's gruesome because you didn't take it down for seven days
+
+150
+00:07:41,859 --> 00:07:42,900
+ that's true
+
+151
+00:07:42,900 --> 00:07:42,966
+确实
+
+152
+00:07:45,466 --> 00:07:48,333
+do I think disco elysium could be used as a tool for therapy sure 
+
+153
+00:07:49,366 --> 00:07:51,566
+I think anything as useful as a tool for therapy
+
+154
+00:07:51,566 --> 00:07:53,566
+in the hands of a skilled therapist
+
+155
+00:07:55,666 --> 00:07:56,546
+I work in games and 
+
+156
+00:07:56,546 --> 00:07:58,900
+there's been some talk about leveraging games in some form of therapy 
+
+157
+00:07:58,900 --> 00:07:59,933
+and for me at least playing
+
+158
+00:07:59,933 --> 00:08:01,933
+disco was an experience I connect with yeah
+
+159
+00:08:01,933 --> 00:08:02,000
+disco was an experience I connect with yeah
+
+160
+00:08:02,333 --> 00:08:08,000
+I think it would take the therapist and the gamer knowing lots of things about it 
+
+161
+00:08:13,500 --> 00:08:17,698
+yeah I mean like sometimes I recommend my clients to read a book  
+
+162
+00:08:17,698 --> 00:08:22,200
+I'll say here I want you to go read this book and talk about it with me 
+
+163
+00:08:22,600 --> 00:08:24,100
+because it's relevant to what you're going through
+
+164
+00:08:24,100 --> 00:08:29,533
+so I do see why in the future as games become more universal  
+
+165
+00:08:29,533 --> 00:08:30,300
+that I could be like
+
+166
+00:08:30,300 --> 00:08:33,966
+ hey you know I think this is relevant to what you're going through 
+
+167
+00:08:33,966 --> 00:08:37,066
+I think you should become a gamer and play disco elysium
+
+168
+00:08:40,666 --> 00:08:42,300
+so I know we already talked to these gentlemen
+
+169
+00:08:42,300 --> 00:08:44,400
+but I’m ready to give it another try
+
+170
+00:08:45,933 --> 00:08:46,988
+let's ask him if he did that 
+
+171
+00:08:46,988 --> 00:08:48,066
+ The Pretty Boy
+
+172
+00:08:48,466 --> 00:08:52,900
+You guys really love talking about that Pretty Boy
+
+173
+00:08:54,200 --> 00:08:55,000
+Funny
+
+174
+00:08:55,366 --> 00:08:59,166
+But my partner and I have a serious matter to discuss with you
+
+175
+00:09:02,733 --> 00:09:05,856
+let's see why is there a container belt around the dead man's neck 
+
+176
+00:09:05,856 --> 00:09:08,333
+ Container belt Like we used in the harbor 
+
+177
+00:09:10,349 --> 00:09:11,828
+Because we took it
+
+178
+00:09:11,828 --> 00:09:14,583
+ from the harbor where we work
+
+179
+00:09:14,933 --> 00:09:18,466
+then we went out back and used it to hang him
+
+180
+00:09:19,333 --> 00:09:21,466
+oh did he just admit to the crime
+
+181
+00:09:21,466 --> 00:09:22,866
+as he speaks
+
+182
+00:09:22,866 --> 00:09:28,321
+his fist contract going through the pulling motion again savoring it 
+
+183
+00:09:28,834 --> 00:09:32,617
+ what did he just did he  just did he admit to the crime
+
+184
+00:09:32,617 --> 00:09:39,400
+ We did this together All of us until he was dead 
+
+185
+00:09:40,300 --> 00:09:44,066
+that's why there's a container belt around his neck 
+
+186
+00:09:45,600 --> 00:09:48,257
+okay that's it the game's over we got the perpetrator
+
+187
+00:09:49,079 --> 00:09:50,261
+ we got to wrap it up 
+
+188
+00:09:50,261 --> 00:09:54,605
+no you don't what you have is seven honest men
+
+189
+00:09:55,278 --> 00:09:57,566
+  who thought it forthcoming to tell you what happened 
+
+190
+00:09:58,266 --> 00:10:00,400
+so that you don't waste any more of your time
+
+191
+00:10:01,066 --> 00:10:04,700
+they're plain to their considerable strength in numbers
+
+192
+00:10:04,866 --> 00:10:06,700
+don't talk about arresting them
+
+193
+00:10:06,866 --> 00:10:10,300
+you only bring attention to your inability to do so
+
+194
+00:10:11,766 --> 00:10:13,910
+okay authority I’m going to listen to you this time
+
+195
+00:10:13,910 --> 00:10:13,933
+okay authority I’m going to listen to you this time
+
+196
+00:10:18,966 --> 00:10:20,066
+so what they just
+
+197
+00:10:21,700 --> 00:10:24,766
+they just confessed I guess they did it
+
+198
+00:10:26,566 --> 00:10:27,681
+who called the shots that night 
+
+199
+00:10:27,681 --> 00:10:29,466
+ that's what I want to know
+
+200
+00:10:29,966 --> 00:10:32,066
+there will be no singling anyone out
+
+201
+00:10:32,766 --> 00:10:35,589
+you can't arrest a hardy boy
+
+202
+00:10:35,589 --> 00:10:38,375
+ without arresting all hardy boys 
+
+203
+00:10:38,375 --> 00:10:40,586
+well  fuck I want to arrest them all then 
+
+204
+00:10:41,026 --> 00:10:43,133
+ do you think you could arrest them all
+
+205
+00:10:43,400 --> 00:10:44,566
+kim's got my back
+
+206
+00:10:44,766 --> 00:10:47,006
+Titus keep addressing him 
+
+207
+00:10:47,006 --> 00:10:49,729
+he wants everyone to know he's in charge  
+
+208
+00:10:50,095 --> 00:10:52,564
+fucking okay authorities got my back as well
+
+209
+00:10:52,564 --> 00:10:56,766
+ look they may have one two three four five six seven  
+
+210
+00:10:56,933 --> 00:10:59,466
+plus eight individuals here
+
+211
+00:10:59,466 --> 00:11:04,846
+but I've got like several mental health problem voices  
+
+212
+00:11:05,396 --> 00:11:07,028
+more than that 
+
+213
+00:11:07,468 --> 00:11:08,800
+who are here to back me up
+
+214
+00:11:11,666 --> 00:11:13,200
+let's do it let's address him
+
+215
+00:11:15,466 --> 00:11:16,562
+let's play along
+
+216
+00:11:17,100 --> 00:11:19,566
+who do you fucking think does
+
+217
+00:11:26,266 --> 00:11:28,266
+bows of the bearded man
+
+218
+00:11:33,966 --> 00:11:37,200
+you do you give the commands
+
+219
+00:11:38,133 --> 00:11:41,200
+he wants everyone to know he's in charge so let's play along
+
+220
+00:11:41,400 --> 00:11:43,258
+that's right asshole
+
+221
+00:11:43,258 --> 00:11:48,533
+ Titus hardy runs the hardy boys ain't that so fellas 
+
+222
+00:11:50,500 --> 00:11:54,333
+I think you got your answer Mr Law 
+
+223
+00:11:54,333 --> 00:11:55,330
+so he's not the leader
+
+224
+00:11:55,330 --> 00:12:00,966
+no you did not get an answer Titus does administrative work
+
+225
+00:12:01,366 --> 00:12:04,307
+he pushes paper fills out forms 
+
+226
+00:12:04,307 --> 00:12:05,700
+the others can't read
+
+227
+00:12:06,400 --> 00:12:10,200
+but on that night they all acted as one man 
+
+228
+00:12:11,900 --> 00:12:16,000
+that's just some fucking psychological bullshit this
+
+229
+00:12:18,800 --> 00:12:19,600
+isn't that like
+
+230
+00:12:19,600 --> 00:12:22,900
+wasn't that like part of the defense of the fucking Manson people 
+
+231
+00:12:24,600 --> 00:12:25,500
+where it's like oh well
+
+232
+00:12:25,500 --> 00:12:29,400
+he didn't he didn't commit the crimes himself
+
+233
+00:12:29,400 --> 00:12:33,366
+he just radicalized a bunch of people to do it for him
+
+234
+00:12:35,800 --> 00:12:39,366
+I did spin kicked measurehead I did we did do that
+
+235
+00:12:42,866 --> 00:12:45,700
+let's ask why that they killed him
+
+236
+00:12:45,700 --> 00:12:50,766
+why because he was worthless mercenary scum
+
+237
+00:12:51,100 --> 00:12:56,476
+and he stepped out of line in my town
+
+238
+00:12:57,292 --> 00:12:58,800
+ who are you covering up for
+
+239
+00:12:58,966 --> 00:12:59,935
+that's what I want to know
+
+240
+00:12:59,935 --> 00:13:01,340
+ so he was a mercenary that's it 
+
+241
+00:13:01,340 --> 00:13:03,827
+ and he stepped out of line
+
+242
+00:13:04,877 --> 00:13:06,700
+ what kind of mercenary
+
+243
+00:13:07,333 --> 00:13:07,978
+get them Kim
+
+244
+00:13:07,978 --> 00:13:11,100
+ the kind that shows up when you start a strike
+
+245
+00:13:11,400 --> 00:13:14,064
+the *experienced* kind too 
+
+246
+00:13:14,064 --> 00:13:17,666
+had Co HoI and Seminee written all over him 
+
+247
+00:13:18,166 --> 00:13:20,766
+ex-Oranese Special Forces
+
+248
+00:13:24,266 --> 00:13:27,766
+a live grenade right here in *our* bar
+
+249
+00:13:28,133 --> 00:13:31,232
+this one has a special gripe with him coming here
+
+250
+00:13:31,465 --> 00:13:33,566
+ I can't prove it 
+
+251
+00:13:33,800 --> 00:13:37,384
+but I *know* he was sent by the Wild Pines
+
+252
+00:13:37,384 --> 00:13:40,141
+ they hired merk-shit like that 
+
+253
+00:13:40,141 --> 00:13:44,766
+ story of every strike from here to Samara 
+
+254
+00:13:45,866 --> 00:13:51,366
+so these guys think that wild pines got someone in here to
+
+255
+00:13:54,166 --> 00:13:55,500
+rile people up
+
+256
+00:13:58,733 --> 00:13:59,533
+I guess
+
+257
+00:14:03,933 --> 00:14:06,239
+how do you know that he was in special forces
+
+258
+00:14:06,239 --> 00:14:09,000
+ Cause one night he walked straight up to the mic and said 
+
+259
+00:14:09,100 --> 00:14:12,266
+I’m Oranjese goddamn special forces
+
+260
+00:14:12,266 --> 00:14:14,319
+and I’m gonna fuck you all 
+
+261
+00:14:15,292 --> 00:14:17,166
+ game volume needs some
+
+262
+00:14:19,066 --> 00:14:19,866
+adjustment okay
+
+263
+00:14:19,866 --> 00:14:20,666
+let's do that
+
+264
+00:14:26,700 --> 00:14:27,733
+let me know how that is
+
+265
+00:14:35,133 --> 00:14:37,287
+uh I sincerely doubt that happened
+
+266
+00:14:37,287 --> 00:14:40,366
+ yeah really had a gin and tonic up there 
+
+267
+00:14:40,600 --> 00:14:42,868
+sang some Oranjese paratrooper song 
+
+268
+00:14:42,868 --> 00:14:44,791
+and said he's gonna fuck everyone 
+
+269
+00:14:45,472 --> 00:14:47,266
+ we couldn't believe it either
+
+270
+00:14:47,300 --> 00:14:51,966
+but he fucking did right there like some kind of animal
+
+271
+00:14:52,733 --> 00:14:54,700
+but what did he actually do
+
+272
+00:14:54,700 --> 00:14:54,733
+"但他到底做*错*了什么"
+
+273
+00:14:55,333 --> 00:14:59,525
+he harassed women raped one harassed workers
+
+274
+00:14:59,525 --> 00:15:01,866
+ threatened to kill some as a warning 
+
+275
+00:15:05,166 --> 00:15:07,566
+there's a slight unease in him suddenly
+
+276
+00:15:07,933 --> 00:15:09,809
+he regrets mentioning the rape
+
+277
+00:15:10,042 --> 00:15:13,100
+ to kill us all if we don't open the gates 
+
+278
+00:15:13,333 --> 00:15:18,247
+if we don't let the scabs in if we don't bend over  
+
+279
+00:15:18,658 --> 00:15:21,700
+that was *before* he started coming here
+
+280
+00:15:24,466 --> 00:15:26,893
+yeah he said it was his 'favorite joint' now 
+
+281
+00:15:26,893 --> 00:15:28,951
+started to come in here every night   
+
+282
+00:15:29,427 --> 00:15:33,750
+drinking grabbing girls grab one of ours mid-karaoke 
+
+283
+00:15:33,750 --> 00:15:35,700
+ right there on the stage
+
+284
+00:15:38,100 --> 00:15:39,200
+I wonder why
+
+285
+00:15:41,133 --> 00:15:42,896
+I'll save it I'll save my critique after
+
+286
+00:15:42,896 --> 00:15:44,133
+ He grabbed someone
+
+287
+00:15:46,066 --> 00:15:48,178
+the lieutenant is trying to make sense of this float of information 
+
+288
+00:15:48,178 --> 00:15:51,617
+yeah this girl's on the mic a beautiful girl young  
+
+289
+00:15:51,617 --> 00:15:53,991
+gets into the second verse of love of lake 
+
+290
+00:15:54,191 --> 00:15:56,654
+the fuck a grebsal legs start screaming
+
+291
+00:15:57,932 --> 00:15:59,166
+show me your cunt
+
+292
+00:15:59,166 --> 00:16:00,855
+why don't you show me your cunt
+
+293
+00:16:01,928 --> 00:16:05,266
+ then gets knocked on the head with a wine bottle
+
+294
+00:16:05,533 --> 00:16:07,100
+doesn't even fall down
+
+295
+00:16:10,466 --> 00:16:13,666
+i think we're gonna have to ask if this was the same individual
+
+296
+00:16:13,666 --> 00:16:15,766
+aren't you fucking listening
+
+297
+00:16:16,300 --> 00:16:18,333
+my man is talking to you
+
+298
+00:16:18,874 --> 00:16:20,285
+he took *care* of it 
+
+299
+00:16:21,239 --> 00:16:24,086
+they got the girl out before anything else could happen
+
+300
+00:16:24,629 --> 00:16:27,147
+yeah me and Eugene got her out
+
+301
+00:16:27,533 --> 00:16:29,333
+aren't you fucking listening
+
+302
+00:16:32,766 --> 00:16:33,566
+okay
+
+303
+00:16:34,333 --> 00:16:35,766
+that's a very serious allegation
+
+304
+00:16:35,766 --> 00:16:37,740
+i want to know who they're talking about
+
+305
+00:16:37,740 --> 00:16:38,700
+no
+
+306
+00:16:39,400 --> 00:16:41,000
+you're not getting a name
+
+307
+00:16:41,600 --> 00:16:45,935
+that's a Martinaise matter and I'm not discussing it with you clowns
+
+308
+00:16:46,226 --> 00:16:49,647
+Despite the stonewalling you can slip one more question in
+
+309
+00:16:51,800 --> 00:16:52,766
+okay volition
+
+310
+00:16:55,733 --> 00:16:58,566
+let's push further into that because that seems like
+
+311
+00:17:00,500 --> 00:17:01,300
+I don't know
+
+312
+00:17:02,933 --> 00:17:04,277
+seems like a serious allegation to me
+
+313
+00:17:04,277 --> 00:17:06,733
+Titus do *not* answer
+
+314
+00:17:07,066 --> 00:17:08,565
+you have been forthcoming enough
+
+315
+00:17:08,565 --> 00:17:10,000
+fuck off cop
+
+316
+00:17:10,500 --> 00:17:13,500
+she's gone through enough without you harassing her too
+
+317
+00:17:13,866 --> 00:17:15,933
+she doesn't need more embarrassment
+
+318
+00:17:16,400 --> 00:17:18,766
+what are you talking about embarrassment
+
+319
+00:17:18,866 --> 00:17:21,704
+if someone has been sexually assaulted we need to 
+
+320
+00:17:21,704 --> 00:17:26,400
+what you *need* is to get the fuck out of my face
+
+321
+00:17:26,800 --> 00:17:30,352
+i've had enough of explaining myself to you fucks
+
+322
+00:17:31,037 --> 00:17:32,466
+he's dead
+
+323
+00:17:32,466 --> 00:17:33,298
+it's done
+
+324
+00:17:33,874 --> 00:17:35,066
+ as you can see
+
+325
+00:17:35,500 --> 00:17:38,354
+these men can only take so much baseless scrutiny
+
+326
+00:17:39,251 --> 00:17:39,933
+baseless
+
+327
+00:17:39,933 --> 00:17:42,133
+I do my best to keep the situation simple
+
+328
+00:17:42,500 --> 00:17:43,741
+but
+
+329
+00:17:43,741 --> 00:17:46,800
+all of my scrutiny is based okay
+
+330
+00:17:46,800 --> 00:17:48,700
+it is not baseless
+
+331
+00:17:48,766 --> 00:17:51,132
+it won't be for long she means 
+
+332
+00:17:51,561 --> 00:17:54,800
+ it's true she was the only thing holding him back
+
+333
+00:17:57,266 --> 00:17:58,066
+okay
+
+334
+00:18:03,466 --> 00:18:05,660
+you murdered him just like that no remorse 
+
+335
+00:18:05,660 --> 00:18:08,000
+ how many people have you sent to the *chaise*
+
+336
+00:18:08,000 --> 00:18:09,733
+ever felt remorse for them
+
+337
+00:18:09,733 --> 00:18:11,423
+or send them to Reunion to *rot*
+
+338
+00:18:11,423 --> 00:18:15,066
+for twenty years for *life*
+
+339
+00:18:19,332 --> 00:18:20,740
+look I'm just doing my job
+
+340
+00:18:20,740 --> 00:18:22,133
+what we do is *different*
+
+341
+00:18:22,133 --> 00:18:24,479
+we enforce the law you just kill people like it's nothing  
+
+342
+00:18:24,479 --> 00:18:27,400
+honestly I drink so much I can't really remember anyone  
+
+343
+00:18:28,600 --> 00:18:30,366
+let's see my character okay
+
+344
+00:18:30,366 --> 00:18:34,200
+like some of the stuff that we've been talking about for Harry is  
+
+345
+00:18:35,266 --> 00:18:36,643
+how he views the world right
+
+346
+00:18:38,710 --> 00:18:42,400
+so much of it so far has been in terms of authority 
+
+347
+00:18:42,400 --> 00:18:45,088
+and if I just go off of things we've said before
+
+348
+00:18:45,088 --> 00:18:49,333
+we were like well why can't we arrest those kids 
+
+349
+00:18:49,333 --> 00:18:52,500
+why can't we arrest Evrart Claire 
+
+350
+00:18:54,066 --> 00:19:00,666
+he seems to have a very simple view of like the power dynamic
+
+351
+00:19:00,666 --> 00:19:02,532
+and I think that that's coming from the fact that
+
+352
+00:19:02,532 --> 00:19:05,600
+ he doesn't really remember who he was as a cop 
+
+353
+00:19:05,700 --> 00:19:09,700
+like imagine you just woke up and you knew you were a cop
+
+354
+00:19:09,700 --> 00:19:13,461
+but this is like still new to you
+
+355
+00:19:14,048 --> 00:19:17,800
+you are there are some like ingrained things you know 
+
+356
+00:19:18,166 --> 00:19:19,900
+some of your repressed memory is coming back
+
+357
+00:19:19,900 --> 00:19:22,111
+but I imagined him to be someone who is like
+
+358
+00:19:22,933 --> 00:19:24,666
+like if you made me a cop today
+
+359
+00:19:26,066 --> 00:19:27,366
+some of my questions would be like well
+
+360
+00:19:27,366 --> 00:19:28,418
+why can't we just arrest them 
+
+361
+00:19:28,968 --> 00:19:29,733
+right
+
+362
+00:19:30,400 --> 00:19:32,600
+but that's because I haven't lived as a cop
+
+363
+00:19:37,700 --> 00:19:39,766
+it's a complex thing right
+
+364
+00:19:41,666 --> 00:19:43,733
+so what I'm wondering here is like
+
+365
+00:19:46,800 --> 00:19:49,500
+harry is learning that the world does not work like that okay
+
+366
+00:19:49,500 --> 00:19:54,857
+we cannot just be an authority figure just because we have the badge 
+
+367
+00:19:57,933 --> 00:19:59,466
+we've tried that a couple of times
+
+368
+00:20:00,170 --> 00:20:02,866
+ but what would we stand on would we stand on the morality 
+
+369
+00:20:02,866 --> 00:20:05,484
+like that because we have the badge
+
+370
+00:20:05,484 --> 00:20:07,800
+ we get to decide who is good or bad  
+
+371
+00:20:09,800 --> 00:20:11,139
+we're just doing our job
+
+372
+00:20:11,139 --> 00:20:12,700
+we're neutral
+
+373
+00:20:13,000 --> 00:20:15,766
+that's a pretty neutral thing to say I like neutrality
+
+374
+00:20:17,000 --> 00:20:18,800
+what we do is *different* we enforce the law
+
+375
+00:20:18,800 --> 00:20:22,266
+so like these sound like strongly held convictions
+
+376
+00:20:22,266 --> 00:20:24,800
+which I don't think we have very many of at the moment
+
+377
+00:20:28,666 --> 00:20:30,600
+what do I think he would sympathize with
+
+378
+00:20:35,866 --> 00:20:37,704
+these men have all come to me and said
+
+379
+00:20:37,704 --> 00:20:41,366
+based on principle we don't need cops 
+
+380
+00:20:41,366 --> 00:20:44,766
+we are able to decide what's right and wrong in our community
+
+381
+00:20:45,466 --> 00:20:51,200
+and so he may be more sympathetic to the community aspect 
+
+382
+00:20:58,700 --> 00:21:00,800
+he's gonna say yeah but this guy was bad 
+
+383
+00:21:03,666 --> 00:21:05,500
+I don't even really believe this
+
+384
+00:21:05,500 --> 00:21:07,009
+it's not like they killed him like it was nothing
+
+385
+00:21:07,009 --> 00:21:11,066
+clearly there maybe was a crime of passion in some ways
+
+386
+00:21:11,733 --> 00:21:13,386
+I'm just gonna go with the
+
+387
+00:21:13,954 --> 00:21:15,500
+we don't have our badge now 
+
+388
+00:21:19,566 --> 00:21:22,166
+being a cop is a conviction yeah it is
+
+389
+00:21:25,400 --> 00:21:29,400
+but he's he's very inconfident about himself as a cop right
+
+390
+00:21:29,566 --> 00:21:31,066
+I just did like my whole
+
+391
+00:21:32,733 --> 00:21:34,566
+analytical piece on how
+
+392
+00:21:38,133 --> 00:21:40,621
+he's not sure what kind of cop he is right
+
+393
+00:21:40,621 --> 00:21:42,266
+this part right here
+
+394
+00:21:46,600 --> 00:21:48,901
+he's not sure what kind of cop he is 
+
+395
+00:21:49,194 --> 00:21:50,000
+and so
+
+396
+00:21:52,400 --> 00:21:56,266
+to me it doesn't make sense that he be like but I'm the kind of cop who 
+
+397
+00:21:59,366 --> 00:22:02,266
+I have a strong conviction about what my role is
+
+398
+00:22:03,200 --> 00:22:04,700
+I'm just gonna go neutral here
+
+399
+00:22:04,700 --> 00:22:07,366
+it's gonna piss people off but I'm gonna go for it
+
+400
+00:22:07,366 --> 00:22:09,813
+oh so you're just a simple well-meaning man huh
+
+401
+00:22:10,536 --> 00:22:11,633
+ever been in solitary
+
+402
+00:22:12,264 --> 00:22:14,200
+prison is a *torture*
+
+403
+00:22:14,500 --> 00:22:15,533
+that's what it is
+
+404
+00:22:17,133 --> 00:22:19,560
+he's clearly been in solitary confinement
+
+405
+00:22:19,560 --> 00:22:22,333
+and at a young age nonetheless 
+
+406
+00:22:22,600 --> 00:22:26,866
+so is hanging a man slowly without breaking his neck
+
+407
+00:22:29,766 --> 00:22:31,133
+I'm so pissed
+
+408
+00:22:31,133 --> 00:22:32,100
+well like I told you I
+
+409
+00:22:33,900 --> 00:22:35,666
+I'm doing what I think a character would do
+
+410
+00:22:40,027 --> 00:22:40,959
+*how* did you
+
+411
+00:22:40,959 --> 00:22:45,989
+we hanged him up by his neck until he got real still 
+
+412
+00:22:46,546 --> 00:22:49,366
+ wasn't that obvious copper
+
+413
+00:22:49,666 --> 00:22:53,666
+didn't they teach you *anything* at the cop school idiot
+
+414
+00:22:54,000 --> 00:22:54,900
+you're pretty sure
+
+415
+00:22:54,900 --> 00:22:57,533
+you've had at least two years of *cop school*
+
+416
+00:22:57,600 --> 00:22:59,411
+and many more of active service
+
+417
+00:22:59,411 --> 00:22:59,900
+that's right
+
+418
+00:22:59,900 --> 00:23:00,832
+that's right authority
+
+419
+00:23:00,832 --> 00:23:03,382
+certainly enough to not put up with his back-sass
+
+420
+00:23:03,382 --> 00:23:05,302
+deliver a knock-down observation
+
+421
+00:23:06,330 --> 00:23:08,058
+now *you* listen to *me* Sonny-Jim
+
+422
+00:23:08,058 --> 00:23:10,246
+the autopsy showed the victim's hands weren't tied
+
+423
+00:23:10,246 --> 00:23:11,200
+no sign of struggle 
+
+424
+00:23:11,200 --> 00:23:12,933
+explain this and make it real simple
+
+425
+00:23:15,300 --> 00:23:17,467
+fuck it I'm going with it we
+
+426
+00:23:17,467 --> 00:23:19,430
+uh we huh
+
+427
+00:23:19,600 --> 00:23:24,166
+look i'm not gonna play Twenty Questions with you coppo
+
+428
+00:23:24,533 --> 00:23:27,610
+I'll say it again killed him
+
+429
+00:23:28,506 --> 00:23:31,366
+do I think he's a neutral man no
+
+430
+00:23:31,366 --> 00:23:33,866
+but I think that he is
+
+431
+00:23:35,533 --> 00:23:38,983
+while he's still figuring out the difference between 
+
+432
+00:23:38,983 --> 00:23:41,133
+who he is now and who he used to be  
+
+433
+00:23:42,300 --> 00:23:44,766
+like there is an investment in integrating these two things
+
+434
+00:23:44,766 --> 00:23:46,300
+at least from my perspective
+
+435
+00:23:47,166 --> 00:23:51,353
+it's very hard for him to start standing on very hard held beliefs
+
+436
+00:23:54,904 --> 00:23:58,766
+they may and be incompatible with like who he used to be right
+
+437
+00:24:01,900 --> 00:24:03,500
+I'll talk about this in a second
+
+438
+00:24:03,500 --> 00:24:06,000
+but it comes down to ego defense
+
+439
+00:24:08,200 --> 00:24:10,500
+yeah *I* knocked him out
+
+440
+00:24:11,333 --> 00:24:14,500
+came up behind him and clubbed him in the back of the head
+
+441
+00:24:14,966 --> 00:24:17,067
+he went down like a sack of sand
+
+442
+00:24:17,067 --> 00:24:18,866
+that's right lawman
+
+443
+00:24:19,166 --> 00:24:22,127
+and then we hanged the fuck
+
+444
+00:24:22,767 --> 00:24:24,047
+oh
+
+445
+00:24:25,666 --> 00:24:27,866
+we did level up our composure
+
+446
+00:24:29,366 --> 00:24:31,000
+when we were talking to Annette
+
+447
+00:24:34,000 --> 00:24:36,600
+still not enough here maybe we can ask some more questions
+
+448
+00:24:38,000 --> 00:24:40,112
+Mr Tatts what did you use to knock the victim out  
+
+449
+00:24:40,112 --> 00:24:41,566
+my fucking elbow copper
+
+450
+00:24:42,133 --> 00:24:43,431
+Samaran boxing-style
+
+451
+00:24:44,711 --> 00:24:45,799
+where did this take place
+
+452
+00:24:45,799 --> 00:24:46,735
+right fucking here
+
+453
+00:24:47,400 --> 00:24:48,533
+Eugene already told you that
+
+454
+00:24:48,533 --> 00:24:51,533
+the fuck had started coming to *our* bar
+
+455
+00:24:52,866 --> 00:24:54,163
+yeah man weren't you listening
+
+456
+00:24:54,163 --> 00:24:56,600
+they keep speaking for Titus 
+
+457
+00:24:56,600 --> 00:25:00,166
+so that he wouldn't get his hands murdy with too much explaining 
+
+458
+00:25:05,300 --> 00:25:09,429
+it's a red check it can't be retried
+
+459
+00:25:09,429 --> 00:25:11,400
+58 percent
+
+460
+00:25:19,666 --> 00:25:22,933
+maybe I can ask some more questions
+
+461
+00:25:24,700 --> 00:25:25,340
+first
+
+462
+00:25:25,340 --> 00:25:26,876
+like what copper
+
+463
+00:25:26,876 --> 00:25:27,933
+when did this happen
+
+464
+00:25:27,933 --> 00:25:29,887
+you don't have to keep answering his questions
+
+465
+00:25:30,344 --> 00:25:31,740
+yes you do I'm a cop
+
+466
+00:25:31,740 --> 00:25:33,133
+I know Lizzy relax 
+
+467
+00:25:33,666 --> 00:25:35,202
+we killed him last Sunday night
+
+468
+00:25:35,495 --> 00:25:38,900
+seemed like a good way to end the week 
+
+469
+00:25:40,166 --> 00:25:41,098
+how long had you known him
+
+470
+00:25:41,139 --> 00:25:41,917
+*known* him
+
+471
+00:25:42,333 --> 00:25:45,606
+we don't associate with scum like that asshole
+
+472
+00:25:45,940 --> 00:25:47,766
+look I'm getting science that
+
+473
+00:25:47,766 --> 00:25:50,500
+the chat is hitting me with lucky tomatoes
+
+474
+00:25:50,500 --> 00:25:51,456
+so
+
+475
+00:25:51,840 --> 00:25:54,800
+yeah who do you think we are 
+
+476
+00:25:55,375 --> 00:25:57,275
+"I have gloves for composure" do it?
+
+477
+00:25:59,066 --> 00:26:00,466
+I can't look at my interventory
+
+478
+00:26:00,466 --> 00:26:02,266
+I'll back out of this conversation and check
+
+479
+00:26:02,266 --> 00:26:02,800
+quiet 
+
+480
+00:26:03,825 --> 00:26:05,825
+he came around 'bout three weeks ago
+
+481
+00:26:05,825 --> 00:26:08,308
+when that *Pines* cow first sailed into town
+
+482
+00:26:08,800 --> 00:26:09,643
+happy
+
+483
+00:26:10,643 --> 00:26:13,108
+by the 'Pines cow' you mean Joyce Messier 
+
+484
+00:26:13,408 --> 00:26:15,475
+the representative for Wild Pines
+
+485
+00:26:15,733 --> 00:26:17,972
+the same company you're striking against 
+
+486
+00:26:18,247 --> 00:26:18,900
+no
+
+487
+00:26:19,400 --> 00:26:21,666
+I mean *the Pines cow*
+
+488
+00:26:22,100 --> 00:26:25,333
+the stupid-ass cow they sent in to fuck us over
+
+489
+00:26:26,166 --> 00:26:27,333
+but you know what
+
+490
+00:26:28,766 --> 00:26:31,166
+he rubs his chin pretending to mull it over
+
+491
+00:26:31,166 --> 00:26:32,966
+why don't you ask *her* about the Pretty Boy
+
+492
+00:26:32,966 --> 00:26:35,633
+I'm sure she has interesting things to say
+
+493
+00:26:35,633 --> 00:26:36,900
+ when you ask her *hard* enough
+
+494
+00:26:37,333 --> 00:26:40,266
+that's enough insinuation for today Titus
+
+495
+00:26:41,666 --> 00:26:44,666
+officer your interview is drawing to an end
+
+496
+00:26:45,366 --> 00:26:47,333
+don't waste your last questions
+
+497
+00:26:49,066 --> 00:26:53,966
+uh yeah I don't think I can back out of this 
+
+498
+00:26:53,966 --> 00:26:55,300
+and I don't remember
+
+499
+00:26:55,300 --> 00:26:56,566
+I think we checked our inventory
+
+500
+00:26:56,566 --> 00:26:59,166
+and we're wearing everything that we can for composure already
+
+501
+00:26:59,967 --> 00:27:02,628
+so I have to do the check now
+
+502
+00:27:09,933 --> 00:27:12,500
+why don't you ask *her* about the Pretty Boy
+
+503
+00:27:12,500 --> 00:27:14,825
+that's enough insinuation for today Titus
+
+504
+00:27:15,333 --> 00:27:16,733
+how do I get back to that one
+
+505
+00:27:16,733 --> 00:27:17,966
+which one was it
+
+506
+00:27:17,966 --> 00:27:19,766
+was it "*how* did you kill him
+
+507
+00:27:27,879 --> 00:27:28,855
+yes
+
+508
+00:27:33,275 --> 00:27:34,333
+all right
+
+509
+00:27:34,333 --> 00:27:35,700
+let's get this fire started okay
+
+510
+00:27:35,700 --> 00:27:38,266
+we need some fucking tomatoes in the chat right now
+
+511
+00:27:39,366 --> 00:27:42,366
+to get our dice roll
+
+512
+00:27:43,266 --> 00:27:46,700
+look there's a secret edition that happens to the dice roll 
+
+513
+00:27:46,700 --> 00:27:49,100
+when chat is full of lucky tomatoes
+
+514
+00:27:49,900 --> 00:27:50,700
+okay
+
+515
+00:27:52,800 --> 00:27:54,650
+I'm seeing a lot of them flow through right now
+
+516
+00:27:54,650 --> 00:27:57,169
+ the other thing is look I'm sizing this guy up all right
+
+517
+00:27:57,572 --> 00:28:00,065
+ it takes a lot of responsibility 
+
+518
+00:28:00,065 --> 00:28:02,466
+and a lot of conviction to stand before me 
+
+519
+00:28:02,466 --> 00:28:04,267
+with my flashlight and my cool hat
+
+520
+00:28:04,267 --> 00:28:07,500
+ jacket shoes and Kim beside me 
+
+521
+00:28:07,533 --> 00:28:08,175
+right
+
+522
+00:28:08,900 --> 00:28:11,566
+and to back all these guys up okay
+
+523
+00:28:11,566 --> 00:28:12,763
+now look that's a...
+
+524
+00:28:13,228 --> 00:28:16,137
+whether or not we agree at something that I can respect
+
+525
+00:28:16,137 --> 00:28:19,000
+is that he's putting himself out there like this 
+
+526
+00:28:19,000 --> 00:28:21,333
+but I can also tell that he's nervous okay
+
+527
+00:28:21,666 --> 00:28:24,866
+nobody likes being questioned on their morals
+
+528
+00:28:24,866 --> 00:28:27,933
+nobody likes being questioned on their convictions
+
+529
+00:28:28,100 --> 00:28:36,875
+and nobody likes to also be targeted by authority figures 
+
+530
+00:28:38,175 --> 00:28:40,466
+okay so I got a lot of respect for this guy
+
+531
+00:28:40,933 --> 00:28:43,000
+just from a very primal sort of way now
+
+532
+00:28:43,000 --> 00:28:46,333
+I do not have respect for his actions or his beliefs
+
+533
+00:28:52,500 --> 00:28:55,400
+flashlight gives us the extra composure I think it does
+
+534
+00:28:57,281 --> 00:28:58,881
+but let's see if we can break him down okay
+
+535
+00:28:58,881 --> 00:29:00,315
+I'm fucking going for it
+
+536
+00:29:01,891 --> 00:29:06,375
+actually they're admirably surprisingly composed
+
+537
+00:29:06,700 --> 00:29:08,066
+the entire room
+
+538
+00:29:08,500 --> 00:29:10,900
+given how many questions you've lobbed their way
+
+539
+00:29:13,133 --> 00:29:15,102
+all of them maybe one of them is fidgeting
+
+540
+00:29:15,102 --> 00:29:16,533
+well this one
+
+541
+00:29:16,866 --> 00:29:18,450
+but he's always fidgeting
+
+542
+00:29:18,728 --> 00:29:19,890
+so don't get your hopes up
+
+543
+00:29:20,440 --> 00:29:21,824
+ we're too fucked
+
+544
+00:29:22,300 --> 00:29:23,566
+we're too fucked up to
+
+545
+00:29:24,933 --> 00:29:27,424
+I thought that we had an understanding 
+
+546
+00:29:27,424 --> 00:29:29,983
+what I was getting at is we 
+
+547
+00:29:30,558 --> 00:29:32,733
+it takes a lot of pressure for me to stand here
+
+548
+00:29:32,733 --> 00:29:34,933
+and for you to stand here and to do this whole rigmarole 
+
+549
+00:29:34,933 --> 00:29:36,566
+let's connect on just the fact that
+
+550
+00:29:36,566 --> 00:29:38,133
+no one wants to be here right now
+
+551
+00:29:38,200 --> 00:29:38,733
+but it didn't work
+
+552
+00:29:39,138 --> 00:29:41,066
+ like what copper
+
+553
+00:29:42,466 --> 00:29:43,533
+okay what are we gonna do now
+
+554
+00:29:43,533 --> 00:29:44,301
+nothing
+
+555
+00:29:45,038 --> 00:29:46,932
+your investigation here is done
+
+556
+00:29:47,867 --> 00:29:48,656
+leave Martinaise
+
+557
+00:29:48,656 --> 00:29:50,910
+go back to your stations where you belong 
+
+558
+00:29:51,501 --> 00:29:53,933
+ every check that I talk about a lot fails
+
+559
+00:29:53,933 --> 00:29:54,725
+I know it does 
+
+560
+00:29:54,725 --> 00:29:57,366
+and every time I just make a check without thinking about it 
+
+561
+00:29:57,366 --> 00:29:59,100
+it's a succeed
+
+562
+00:30:00,766 --> 00:30:03,866
+that's true it's so true
+
+563
+00:30:03,966 --> 00:30:06,150
+I think we are going to stick around thanks 
+
+564
+00:30:06,590 --> 00:30:08,845
+ some things don't add up here Titus 
+
+565
+00:30:08,845 --> 00:30:09,505
+ fuck 
+
+566
+00:30:09,505 --> 00:30:10,940
+I've done this job for long enough 
+
+567
+00:30:10,940 --> 00:30:14,200
+to know that people don't just confess to first-degree murder 
+
+568
+00:30:14,366 --> 00:30:16,766
+*even* if it is a group responsibility
+
+569
+00:30:17,100 --> 00:30:18,533
+we are going to look into this
+
+570
+00:30:18,533 --> 00:30:19,737
+it's all a cover up
+
+571
+00:30:19,737 --> 00:30:20,866
+ good luck with that
+
+572
+00:30:21,000 --> 00:30:21,600
+who are you protecting
+
+573
+00:30:21,600 --> 00:30:27,166
+you've heard everything a *rent-a-cop* is gonna hear from us *real* law officials 
+
+574
+00:30:27,733 --> 00:30:29,933
+you're lucky you didn't get a beating
+
+575
+00:30:30,300 --> 00:30:32,066
+who are you protecting right now
+
+576
+00:30:32,066 --> 00:30:33,933
+okay who's really benefiting from this
+
+577
+00:30:33,933 --> 00:30:34,825
+is it Claire
+
+578
+00:30:34,825 --> 00:30:35,600
+ is it Evrart
+
+579
+00:30:37,166 --> 00:30:37,850
+rent-a-cop
+
+580
+00:30:38,124 --> 00:30:39,800
+so that's what this is about
+
+581
+00:30:40,333 --> 00:30:41,827
+he doesn't see you as his equals
+
+582
+00:30:42,275 --> 00:30:43,371
+ establish authority 
+
+583
+00:30:43,371 --> 00:30:45,641
+we have to we have to do it
+
+584
+00:30:47,900 --> 00:30:50,041
+I fuck this absolutely fuck this
+
+585
+00:30:50,041 --> 00:30:51,910
+ so I'm not even gonna talk about I’m just gonna do it 
+
+586
+00:30:52,660 --> 00:30:55,500
+ establish authority yes
+
+587
+00:30:56,100 --> 00:30:56,916
+AUTHORITY
+
+588
+00:30:57,416 --> 00:31:00,066
+ feverish thoughts race through your mind
+
+589
+00:31:02,000 --> 00:31:02,800
+damn it
+
+590
+00:31:04,766 --> 00:31:08,125
+let's just stomp our feet
+
+591
+00:31:09,600 --> 00:31:10,700
+ we could point at him
+
+592
+00:31:13,366 --> 00:31:14,266
+we could point at him
+
+593
+00:31:14,266 --> 00:31:16,333
+or we could ask for the gun
+
+594
+00:31:22,568 --> 00:31:23,951
+hum that's it that's all I got  
+
+595
+00:31:23,951 --> 00:31:24,736
+look 
+
+596
+00:31:25,011 --> 00:31:27,600
+the only thing that we have been able to do so far 
+
+597
+00:31:27,600 --> 00:31:29,100
+is embarrass ourselves
+
+598
+00:31:31,566 --> 00:31:33,166
+I'm not gonna stomp my feet
+
+599
+00:31:34,333 --> 00:31:37,966
+I do like the idea of pointing my finger at him
+
+600
+00:31:41,733 --> 00:31:42,800
+I'm gonna point my finger
+
+601
+00:31:42,800 --> 00:31:45,400
+ and what exactly is it you've been doing
+
+602
+00:31:45,400 --> 00:31:47,886
+that's so god damn special
+
+603
+00:31:47,886 --> 00:31:49,900
+ shitting yourself in front of us
+
+604
+00:31:50,200 --> 00:31:53,766
+going around arresting kids on the street
+
+605
+00:31:54,133 --> 00:31:56,800
+kids who've done nothing wrong
+
+606
+00:31:57,766 --> 00:31:58,468
+you don't know that
+
+607
+00:31:58,468 --> 00:32:00,300
+ all the while talking racist shit
+
+608
+00:32:00,300 --> 00:32:02,548
+don't think we aren't watching *fascha*
+
+609
+00:32:02,798 --> 00:32:04,366
+ people here trust us
+
+610
+00:32:04,866 --> 00:32:06,375
+we're getting *complaints*
+
+611
+00:32:07,325 --> 00:32:08,225
+I
+
+612
+00:32:11,966 --> 00:32:13,539
+uh I don't even have a gun
+
+613
+00:32:13,539 --> 00:32:15,725
+ what are you talking about
+
+614
+00:32:15,725 --> 00:32:18,273
+ guns are the only thing you have 
+
+615
+00:32:18,273 --> 00:32:20,925
+ waving them around old ladies' faces
+
+616
+00:32:20,925 --> 00:32:22,566
+ trying a gun down kid 
+
+617
+00:32:22,941 --> 00:32:24,266
+he knows about Cuno
+
+618
+00:32:24,600 --> 00:32:27,933
+Carly said they've been trying to set up a mass execution
+
+619
+00:32:28,500 --> 00:32:31,500
+bulk-purchasing guns ammunition too 
+
+620
+00:32:34,825 --> 00:32:36,213
+ I can believe that
+
+621
+00:32:36,463 --> 00:32:38,466
+ Carly works in a gunshop you see
+
+622
+00:32:38,766 --> 00:32:40,866
+there's no mass-execution officer
+
+623
+00:32:41,133 --> 00:32:43,466
+just ask questions and don't get sidetracked
+
+624
+00:32:43,600 --> 00:32:44,925
+okay I need Kim to rein me in here
+
+625
+00:32:44,925 --> 00:32:47,200
+please don't set up a mass execution
+
+626
+00:32:47,300 --> 00:32:49,200
+you'll never be able to pull it off
+
+627
+00:32:49,366 --> 00:32:51,600
+the logistics alone are insane
+
+628
+00:32:51,600 --> 00:32:53,296
+ just ask questions
+
+629
+00:32:53,380 --> 00:32:54,488
+ be a normal cop
+
+630
+00:32:54,930 --> 00:32:55,733
+I can't
+
+631
+00:32:55,733 --> 00:32:56,511
+I've tried
+
+632
+00:32:56,511 --> 00:32:57,666
+ I cannot be a normal cop
+
+633
+00:33:01,333 --> 00:33:02,300
+fuck okay
+
+634
+00:33:05,662 --> 00:33:07,727
+the only time I don't get Kim involved by now 
+
+635
+00:33:07,742 --> 00:33:09,687
+RIGOROUS SELF - CRITIQUE
+
+636
+00:33:13,628 --> 00:33:14,428
+here it is 
+
+637
+00:33:14,618 --> 00:33:16,688
+Hard facts from the man you are
+
+638
+00:33:17,387 --> 00:33:19,891
+You once jerked off in the locker room
+
+639
+00:33:19,891 --> 00:33:20,657
+and were caught
+
+640
+00:33:21,194 --> 00:33:23,433
+you held a young woman by the arm  
+
+641
+00:33:23,433 --> 00:33:28,194
+and kept her in your apartment for 20 minutes against her will 
+
+642
+00:33:28,706 --> 00:33:29,785
+ That's right
+
+643
+00:33:29,785 --> 00:33:32,062
+these are not flights of fancy
+
+644
+00:33:32,362 --> 00:33:35,128
+These are*real deeds* harry
+
+645
+00:33:35,128 --> 00:33:37,628
+emerging from the darkness of your past
+
+646
+00:33:37,995 --> 00:33:41,228
+you tried shooting a fleeing suspect in the foot
+
+647
+00:33:41,228 --> 00:33:44,995
+but hit him in the pelvis crippling him for life
+
+648
+00:33:45,128 --> 00:33:45,288
+and above all you let life defeat you
+
+649
+00:33:45,288 --> 00:33:46,120
+and above all you let life defeat you
+我的妈呀
+
+650
+00:33:46,120 --> 00:33:48,454
+and above all you let life defeat you
+
+651
+00:33:48,642 --> 00:33:50,817
+All the gifts your parents gave you
+
+652
+00:33:50,817 --> 00:33:53,962
+all the love and patience of your friends
+
+653
+00:33:53,962 --> 00:33:56,262
+you drowned in a neurotoxin
+
+654
+00:33:56,762 --> 00:33:58,195
+you let misery win
+
+655
+00:33:58,462 --> 00:34:00,428
+and it will keep on winning
+
+656
+00:34:00,428 --> 00:34:03,139
+till you die or overcome it
+
+657
+00:34:04,649 --> 00:34:05,893
+ holy shit
+
+658
+00:34:07,292 --> 00:34:16,028
+that is the most important block of text for this entire playthrough in my mind 
+
+659
+00:34:20,560 --> 00:34:21,662
+and I will tell you why
+
+660
+00:34:30,464 --> 00:34:31,195
+okay
+
+661
+00:34:32,762 --> 00:34:34,426
+what do we get from this first of all
+
+662
+00:34:35,835 --> 00:34:44,695
+ intelligence and chology checks red check failures here or plus one morale
+
+663
+00:34:45,714 --> 00:34:52,082
+physical and motorix red check failurse here one health
+
+664
+00:34:53,223 --> 00:34:55,658
+learning cap for pain threshold is raised okay
+
+665
+00:34:55,804 --> 00:34:57,517
+okay interesting  
+
+666
+00:34:58,298 --> 00:35:01,195
+so we actually get things back from failing
+
+667
+00:35:01,762 --> 00:35:03,362
+which is kind of unique
+
+668
+00:35:10,509 --> 00:35:13,037
+yeah there is a reason that harry did his best to forget everything
+
+669
+00:35:13,037 --> 00:35:14,703
+that's exactly what I suspected
+
+670
+00:35:15,303 --> 00:35:20,447
+and I want to tell you about what this would mean to me in the context of like 
+
+671
+00:35:21,202 --> 00:35:25,237
+someone learning more about like a part of their life
+
+672
+00:35:25,237 --> 00:35:28,786
+that they previously were not attached to
+
+673
+00:35:29,937 --> 00:35:31,737
+so I'm gonna bring it back to my
+
+674
+00:35:33,970 --> 00:35:36,530
+discussion points about
+
+675
+00:35:38,237 --> 00:35:40,657
+like this is what we talked about last time
+
+676
+00:35:40,657 --> 00:35:43,537
+we were not sure if we were a good cop
+
+677
+00:35:43,537 --> 00:35:45,103
+this is unknown to us right
+
+678
+00:35:45,237 --> 00:35:47,913
+and it's not like super known to everyone around us
+
+679
+00:35:48,389 --> 00:35:50,737
+obviously it's gonna be known to any of the people we
+
+680
+00:35:50,737 --> 00:35:53,603
+interacted with in our past life
+
+681
+00:35:54,303 --> 00:35:56,803
+but this being here in the unknown
+
+682
+00:35:56,803 --> 00:36:02,544
+is one of the only reasons that any other movement can take place for us
+
+683
+00:36:03,103 --> 00:36:05,737
+we've been very concerned about like
+
+684
+00:36:06,770 --> 00:36:09,437
+is it even possible to repair ourselves
+
+685
+00:36:09,437 --> 00:36:11,837
+is it even possible to become a better person
+
+686
+00:36:12,403 --> 00:36:14,370
+because at the end of the day
+
+687
+00:36:14,370 --> 00:36:16,955
+let's say I live my life in service of good deeds
+
+688
+00:36:18,037 --> 00:36:20,137
+what happens if everything I did before
+
+689
+00:36:20,137 --> 00:36:22,403
+this was still horrific right
+
+690
+00:36:23,403 --> 00:36:25,537
+am I going to be okay with myself
+
+691
+00:36:26,937 --> 00:36:31,170
+our view of ourself has been changing in a somewhat positive direction 
+
+692
+00:36:31,170 --> 00:36:32,570
+and we've been questioning whether
+
+693
+00:36:32,570 --> 00:36:36,437
+or not we can call ourselves a complete failure
+
+694
+00:36:37,370 --> 00:36:40,608
+so one thing that just changed is we discovered that
+
+695
+00:36:40,608 --> 00:36:44,190
+no we weren't a good cop right 
+
+696
+00:36:44,666 --> 00:36:46,291
+we were not one  
+
+697
+00:36:46,695 --> 00:36:48,170
+this is coming over here
+
+698
+00:36:51,303 --> 00:36:52,103
+right
+
+699
+00:36:57,237 --> 00:37:02,280
+we were not a good cop
+
+700
+00:37:03,837 --> 00:37:07,803
+and in fact we may not have been a good person right
+
+701
+00:37:11,303 --> 00:37:15,009
+and I think that those two things are intermixed because like 
+
+702
+00:37:15,407 --> 00:37:18,744
+ being a cop being someone who is responsible for other people   
+
+703
+00:37:18,744 --> 00:37:20,981
+responsible for keeping the law keeping the peace  
+
+704
+00:37:21,495 --> 00:37:24,570
+our actions and our deeds in that role they
+
+705
+00:37:25,170 --> 00:37:30,970
+they do sort of like they are married in a way
+
+706
+00:37:30,970 --> 00:37:32,056
+with our views of ourselves 
+
+707
+00:37:32,056 --> 00:37:35,159
+like if we abused our power if we
+
+708
+00:37:38,037 --> 00:37:40,233
+did things that we would call inappropriate like you know
+
+709
+00:37:41,553 --> 00:37:44,969
+shooting at a fleeing suspect  
+
+710
+00:37:44,969 --> 00:37:47,903
+and holding someone against their will
+
+711
+00:37:49,203 --> 00:37:49,727
+right
+
+712
+00:37:49,964 --> 00:37:51,770
+ not only are we not a good cop
+
+713
+00:37:51,770 --> 00:37:55,770
+we don't feel like we it's possible for us to be a good person
+
+714
+00:37:59,037 --> 00:38:02,503
+unfortunately the more we tried to obscure this right
+
+715
+00:38:02,603 --> 00:38:03,703
+I think it's been like
+
+716
+00:38:05,237 --> 00:38:08,237
+Inland Empire Volition some of Half Light 
+
+717
+00:38:08,237 --> 00:38:13,273
+there's been all these voices who have been like protecting us in a way  
+
+718
+00:38:13,273 --> 00:38:14,370
+from discovering this
+
+719
+00:38:14,370 --> 00:38:19,737
+because they they are interjecting at points to say like well
+
+720
+00:38:19,937 --> 00:38:21,737
+if you discover more about yourself
+
+721
+00:38:21,737 --> 00:38:23,737
+you're gonna realize that you weren't a good cop
+
+722
+00:38:23,737 --> 00:38:26,137
+and you're not gonna feel very much like a good person either
+
+723
+00:38:26,203 --> 00:38:27,570
+and that's gonna wreck you
+
+724
+00:38:28,937 --> 00:38:32,203
+at the same time I think it is healthier 
+
+725
+00:38:32,203 --> 00:38:35,403
+not to deny these things anymore  and to 
+
+726
+00:38:38,397 --> 00:38:43,378
+I think it would be somewhat aimless to just try to be a good person generally
+
+727
+00:38:44,537 --> 00:38:47,103
+because therapy and mental health
+
+728
+00:38:47,837 --> 00:38:50,310
+it's not just random what you do 
+
+729
+00:38:50,310 --> 00:38:53,137
+in some ways you need clear objectives right 
+
+730
+00:38:55,297 --> 00:38:57,737
+we need to know when we're starting off
+
+731
+00:38:57,737 --> 00:38:59,970
+like what are we trying to actually work on here
+
+732
+00:38:59,970 --> 00:39:03,526
+because if we're just trying to work on like being good
+
+733
+00:39:03,803 --> 00:39:06,114
+this is like too abstract it's too broad  
+
+734
+00:39:06,114 --> 00:39:08,803
+it touches too many areas of life right 
+
+735
+00:39:09,170 --> 00:39:12,348
+we want to get things more concretely and say like well 
+
+736
+00:39:12,678 --> 00:39:17,519
+I want I don't want people to be afraid of me okay well that's
+
+737
+00:39:19,337 --> 00:39:22,137
+that's something that a good person would do right
+
+738
+00:39:26,403 --> 00:39:30,003
+we're trying to come up with more concrete things
+
+739
+00:39:30,003 --> 00:39:33,994
+and so learning these specific points would be very beneficial to that
+
+740
+00:39:34,687 --> 00:39:37,337
+ here's the facts from the man that you are right
+
+741
+00:39:37,337 --> 00:39:40,307
+you jerked off in the locker room and were caught
+
+742
+00:39:40,845 --> 00:39:43,133
+ so to me that says like
+
+743
+00:39:44,803 --> 00:39:49,903
+there's this kind of selfishness to that there is a
+
+744
+00:39:54,303 --> 00:39:56,770
+lack of self-respect
+
+745
+00:39:58,203 --> 00:40:03,137
+there is a lack of impulse control
+
+746
+00:40:04,970 --> 00:40:06,203
+there is
+
+747
+00:40:09,303 --> 00:40:10,537
+lots of like
+
+748
+00:40:14,170 --> 00:40:16,461
+lots of shame wrapped up in that right
+
+749
+00:40:20,937 --> 00:40:22,682
+you held a young woman by the arm 
+
+750
+00:40:22,682 --> 00:40:26,899
+and kept her in your apartment for twenty minutes against your will  
+
+751
+00:40:26,899 --> 00:40:30,303
+so similar things here but also
+
+752
+00:40:32,237 --> 00:40:36,003
+we can we have the capacity to be authoritative
+
+753
+00:40:38,639 --> 00:40:46,137
+we are seeing from ourselves that we are controlling
+
+754
+00:40:49,927 --> 00:40:51,437
+that we're imposing
+
+755
+00:40:57,113 --> 00:40:58,570
+we lack empathy
+
+756
+00:41:01,803 --> 00:41:02,603
+right
+
+757
+00:41:04,570 --> 00:41:06,720
+these not flights of fancy thses are real deeds
+
+758
+00:41:07,478 --> 00:41:09,970
+emerging from the darkness from your past
+
+759
+00:41:09,970 --> 00:41:12,165
+you tried shooting a fleeing suspect in the foot
+
+760
+00:41:12,557 --> 00:41:16,303
+but hid him in the pelvis crippling him for life so
+
+761
+00:41:18,903 --> 00:41:22,037
+I think that's like lacking composure right
+
+762
+00:41:23,537 --> 00:41:27,737
+we were probably drunk let's be honest right um
+
+763
+00:41:33,095 --> 00:41:34,555
+these don't even have to be emotional things 
+
+764
+00:41:34,555 --> 00:41:41,120
+this could just be like we had we have poor accuracy right 
+
+765
+00:41:41,570 --> 00:41:44,837
+we we have poor accountability
+
+766
+00:41:48,618 --> 00:41:49,258
+right
+
+767
+00:41:53,170 --> 00:41:54,503
+we we lack
+
+768
+00:41:57,170 --> 00:41:59,737
+yeah we lack accountability and I think that we also like
+
+769
+00:42:05,837 --> 00:42:08,637
+see if you shot someone and crippled him
+
+770
+00:42:09,103 --> 00:42:11,903
+I mean there's lots of regrets in that it sounds like
+
+771
+00:42:14,103 --> 00:42:16,175
+all the gifts your parents gave you  
+
+772
+00:42:16,175 --> 00:42:18,837
+and love and patience of your friends
+
+773
+00:42:18,837 --> 00:42:20,537
+you drowned in a neurotoxin
+
+774
+00:42:20,537 --> 00:42:21,637
+you let misery win
+
+775
+00:42:21,637 --> 00:42:23,603
+so its similar things
+
+776
+00:42:23,603 --> 00:42:25,694
+its selfishness its lack of self respect
+
+777
+00:42:26,203 --> 00:42:29,337
+it's lack of impulse control it's a lack of empathy right
+
+778
+00:42:29,337 --> 00:42:34,107
+it's circulating around all of these subjects 
+
+779
+00:42:35,303 --> 00:42:38,406
+and it will keep winning until you die or overcome it
+
+780
+00:42:38,519 --> 00:42:39,423
+so like
+
+781
+00:42:39,903 --> 00:42:44,191
+these are more concrete things to work on with someone than just like
+
+782
+00:42:46,703 --> 00:42:49,337
+I want to be a good person right
+
+783
+00:42:51,303 --> 00:42:54,537
+because I don't know what to do with that if you come to me
+
+784
+00:42:54,537 --> 00:42:58,203
+and say that that's our objective like I want to be a good person 
+
+785
+00:42:58,703 --> 00:43:01,403
+I don't want to keep repeating the same mistakes
+
+786
+00:43:01,403 --> 00:43:04,437
+then I'm going to ask okay well what were some of those mistakes
+
+787
+00:43:04,621 --> 00:43:08,654
+and so having someone discover the list of things that we just did
+
+788
+00:43:08,654 --> 00:43:13,570
+ and knowing that there are going to be patterns in probably other areas of their life
+
+789
+00:43:14,345 --> 00:43:18,148
+we can now start to formulate an idea of 
+
+790
+00:43:18,148 --> 00:43:20,437
+all right well let's attack these things right 
+
+791
+00:43:21,303 --> 00:43:27,755
+what are some ways that like we can start living in service of not being selfish 
+
+792
+00:43:27,755 --> 00:43:30,703
+and learning to up put other people first
+
+793
+00:43:31,937 --> 00:43:35,203
+what are some things that we can do to regain some self-respect
+
+794
+00:43:35,303 --> 00:43:37,950
+for example not embarrassing ourselves 
+
+795
+00:43:37,950 --> 00:43:41,170
+every time that we get into conversation with someone
+
+796
+00:43:41,170 --> 00:43:42,737
+caring more about our appearance
+
+797
+00:43:42,737 --> 00:43:45,687
+caring more about the language we use 
+
+798
+00:43:45,687 --> 00:43:50,403
+and and whether or not we approach people using authority 
+
+799
+00:43:50,403 --> 00:43:52,031
+like we just tried to do right
+
+800
+00:43:52,947 --> 00:43:54,170
+ lack of impulse control
+
+801
+00:43:54,170 --> 00:43:56,803
+that's like a behavioral intervention that we can start working on 
+
+802
+00:43:57,770 --> 00:44:00,103
+we can start processing like elements of shame
+
+803
+00:44:00,103 --> 00:44:03,303
+which is kind of what we did over here
+
+804
+00:44:06,837 --> 00:44:11,337
+these give us clear measurable objectives to actually work on
+
+805
+00:44:11,337 --> 00:44:15,437
+so in the process of working with someone like harry
+
+806
+00:44:15,437 --> 00:44:20,370
+this would be a huge moment of self discovery it will
+
+807
+00:44:21,954 --> 00:44:24,703
+be upsetting to learn these things
+
+808
+00:44:24,770 --> 00:44:26,134
+as it naturally should be like 
+
+809
+00:44:26,794 --> 00:44:28,770
+part of him wants to forget all of this stuff 
+
+810
+00:44:28,770 --> 00:44:29,937
+and just be a blank slate
+
+811
+00:44:29,937 --> 00:44:32,770
+that can you know be reshaped into something new
+
+812
+00:44:34,903 --> 00:44:39,629
+but a lot of the work in becoming more self aware 
+
+813
+00:44:39,629 --> 00:44:45,003
+has to do with recognizing your ego defenses
+
+814
+00:44:47,549 --> 00:44:49,853
+these are very common defense
+
+815
+00:44:49,853 --> 00:44:52,170
+we use to protect ourselves from
+
+816
+00:44:52,170 --> 00:44:57,537
+learning the complicated things that exist in our unconscious
+
+817
+00:44:57,770 --> 00:45:02,837
+I'll just draw Freud's like iceberg thing here right
+
+818
+00:45:02,837 --> 00:45:09,551
+Freud said that a lot of our thoughts are unconscious
+
+819
+00:45:11,568 --> 00:45:14,603
+and that's been maintained by more than just Freud
+
+820
+00:45:15,006 --> 00:45:17,437
+but the iceberg analogy works for this right
+
+821
+00:45:18,903 --> 00:45:20,552
+and Harry has not like
+
+822
+00:45:21,337 --> 00:45:24,303
+just because he lost his memories does not mean that he has no
+
+823
+00:45:25,003 --> 00:45:27,237
+that some of his unconscious thoughts
+
+824
+00:45:27,237 --> 00:45:30,837
+and behaviors are not going to surface constantly right
+
+825
+00:45:31,503 --> 00:45:35,737
+I think there were some questions and some of the chat or comments 
+
+826
+00:45:35,737 --> 00:45:37,703
+I forget where they were asking like well
+
+827
+00:45:38,603 --> 00:45:40,171
+why would he still have an addiction 
+
+828
+00:45:40,171 --> 00:45:42,570
+if he just woke up and didn't have his memories well 
+
+829
+00:45:42,570 --> 00:45:46,337
+because like whether or not he has conscious awareness of them 
+
+830
+00:45:47,175 --> 00:45:48,537
+his thoughts and behaviors
+
+831
+00:45:48,537 --> 00:45:54,103
+they are still chemically and psychologically bound to his actions right 
+
+832
+00:45:54,503 --> 00:45:56,487
+even if he says oh yeah I really don't want to smoke like  
+
+833
+00:45:56,487 --> 00:45:59,437
+he might be going through nicotine withdrawal anyways 
+
+834
+00:45:59,570 --> 00:46:01,476
+and that's going to dictate a lot of his behavior 
+
+835
+00:46:02,136 --> 00:46:06,637
+he may tell himself look I don't want to be authoritative  
+
+836
+00:46:06,637 --> 00:46:09,503
+I don't want to be selfish I don't want to be any of these things 
+
+837
+00:46:09,503 --> 00:46:13,928
+but simply because you have that thought does not mean that this 
+
+838
+00:46:14,028 --> 00:46:16,937
+suddenly follows suit right there's
+
+839
+00:46:18,403 --> 00:46:20,435
+there's a certain amount of this that like 
+
+840
+00:46:20,435 --> 00:46:23,588
+the work that you have to do is how do you translate things this way 
+
+841
+00:46:23,803 --> 00:46:27,403
+how do you make something that is unconscious conscious 
+
+842
+00:46:29,437 --> 00:46:30,737
+and that's what we've been trying to do
+
+843
+00:46:30,737 --> 00:46:34,103
+as we explore our past and explore our
+
+844
+00:46:36,239 --> 00:46:38,477
+our good and wrong deeds 
+
+845
+00:46:39,687 --> 00:46:44,490
+but this line right here is very treacherous to cross 
+
+846
+00:46:44,490 --> 00:46:46,103
+for someone who is like Harry
+
+847
+00:46:46,103 --> 00:46:50,170
+who may be afraid of what he used to be right 
+
+848
+00:46:50,403 --> 00:46:55,237
+and so a lot of times as we are trying to bring things up this way 
+
+849
+00:46:55,837 --> 00:46:58,637
+our ego defenses they get in the way of that
+
+850
+00:46:58,637 --> 00:47:01,237
+and they try to send them back down right
+
+851
+00:47:01,970 --> 00:47:06,637
+because the the ego is basically like
+
+852
+00:47:10,937 --> 00:47:13,170
+it's called the reality principle right
+
+853
+00:47:13,637 --> 00:47:17,103
+id is like your pleasure principle
+
+854
+00:47:17,103 --> 00:47:20,503
+it's like dealing with all the primal desires and those sorts of things 
+
+855
+00:47:20,503 --> 00:47:21,703
+and the super ego is like
+
+856
+00:47:21,703 --> 00:47:26,370
+where your sense of morality and bigger ideas live
+
+857
+00:47:26,370 --> 00:47:28,747
+and the ego sort of moderates these things 
+
+858
+00:47:30,103 --> 00:47:34,503
+and translates both of the extremes down to reality
+
+859
+00:47:34,937 --> 00:47:34,953
+所以当我们面对那些不好的事情
+
+860
+00:47:34,953 --> 00:47:38,803
+and so it gets protective when
+
+861
+00:47:40,970 --> 00:47:45,037
+we face things like hey you used to not be a good person right 
+
+862
+00:47:45,037 --> 00:47:49,203
+oh no my super ego is now challenged by that right 
+
+863
+00:47:49,537 --> 00:47:52,953
+like hey you just learned that you were a fucking asshole 
+
+864
+00:47:52,953 --> 00:47:55,770
+and that you did all kinds of horrible things to people 
+
+865
+00:47:57,203 --> 00:48:01,403
+this has the power to shatter your self image
+
+866
+00:48:01,537 --> 00:48:04,337
+and so the ego tries to moderate that by
+
+867
+00:48:07,037 --> 00:48:10,592
+either keeping things like kind of where they are or interpreting them 
+
+868
+00:48:10,592 --> 00:48:11,912
+so let me give you an example of that 
+
+869
+00:48:13,837 --> 00:48:16,137
+so common ego defense right
+
+870
+00:48:18,403 --> 00:48:22,203
+so like here's the thing right what we don't like 
+
+871
+00:48:27,903 --> 00:48:34,537
+when things don't agree right
+
+872
+00:48:34,970 --> 00:48:38,437
+we do not like to see our behaviors
+
+873
+00:48:38,837 --> 00:48:41,637
+disagree with one in one another so for example
+
+874
+00:48:44,237 --> 00:48:49,637
+let's say you look around at my apartment right
+
+875
+00:48:50,403 --> 00:48:53,937
+and you saw that things were neatly set up right
+
+876
+00:48:53,937 --> 00:48:57,203
+like there's the environments kind of clean
+
+877
+00:48:57,737 --> 00:49:01,049
+there's not like dishes in the sink 
+
+878
+00:49:01,049 --> 00:49:04,803
+there's not a bunch of like I don't know cat toys lying around 
+
+879
+00:49:04,803 --> 00:49:06,203
+like it's neatly put together
+
+880
+00:49:06,203 --> 00:49:09,803
+and it's organized and it's well taken care of right
+
+881
+00:49:11,403 --> 00:49:13,337
+but then let's say you got in my car
+
+882
+00:49:13,337 --> 00:49:15,903
+and you discovered that there's like Gatorade bottles on the floor 
+
+883
+00:49:15,903 --> 00:49:18,103
+and an expired air freshener and 
+
+884
+00:49:20,437 --> 00:49:22,995
+old receipts that I haven't taken out right
+
+885
+00:49:24,137 --> 00:49:26,203
+and you would look at that and say like well
+
+886
+00:49:26,937 --> 00:49:31,302
+like why why could this happen  
+
+887
+00:49:31,302 --> 00:49:32,770
+because we see this all the time right
+
+888
+00:49:32,770 --> 00:49:34,837
+I have seen this from people
+
+889
+00:49:34,837 --> 00:49:38,687
+and sometimes I see it in you know my own behavior
+
+890
+00:49:38,687 --> 00:49:41,403
+not specifically this my car is pretty clean right now 
+
+891
+00:49:42,970 --> 00:49:44,357
+but like sometimes we see that 
+
+892
+00:49:44,357 --> 00:49:47,803
+where one part of someone's life looks super put together 
+
+893
+00:49:47,803 --> 00:49:49,711
+and another one doesn't 
+
+894
+00:49:49,711 --> 00:49:51,903
+and you might start asking the question of why 
+
+895
+00:49:51,903 --> 00:49:54,261
+why would this happen
+
+896
+00:49:56,003 --> 00:49:58,562
+why would you walk into my house and see that it's put together
+
+897
+00:49:58,562 --> 00:50:01,152
+and then you go into my car and  it's a fucking mess 
+
+898
+00:50:01,152 --> 00:50:03,829
+let me ask what your read on that is
+
+899
+00:50:04,746 --> 00:50:06,503
+what do you think is going on there
+
+900
+00:50:06,503 --> 00:50:08,237
+because it has to do with all of this
+
+901
+00:50:16,103 --> 00:50:17,837
+there's a million rats in the walls yeah
+
+902
+00:50:19,970 --> 00:50:22,837
+me at work versus day to day yeah
+
+903
+00:50:25,903 --> 00:50:27,337
+could be it could be
+
+904
+00:50:30,170 --> 00:50:33,537
+I've seen many people like that in real life maybe it's OCD yeah
+
+905
+00:50:33,903 --> 00:50:34,937
+this is this is good right
+
+906
+00:50:34,937 --> 00:50:38,037
+we're looking for like what explains this what explains 
+
+907
+00:50:38,937 --> 00:50:41,599
+two behaviors that don't actually agree with each other 
+
+908
+00:50:41,599 --> 00:50:45,970
+one area of my life is super pristine and put together
+
+909
+00:50:45,970 --> 00:50:47,503
+and another one is like kind of a mess
+
+910
+00:50:48,896 --> 00:50:50,037
+car is go go time
+
+911
+00:50:50,037 --> 00:50:53,203
+maybe I don't care about my car couldn't have guests coming over
+
+912
+00:50:54,803 --> 00:50:56,437
+maybe the car is not important to the person
+
+913
+00:50:59,037 --> 00:51:00,521
+no mental energy for cleaning 
+
+914
+00:51:00,521 --> 00:51:01,703
+this is all good stuff
+
+915
+00:51:02,648 --> 00:51:05,170
+we're this is the area where I'm a detective right
+
+916
+00:51:05,170 --> 00:51:07,970
+where I'm like what could be the explanation for this behavior 
+
+917
+00:51:13,203 --> 00:51:14,373
+I’m curious
+
+918
+00:51:14,373 --> 00:51:16,570
+one is elevated at the expense of the other
+
+919
+00:51:19,937 --> 00:51:20,970
+one of my
+
+920
+00:51:25,370 --> 00:51:27,303
+the car is a more private versus
+
+921
+00:51:28,170 --> 00:51:30,047
+showing your home as to guests
+
+922
+00:51:30,627 --> 00:51:34,737
+a lot of times people will say well I don't live in my car right
+
+923
+00:51:34,937 --> 00:51:36,803
+there's all kinds of good reasons
+
+924
+00:51:36,803 --> 00:51:39,037
+and and none of these are wrong by the way
+
+925
+00:51:39,170 --> 00:51:41,303
+it could have been any of them right
+
+926
+00:51:42,337 --> 00:51:44,737
+it could be just like a lack of energy or whatever
+
+927
+00:51:45,003 --> 00:51:46,637
+but very often people
+
+928
+00:51:46,637 --> 00:51:49,770
+would say well look I'm not trying to live in my car 
+
+929
+00:51:49,803 --> 00:51:52,120
+it doesn't matter that it's not put together 
+
+930
+00:51:52,666 --> 00:51:54,937
+I might not have guests over or something 
+
+931
+00:51:56,337 --> 00:52:00,770
+but all of those are basically ego defenses
+
+932
+00:52:00,770 --> 00:52:03,537
+because what we're saying to ourselves is look
+
+933
+00:52:03,537 --> 00:52:05,237
+we don't like when things don't agree
+
+934
+00:52:05,370 --> 00:52:07,170
+when two behaviors don't agree
+
+935
+00:52:11,703 --> 00:52:13,237
+so when things don't agree
+
+936
+00:52:16,703 --> 00:52:20,403
+we tend to force them to 
+
+937
+00:52:24,303 --> 00:52:26,109
+we will come up with a way 
+
+938
+00:52:26,109 --> 00:52:30,037
+to make these two incompatible behaviors agree 
+
+939
+00:52:30,037 --> 00:52:32,003
+even though they don't right
+
+940
+00:52:32,037 --> 00:52:34,803
+and we will call that like a justification
+
+941
+00:52:37,370 --> 00:52:39,137
+right we will say to ourselves well
+
+942
+00:52:40,203 --> 00:52:41,603
+I’m not living in my car
+
+943
+00:52:41,603 --> 00:52:44,237
+it doesn't need to be clean I'm not showing it off to people
+
+944
+00:52:44,237 --> 00:52:47,137
+it's not representative of my lifestyle as much
+
+945
+00:52:48,537 --> 00:52:51,851
+these are just ways to make two incompatible behaviors 
+
+946
+00:52:51,851 --> 00:52:54,170
+that don't actually agree agree 
+
+947
+00:52:54,303 --> 00:52:58,403
+and I would rather come up with a way to make them agree
+
+948
+00:52:58,403 --> 00:52:59,918
+and make this okay 
+
+949
+00:52:59,918 --> 00:53:03,970
+than do the digging for whatever is trying to come up to my conscious mind 
+
+950
+00:53:03,970 --> 00:53:06,482
+and that I'm sending back down by saying 
+
+951
+00:53:06,482 --> 00:53:08,503
+no there's like a rational reason for this 
+
+952
+00:53:08,503 --> 00:53:12,737
+it's because I don't sleep in my car right
+
+953
+00:53:14,037 --> 00:53:17,237
+here's another one that's that's very common as well 
+
+954
+00:53:18,437 --> 00:53:20,124
+oh I went to the gym earlier today
+
+955
+00:53:20,124 --> 00:53:24,503
+so today I’m gonna eat a bunch of sweets later I deserve it right
+
+956
+00:53:25,803 --> 00:53:27,091
+I’m gonna eat this cake 
+
+957
+00:53:27,091 --> 00:53:29,603
+because like I am gonna work out later right 
+
+958
+00:53:31,015 --> 00:53:33,637
+it does not make sense to go spend five hours at the gym 
+
+959
+00:53:33,637 --> 00:53:39,037
+and then blow it on eating sweets right after or later in the day right  
+
+960
+00:53:39,170 --> 00:53:42,170
+these are two behaviors that don't really agree
+
+961
+00:53:42,737 --> 00:53:45,637
+and rather than sort out the disagreement
+
+962
+00:53:45,637 --> 00:53:47,837
+we just come up with ways to force them to
+
+963
+00:53:49,137 --> 00:53:52,437
+and those are in defense of our ego right
+
+964
+00:53:52,437 --> 00:53:54,537
+that's that's an ego defense right there
+
+965
+00:53:57,637 --> 00:54:00,571
+what I'm saying is there can be absolutely no reason for this behavior 
+
+966
+00:54:00,571 --> 00:54:02,237
+yeah  I mean I think that 
+
+967
+00:54:04,637 --> 00:54:08,937
+part of this is down to like these are simple examples right
+
+968
+00:54:08,970 --> 00:54:10,586
+where I'm talking about like  
+
+969
+00:54:11,498 --> 00:54:14,248
+the difference between cleaning an area of your life and not  
+
+970
+00:54:14,248 --> 00:54:18,077
+or just changing your impulse to eat something sweet or not 
+
+971
+00:54:19,037 --> 00:54:22,003
+but think about this in a more complicated sense okay
+
+972
+00:54:22,003 --> 00:54:25,403
+now that I've given you a simple example what is this right here
+
+973
+00:54:33,244 --> 00:54:35,570
+what is a functional alcoholic
+
+974
+00:54:36,137 --> 00:54:38,370
+if not exactly this right
+
+975
+00:54:39,603 --> 00:54:42,437
+oh well I am able to go to work or go to school 
+
+976
+00:54:42,437 --> 00:54:43,703
+and I get my stuff done
+
+977
+00:54:43,703 --> 00:54:46,592
+and I'm not destroying my life in this area
+
+978
+00:54:46,592 --> 00:54:49,570
+and so like you know I'm functioning 
+
+979
+00:54:49,570 --> 00:54:51,837
+even though I'm drinking all the time at home
+
+980
+00:54:51,837 --> 00:54:57,037
+and I'm not putting a lot of you know effort into stopping that
+
+981
+00:54:58,770 --> 00:55:01,237
+this is the same thing right here okay
+
+982
+00:55:01,237 --> 00:55:05,237
+except it's on a more complicated subject
+
+983
+00:55:06,801 --> 00:55:09,254
+these two behaviors do not agree with one another  
+
+984
+00:55:09,254 --> 00:55:12,994
+to be diligent and measured 
+
+985
+00:55:12,994 --> 00:55:18,934
+and taking lots of care to keep your life structured in only one area 
+
+986
+00:55:18,934 --> 00:55:22,822
+and then not putting any of that structure in your health
+
+987
+00:55:24,134 --> 00:55:24,991
+or your finances
+
+988
+00:55:25,134 --> 00:55:27,701
+or whatever you have to do to keep the lifestyle of addiction up
+
+989
+00:55:28,567 --> 00:55:30,801
+and so yeah two things don't agree here
+
+990
+00:55:30,801 --> 00:55:34,367
+but we force them to we come up with a way to
+
+991
+00:55:35,934 --> 00:55:40,134
+not integrate whatever is trying to come up to the surface here
+
+992
+00:55:40,401 --> 00:55:42,801
+which is that like wow I have a problem 
+
+993
+00:55:42,801 --> 00:55:46,401
+like imagine someone discovering that idea that 
+
+994
+00:55:46,401 --> 00:55:51,467
+oh actually being an alcoholic is making parts of my life unmanageable  
+
+995
+00:55:51,601 --> 00:55:54,601
+or is ruining relationships right
+
+996
+00:55:54,734 --> 00:55:56,201
+and to become aware of that
+
+997
+00:55:56,201 --> 00:55:59,401
+would start to change the make up of your self-esteem
+
+998
+00:55:59,401 --> 00:56:01,967
+it would start asking you to change behaviors
+
+999
+00:56:01,967 --> 00:56:04,369
+you have to you know 
+
+1000
+00:56:04,369 --> 00:56:07,334
+suddenly give up this thing that you've become dependent on 
+
+1001
+00:56:07,534 --> 00:56:09,501
+it's a lot of work and a lot of effort 
+
+1002
+00:56:09,501 --> 00:56:12,467
+and so what we do is our eco defense gets involved 
+
+1003
+00:56:12,467 --> 00:56:17,934
+and keeps this from coming to the surface and it will stay down here 
+
+1004
+00:56:20,301 --> 00:56:22,997
+because we've come up with a way to make a degree
+
+1005
+00:56:24,367 --> 00:56:27,214
+so this is a force that opposes 
+
+1006
+00:56:28,094 --> 00:56:31,468
+your behavioral changes and your cognitive changes 
+
+1007
+00:56:32,967 --> 00:56:36,712
+and I see a lot of that in what is going on with 
+
+1008
+00:56:36,712 --> 00:56:38,667
+our own rigorous self critique here 
+
+1009
+00:56:41,267 --> 00:56:43,534
+every time we learn something new
+
+1010
+00:56:43,534 --> 00:56:47,200
+there is a chance for us to suppress it 
+
+1011
+00:56:47,566 --> 00:56:52,883
+and Volition and Inland Empire they have in some ways been ego defenses 
+
+1012
+00:56:52,883 --> 00:56:56,734
+to be no you don't have to integrate these things
+
+1013
+00:56:59,134 --> 00:57:02,767
+it's okay for these not to agree who you were and who you are
+
+1014
+00:57:02,767 --> 00:57:03,967
+you can just be a new person
+
+1015
+00:57:05,498 --> 00:57:10,967
+but I think that this is unhelpful for Harry's healing right
+
+1016
+00:57:11,201 --> 00:57:13,734
+I genuinely think that it's much healthier
+
+1017
+00:57:13,867 --> 00:57:17,134
+for all of this stuff to come up here
+
+1018
+00:57:17,134 --> 00:57:20,239
+and even if it is psychologically damaging in the moment  
+
+1019
+00:57:20,789 --> 00:57:22,934
+to have the kinds of protective factors
+
+1020
+00:57:22,934 --> 00:57:24,713
+to integrate it in a healthy way right
+
+1021
+00:57:25,301 --> 00:57:27,867
+and we'll talk about protective factors in a moment
+
+1022
+00:57:28,101 --> 00:57:30,201
+like we don't just want to suddenly
+
+1023
+00:57:30,201 --> 00:57:32,401
+make everything bad about our life conscious
+
+1024
+00:57:32,401 --> 00:57:33,734
+because it would break us down
+
+1025
+00:57:33,734 --> 00:57:35,534
+that's what Volition is worried about
+
+1026
+00:57:36,767 --> 00:57:39,418
+but we can't just go through our life 
+
+1027
+00:57:39,418 --> 00:57:41,767
+with our house clean and our car dirty 
+
+1028
+00:57:41,767 --> 00:57:44,295
+I mean we can but bigger picture  
+
+1029
+00:57:44,295 --> 00:57:46,752
+we cannot go through Harry's life with 
+
+1030
+00:57:46,752 --> 00:57:49,034
+I used to be a shit cop and a shit person 
+
+1031
+00:57:49,134 --> 00:57:51,401
+and now I'm trying to be a good cop and a good person
+
+1032
+00:57:51,667 --> 00:57:53,567
+and does totally separate them
+
+1033
+00:57:54,701 --> 00:57:56,467
+if we want to actually heal from this
+
+1034
+00:57:56,467 --> 00:57:58,801
+we're going to need to make a lot of that stuff conscious
+
+1035
+00:57:59,001 --> 00:58:02,667
+and not try to defend ourselves from the lack of agreement
+
+1036
+00:58:03,267 --> 00:58:06,847
+we're going to have to find ways to face the idea that  
+
+1037
+00:58:07,470 --> 00:58:09,501
+we are a walking contradiction
+
+1038
+00:58:10,267 --> 00:58:13,734
+but there are things we can address to make them more consistent 
+
+1039
+00:58:13,734 --> 00:58:15,301
+and it's this stuff right here
+
+1040
+00:58:18,534 --> 00:58:19,801
+so this applies to harry's life
+
+1041
+00:58:19,801 --> 00:58:22,725
+and applies to the lives of a lot of people who I work with  
+
+1042
+00:58:22,725 --> 00:58:26,701
+who again you know is is a lot of people in addiction 
+
+1043
+00:58:26,867 --> 00:58:30,701
+who may not even remember everything that they've done
+
+1044
+00:58:30,701 --> 00:58:33,201
+may have very similar experiences to Harry
+
+1045
+00:58:33,201 --> 00:58:37,201
+where they have stolen from family members to support their addiction 
+
+1046
+00:58:37,201 --> 00:58:40,967
+they've committed crimes to support their addiction
+
+1047
+00:58:40,967 --> 00:58:42,747
+they've done all kinds of stuff that 
+
+1048
+00:58:42,747 --> 00:58:45,367
+as a sober person today they are not happy with 
+
+1049
+00:58:45,767 --> 00:58:47,801
+and I am not working with them on
+
+1050
+00:58:47,801 --> 00:58:51,201
+how to somehow make those two lives compatible
+
+1051
+00:58:53,567 --> 00:58:56,501
+by saying like well it was your addiction its its
+
+1052
+00:58:56,667 --> 00:58:58,534
+it's not who you were it's like well
+
+1053
+00:58:59,867 --> 00:59:02,467
+let's embrace the fact that we're not happy about those things 
+
+1054
+00:59:02,467 --> 00:59:04,566
+and find a healthy way to integrate them 
+
+1055
+00:59:04,566 --> 00:59:06,734
+by working on what they represent to you 
+
+1056
+00:59:06,901 --> 00:59:09,956
+if we need to work on selfishness let's do it right 
+
+1057
+00:59:10,616 --> 00:59:12,934
+if we need to work on our regrets 
+
+1058
+00:59:12,934 --> 00:59:15,267
+then we need to learn how to make amends to people
+
+1059
+00:59:17,067 --> 00:59:19,467
+rather than just try to move on from it
+
+1060
+00:59:22,567 --> 00:59:26,501
+that's my viewpoint on why we have been going about
+
+1061
+00:59:28,401 --> 00:59:31,078
+approaching Harry's past and his present
+
+1062
+00:59:33,635 --> 00:59:35,919
+you know I think that like not looking in the mirror  
+
+1063
+00:59:35,919 --> 00:59:37,801
+in some ways is like one of these
+
+1064
+00:59:39,967 --> 00:59:42,262
+like here's two things that don't agree
+
+1065
+00:59:43,901 --> 00:59:46,669
+I don't know a lot about who I am 
+
+1066
+00:59:47,072 --> 00:59:48,601
+so I'm gonna
+
+1067
+00:59:50,701 --> 00:59:54,067
+deny myself looking in the mirror right
+
+1068
+00:59:56,167 --> 01:00:00,867
+to actually like face that side of ourselves would mean 
+
+1069
+01:00:02,334 --> 01:00:05,841
+embracing some of these uncomfortable unconscious things
+
+1070
+01:00:06,901 --> 01:00:09,934
+I just think don't think that we were ready yet until recently
+
+1071
+01:00:09,934 --> 01:00:12,967
+until we have started to actually do some good deeds right
+
+1072
+01:00:13,001 --> 01:00:14,901
+because what we did recently was
+
+1073
+01:00:16,567 --> 01:00:21,267
+we gained some self-respect in our interactions with Annette
+
+1074
+01:00:22,101 --> 01:00:25,734
+we have changed some of our impulse control by not
+
+1075
+01:00:27,301 --> 01:00:31,144
+chasing around every bit of alcohol and cigarette 
+
+1076
+01:00:31,144 --> 01:00:33,667
+we struggled at first but we're doing it now 
+
+1077
+01:00:34,401 --> 01:00:38,401
+we don't have to be as shameful about who we used to be
+
+1078
+01:00:38,401 --> 01:00:40,867
+because we are apologizing for a lot of it right
+
+1079
+01:00:42,967 --> 01:00:46,501
+this is stuff that we are still struggling with
+
+1080
+01:00:46,501 --> 01:00:48,801
+is like how not to be authoritative
+
+1081
+01:00:49,367 --> 01:00:53,701
+my read on Harry is that like when he gets in a bind
+
+1082
+01:00:53,701 --> 01:00:58,301
+he's still struggling not to like do the kinds of things he used to do 
+
+1083
+01:00:58,301 --> 01:01:03,193
+which was holding someone in a in a room 
+
+1084
+01:01:03,193 --> 01:01:04,953
+which we just learned that he did 
+
+1085
+01:01:04,953 --> 01:01:08,768
+like it's very in line with me trying to just arrest everybody
+
+1086
+01:01:09,207 --> 01:01:11,167
+so this is still an area of work
+
+1087
+01:01:11,811 --> 01:01:15,244
+but we are changing our selfishness we're changing our composure
+
+1088
+01:01:16,267 --> 01:01:18,267
+our accuracy is definitely much better
+
+1089
+01:01:18,267 --> 01:01:19,567
+after shooting the guy down
+
+1090
+01:01:19,734 --> 01:01:22,067
+and we're trying to be accountable by apologizing
+
+1091
+01:01:22,067 --> 01:01:23,334
+by a lot of things right
+
+1092
+01:01:25,001 --> 01:01:27,567
+and in addressing who we look like
+
+1093
+01:01:27,567 --> 01:01:29,667
+is sort of addressing the shame around that
+
+1094
+01:01:31,767 --> 01:01:33,886
+our Harry is going through a journey of 
+
+1095
+01:01:33,886 --> 01:01:39,680
+change and acceptance and development   
+
+1096
+01:01:39,680 --> 01:01:43,301
+and it's messy and it's not it's not holistic either 
+
+1097
+01:01:43,301 --> 01:01:46,581
+not all of these things are going to come together all at once
+
+1098
+01:01:48,041 --> 01:01:52,767
+for example this one is still very much in work in progress 
+
+1099
+01:01:54,401 --> 01:01:55,705
+but I fucking love this 
+
+1100
+01:01:55,705 --> 01:01:59,372
+I love this rigorous self critique thing this game mechanic  
+
+1101
+01:01:59,372 --> 01:02:03,992
+because it's so representative of this issue 
+
+1102
+01:02:04,667 --> 01:02:09,201
+that is like very common in psychological work right
+
+1103
+01:02:14,167 --> 01:02:17,304
+this journey doesn't sound very disco  I mean it's a  
+
+1104
+01:02:17,634 --> 01:02:19,027
+it's the journey that we're on 
+
+1105
+01:02:31,467 --> 01:02:33,438
+are ego defenses ever valid in their reasoning 
+
+1106
+01:02:33,438 --> 01:02:37,401
+yes so I'll tell you about some more ego defenses 
+
+1107
+01:02:38,267 --> 01:02:40,267
+which are not the worst thing ever right like
+
+1108
+01:02:41,909 --> 01:02:43,576
+displacement is one of them
+
+1109
+01:02:47,601 --> 01:02:49,667
+we talked about displacement
+
+1110
+01:02:52,534 --> 01:02:54,534
+which is like the
+
+1111
+01:02:56,334 --> 01:02:58,567
+when we're dealing with something
+
+1112
+01:02:58,567 --> 01:03:02,367
+where we don't have the right target for an emotion
+
+1113
+01:03:02,367 --> 01:03:04,021
+so we displace it to someone else 
+
+1114
+01:03:04,535 --> 01:03:06,334
+right again to become aware of that 
+
+1115
+01:03:06,334 --> 01:03:08,901
+to make an unconscious feeling conscious
+
+1116
+01:03:09,701 --> 01:03:11,722
+could be damaging to ourselves which is that  
+
+1117
+01:03:11,722 --> 01:03:15,939
+look I'm struggling with anger at myself over who I used to be
+
+1118
+01:03:15,939 --> 01:03:18,367
+so I lash out at everyone around me
+
+1119
+01:03:18,367 --> 01:03:19,767
+like that would be really insightful
+
+1120
+01:03:19,767 --> 01:03:21,601
+but it would also bring up a lot of shame
+
+1121
+01:03:21,701 --> 01:03:24,446
+and so displace it would mean like 
+
+1122
+01:03:25,070 --> 01:03:26,573
+we just attribute it to someone else 
+
+1123
+01:03:26,573 --> 01:03:28,701
+and say yeah no I’m pissed off because 
+
+1124
+01:03:30,767 --> 01:03:32,301
+you know I can't find my badge
+
+1125
+01:03:32,301 --> 01:03:34,267
+and that's not my fault it's someone else's fault
+
+1126
+01:03:34,267 --> 01:03:35,934
+like it's an ego defense right
+
+1127
+01:03:40,101 --> 01:03:44,798
+the two other common ones are what I might call 
+
+1128
+01:03:44,798 --> 01:03:47,101
+sour grapes and 
+
+1129
+01:03:48,542 --> 01:03:49,909
+sweet lemon
+
+1130
+01:03:53,876 --> 01:03:55,742
+so a sour grape right
+
+1131
+01:03:56,067 --> 01:04:00,401
+this comes from an Aesop's Fable where there's a fox whose
+
+1132
+01:04:02,734 --> 01:04:05,067
+going through the forest and he finds some grapes
+
+1133
+01:04:05,067 --> 01:04:10,534
+some delicious sustenance in the jungle or whatever forest 
+
+1134
+01:04:10,534 --> 01:04:11,901
+and he wants them
+
+1135
+01:04:12,367 --> 01:04:14,801
+but there's like a thorn bush between him and the grapes
+
+1136
+01:04:14,801 --> 01:04:16,701
+and so what he tells himself right 
+
+1137
+01:04:18,901 --> 01:04:21,378
+because he can't get them is that they must be sour 
+
+1138
+01:04:21,578 --> 01:04:23,118
+like I didn't want those grapes anyways 
+
+1139
+01:04:23,118 --> 01:04:25,575
+they're probably sour I probably wouldn't want them 
+
+1140
+01:04:25,905 --> 01:04:28,101
+like this is an ego defense right 
+
+1141
+01:04:29,442 --> 01:04:34,119
+this is what happens when someone gets rejected
+
+1142
+01:04:34,934 --> 01:04:37,346
+and then they're like yeah well whatever you're ugly anyways
+
+1143
+01:04:38,901 --> 01:04:40,793
+you've just made this into a sour grape like  
+
+1144
+01:04:41,673 --> 01:04:46,534
+you wanted something and instead of embracing the idea that 
+
+1145
+01:04:47,871 --> 01:04:50,181
+you can't have something that you want all the time
+
+1146
+01:04:50,934 --> 01:04:53,884
+and that that's like you would embrace the idea that 
+
+1147
+01:04:54,471 --> 01:04:56,401
+you know maybe I'm not attractive to this person 
+
+1148
+01:04:57,101 --> 01:04:58,801
+our ego defense gets in the way
+
+1149
+01:04:58,801 --> 01:05:01,365
+and it keeps it at an unconscious level 
+
+1150
+01:05:01,365 --> 01:05:03,932
+to say that yeah well you didn't even really want that thing 
+
+1151
+01:05:06,462 --> 01:05:09,213
+so that's a sour grape and the opposite of that is a sweet lemon
+
+1152
+01:05:09,567 --> 01:05:14,940
+which is this is making this is 
+
+1153
+01:05:16,017 --> 01:05:18,651
+forcing a good situation to be bad
+
+1154
+01:05:19,101 --> 01:05:23,001
+this is forcing a bad situation to be good right
+
+1155
+01:05:24,334 --> 01:05:25,734
+it's like biting into a lemon
+
+1156
+01:05:25,734 --> 01:05:27,914
+and telling yourself that it's actually quite sweet
+
+1157
+01:05:28,734 --> 01:05:30,467
+and that it's not sour at all right 
+
+1158
+01:05:33,367 --> 01:05:34,901
+a good example of this would be like
+
+1159
+01:05:34,901 --> 01:05:39,534
+let's say I'm you know in a fucking office all day
+
+1160
+01:05:39,534 --> 01:05:41,267
+and it's super hot and I'm sweating
+
+1161
+01:05:41,267 --> 01:05:43,001
+and it's like making me dehydrated
+
+1162
+01:05:43,001 --> 01:05:47,134
+and so I tell myself  you know this is really uncomfortable right now  
+
+1163
+01:05:47,134 --> 01:05:48,901
+but at least it's getting me to drink more water
+
+1164
+01:05:48,901 --> 01:05:50,567
+I have been trying to drink more
+
+1165
+01:05:51,900 --> 01:05:53,583
+right like what you have done is
+
+1166
+01:05:54,330 --> 01:05:57,640
+you have forced two things that don't really agree
+
+1167
+01:05:57,640 --> 01:05:59,344
+to somehow have a better outcome.
+
+1168
+01:06:01,200 --> 01:06:06,104
+sweating is actually good for me because it's making me hydrate more 
+
+1169
+01:06:13,200 --> 01:06:16,430
+It comes through when people are like well
+
+1170
+01:06:19,840 --> 01:06:22,386
+you know this job doesn't pay me enough
+
+1171
+01:06:22,386 --> 01:06:24,203
+but that's actually good for me 
+
+1172
+01:06:24,203 --> 01:06:27,600
+because I'll have less money which will teach me to budget better 
+
+1173
+01:06:29,520 --> 01:06:30,980
+right that's not like
+
+1174
+01:06:30,980 --> 01:06:33,170
+someone asked if the ego defenses are always negative
+
+1175
+01:06:33,170 --> 01:06:35,314
+and this is what I'd say no it's not that negative
+
+1176
+01:06:35,314 --> 01:06:37,314
+like look if that's your reality
+
+1177
+01:06:37,680 --> 01:06:38,981
+if you're Frittte girl
+
+1178
+01:06:38,981 --> 01:06:41,530
+ and stop me from talking about her
+
+1179
+01:06:41,530 --> 01:06:43,700
+if I if I'm going back down that direction
+
+1180
+01:06:43,700 --> 01:06:45,251
+but imagine you're Frittte girl okay
+
+1181
+01:06:45,800 --> 01:06:50,410
+her whole fucking life has to be a sweet lemon just to survive all right 
+
+1182
+01:06:50,430 --> 01:06:55,954
+she has to go into her fucking claustrophobic little booth 
+
+1183
+01:06:56,770 --> 01:06:58,956
+and tell herself that like
+
+1184
+01:06:58,956 --> 01:07:04,140
+ oh this bad situation this fucking lemon of a life 
+
+1185
+01:07:04,140 --> 01:07:08,020
+is actually quite sweet to me right 
+
+1186
+01:07:08,020 --> 01:07:12,240
+because not getting paid teaches me to budget better 
+
+1187
+01:07:13,180 --> 01:07:17,320
+having to spend all day here keeps me from spending time at home
+
+1188
+01:07:17,320 --> 01:07:20,100
+where I don't feel like anyone listens to me
+
+1189
+01:07:22,680 --> 01:07:26,210
+every time I go to work I'm reminded of how bad my life is
+
+1190
+01:07:26,210 --> 01:07:29,300
+and it makes me work harder to get out of this
+
+1191
+01:07:30,080 --> 01:07:31,770
+have you ever felt like that
+
+1192
+01:07:31,770 --> 01:07:35,600
+that the job you have and everything around it
+
+1193
+01:07:35,600 --> 01:07:39,140
+and the people that you have to work with that you may not like
+
+1194
+01:07:39,740 --> 01:07:42,210
+and you look at them and you're like I'm glad I'm facing this
+
+1195
+01:07:42,210 --> 01:07:45,440
+because it is reminding me of what's important to me
+
+1196
+01:07:45,440 --> 01:07:47,400
+and that I need to get out of this right
+
+1197
+01:07:47,400 --> 01:07:49,530
+then that's what you're doing right here
+
+1198
+01:07:50,860 --> 01:07:52,960
+and this one's not so bad right
+
+1199
+01:07:52,960 --> 01:07:55,470
+I think that this is these are not all equal
+
+1200
+01:07:55,470 --> 01:07:59,600
+that's not forcing something to be unconscious in like a suppressive way
+
+1201
+01:07:59,600 --> 01:08:03,520
+what it's doing is protecting ourselves from the ego
+
+1202
+01:08:03,520 --> 01:08:06,120
+which which would chime in to say
+
+1203
+01:08:06,560 --> 01:08:09,770
+your life sucks and they're getting nothing out of this
+
+1204
+01:08:10,040 --> 01:08:12,060
+like I think we just have to believe that
+
+1205
+01:08:12,080 --> 01:08:14,290
+even the bad things we're going through are worth something
+
+1206
+01:08:14,290 --> 01:08:17,373
+and in that sense this is not a problem right
+
+1207
+01:08:17,373 --> 01:08:20,240
+that's a coping skill in some ways
+
+1208
+01:08:20,660 --> 01:08:23,970
+as long as it's not leading to like deep denial right
+
+1209
+01:08:28,580 --> 01:08:31,530
+so it's a thin line between helpful positivity and sweet lemons
+
+1210
+01:08:31,530 --> 01:08:34,270
+or is sweet lemon toxic positivity
+
+1211
+01:08:34,320 --> 01:08:35,660
+no I think yeah
+
+1212
+01:08:35,660 --> 01:08:37,770
+toxic positivity would be like
+
+1213
+01:08:40,050 --> 01:08:42,779
+always saying well look at the bright side right
+
+1214
+01:08:46,060 --> 01:08:48,000
+I think that sweet lemon is not as bad
+
+1215
+01:08:48,000 --> 01:08:51,130
+because there's still an acknowledgement that the situation sucks
+
+1216
+01:08:52,170 --> 01:08:53,850
+you're not trying to like twist reality
+
+1217
+01:08:53,850 --> 01:08:55,980
+because like toxic positivity to me would be like
+
+1218
+01:08:56,740 --> 01:08:59,941
+going into Frittte girls job and being like no I actually do like this
+
+1219
+01:09:00,170 --> 01:09:04,252
+you know it's actually interesting to see the people and  
+
+1220
+01:09:04,252 --> 01:09:09,560
+like no then you're trying to make something positive when it's not 
+
+1221
+01:09:09,920 --> 01:09:13,080
+at least here you're telling yourself yeah this does suck
+
+1222
+01:09:13,080 --> 01:09:15,562
+it like it really is shit but 
+
+1223
+01:09:16,699 --> 01:09:18,600
+I got to get something out of this 
+
+1224
+01:09:18,600 --> 01:09:22,010
+even if it's just motivation to change it
+
+1225
+01:09:25,010 --> 01:09:25,690
+right
+
+1226
+01:09:26,560 --> 01:09:31,120
+so that's one of the the ego defenses that's like not super bad for you
+
+1227
+01:09:31,200 --> 01:09:34,650
+but yeah a couple of other ones are like projection right
+
+1228
+01:09:36,140 --> 01:09:40,920
+projections when we hear a lot of the idea is that you are 
+
+1229
+01:09:42,530 --> 01:09:46,100
+you think you're looking at a window but you're actually looking at a mirror
+
+1230
+01:09:47,758 --> 01:09:49,335
+you're looking at someone else and saying
+
+1231
+01:09:49,335 --> 01:09:52,490
+yeah this guy's a pain in the ass he thinks he's so smart
+
+1232
+01:09:55,070 --> 01:09:58,080
+what's his deal what a jerk right 
+
+1233
+01:09:58,880 --> 01:10:01,600
+and I think I'm like looking at someone through a window like I'm not
+
+1234
+01:10:03,085 --> 01:10:04,570
+like I'm not seeing that that's actually me
+
+1235
+01:10:05,310 --> 01:10:07,770
+and I'm actually looking at a mirror and I'm like
+
+1236
+01:10:07,770 --> 01:10:12,430
+wow I hate the idea that you know this person 
+
+1237
+01:10:12,540 --> 01:10:16,830
+intellectualizes things to hide from their insecurities or whatever
+
+1238
+01:10:17,040 --> 01:10:20,210
+again it's keeping something from surfacing here
+
+1239
+01:10:20,720 --> 01:10:21,150
+right
+
+1240
+01:10:22,970 --> 01:10:24,620
+it's a defense against the ego
+
+1241
+01:10:24,620 --> 01:10:30,140
+and the ego just meaning the thing that dictates what reality is to you right
+
+1242
+01:10:33,140 --> 01:10:36,400
+another common one is called reaction formation
+
+1243
+01:10:38,210 --> 01:10:42,560
+reaction formation is when you express the opposite of what you feel
+
+1244
+01:10:42,560 --> 01:10:46,080
+so kids experience this a lot when they are
+
+1245
+01:10:47,840 --> 01:10:51,418
+picking on the girl who sits next to them but they actually like them
+
+1246
+01:10:52,580 --> 01:10:54,820
+right when you're mean to someone that you actually like
+
+1247
+01:10:54,820 --> 01:10:56,730
+that's reaction formation
+
+1248
+01:10:56,730 --> 01:11:01,450
+and we have probably seen a lot of this in Kim's behavior
+
+1249
+01:11:01,720 --> 01:11:05,150
+where he says things like I'm not interested in this
+
+1250
+01:11:05,150 --> 01:11:06,810
+but he actually kind of is
+
+1251
+01:11:08,270 --> 01:11:09,742
+why might he be doing that
+
+1252
+01:11:10,720 --> 01:11:12,160
+unconsciously
+
+1253
+01:11:12,810 --> 01:11:18,900
+there is a desire to be a little more free and loose and whatever else 
+
+1254
+01:11:19,300 --> 01:11:26,548
+but part of his like whole thing is staying composed and professional 
+
+1255
+01:11:26,548 --> 01:11:33,210
+and so he doesn't always allow this like childlike spirit to come out 
+
+1256
+01:11:33,798 --> 01:11:37,040
+ and so he keeps it here by using this
+
+1257
+01:11:39,130 --> 01:11:43,160
+I'm not interested in this he said interested yeah
+
+1258
+01:11:44,670 --> 01:11:46,136
+he's separating work and personal stuff
+
+1259
+01:11:46,136 --> 01:11:48,910
+yeah I mean like again these are not all bad
+
+1260
+01:11:49,390 --> 01:11:52,170
+do not get that idea ego defenses are not bad
+
+1261
+01:11:54,030 --> 01:11:58,490
+they are just worthy of being investigated 
+
+1262
+01:11:58,490 --> 01:11:59,950
+that like
+
+1263
+01:12:00,330 --> 01:12:03,970
+look if you're struggling to face the thing in reality
+
+1264
+01:12:04,970 --> 01:12:07,040
+there might be a reason for that right
+
+1265
+01:12:07,040 --> 01:12:10,010
+and if we find that it's not worth bringing into reality that's fine
+
+1266
+01:12:10,010 --> 01:12:11,514
+but we do have to notice that
+
+1267
+01:12:12,239 --> 01:12:15,300
+we do force things to agree when they don't
+
+1268
+01:12:15,500 --> 01:12:16,910
+that's what this is about
+
+1269
+01:12:20,840 --> 01:12:23,880
+yeah a tsundere is a little bit like that right
+
+1270
+01:12:25,520 --> 01:12:27,530
+pretending not to like someone
+
+1271
+01:12:27,530 --> 01:12:28,670
+when you actually do
+
+1272
+01:12:33,660 --> 01:12:34,700
+a cigarette a day
+
+1273
+01:12:34,700 --> 01:12:37,410
+exactly this is kind of an ego defense as well
+
+1274
+01:12:37,410 --> 01:12:39,840
+it's a kind of a justification right
+
+1275
+01:12:43,060 --> 01:12:45,390
+it doesn't really agree with like
+
+1276
+01:12:47,880 --> 01:12:50,520
+it not being a full habit
+
+1277
+01:12:52,490 --> 01:12:56,830
+but still doing it like it's a habit just not at that intensity or something like that
+
+1278
+01:13:00,100 --> 01:13:02,330
+can you explain the core difference
+
+1279
+01:13:02,330 --> 01:13:05,120
+between intellectualization and rationalization
+
+1280
+01:13:06,850 --> 01:13:09,591
+I would say intellectualization is like
+
+1281
+01:13:09,591 --> 01:13:13,130
+talking about an emotional subject in an abstract way
+
+1282
+01:13:13,500 --> 01:13:16,820
+giving a history of an emotion rather than
+
+1283
+01:13:23,060 --> 01:13:24,220
+expressing it
+
+1284
+01:13:26,730 --> 01:13:29,331
+where where I'm like yeah
+
+1285
+01:13:29,331 --> 01:13:32,480
+I got in an argument with my friend yesterday and he made me so mad
+
+1286
+01:13:34,090 --> 01:13:36,270
+like I'm just giving you a history
+
+1287
+01:13:36,270 --> 01:13:39,720
+I'm like reading the Wikipedia version of what happened
+
+1288
+01:13:39,720 --> 01:13:41,690
+that would be kind of like intellectualizing
+
+1289
+01:13:41,690 --> 01:13:44,200
+which again is not bad
+
+1290
+01:13:44,500 --> 01:13:47,520
+it's just that's not our objective
+
+1291
+01:13:47,520 --> 01:13:51,620
+if our objective is to be emotionally insightful
+
+1292
+01:13:51,620 --> 01:13:52,990
+then we want to avoid that
+
+1293
+01:13:52,990 --> 01:13:54,810
+and rationalization
+
+1294
+01:13:57,970 --> 01:14:00,460
+it's kind of similar to this
+
+1295
+01:14:00,890 --> 01:14:05,230
+it's coming up with a logical reason to do something like
+
+1296
+01:14:05,230 --> 01:14:09,333
+well I don't live in my car so there's no reason for me to clean it 
+
+1297
+01:14:10,750 --> 01:14:12,553
+yeah anyways I bring all this up  
+
+1298
+01:14:12,553 --> 01:14:16,684
+because I think it's very relevant to what we just learned about
+
+1299
+01:14:16,684 --> 01:14:19,630
+the ideas of rigorous self-critique right
+
+1300
+01:14:20,210 --> 01:14:22,490
+which this is not just self-critique
+
+1301
+01:14:22,490 --> 01:14:27,720
+it's rigorous it's painful it's it's challenging 
+
+1302
+01:14:27,720 --> 01:14:30,190
+it's challenging to this right here the ego
+
+1303
+01:14:30,190 --> 01:14:36,290
+which is defining our our understanding of reality 
+
+1304
+01:14:36,290 --> 01:14:40,480
+it's trying to integrate ideas of morality and ideas of
+
+1305
+01:14:40,730 --> 01:14:46,280
+like the primordial voice right
+
+1306
+01:14:50,120 --> 01:14:52,800
+so yeah pretty interesting
+
+1307
+01:14:54,750 --> 01:14:56,227
+that we just learned more like an hour ago
+
+1308
+01:14:56,227 --> 01:14:56,730
+ yeah I know
+
+1309
+01:14:57,810 --> 01:14:59,210
+I know I know
+
+1310
+01:14:59,630 --> 01:15:00,860
+okay let's
+
+1311
+01:15:02,640 --> 01:15:05,250
+let's return to what we were doing
+
+1312
+01:15:06,370 --> 01:15:07,680
+thank you for watching my video
+
+1313
+01:15:07,680 --> 01:15:09,640
+if you enjoyed it consider giving it a like
+
+1314
+01:15:09,640 --> 01:15:11,790
+and letting me know what you thought of it in the comments
+
+1315
+01:15:11,790 --> 01:15:13,810
+you can subscribe to catch the next video here
+
+1316
+01:15:13,810 --> 01:15:15,882
+or you can see things a little bit earlier
+
+1317
+01:15:15,882 --> 01:15:18,800
+if you support the channel either through Twitch or Patreon
+
+1318
+01:15:18,800 --> 01:15:22,170
+links to both of those and the community Discord are in the description
+
+1319
+01:15:22,170 --> 01:15:24,250
+thanks again and I will see you next time
+
+1320
+01:15:24,250 --> 01:15:25,260
+bye
+

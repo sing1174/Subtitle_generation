@@ -1,0 +1,2413 @@
+﻿1
+00:00:00,333 --> 00:00:01,133
+okay
+
+2
+00:00:02,066 --> 00:00:02,866
+hello
+
+3
+00:00:03,133 --> 00:00:04,241
+and welcome to
+
+4
+00:00:04,241 --> 00:00:08,166
+kind of like a special little interlude episode that
+
+5
+00:00:08,300 --> 00:00:09,700
+I wanted to put out before
+
+6
+00:00:09,700 --> 00:00:12,166
+the next Disco Elysium stream goes live
+
+7
+00:00:12,166 --> 00:00:14,400
+so this is something I may do from time to time
+
+8
+00:00:14,400 --> 00:00:15,533
+kind of like taking
+
+9
+00:00:16,000 --> 00:00:18,666
+a chunk of the analysis and putting it in its own video
+
+10
+00:00:18,666 --> 00:00:20,000
+sometimes because it takes me a while
+
+11
+00:00:20,000 --> 00:00:21,866
+to sort of collect my thoughts on things
+
+12
+00:00:21,866 --> 00:00:22,766
+and it doesn't always happen
+
+13
+00:00:22,766 --> 00:00:24,566
+like while we're live on stream 
+
+14
+00:00:24,566 --> 00:00:26,066
+but also because
+
+15
+00:00:27,266 --> 00:00:29,600
+I can kind of already foresee that this
+
+16
+00:00:29,600 --> 00:00:31,800
+playthrough of Disco Elysium is going to be
+
+17
+00:00:31,900 --> 00:00:34,366
+quite long going at our usual pace
+
+18
+00:00:35,533 --> 00:00:38,000
+and I know it can be pretty hard to get into
+
+19
+00:00:38,000 --> 00:00:38,966
+a let's play
+
+20
+00:00:40,300 --> 00:00:42,066
+when it's like episode 30
+
+21
+00:00:42,066 --> 00:00:44,166
+or something and so if you weren't really
+
+22
+00:00:44,200 --> 00:00:45,766
+there for the beginning of it
+
+23
+00:00:46,733 --> 00:00:48,133
+it's kinda hard to hop in
+
+24
+00:00:48,400 --> 00:00:49,800
+that far down the line so
+
+25
+00:00:49,800 --> 00:00:51,400
+I thought it would be cool to kind of like do
+
+26
+00:00:51,500 --> 00:00:53,700
+like little chunks of our
+
+27
+00:00:53,800 --> 00:00:55,166
+character studies and
+
+28
+00:00:55,266 --> 00:00:56,640
+like analysis of the games
+
+29
+00:00:56,640 --> 00:00:59,133
+ systems like how they represent different
+
+30
+00:00:59,133 --> 00:01:00,533
+parts of mental health like
+
+31
+00:01:00,700 --> 00:01:02,166
+just as their own separate videos
+
+32
+00:01:02,166 --> 00:01:05,933
+basically for the people who can't commit the time to watch 
+
+33
+00:01:06,000 --> 00:01:07,600
+all of the let's play videos or
+
+34
+00:01:07,700 --> 00:01:09,366
+can't make it to the streams or that sort of thing
+
+35
+00:01:09,700 --> 00:01:10,700
+they can still enjoy
+
+36
+00:01:10,966 --> 00:01:14,200
+kind of the psychological breakdown parts of it so
+
+37
+00:01:14,300 --> 00:01:15,366
+that's what we're gonna be doing today
+
+38
+00:01:15,366 --> 00:01:16,466
+there's something that
+
+39
+00:01:16,566 --> 00:01:19,000
+I have to talk about basically like
+
+40
+00:01:19,266 --> 00:01:21,100
+I just couldn't really wait until
+
+41
+00:01:21,133 --> 00:01:23,733
+the next time I get on stream to talk about it
+
+42
+00:01:23,866 --> 00:01:25,066
+so that's what we're gonna do now
+
+43
+00:01:25,066 --> 00:01:28,725
+okay so there is something that Disco Elysium does 
+
+44
+00:01:28,725 --> 00:01:32,375
+in its portrayal of a very specific aspect of mental health 
+
+45
+00:01:32,375 --> 00:01:35,366
+ that I have never seen portrayed this way
+
+46
+00:01:35,566 --> 00:01:36,500
+anywhere else
+
+47
+00:01:36,500 --> 00:01:38,933
+so one of the biggest challenges when talking about
+
+48
+00:01:39,300 --> 00:01:40,966
+anything related to mental health
+
+49
+00:01:40,966 --> 00:01:43,675
+whether depression mental illness addiction 
+
+50
+00:01:43,675 --> 00:01:46,900
+is it can sometimes be really hard to explain
+
+51
+00:01:48,100 --> 00:01:50,000
+how can you want something 
+
+52
+00:01:50,000 --> 00:01:53,650
+you could desperately want to not be depressed 
+
+53
+00:01:53,650 --> 00:01:56,900
+you can desperately want to be sober
+
+54
+00:01:56,933 --> 00:02:01,400
+and yet sometimes our behaviors really don't agree with that desire 
+
+55
+00:02:01,466 --> 00:02:03,600
+and how you explain that to someone that
+
+56
+00:02:03,600 --> 00:02:05,166
+you sitting there wondering like
+
+57
+00:02:06,066 --> 00:02:08,333
+all I want in the world is to stop using
+
+58
+00:02:08,333 --> 00:02:09,866
+but I just can't
+
+59
+00:02:09,900 --> 00:02:11,000
+and this is kind of
+
+60
+00:02:11,100 --> 00:02:13,466
+you know a mentality that I imagine like our
+
+61
+00:02:13,700 --> 00:02:14,866
+lead detective
+
+62
+00:02:15,333 --> 00:02:17,366
+having been in at some point
+
+63
+00:02:17,533 --> 00:02:19,133
+before he lost his memory
+
+64
+00:02:19,133 --> 00:02:20,666
+and at least in my playthrough
+
+65
+00:02:20,666 --> 00:02:22,733
+it's something he's still struggling with right
+
+66
+00:02:22,733 --> 00:02:25,866
+as he does whatever he can find a pack of cigarettes
+
+67
+00:02:26,000 --> 00:02:27,133
+and for me it comes down to this
+
+68
+00:02:27,133 --> 00:02:29,200
+we tend to have a very limited
+
+69
+00:02:29,900 --> 00:02:32,933
+way of talking about the subject of motivation
+
+70
+00:02:32,933 --> 00:02:35,800
+like why you actually do things why you want things
+
+71
+00:02:35,900 --> 00:02:38,266
+and this is where Disco Elysium comes into the picture
+
+72
+00:02:38,266 --> 00:02:42,166
+with these different aspects of the main character psyche who 
+
+73
+00:02:42,300 --> 00:02:43,966
+seem to have different
+
+74
+00:02:44,066 --> 00:02:45,766
+motivations for him
+
+75
+00:02:45,766 --> 00:02:48,066
+and they influence you as the player to sort of
+
+76
+00:02:48,066 --> 00:02:49,700
+follow different paths
+
+77
+00:02:50,133 --> 00:02:54,666
+one motivation in terms of the authority voice will tell you like 
+
+78
+00:02:55,466 --> 00:02:57,866
+you need to smack that kid right
+
+79
+00:02:58,066 --> 00:03:00,066
+don't let Cuno get one over you like that
+
+80
+00:03:00,066 --> 00:03:01,366
+and then at the same time
+
+81
+00:03:01,500 --> 00:03:04,400
+the voice coming from place of empathy might tell you
+
+82
+00:03:04,400 --> 00:03:07,200
+you know Cuno probably doesn't really have 
+
+83
+00:03:07,200 --> 00:03:09,200
+anyone to look after him either
+
+84
+00:03:09,400 --> 00:03:13,300
+and one of the only ways that he has to express himself 
+
+85
+00:03:13,300 --> 00:03:15,741
+because he doesn't have a sense of control at home 
+
+86
+00:03:15,741 --> 00:03:16,900
+is to be vulgar
+
+87
+00:03:16,900 --> 00:03:18,566
+and he gets a reaction from people
+
+88
+00:03:18,933 --> 00:03:20,333
+may go home and find that
+
+89
+00:03:20,366 --> 00:03:21,866
+no one really pays attention to him
+
+90
+00:03:21,866 --> 00:03:23,500
+and this is how he gets that
+
+91
+00:03:23,600 --> 00:03:24,733
+this is his outlet
+
+92
+00:03:24,733 --> 00:03:26,900
+and so my character can have these two
+
+93
+00:03:27,333 --> 00:03:29,533
+very different perspectives
+
+94
+00:03:29,700 --> 00:03:31,933
+offering him a different kind of motivation
+
+95
+00:03:31,933 --> 00:03:34,333
+one that says slap the shit out of this
+
+96
+00:03:34,966 --> 00:03:36,966
+and the other that says actually
+
+97
+00:03:37,066 --> 00:03:39,500
+the two of you are probably not too dissimilar
+
+98
+00:03:39,500 --> 00:03:42,825
+you both feel this absence of connection to the world around you
+
+99
+00:03:42,825 --> 00:03:45,166
+and you're both trying to express
+
+100
+00:03:45,266 --> 00:03:48,166
+that longing for connection in different ways
+
+101
+00:03:48,166 --> 00:03:49,866
+so this is complicated right
+
+102
+00:03:50,266 --> 00:03:52,525
+it's not always easy to explain to people
+
+103
+00:03:52,525 --> 00:03:55,766
+ why you can have two thoughts that don't necessarily agree
+
+104
+00:03:55,766 --> 00:03:57,800
+one that says I want to be sober
+
+105
+00:03:57,800 --> 00:03:58,866
+one that says
+
+106
+00:03:59,066 --> 00:04:02,266
+go get as high as you can right now right
+
+107
+00:04:02,400 --> 00:04:03,800
+so I'm going to pull this up here
+
+108
+00:04:05,066 --> 00:04:06,800
+I've got the skill system
+
+109
+00:04:07,600 --> 00:04:10,791
+these are all the different like voices 
+
+110
+00:04:10,791 --> 00:04:15,066
+that you tend to hear in the characters dialogue
+
+111
+00:04:15,166 --> 00:04:16,100
+and this is the part
+
+112
+00:04:16,100 --> 00:04:20,066
+where Disco Elysium really gets something very right
+
+113
+00:04:20,333 --> 00:04:23,100
+about how to explain these
+
+114
+00:04:23,333 --> 00:04:24,700
+different sources of motivation
+
+115
+00:04:24,700 --> 00:04:25,800
+that don't always agree
+
+116
+00:04:25,866 --> 00:04:27,800
+and what it comes down to is that
+
+117
+00:04:28,666 --> 00:04:29,766
+we have this word
+
+118
+00:04:30,766 --> 00:04:31,733
+motivation
+
+119
+00:04:32,500 --> 00:04:34,225
+but I always come back to this idea that like 
+
+120
+00:04:34,225 --> 00:04:38,400
+motivation by itself this word it doesn't really explain
+
+121
+00:04:39,300 --> 00:04:40,566
+what I just talked about
+
+122
+00:04:40,566 --> 00:04:44,850
+like the fact that you can have different sources of desires 
+
+123
+00:04:44,850 --> 00:04:48,333
+that are not always in harmony with one another
+
+124
+00:04:48,500 --> 00:04:50,800
+to use this word is to say oh I didn't
+
+125
+00:04:51,000 --> 00:04:52,700
+do it because I wasn't motivated right
+
+126
+00:04:52,700 --> 00:04:53,933
+I didn't get up early enough
+
+127
+00:04:53,933 --> 00:04:55,866
+because I didn't have enough motivation to do it
+
+128
+00:04:55,900 --> 00:04:57,066
+I didn't go to the gym today
+
+129
+00:04:57,066 --> 00:04:59,166
+because I just didn't have the motivation for it
+
+130
+00:04:59,166 --> 00:05:01,533
+like it tries to explain
+
+131
+00:05:02,333 --> 00:05:05,266
+desire and action potential as like
+
+132
+00:05:05,300 --> 00:05:07,100
+a one to one relationship
+
+133
+00:05:07,100 --> 00:05:09,000
+my problem with this word is that it is very
+
+134
+00:05:09,000 --> 00:05:10,200
+one dimensional
+
+135
+00:05:10,566 --> 00:05:12,966
+so if we just think of like the start of the game right
+
+136
+00:05:13,100 --> 00:05:15,766
+at the very beginning the character wakes up and
+
+137
+00:05:16,133 --> 00:05:19,066
+like where is his center of motivation at
+
+138
+00:05:19,133 --> 00:05:21,157
+the first thing that we kind of learn about him 
+
+139
+00:05:21,157 --> 00:05:24,966
+is that he is like not really aware of what's going on 
+
+140
+00:05:24,966 --> 00:05:26,900
+like his primary motivation
+
+141
+00:05:27,666 --> 00:05:31,200
+as the player being the character is to like
+
+142
+00:05:31,366 --> 00:05:33,366
+figure out where you are and like
+
+143
+00:05:33,600 --> 00:05:35,600
+get a grasp on the world right
+
+144
+00:05:35,600 --> 00:05:37,766
+my first instinct when I loaded up the character
+
+145
+00:05:37,766 --> 00:05:38,566
+was like
+
+146
+00:05:39,000 --> 00:05:42,500
+look around at the things that you can find to like
+
+147
+00:05:42,500 --> 00:05:45,100
+wear his clothes like defend yourself right
+
+148
+00:05:45,266 --> 00:05:48,766
+and so like one of my motivations is safety
+
+149
+00:05:50,600 --> 00:05:51,666
+at the same time
+
+150
+00:05:51,733 --> 00:05:53,666
+he starts getting pulled into like
+
+151
+00:05:53,733 --> 00:05:55,566
+even more complicated motivations
+
+152
+00:05:55,566 --> 00:05:58,133
+like he tries to get the tie down from the fan
+
+153
+00:05:58,133 --> 00:06:00,700
+and here we have Inland Empire
+
+154
+00:06:01,466 --> 00:06:03,533
+telling us that like the tie is
+
+155
+00:06:03,700 --> 00:06:06,066
+not just your tie but it's also potentially your
+
+156
+00:06:06,066 --> 00:06:08,533
+long lost cosmic best friend right
+
+157
+00:06:08,700 --> 00:06:09,500
+and so
+
+158
+00:06:10,333 --> 00:06:11,500
+his motivation
+
+159
+00:06:11,733 --> 00:06:15,766
+shifts from safety to a sense of belonging
+
+160
+00:06:15,933 --> 00:06:18,333
+you reach up for the tie and your body is like
+
+161
+00:06:18,333 --> 00:06:19,966
+actually you can't reach for it
+
+162
+00:06:19,966 --> 00:06:21,900
+like that hurts too much right
+
+163
+00:06:21,933 --> 00:06:24,800
+and so it's kind of winding back to safety
+
+164
+00:06:25,533 --> 00:06:26,500
+me as the character
+
+165
+00:06:26,500 --> 00:06:27,200
+I was like all right
+
+166
+00:06:27,200 --> 00:06:29,900
+well this is a higher priority to me right now
+
+167
+00:06:29,966 --> 00:06:30,766
+than belonging
+
+168
+00:06:30,766 --> 00:06:33,000
+so I left the tie there
+
+169
+00:06:33,333 --> 00:06:36,266
+this does not mean that I'm not motivated to
+
+170
+00:06:36,766 --> 00:06:38,133
+have a sense of belonging
+
+171
+00:06:38,133 --> 00:06:41,666
+it just means that there is a priority structure that
+
+172
+00:06:42,100 --> 00:06:44,700
+interferes with itself sometimes
+
+173
+00:06:44,700 --> 00:06:47,175
+so I really don't think that the word itself motivation
+
+174
+00:06:47,175 --> 00:06:51,600
+ really explains the psychodynamic issue at play here right
+
+175
+00:06:52,333 --> 00:06:55,266
+the better way that I try to explain this to my clients
+
+176
+00:06:55,300 --> 00:06:58,166
+is that we can be in different
+
+177
+00:06:58,533 --> 00:07:03,100
+mental states that are in competition with one another
+
+178
+00:07:03,300 --> 00:07:05,466
+so instead of talking about like
+
+179
+00:07:05,566 --> 00:07:07,900
+your lack of action potential as
+
+180
+00:07:07,900 --> 00:07:09,966
+you just didn't want to do something
+
+181
+00:07:09,966 --> 00:07:14,600
+like you didn't really want to be sober so you relapsed 
+
+182
+00:07:14,666 --> 00:07:17,325
+instead we try to formulate it in terms of 
+
+183
+00:07:17,325 --> 00:07:20,168
+we have different mental states
+
+184
+00:07:20,168 --> 00:07:22,366
+ that are in competition with one another
+
+185
+00:07:22,366 --> 00:07:24,766
+so we have competing mental states
+
+186
+00:07:25,000 --> 00:07:29,100
+and this is where Disco Elysium really nails that idea
+
+187
+00:07:29,525 --> 00:07:33,566
+because here you have a mental state 
+
+188
+00:07:34,733 --> 00:07:37,266
+called empathy that is telling you
+
+189
+00:07:37,333 --> 00:07:39,166
+you need to make this your priority
+
+190
+00:07:39,166 --> 00:07:40,900
+you need to connect to something
+
+191
+00:07:41,500 --> 00:07:44,066
+as you awake from the void of nothingness
+
+192
+00:07:44,066 --> 00:07:47,733
+and the only thing active in your brain is the reptilian side of you 
+
+193
+00:07:47,866 --> 00:07:50,133
+like you need emotional grounding
+
+194
+00:07:50,133 --> 00:07:52,966
+you need to find something that anchors you to
+
+195
+00:07:53,333 --> 00:07:55,166
+not just like who you were
+
+196
+00:07:55,166 --> 00:07:57,400
+but who you are and what you feel right now
+
+197
+00:07:57,600 --> 00:07:58,900
+at the same time
+
+198
+00:07:59,000 --> 00:08:03,000
+there are parts of his body right his electrochemistry
+
+199
+00:08:03,400 --> 00:08:05,400
+all that stuff I talked about with like the
+
+200
+00:08:05,400 --> 00:08:07,800
+sympathetic and parasympathetic nervous system
+
+201
+00:08:07,933 --> 00:08:14,200
+that are rejecting what empathy commands of you 
+
+202
+00:08:14,566 --> 00:08:17,800
+and so electrochemistry is like in competition with
+
+203
+00:08:17,800 --> 00:08:20,166
+empathy for your priority structure
+
+204
+00:08:20,933 --> 00:08:24,200
+then we have things like logic enter the picture right
+
+205
+00:08:24,333 --> 00:08:26,366
+the logical side of his brain is like okay
+
+206
+00:08:26,366 --> 00:08:28,700
+well search for things that
+
+207
+00:08:29,133 --> 00:08:30,600
+are a compromise to this
+
+208
+00:08:30,600 --> 00:08:31,533
+go find your shoe
+
+209
+00:08:31,533 --> 00:08:35,466
+you don't have to like reach up and grab the tie right
+
+210
+00:08:35,466 --> 00:08:38,700
+you can still satisfy safety by finding your shoes
+
+211
+00:08:38,733 --> 00:08:42,200
+perception comes into play and is like hey 
+
+212
+00:08:42,200 --> 00:08:44,300
+why don't you check out the window right
+
+213
+00:08:44,666 --> 00:08:47,533
+and then the more you are sort of exerting yourself
+
+214
+00:08:47,566 --> 00:08:50,933
+like your endurance and your pain threshold
+
+215
+00:08:50,933 --> 00:08:52,500
+like they start vying for
+
+216
+00:08:52,500 --> 00:08:55,400
+territory over your decision making to say like
+
+217
+00:08:55,600 --> 00:08:58,533
+actually you don't really need that much Protection
+
+218
+00:08:58,533 --> 00:09:00,666
+like you're good enough with one shoe right
+
+219
+00:09:00,866 --> 00:09:02,700
+and so like your decision making
+
+220
+00:09:02,900 --> 00:09:05,166
+is not just a one track
+
+221
+00:09:05,200 --> 00:09:07,866
+sort of line of like are you motivated to do this
+
+222
+00:09:07,866 --> 00:09:09,400
+do you want to do it then you do it
+
+223
+00:09:09,400 --> 00:09:11,900
+instead the way disco elysium kind of
+
+224
+00:09:12,333 --> 00:09:16,366
+depicts this and this is like a very accurate way of trying to explain 
+
+225
+00:09:17,200 --> 00:09:19,966
+the discord that happens in someone's mind
+
+226
+00:09:19,966 --> 00:09:21,000
+especially when they're
+
+227
+00:09:21,333 --> 00:09:24,200
+intoxicated or recovering from being intoxicated
+
+228
+00:09:24,533 --> 00:09:27,766
+is that you have all these different mental states that
+
+229
+00:09:27,800 --> 00:09:30,400
+are sort of vying for your attention
+
+230
+00:09:30,733 --> 00:09:32,533
+and are not always
+
+231
+00:09:33,100 --> 00:09:36,066
+in agreement with one another on what you should do
+
+232
+00:09:36,300 --> 00:09:39,200
+and so that causes a lot of inner tention
+
+233
+00:09:39,200 --> 00:09:41,200
+like I don't know about you
+
+234
+00:09:41,200 --> 00:09:43,900
+but when I feel overwhelmed by something
+
+235
+00:09:43,966 --> 00:09:48,766
+the main feeling that I have is one of avoidance 
+
+236
+00:09:49,333 --> 00:09:50,966
+I don't want to feel like I
+
+237
+00:09:50,966 --> 00:09:53,500
+am not in control of myself for my own decision making
+
+238
+00:09:53,500 --> 00:09:55,866
+so I'm going to listen to the ones that are basically
+
+239
+00:09:55,866 --> 00:09:57,666
+like the most impulsive right
+
+240
+00:09:57,766 --> 00:10:00,293
+electrochemistry is basically like threatening me 
+
+241
+00:10:00,293 --> 00:10:02,400
+ that if I don't do what it wants 
+
+242
+00:10:02,400 --> 00:10:04,650
+if I don't get the out of this environment 
+
+243
+00:10:04,650 --> 00:10:07,530
+or if I don't like get a cigarette right now
+
+244
+00:10:07,530 --> 00:10:08,780
+ that I'm going to die
+
+245
+00:10:09,100 --> 00:10:11,666
+right it's like convincing my body that
+
+246
+00:10:12,400 --> 00:10:15,133
+not smoking right now is the equivalent of like
+
+247
+00:10:15,133 --> 00:10:16,933
+being eaten alive by a predator
+
+248
+00:10:16,933 --> 00:10:19,800
+like that's what it's able to do because it's tapped
+
+249
+00:10:20,100 --> 00:10:23,133
+directly into my like spinal cord and
+
+250
+00:10:23,166 --> 00:10:25,666
+my entire like fighter flight response
+
+251
+00:10:25,666 --> 00:10:27,100
+and so you can imagine like
+
+252
+00:10:27,866 --> 00:10:30,300
+even for someone who is completely sober
+
+253
+00:10:31,133 --> 00:10:34,300
+and is just afflicted with the disease
+
+254
+00:10:34,300 --> 00:10:37,100
+of anxiety which we all are
+
+255
+00:10:37,166 --> 00:10:40,900
+this is a mess like we're all a total mess 
+
+256
+00:10:40,900 --> 00:10:43,133
+and it's really hard to like sort out
+
+257
+00:10:44,133 --> 00:10:46,766
+what our priorities should be at any given moment
+
+258
+00:10:47,133 --> 00:10:48,966
+just when we're stressed
+
+259
+00:10:49,366 --> 00:10:50,500
+a lot of people
+
+260
+00:10:51,066 --> 00:10:54,366
+don't want to have to spend the time to reflect
+
+261
+00:10:54,366 --> 00:10:56,066
+and sort this out and like
+
+262
+00:10:56,466 --> 00:11:00,307
+learn how to develop like healthy communication 
+
+263
+00:11:00,307 --> 00:11:03,366
+between these two systems and many systems 
+
+264
+00:11:03,366 --> 00:11:06,500
+and so like what we often do is we resort to avoidance
+
+265
+00:11:06,500 --> 00:11:07,666
+like I'm just not gonna
+
+266
+00:11:07,800 --> 00:11:09,333
+participate in any of this
+
+267
+00:11:09,800 --> 00:11:11,966
+I'm just gonna go get fucked up instead right
+
+268
+00:11:11,966 --> 00:11:14,100
+I'm gonna listen to this one that tells me
+
+269
+00:11:14,133 --> 00:11:14,933
+if you don't
+
+270
+00:11:15,266 --> 00:11:18,100
+get on something to alleviate this stress right now
+
+271
+00:11:18,400 --> 00:11:20,200
+then the whole thing shuts down
+
+272
+00:11:20,400 --> 00:11:22,300
+so like right from the beginning
+
+273
+00:11:22,500 --> 00:11:24,900
+Disco elysium targets this
+
+274
+00:11:25,600 --> 00:11:28,125
+very complicated subject of motivation
+
+275
+00:11:28,125 --> 00:11:31,500
+ and gives us a framework for understanding like
+
+276
+00:11:32,100 --> 00:11:33,766
+as you go throughout the world
+
+277
+00:11:33,766 --> 00:11:35,266
+as you start talking to people
+
+278
+00:11:35,266 --> 00:11:37,600
+and as you start making decisions as a player like
+
+279
+00:11:37,666 --> 00:11:39,400
+you are also going to be
+
+280
+00:11:40,200 --> 00:11:44,025
+in contention with what these different systems ask of you 
+
+281
+00:11:44,025 --> 00:11:45,133
+ for like my character
+
+282
+00:11:45,766 --> 00:11:47,800
+his very much built in
+
+283
+00:11:49,066 --> 00:11:50,133
+this category
+
+284
+00:11:50,133 --> 00:11:52,400
+and these have different names as well in the game
+
+285
+00:11:52,400 --> 00:11:56,200
+so these ones are intellect these are psyche
+
+286
+00:11:56,566 --> 00:11:57,500
+physique
+
+287
+00:11:58,133 --> 00:12:00,733
+and Motorics
+
+288
+00:12:00,733 --> 00:12:01,666
+and so these are like
+
+289
+00:12:01,666 --> 00:12:03,900
+we can even just explain it that way to say that
+
+290
+00:12:04,200 --> 00:12:08,079
+these are kind of like the four main categories of mental states 
+
+291
+00:12:08,079 --> 00:12:12,800
+that are often vying for territory over your decision making
+
+292
+00:12:12,866 --> 00:12:14,733
+there's an intellectual side of you
+
+293
+00:12:14,866 --> 00:12:17,000
+that is telling you to make logical
+
+294
+00:12:17,400 --> 00:12:21,100
+clear decisions based on deduction and reasoning
+
+295
+00:12:21,366 --> 00:12:22,900
+but intellects
+
+296
+00:12:23,333 --> 00:12:27,100
+doesn't always agree with your psyche because
+
+297
+00:12:27,533 --> 00:12:30,266
+your psyche is the realm where your emotions live
+
+298
+00:12:30,266 --> 00:12:34,625
+like Inland Empire empathy authority volition
+
+299
+00:12:34,625 --> 00:12:38,825
+these are all like very emotional machines
+
+300
+00:12:38,825 --> 00:12:41,925
+that aren't always interested in solving problems
+
+301
+00:12:41,925 --> 00:12:45,066
+based on deduction and reasoning and observation
+
+302
+00:12:45,066 --> 00:12:46,600
+they are not as concerned
+
+303
+00:12:46,700 --> 00:12:48,166
+with the ideas
+
+304
+00:12:48,166 --> 00:12:50,700
+that perception might have in Motorix
+
+305
+00:12:50,700 --> 00:12:52,766
+about like how to solve a problem
+
+306
+00:12:52,766 --> 00:12:55,566
+they're going to rely more on emotional virtues
+
+307
+00:12:55,566 --> 00:12:57,733
+and so like they're gonna compete with each other
+
+308
+00:12:58,000 --> 00:12:58,533
+and
+
+309
+00:12:58,533 --> 00:13:01,500
+both of those systems are going to be competing with
+
+310
+00:13:01,600 --> 00:13:04,366
+physique because physique is basically managing like
+
+311
+00:13:04,533 --> 00:13:07,466
+the resources that the body has to
+
+312
+00:13:08,300 --> 00:13:11,300
+send off to these different corners right
+
+313
+00:13:11,733 --> 00:13:12,466
+physique is like
+
+314
+00:13:12,466 --> 00:13:14,366
+look you don't actually have the energy to go
+
+315
+00:13:14,366 --> 00:13:15,466
+get that tie down
+
+316
+00:13:15,466 --> 00:13:17,333
+even if it is your best friend
+
+317
+00:13:17,466 --> 00:13:18,600
+and Motorix
+
+318
+00:13:18,900 --> 00:13:21,800
+may be interfering with aspects of intellect
+
+319
+00:13:21,933 --> 00:13:23,933
+by saying like hey you
+
+320
+00:13:24,100 --> 00:13:25,800
+may perceive
+
+321
+00:13:26,200 --> 00:13:29,733
+lots of details you can tell there is something here
+
+322
+00:13:29,866 --> 00:13:32,000
+but you can't necessarily deduce
+
+323
+00:13:32,533 --> 00:13:34,100
+the best way to deal with it
+
+324
+00:13:34,100 --> 00:13:36,133
+that's kind of my character right like
+
+325
+00:13:36,866 --> 00:13:40,100
+he's he's able to like pass these really hard
+
+326
+00:13:41,333 --> 00:13:42,800
+perception rolls
+
+327
+00:13:43,666 --> 00:13:46,133
+but there's really not a lot of follow through with it
+
+328
+00:13:46,500 --> 00:13:50,500
+so as I was playing the game I just found this skill system amazing 
+
+329
+00:13:50,500 --> 00:13:54,366
+not only as like a parallel to real discussions
+
+330
+00:13:54,366 --> 00:13:55,966
+ that I have with people all the time about
+
+331
+00:13:55,966 --> 00:13:58,600
+like the complicated nature of motivation
+
+332
+00:13:58,600 --> 00:14:01,500
+and that motivation is not 
+
+333
+00:14:01,933 --> 00:14:04,000
+really even the subject that we're talking about
+
+334
+00:14:04,000 --> 00:14:05,966
+we're talking about competition between
+
+335
+00:14:06,533 --> 00:14:10,133
+several mental states that you can occupy all at the same time 
+
+336
+00:14:10,133 --> 00:14:12,100
+and that want different things from you
+
+337
+00:14:12,300 --> 00:14:16,600
+but this also works extremely well as a narrative device 
+
+338
+00:14:16,600 --> 00:14:17,866
+as a storytelling device
+
+339
+00:14:17,866 --> 00:14:19,625
+and as a game mechanic
+
+340
+00:14:19,625 --> 00:14:21,966
+ because these are the things that
+
+341
+00:14:22,166 --> 00:14:24,341
+as the player you're interfacing with 
+
+342
+00:14:24,341 --> 00:14:27,533
+when I'm like yeah well I'm specked into psyche
+
+343
+00:14:27,533 --> 00:14:31,566
+and so I'm probably gonna be more biased to follow what
+
+344
+00:14:31,766 --> 00:14:35,040
+Inland Empire is telling me I should focus on 
+
+345
+00:14:35,040 --> 00:14:40,200
+versus like something that my physique side is telling me
+
+346
+00:14:40,200 --> 00:14:42,400
+and really like using this system to
+
+347
+00:14:42,400 --> 00:14:43,866
+explain character motivations
+
+348
+00:14:43,866 --> 00:14:45,566
+doesn't just apply to the detective
+
+349
+00:14:46,766 --> 00:14:49,300
+think about Kim for a second all right Kim
+
+350
+00:14:49,533 --> 00:14:52,466
+he's our best boy right now
+
+351
+00:14:53,133 --> 00:14:53,933
+Kim
+
+352
+00:14:54,333 --> 00:14:55,900
+from the moment we meet him
+
+353
+00:14:56,100 --> 00:15:00,400
+has a complicated array of motivations as we do 
+
+354
+00:15:00,400 --> 00:15:04,300
+and he is way more stable than we are presumably
+
+355
+00:15:04,333 --> 00:15:07,300
+so I can imagine for Kim
+
+356
+00:15:08,000 --> 00:15:12,100
+that he's got a lot of different mental states 
+
+357
+00:15:12,166 --> 00:15:15,366
+that are in competition with one another as well
+
+358
+00:15:15,466 --> 00:15:16,800
+something that we learn
+
+359
+00:15:17,266 --> 00:15:19,133
+this might actually be in the second recording
+
+360
+00:15:19,133 --> 00:15:20,266
+I can't remember
+
+361
+00:15:20,966 --> 00:15:23,266
+but something we learn about him is that like
+
+362
+00:15:23,400 --> 00:15:28,133
+he does care about his work 
+
+363
+00:15:28,900 --> 00:15:34,200
+like he cares a lot about being a good detective like doing things the right way 
+
+364
+00:15:34,900 --> 00:15:38,866
+he has a lot of dignity and integrity and respect for himself 
+
+365
+00:15:39,133 --> 00:15:40,400
+but at the same time
+还请略作宽容，观察主播对金的认知变化。
+
+366
+00:15:40,400 --> 00:15:40,966
+还请略作宽容，观察主播对金的认知变化。
+
+367
+00:15:40,966 --> 00:15:45,500
+I think he also presents as someone willing to bend his morals 
+还请略作宽容，观察主播对金的认知变化。
+
+368
+00:15:45,500 --> 00:15:47,300
+if he knows he can accomplish
+还请略作宽容，观察主播对金的认知变化。
+
+369
+00:15:47,300 --> 00:15:48,666
+something he is trying to do right
+还请略作宽容，观察主播对金的认知变化。
+
+370
+00:15:48,666 --> 00:15:50,100
+because he also has this like
+还请略作宽容，观察主播对金的认知变化。
+
+371
+00:15:50,100 --> 00:15:50,358
+还请略作宽容，观察主播对金的认知变化。
+
+372
+00:15:51,066 --> 00:15:52,700
+cultural side to him right
+
+373
+00:15:52,700 --> 00:15:55,866
+when we meet the racist lorry driver
+
+374
+00:15:55,966 --> 00:15:57,000
+right like we see
+
+375
+00:15:57,666 --> 00:15:59,200
+Kim himself
+
+376
+00:15:59,500 --> 00:16:04,266
+get in touch with some of these more like 
+
+377
+00:16:05,100 --> 00:16:07,666
+commanding mental states that
+
+378
+00:16:08,100 --> 00:16:11,366
+sort of break him from the facade of someone who is always 
+
+379
+00:16:11,366 --> 00:16:13,100
+cool and calm and collected
+
+380
+00:16:13,366 --> 00:16:16,700
+and he confronts this gentleman and like we see that
+
+381
+00:16:16,733 --> 00:16:18,200
+you know I think Kim would be
+
+382
+00:16:18,200 --> 00:16:19,925
+willing to compromise on some things
+
+383
+00:16:19,925 --> 00:16:23,866
+ if he knew that it would satisfy like his cultural desires right
+
+384
+00:16:24,000 --> 00:16:27,066
+so he's got two competing mental states there
+
+385
+00:16:27,900 --> 00:16:31,133
+just being around us is a competition between
+
+386
+00:16:32,100 --> 00:16:34,300
+his structured world and the
+
+387
+00:16:34,466 --> 00:16:37,500
+complete chaos that our character presents right
+
+388
+00:16:37,800 --> 00:16:41,872
+at the same time I think he also finds us useful
+
+389
+00:16:41,872 --> 00:16:44,866
+as someone he can wield to accomplish this
+
+390
+00:16:45,566 --> 00:16:48,600
+it's not just about competition between mental states
+
+391
+00:16:48,600 --> 00:16:49,800
+it's also about like
+
+392
+00:16:50,300 --> 00:16:54,000
+where do you start justifying what you compromise
+
+393
+00:16:54,000 --> 00:16:57,466
+and somewhere along the way I really think that
+
+394
+00:16:57,700 --> 00:17:03,333
+he does compromise logic and maybe his empathy and some of his volition 
+
+395
+00:17:03,333 --> 00:17:05,133
+like he compromises those things
+
+396
+00:17:06,066 --> 00:17:08,300
+to allow us to do our thing
+
+397
+00:17:08,500 --> 00:17:10,533
+in some ways maybe because he
+
+398
+00:17:10,900 --> 00:17:12,200
+he can relate to us
+
+399
+00:17:12,200 --> 00:17:14,466
+I think there's maybe a part of him that
+
+400
+00:17:14,466 --> 00:17:15,866
+is a little bit like
+
+401
+00:17:15,933 --> 00:17:18,775
+shackled by his structured way of being 
+
+402
+00:17:18,775 --> 00:17:23,733
+ and being around the detective vicariously he gets to experience
+
+403
+00:17:24,500 --> 00:17:25,933
+his own inner chaos
+
+404
+00:17:25,933 --> 00:17:29,500
+we are the conduit for him exploring
+
+405
+00:17:30,133 --> 00:17:32,133
+what would happen if I don't compete
+
+406
+00:17:32,200 --> 00:17:33,800
+and I don't try to win out
+
+407
+00:17:33,800 --> 00:17:36,500
+and I don't try to learn to communicate healthily
+
+408
+00:17:36,600 --> 00:17:37,600
+between any of these systems
+
+409
+00:17:37,600 --> 00:17:40,000
+what if I just embrace chaos and
+
+410
+00:17:40,533 --> 00:17:43,200
+follow whatever impulse comes to me right like
+
+411
+00:17:43,533 --> 00:17:46,533
+I don't think he can let himself do that and so
+
+412
+00:17:46,933 --> 00:17:48,933
+he allows the detective to do that right
+
+413
+00:17:48,933 --> 00:17:51,850
+that's what makes Detective Costeau and 
+
+414
+00:17:51,850 --> 00:17:54,266
+Kim great foils for each other right
+
+415
+00:17:55,200 --> 00:17:56,200
+foil is
+
+416
+00:17:56,900 --> 00:17:59,333
+not necessarily a character who is
+
+417
+00:17:59,800 --> 00:18:02,566
+the opposite of another character 
+
+418
+00:18:02,566 --> 00:18:05,000
+but it's someone whose qualities like
+
+419
+00:18:05,266 --> 00:18:08,533
+when we see how structured and mannered
+
+420
+00:18:08,733 --> 00:18:12,230
+and let's say by the book that Kim is 
+
+421
+00:18:12,230 --> 00:18:15,266
+ we see him express those qualities
+
+422
+00:18:15,333 --> 00:18:18,200
+it creates a major contrast
+
+423
+00:18:19,366 --> 00:18:20,766
+with our own character
+
+424
+00:18:20,766 --> 00:18:24,933
+and amplifies our awareness of these qualities
+
+425
+00:18:24,933 --> 00:18:28,966
+like if you put two people who are like Kim next to each other 
+
+426
+00:18:29,300 --> 00:18:31,012
+we don't necessarily notice
+
+427
+00:18:31,012 --> 00:18:33,800
+how important these things are 
+
+428
+00:18:33,800 --> 00:18:36,333
+for keeping his whole worldview intact
+
+429
+00:18:36,333 --> 00:18:38,366
+but the second you put him next to the detective
+
+430
+00:18:38,366 --> 00:18:40,386
+or someone like * Cuno
+
+431
+00:18:40,386 --> 00:18:42,766
+that's where the contrast really comes through
+
+432
+00:18:42,766 --> 00:18:45,566
+and we start to see where those compromises happen 
+
+433
+00:18:45,700 --> 00:18:48,100
+because at least in my play through
+
+434
+00:18:48,300 --> 00:18:51,166
+I got Kim to try to shoot down the body right
+
+435
+00:18:51,533 --> 00:18:57,766
+this is not something that fits with this worldview that we 
+
+436
+00:18:57,900 --> 00:19:00,400
+normally might associate with him with
+
+437
+00:19:00,533 --> 00:19:07,000
+I think somewhere in the mix we got to see what it was like
+
+438
+00:19:07,000 --> 00:19:12,100
+when Kim wasn't able to stifle the competition between
+
+439
+00:19:12,466 --> 00:19:16,366
+some of his own more pressing mental states 
+
+440
+00:19:16,366 --> 00:19:19,933
+and right down here this mental state lost to
+
+441
+00:19:20,166 --> 00:19:24,800
+any number of these that sort of represent pride
+
+442
+00:19:24,900 --> 00:19:26,600
+and that's what makes them as a dynamic
+
+443
+00:19:26,600 --> 00:19:29,066
+no matter what kind of play through I imagine you're having 
+
+444
+00:19:29,300 --> 00:19:31,766
+so fun and so unique to watch is because like
+
+445
+00:19:32,200 --> 00:19:33,600
+you are the character
+
+446
+00:19:33,800 --> 00:19:39,000
+who is not really trying to stop these 
+
+447
+00:19:39,133 --> 00:19:41,600
+mental states from having fierce competition
+
+448
+00:19:41,600 --> 00:19:47,700
+and you are literally just letting whichever one is strongest  drive view
+
+449
+00:19:47,700 --> 00:19:49,500
+especially because as the player
+
+450
+00:19:49,500 --> 00:19:51,900
+like you want to explore and exhaust as many
+
+451
+00:19:51,900 --> 00:19:53,933
+options as you can to get the best outcome
+
+452
+00:19:53,933 --> 00:19:57,400
+like in trying to play optimally as a character
+
+453
+00:19:57,866 --> 00:19:59,800
+we end up allowing our
+
+454
+00:20:00,533 --> 00:20:02,666
+character that we're playing to be totally
+
+455
+00:20:02,666 --> 00:20:04,566
+disregulated and unpredictable
+
+456
+00:20:05,400 --> 00:20:08,425
+we can't play as someone necessarily like Kim
+
+457
+00:20:08,425 --> 00:20:10,800
+and get the most optimal result 
+
+458
+00:20:10,866 --> 00:20:14,966
+because it very rarely takes sort of like 
+
+459
+00:20:16,100 --> 00:20:19,100
+allowing this competition between the mental states to
+
+460
+00:20:19,400 --> 00:20:23,366
+resolve itself in a neat and structured and orderly way 
+
+461
+00:20:23,400 --> 00:20:25,733
+so that's one of the
+
+462
+00:20:25,800 --> 00:20:28,900
+ideas that I was having as I was playing through
+
+463
+00:20:29,466 --> 00:20:31,933
+just like the first couple hours of disco elysium
+
+464
+00:20:31,933 --> 00:20:36,666
+like I said this is something that is not super easy to explain to people 
+
+465
+00:20:36,733 --> 00:20:39,400
+in clinical practice sometimes
+
+466
+00:20:39,500 --> 00:20:41,066
+other than to say that like
+
+467
+00:20:41,333 --> 00:20:44,533
+first we're gonna try to demonstrate that motivation is not  really 
+
+468
+00:20:44,533 --> 00:20:47,666
+it's not sufficient enough of an idea to explain
+
+469
+00:20:47,966 --> 00:20:51,166
+why behaviors that we don't want continue
+
+470
+00:20:51,166 --> 00:20:55,800
+if this is like my 20th time trying to get sober and I'm still relapsing 
+
+471
+00:20:55,800 --> 00:20:58,900
+it's something that her(his) main character is probably still dealing with 
+
+472
+00:20:58,900 --> 00:21:01,100
+like he doesn't want to have headaches
+
+473
+00:21:01,100 --> 00:21:03,800
+he doesn't want to feel like he hates himself
+
+474
+00:21:03,933 --> 00:21:07,400
+he doesn't want to be confused about who he is 
+
+475
+00:21:08,700 --> 00:21:09,966
+or maybe he does
+
+476
+00:21:09,966 --> 00:21:11,666
+right I guess we're gonna find out but
+
+477
+00:21:12,100 --> 00:21:14,066
+if we assume good intentions
+
+478
+00:21:14,066 --> 00:21:17,066
+if we even just assume that getting what he wants
+
+479
+00:21:17,066 --> 00:21:22,533
+even if it's like really simple and primal the things that he wants 
+
+480
+00:21:23,133 --> 00:21:25,566
+if that requires being in
+
+481
+00:21:26,266 --> 00:21:29,266
+good health and having good perception reaction speed
+
+482
+00:21:29,466 --> 00:21:32,300
+in you know having a healthy physical instrument
+
+483
+00:21:32,300 --> 00:21:33,300
+a healthy body
+
+484
+00:21:33,566 --> 00:21:35,933
+if that requires it then you
+
+485
+00:21:36,066 --> 00:21:37,733
+you should be invested in
+
+486
+00:21:37,733 --> 00:21:39,733
+you know not killing yourself
+
+487
+00:21:40,066 --> 00:21:42,133
+moment to moment by like
+
+488
+00:21:42,166 --> 00:21:45,766
+desperately hounding everyone you see for a pack of sigis right 
+
+489
+00:21:46,600 --> 00:21:48,200
+but that's what he does anyways
+
+490
+00:21:48,200 --> 00:21:49,566
+that's what my character is doing
+
+491
+00:21:49,566 --> 00:21:51,666
+because this is not as simple as well
+
+492
+00:21:51,666 --> 00:21:53,200
+if you just want it bad enough
+
+493
+00:21:53,200 --> 00:21:54,766
+you would work harder on it
+
+494
+00:21:55,000 --> 00:21:59,933
+I think that that's the big myth in any sort of mental health 
+
+495
+00:21:59,933 --> 00:22:02,200
+it's like if you just wanted to be happy enough
+
+496
+00:22:02,666 --> 00:22:05,100
+you just you would find a way to do it
+
+497
+00:22:05,966 --> 00:22:07,366
+it's not that simple right
+
+498
+00:22:07,733 --> 00:22:11,200
+that is a very one dimensional way of thinking about things 
+
+499
+00:22:11,666 --> 00:22:14,766
+wanting something is not enough 
+
+500
+00:22:14,900 --> 00:22:18,800
+to resolve the inner sort of turmoil that happens when
+
+501
+00:22:18,900 --> 00:22:21,866
+you have different priority structures all vying for
+
+502
+00:22:22,000 --> 00:22:24,800
+your attention and for your decision making power
+
+503
+00:22:25,000 --> 00:22:26,266
+so that brings me to like
+
+504
+00:22:27,600 --> 00:22:28,666
+this is a problem
+
+505
+00:22:29,166 --> 00:22:30,700
+how do you actually work on it 
+
+506
+00:22:30,700 --> 00:22:32,500
+what would I do with
+
+507
+00:22:33,266 --> 00:22:36,700
+let's say myself the detective or someone like Kim
+
+508
+00:22:36,700 --> 00:22:38,733
+maybe even more appropriately because
+
+509
+00:22:39,966 --> 00:22:43,966
+feel like he just is more ready to be in therapy than the detective 
+
+510
+00:22:44,300 --> 00:22:47,466
+I think that guy needs like serious detoxing before
+
+511
+00:22:47,466 --> 00:22:51,600
+like any level of talk therapy would even be effective with him 
+
+512
+00:22:51,866 --> 00:22:55,900
+but one of the approaches that I find very useful
+
+513
+00:22:55,900 --> 00:22:58,700
+in working on situations like this
+
+514
+00:22:58,700 --> 00:23:03,800
+is an approach called internal family systems it's also called IFS 
+
+515
+00:23:05,000 --> 00:23:07,733
+so internal family systems is a type of therapy in which 
+
+516
+00:23:07,966 --> 00:23:09,750
+the framework you're using is that
+
+517
+00:23:09,750 --> 00:23:13,766
+we consider the inner parts of ourselves to be like
+
+518
+00:23:13,866 --> 00:23:18,333
+a close family of individuals right and so 
+
+519
+00:23:18,666 --> 00:23:22,600
+we would use the terminology of parts to describe
+
+520
+00:23:23,666 --> 00:23:25,450
+a part of you that's angry
+
+521
+00:23:25,450 --> 00:23:30,500
+ a part of you that wants to still use a part of you that wants to be sober
+
+522
+00:23:30,600 --> 00:23:35,450
+a part of you that wants to smack Cuno in the face
+
+523
+00:23:35,450 --> 00:23:37,333
+and a part of you that wants to give him
+
+524
+00:23:37,333 --> 00:23:40,000
+a healthy home to return to right
+
+525
+00:23:40,266 --> 00:23:45,666
+like there are disparate parts of ourselves that in
+
+526
+00:23:46,266 --> 00:23:48,900
+the same way that I was talking about here
+
+527
+00:23:49,200 --> 00:23:51,573
+may not always agree with each other and
+
+528
+00:23:51,573 --> 00:23:57,166
+so the goal of IFS therapy is to learn how to like
+
+529
+00:23:57,166 --> 00:24:00,100
+develop lines of communication between these things
+
+530
+00:24:00,100 --> 00:24:02,100
+and so now I would imagine like the character
+
+531
+00:24:02,100 --> 00:24:03,466
+saying something like well
+
+532
+00:24:03,866 --> 00:24:04,666
+you know
+
+533
+00:24:05,400 --> 00:24:06,533
+that part of me
+
+534
+00:24:07,166 --> 00:24:10,600
+feels like it's never quite in control right there's a
+
+535
+00:24:10,700 --> 00:24:12,866
+there's a sense of authority that's missing right
+
+536
+00:24:12,866 --> 00:24:16,200
+the the part of me that's angry struggles the most with authority 
+
+537
+00:24:16,200 --> 00:24:17,900
+and you could attach those two
+
+538
+00:24:18,166 --> 00:24:19,733
+you know ideas to each other
+
+539
+00:24:20,500 --> 00:24:23,400
+you could say okay well what about the part of you that
+
+540
+00:24:24,200 --> 00:24:26,400
+can sort of understand
+
+541
+00:24:26,566 --> 00:24:27,825
+where Cuno is coming from and that
+
+542
+00:24:28,225 --> 00:24:32,499
+ his expression of vulgarity is his way of 
+
+543
+00:24:32,499 --> 00:24:36,200
+like controlling his own competing mental states
+
+544
+00:24:36,466 --> 00:24:40,266
+and you may be able to connect that part of yourself with 
+
+545
+00:24:41,366 --> 00:24:42,933
+you know a source of empathy
+
+546
+00:24:42,933 --> 00:24:45,300
+and so we might actually engage in that
+
+547
+00:24:45,700 --> 00:24:47,733
+process by saying like okay well
+
+548
+00:24:47,800 --> 00:24:48,900
+what would a conversation
+
+549
+00:24:48,900 --> 00:24:50,733
+between these two parts look like
+
+550
+00:24:50,733 --> 00:24:52,866
+where do you think there is some common ground
+
+551
+00:24:52,866 --> 00:24:55,666
+between these two parts that that don't agree right
+
+552
+00:24:55,866 --> 00:24:58,400
+so IFS is something I can imagine being pretty useful here 
+
+553
+00:24:58,466 --> 00:25:01,400
+it's not something I'm super specialized in
+
+554
+00:25:02,133 --> 00:25:08,375
+but I do find the framework of discussing the self as different parts  
+
+555
+00:25:08,375 --> 00:25:12,700
+ that actually all have the potential to want the same thing
+
+556
+00:25:13,366 --> 00:25:14,533
+and sort of
+
+557
+00:25:14,533 --> 00:25:17,175
+being the pursuit of like finding what that thing is
+
+558
+00:25:17,175 --> 00:25:22,566
+and working to make this a common shared goal within yourself 
+
+559
+00:25:23,066 --> 00:25:26,066
+and so it's something that I think could really benefit
+
+560
+00:25:26,200 --> 00:25:28,200
+these two gentlemen in particular
+
+561
+00:25:28,800 --> 00:25:30,966
+so that's a little bit of a breakdown on
+
+562
+00:25:30,966 --> 00:25:33,133
+kind of my thoughts so far on
+
+563
+00:25:33,300 --> 00:25:37,500
+one of the very interesting ways that Disco Elysium portrays mental health 
+
+564
+00:25:37,500 --> 00:25:39,675
+I genuinely think that like the way
+
+565
+00:25:40,066 --> 00:25:42,825
+it has integrated these ideas as a
+
+566
+00:25:42,825 --> 00:25:46,333
+like narrative dialogue skill system is
+
+567
+00:25:46,400 --> 00:25:48,500
+absolutely ingenious and
+
+568
+00:25:48,766 --> 00:25:52,766
+really gives us like a framework for discussing something that 
+
+569
+00:25:53,100 --> 00:25:55,933
+is not always easy to grasp by the person
+
+570
+00:25:56,000 --> 00:25:58,900
+who isn't necessarily sure about why 
+
+571
+00:25:58,900 --> 00:26:01,800
+they feel like they're being pulled in these different directions
+
+572
+00:26:01,800 --> 00:26:02,300
+and like I said
+
+573
+00:26:02,300 --> 00:26:05,166
+this is a subject that is relevant to not just addiction 
+
+574
+00:26:05,166 --> 00:26:08,050
+but is relevant to depression any kind of mental illness  
+
+575
+00:26:08,050 --> 00:26:11,900
+or even just like a normal healthy person who
+
+576
+00:26:12,866 --> 00:26:15,533
+can have competition between two mental states
+
+577
+00:26:15,533 --> 00:26:17,400
+one that tells you it's time to get up for work
+
+578
+00:26:17,400 --> 00:26:20,400
+and the other that's like actually go back to bed 
+
+579
+00:26:22,133 --> 00:26:25,400
+I have that competition every single day of my life
+
+580
+00:26:25,900 --> 00:26:27,100
+and boy is it a struggle
+
+581
+00:26:27,766 --> 00:26:31,333
+so I hope you enjoyed this little vignette analysis
+
+582
+00:26:31,333 --> 00:26:31,766
+like I said
+
+583
+00:26:31,766 --> 00:26:34,166
+I think this would be a cool way to sort of engage
+
+584
+00:26:34,500 --> 00:26:36,966
+with people who may not be able to commit to
+
+585
+00:26:37,333 --> 00:26:40,750
+watching all of the let's plays either live or in the vods 
+
+586
+00:26:40,750 --> 00:26:44,600
+because you know they can be quite long uploads after all 
+
+587
+00:26:44,866 --> 00:26:46,600
+so let me know what you think about this format
+
+588
+00:26:46,600 --> 00:26:47,600
+if you enjoyed it
+
+589
+00:26:47,666 --> 00:26:49,466
+it's great to see so many new people
+
+590
+00:26:49,466 --> 00:26:50,700
+kind of join in the community
+
+591
+00:26:50,700 --> 00:26:52,300
+and getting interested in this stuff
+
+592
+00:26:52,766 --> 00:26:54,000
+I'm really happy to have you here
+
+593
+00:26:54,000 --> 00:26:56,100
+and I'm excited to do more of this kind of thing
+
+594
+00:26:56,166 --> 00:26:56,725
+very soon
+
+595
+00:26:56,725 --> 00:27:00,066
+so that said next episode is coming
+
+596
+00:27:00,533 --> 00:27:02,400
+shortly after this one and
+
+597
+00:27:02,800 --> 00:27:04,500
+we'll see you there bye
+
+598
+00:27:09,966 --> 00:27:11,866
+do you have any competing mental state
+
+599
+00:27:12,100 --> 00:27:13,916
+that you want to share with the class
+
+600
+00:27:16,478 --> 00:27:17,103
+no
+
+601
+00:27:17,966 --> 00:27:19,366
+she's perfect as she is
+
+602
+00:27:20,133 --> 00:27:20,933
+bye
+
