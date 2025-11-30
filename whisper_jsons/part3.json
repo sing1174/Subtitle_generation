@@ -1,0 +1,4002 @@
+{
+  "text": " Okay. Hello. And also welcome. It's great to be back on stream and continuing our disco elicium playthrough. If you're just joining us, which is a good chance that you are, this is kind of still at the beginning of our little playthrough here. And what we're doing is we're kind of playing through it like mix of roleplay, mix of psychoanalysis. I'm Brady, I'm a therapist. And I'm going to be doing like different kinds of psychoanalysis on the characters and kind of linking that to the game design and like how it represents mental health. This game is just in another league when it comes to that sort of thing so far. Like I already did a video kind of talking about the skill system and how it represents this like very fascinating way to perceive like motivation and psychological priority. So yeah, we're like, we're going to get pretty deep with this. The last two playthroughs or last two streams. I'm sort of just been figuring out the game. And now that I've like had some time to collect some thoughts on it, I'll be talking a little bit more about the characters and their dynamics. And like I guess why my character specifically is showing a lot of avoidance and confrontation and like is not maybe making some of the best decisions. I'm doing like a mix of my own head can in roleplay. Like I'm not trying to play the game the best way. Honestly, I'm just trying to make this a fun play through like just kind of doing wild shit. We're not going to see every single part of the game or every dialogue tree. And that's okay. But it has been great to get some recommendations for things that like I just straight out missed because of like so far my character has just fallen into like he's just failing upwards basically like passing some of the early skill checks. Some of the comments on the last video were telling me that like missing or succeeding in some of these early skill checks has like made me skip over a lot of tutorials which makes sense because I kind of feel lost on some of the systems. But that's okay. We're discovering it as we go. And I think that just makes for interesting playthrough dynamics. What I have been fascinated by is how well the game has responded to my like weird way of approaching this like it's completely fine that I skipped certain things. It's completely fine that I don't know how to play it very well. It's not like I've not reached a roadblock where the game is like hey slow down friend. I need to teach you this before you move on. It's happy to just let me move on and try to fail my way through everything which is kind of life isn't it. So with that said...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.2,
+      "end": 9.09,
+      "text": " Okay. Hello. And also welcome. It's great to be back on stream and continuing our disco",
+      "tokens": [
+        1033,
+        13,
+        2425,
+        13,
+        400,
+        611,
+        2928,
+        13,
+        467,
+        311,
+        869,
+        281,
+        312,
+        646,
+        322,
+        4309,
+        293,
+        9289,
+        527,
+        3622
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2251203785771909,
+      "compression_ratio": 1.5936073059360731,
+      "no_speech_prob": 0.06573064625263214,
+      "confidence": 0.775,
+      "words": [
+        {
+          "text": "Okay.",
+          "start": 0.2,
+          "end": 0.38,
+          "confidence": 0.624
+        },
+        {
+          "text": "Hello.",
+          "start": 0.88,
+          "end": 2.24,
+          "confidence": 0.681
+        },
+        {
+          "text": "And",
+          "start": 2.66,
+          "end": 3.34,
+          "confidence": 0.466
+        },
+        {
+          "text": "also",
+          "start": 3.34,
+          "end": 3.6,
+          "confidence": 0.969
+        },
+        {
+          "text": "welcome.",
+          "start": 3.6,
+          "end": 4.18,
+          "confidence": 0.522
+        },
+        {
+          "text": "It's",
+          "start": 5.0,
+          "end": 5.16,
+          "confidence": 0.79
+        },
+        {
+          "text": "great",
+          "start": 5.16,
+          "end": 5.32,
+          "confidence": 0.986
+        },
+        {
+          "text": "to",
+          "start": 5.32,
+          "end": 5.58,
+          "confidence": 0.986
+        },
+        {
+          "text": "be",
+          "start": 5.58,
+          "end": 6.4,
+          "confidence": 0.958
+        },
+        {
+          "text": "back",
+          "start": 6.4,
+          "end": 6.56,
+          "confidence": 0.988
+        },
+        {
+          "text": "on",
+          "start": 6.56,
+          "end": 6.72,
+          "confidence": 0.973
+        },
+        {
+          "text": "stream",
+          "start": 6.72,
+          "end": 6.98,
+          "confidence": 0.782
+        },
+        {
+          "text": "and",
+          "start": 6.98,
+          "end": 7.68,
+          "confidence": 0.788
+        },
+        {
+          "text": "continuing",
+          "start": 7.68,
+          "end": 8.44,
+          "confidence": 0.718
+        },
+        {
+          "text": "our",
+          "start": 8.44,
+          "end": 8.76,
+          "confidence": 0.87
+        },
+        {
+          "text": "disco",
+          "start": 8.76,
+          "end": 9.09,
+          "confidence": 0.616
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.09,
+      "end": 13.71,
+      "text": " elicium playthrough. If you're just joining us, which is a good chance that you are, this",
+      "tokens": [
+        806,
+        299,
+        2197,
+        48752,
+        13,
+        759,
+        291,
+        434,
+        445,
+        5549,
+        505,
+        11,
+        597,
+        307,
+        257,
+        665,
+        2931,
+        300,
+        291,
+        366,
+        11,
+        341
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2251203785771909,
+      "compression_ratio": 1.5936073059360731,
+      "no_speech_prob": 0.06573064625263214,
+      "confidence": 0.824,
+      "words": [
+        {
+          "text": "elicium",
+          "start": 9.09,
+          "end": 9.58,
+          "confidence": 0.391
+        },
+        {
+          "text": "playthrough.",
+          "start": 9.58,
+          "end": 10.3,
+          "confidence": 0.806
+        },
+        {
+          "text": "If",
+          "start": 10.9,
+          "end": 11.54,
+          "confidence": 0.887
+        },
+        {
+          "text": "you're",
+          "start": 11.54,
+          "end": 11.7,
+          "confidence": 0.993
+        },
+        {
+          "text": "just",
+          "start": 11.7,
+          "end": 11.78,
+          "confidence": 0.996
+        },
+        {
+          "text": "joining",
+          "start": 11.78,
+          "end": 12.06,
+          "confidence": 0.999
+        },
+        {
+          "text": "us,",
+          "start": 12.06,
+          "end": 12.26,
+          "confidence": 0.998
+        },
+        {
+          "text": "which",
+          "start": 12.34,
+          "end": 12.4,
+          "confidence": 0.984
+        },
+        {
+          "text": "is",
+          "start": 12.4,
+          "end": 12.52,
+          "confidence": 0.981
+        },
+        {
+          "text": "a",
+          "start": 12.52,
+          "end": 12.62,
+          "confidence": 0.988
+        },
+        {
+          "text": "good",
+          "start": 12.62,
+          "end": 12.7,
+          "confidence": 0.992
+        },
+        {
+          "text": "chance",
+          "start": 12.7,
+          "end": 12.92,
+          "confidence": 0.928
+        },
+        {
+          "text": "that",
+          "start": 12.92,
+          "end": 13.1,
+          "confidence": 0.956
+        },
+        {
+          "text": "you",
+          "start": 13.1,
+          "end": 13.22,
+          "confidence": 0.989
+        },
+        {
+          "text": "are,",
+          "start": 13.22,
+          "end": 13.4,
+          "confidence": 0.983
+        },
+        {
+          "text": "this",
+          "start": 13.6,
+          "end": 13.71,
+          "confidence": 0.744
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.71,
+      "end": 18.93,
+      "text": " is kind of still at the beginning of our little playthrough here. And what we're doing",
+      "tokens": [
+        307,
+        733,
+        295,
+        920,
+        412,
+        264,
+        2863,
+        295,
+        527,
+        707,
+        48752,
+        510,
+        13,
+        400,
+        437,
+        321,
+        434,
+        884
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2251203785771909,
+      "compression_ratio": 1.5936073059360731,
+      "no_speech_prob": 0.06573064625263214,
+      "confidence": 0.963,
+      "words": [
+        {
+          "text": "is",
+          "start": 13.71,
+          "end": 13.94,
+          "confidence": 0.998
+        },
+        {
+          "text": "kind",
+          "start": 13.94,
+          "end": 15.28,
+          "confidence": 0.829
+        },
+        {
+          "text": "of",
+          "start": 15.28,
+          "end": 15.42,
+          "confidence": 0.998
+        },
+        {
+          "text": "still",
+          "start": 15.42,
+          "end": 15.66,
+          "confidence": 0.996
+        },
+        {
+          "text": "at",
+          "start": 15.66,
+          "end": 15.78,
+          "confidence": 0.984
+        },
+        {
+          "text": "the",
+          "start": 15.78,
+          "end": 15.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "beginning",
+          "start": 15.88,
+          "end": 16.16,
+          "confidence": 0.998
+        },
+        {
+          "text": "of",
+          "start": 16.16,
+          "end": 16.46,
+          "confidence": 0.997
+        },
+        {
+          "text": "our",
+          "start": 16.46,
+          "end": 16.64,
+          "confidence": 0.997
+        },
+        {
+          "text": "little",
+          "start": 16.64,
+          "end": 16.9,
+          "confidence": 0.994
+        },
+        {
+          "text": "playthrough",
+          "start": 16.9,
+          "end": 17.2,
+          "confidence": 0.919
+        },
+        {
+          "text": "here.",
+          "start": 17.2,
+          "end": 17.56,
+          "confidence": 0.987
+        },
+        {
+          "text": "And",
+          "start": 17.82,
+          "end": 18.0,
+          "confidence": 0.767
+        },
+        {
+          "text": "what",
+          "start": 18.0,
+          "end": 18.58,
+          "confidence": 0.988
+        },
+        {
+          "text": "we're",
+          "start": 18.58,
+          "end": 18.72,
+          "confidence": 0.996
+        },
+        {
+          "text": "doing",
+          "start": 18.72,
+          "end": 18.93,
+          "confidence": 0.963
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 18.93,
+      "end": 23.46,
+      "text": " is we're kind of playing through it like mix of roleplay, mix of psychoanalysis. I'm",
+      "tokens": [
+        307,
+        321,
+        434,
+        733,
+        295,
+        2433,
+        807,
+        309,
+        411,
+        2890,
+        295,
+        3090,
+        2858,
+        11,
+        2890,
+        295,
+        33355,
+        29702,
+        4642,
+        13,
+        286,
+        478
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2251203785771909,
+      "compression_ratio": 1.5936073059360731,
+      "no_speech_prob": 0.06573064625263214,
+      "confidence": 0.909,
+      "words": [
+        {
+          "text": "is",
+          "start": 18.93,
+          "end": 19.14,
+          "confidence": 0.995
+        },
+        {
+          "text": "we're",
+          "start": 19.14,
+          "end": 19.3,
+          "confidence": 0.965
+        },
+        {
+          "text": "kind",
+          "start": 19.3,
+          "end": 19.46,
+          "confidence": 0.978
+        },
+        {
+          "text": "of",
+          "start": 19.46,
+          "end": 19.6,
+          "confidence": 0.997
+        },
+        {
+          "text": "playing",
+          "start": 19.6,
+          "end": 19.92,
+          "confidence": 0.994
+        },
+        {
+          "text": "through",
+          "start": 19.92,
+          "end": 20.22,
+          "confidence": 0.996
+        },
+        {
+          "text": "it",
+          "start": 20.22,
+          "end": 20.38,
+          "confidence": 0.993
+        },
+        {
+          "text": "like",
+          "start": 20.38,
+          "end": 20.6,
+          "confidence": 0.754
+        },
+        {
+          "text": "mix",
+          "start": 20.6,
+          "end": 21.34,
+          "confidence": 0.685
+        },
+        {
+          "text": "of",
+          "start": 21.34,
+          "end": 21.48,
+          "confidence": 0.942
+        },
+        {
+          "text": "roleplay,",
+          "start": 21.48,
+          "end": 21.9,
+          "confidence": 0.753
+        },
+        {
+          "text": "mix",
+          "start": 22.08,
+          "end": 22.18,
+          "confidence": 0.921
+        },
+        {
+          "text": "of",
+          "start": 22.18,
+          "end": 22.34,
+          "confidence": 0.996
+        },
+        {
+          "text": "psychoanalysis.",
+          "start": 22.34,
+          "end": 23.1,
+          "confidence": 0.889
+        },
+        {
+          "text": "I'm",
+          "start": 23.34,
+          "end": 23.46,
+          "confidence": 0.971
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2344,
+      "start": 23.46,
+      "end": 29.54,
+      "text": " Brady, I'm a therapist. And I'm going to be doing like different kinds of psychoanalysis",
+      "tokens": [
+        31773,
+        11,
+        286,
+        478,
+        257,
+        19830,
+        13,
+        400,
+        286,
+        478,
+        516,
+        281,
+        312,
+        884,
+        411,
+        819,
+        3685,
+        295,
+        33355,
+        29702,
+        4642
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14319040279577275,
+      "compression_ratio": 1.6804511278195489,
+      "no_speech_prob": 0.0004293049860280007,
+      "confidence": 0.964,
+      "words": [
+        {
+          "text": "Brady,",
+          "start": 23.46,
+          "end": 23.68,
+          "confidence": 0.814
+        },
+        {
+          "text": "I'm",
+          "start": 23.86,
+          "end": 23.96,
+          "confidence": 0.976
+        },
+        {
+          "text": "a",
+          "start": 23.96,
+          "end": 24.02,
+          "confidence": 0.997
+        },
+        {
+          "text": "therapist.",
+          "start": 24.02,
+          "end": 24.36,
+          "confidence": 0.995
+        },
+        {
+          "text": "And",
+          "start": 25.36,
+          "end": 25.42,
+          "confidence": 0.932
+        },
+        {
+          "text": "I'm",
+          "start": 25.42,
+          "end": 25.62,
+          "confidence": 0.994
+        },
+        {
+          "text": "going",
+          "start": 25.62,
+          "end": 26.44,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 26.44,
+          "end": 26.58,
+          "confidence": 1.0
+        },
+        {
+          "text": "be",
+          "start": 26.58,
+          "end": 26.7,
+          "confidence": 0.998
+        },
+        {
+          "text": "doing",
+          "start": 26.7,
+          "end": 26.96,
+          "confidence": 0.999
+        },
+        {
+          "text": "like",
+          "start": 26.96,
+          "end": 27.18,
+          "confidence": 0.75
+        },
+        {
+          "text": "different",
+          "start": 27.18,
+          "end": 27.48,
+          "confidence": 0.974
+        },
+        {
+          "text": "kinds",
+          "start": 27.48,
+          "end": 27.88,
+          "confidence": 0.994
+        },
+        {
+          "text": "of",
+          "start": 27.88,
+          "end": 28.28,
+          "confidence": 0.999
+        },
+        {
+          "text": "psychoanalysis",
+          "start": 28.28,
+          "end": 29.54,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2344,
+      "start": 29.74,
+      "end": 34.66,
+      "text": " on the characters and kind of linking that to the game design and like how it represents",
+      "tokens": [
+        322,
+        264,
+        4342,
+        293,
+        733,
+        295,
+        25775,
+        300,
+        281,
+        264,
+        1216,
+        1715,
+        293,
+        411,
+        577,
+        309,
+        8855
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14319040279577275,
+      "compression_ratio": 1.6804511278195489,
+      "no_speech_prob": 0.0004293049860280007,
+      "confidence": 0.971,
+      "words": [
+        {
+          "text": "on",
+          "start": 29.74,
+          "end": 29.92,
+          "confidence": 0.999
+        },
+        {
+          "text": "the",
+          "start": 29.92,
+          "end": 30.08,
+          "confidence": 0.998
+        },
+        {
+          "text": "characters",
+          "start": 30.08,
+          "end": 30.44,
+          "confidence": 0.996
+        },
+        {
+          "text": "and",
+          "start": 30.44,
+          "end": 30.72,
+          "confidence": 0.876
+        },
+        {
+          "text": "kind",
+          "start": 30.72,
+          "end": 30.86,
+          "confidence": 0.981
+        },
+        {
+          "text": "of",
+          "start": 30.86,
+          "end": 30.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "linking",
+          "start": 30.98,
+          "end": 31.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "that",
+          "start": 31.22,
+          "end": 31.44,
+          "confidence": 0.997
+        },
+        {
+          "text": "to",
+          "start": 31.44,
+          "end": 31.74,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 31.74,
+          "end": 32.66,
+          "confidence": 0.987
+        },
+        {
+          "text": "game",
+          "start": 32.66,
+          "end": 32.82,
+          "confidence": 0.997
+        },
+        {
+          "text": "design",
+          "start": 32.82,
+          "end": 33.16,
+          "confidence": 0.998
+        },
+        {
+          "text": "and",
+          "start": 33.16,
+          "end": 33.5,
+          "confidence": 0.938
+        },
+        {
+          "text": "like",
+          "start": 33.5,
+          "end": 33.76,
+          "confidence": 0.838
+        },
+        {
+          "text": "how",
+          "start": 33.76,
+          "end": 33.98,
+          "confidence": 0.936
+        },
+        {
+          "text": "it",
+          "start": 33.98,
+          "end": 34.14,
+          "confidence": 0.999
+        },
+        {
+          "text": "represents",
+          "start": 34.14,
+          "end": 34.66,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2344,
+      "start": 34.66,
+      "end": 39.31,
+      "text": " mental health. This game is just in another league when it comes to that sort of thing so",
+      "tokens": [
+        4973,
+        1585,
+        13,
+        639,
+        1216,
+        307,
+        445,
+        294,
+        1071,
+        14957,
+        562,
+        309,
+        1487,
+        281,
+        300,
+        1333,
+        295,
+        551,
+        370
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14319040279577275,
+      "compression_ratio": 1.6804511278195489,
+      "no_speech_prob": 0.0004293049860280007,
+      "confidence": 0.923,
+      "words": [
+        {
+          "text": "mental",
+          "start": 34.66,
+          "end": 34.98,
+          "confidence": 0.996
+        },
+        {
+          "text": "health.",
+          "start": 34.98,
+          "end": 35.2,
+          "confidence": 0.999
+        },
+        {
+          "text": "This",
+          "start": 35.3,
+          "end": 35.4,
+          "confidence": 0.989
+        },
+        {
+          "text": "game",
+          "start": 35.4,
+          "end": 35.58,
+          "confidence": 0.998
+        },
+        {
+          "text": "is",
+          "start": 35.58,
+          "end": 35.74,
+          "confidence": 0.998
+        },
+        {
+          "text": "just",
+          "start": 35.74,
+          "end": 35.98,
+          "confidence": 0.999
+        },
+        {
+          "text": "in",
+          "start": 35.98,
+          "end": 36.82,
+          "confidence": 0.821
+        },
+        {
+          "text": "another",
+          "start": 36.82,
+          "end": 37.06,
+          "confidence": 0.981
+        },
+        {
+          "text": "league",
+          "start": 37.06,
+          "end": 37.4,
+          "confidence": 0.577
+        },
+        {
+          "text": "when",
+          "start": 37.4,
+          "end": 37.62,
+          "confidence": 0.895
+        },
+        {
+          "text": "it",
+          "start": 37.62,
+          "end": 37.72,
+          "confidence": 0.998
+        },
+        {
+          "text": "comes",
+          "start": 37.72,
+          "end": 37.88,
+          "confidence": 0.997
+        },
+        {
+          "text": "to",
+          "start": 37.88,
+          "end": 38.06,
+          "confidence": 0.999
+        },
+        {
+          "text": "that",
+          "start": 38.06,
+          "end": 38.26,
+          "confidence": 0.999
+        },
+        {
+          "text": "sort",
+          "start": 38.26,
+          "end": 38.68,
+          "confidence": 0.984
+        },
+        {
+          "text": "of",
+          "start": 38.68,
+          "end": 38.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "thing",
+          "start": 38.82,
+          "end": 39.04,
+          "confidence": 0.912
+        },
+        {
+          "text": "so",
+          "start": 39.04,
+          "end": 39.31,
+          "confidence": 0.647
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2344,
+      "start": 39.31,
+      "end": 43.62,
+      "text": " far. Like I already did a video kind of talking about the skill system and how it represents",
+      "tokens": [
+        1400,
+        13,
+        1743,
+        286,
+        1217,
+        630,
+        257,
+        960,
+        733,
+        295,
+        1417,
+        466,
+        264,
+        5389,
+        1185,
+        293,
+        577,
+        309,
+        8855
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14319040279577275,
+      "compression_ratio": 1.6804511278195489,
+      "no_speech_prob": 0.0004293049860280007,
+      "confidence": 0.964,
+      "words": [
+        {
+          "text": "far.",
+          "start": 39.31,
+          "end": 39.64,
+          "confidence": 0.999
+        },
+        {
+          "text": "Like",
+          "start": 39.8,
+          "end": 39.88,
+          "confidence": 0.904
+        },
+        {
+          "text": "I",
+          "start": 39.88,
+          "end": 40.48,
+          "confidence": 0.81
+        },
+        {
+          "text": "already",
+          "start": 40.48,
+          "end": 40.66,
+          "confidence": 0.999
+        },
+        {
+          "text": "did",
+          "start": 40.66,
+          "end": 40.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "a",
+          "start": 40.82,
+          "end": 40.94,
+          "confidence": 0.998
+        },
+        {
+          "text": "video",
+          "start": 40.94,
+          "end": 41.2,
+          "confidence": 0.999
+        },
+        {
+          "text": "kind",
+          "start": 41.2,
+          "end": 41.44,
+          "confidence": 0.879
+        },
+        {
+          "text": "of",
+          "start": 41.44,
+          "end": 41.56,
+          "confidence": 0.999
+        },
+        {
+          "text": "talking",
+          "start": 41.56,
+          "end": 41.76,
+          "confidence": 0.998
+        },
+        {
+          "text": "about",
+          "start": 41.76,
+          "end": 41.96,
+          "confidence": 0.994
+        },
+        {
+          "text": "the",
+          "start": 41.96,
+          "end": 42.1,
+          "confidence": 0.996
+        },
+        {
+          "text": "skill",
+          "start": 42.1,
+          "end": 42.34,
+          "confidence": 0.949
+        },
+        {
+          "text": "system",
+          "start": 42.34,
+          "end": 42.74,
+          "confidence": 0.998
+        },
+        {
+          "text": "and",
+          "start": 42.74,
+          "end": 42.92,
+          "confidence": 0.946
+        },
+        {
+          "text": "how",
+          "start": 42.92,
+          "end": 43.04,
+          "confidence": 0.999
+        },
+        {
+          "text": "it",
+          "start": 43.04,
+          "end": 43.18,
+          "confidence": 0.997
+        },
+        {
+          "text": "represents",
+          "start": 43.18,
+          "end": 43.62,
+          "confidence": 0.914
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2344,
+      "start": 44.3,
+      "end": 51.04,
+      "text": " this like very fascinating way to perceive like motivation and psychological priority.",
+      "tokens": [
+        341,
+        411,
+        588,
+        10343,
+        636,
+        281,
+        20281,
+        411,
+        12335,
+        293,
+        14346,
+        9365,
+        13
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14319040279577275,
+      "compression_ratio": 1.6804511278195489,
+      "no_speech_prob": 0.0004293049860280007,
+      "confidence": 0.935,
+      "words": [
+        {
+          "text": "this",
+          "start": 44.3,
+          "end": 44.58,
+          "confidence": 0.656
+        },
+        {
+          "text": "like",
+          "start": 44.58,
+          "end": 44.82,
+          "confidence": 0.941
+        },
+        {
+          "text": "very",
+          "start": 44.82,
+          "end": 45.74,
+          "confidence": 0.912
+        },
+        {
+          "text": "fascinating",
+          "start": 45.74,
+          "end": 46.54,
+          "confidence": 0.989
+        },
+        {
+          "text": "way",
+          "start": 46.54,
+          "end": 47.24,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 47.24,
+          "end": 47.56,
+          "confidence": 0.999
+        },
+        {
+          "text": "perceive",
+          "start": 47.56,
+          "end": 48.1,
+          "confidence": 0.974
+        },
+        {
+          "text": "like",
+          "start": 48.1,
+          "end": 48.46,
+          "confidence": 0.898
+        },
+        {
+          "text": "motivation",
+          "start": 48.46,
+          "end": 49.44,
+          "confidence": 0.966
+        },
+        {
+          "text": "and",
+          "start": 49.44,
+          "end": 49.88,
+          "confidence": 0.975
+        },
+        {
+          "text": "psychological",
+          "start": 49.88,
+          "end": 50.44,
+          "confidence": 0.987
+        },
+        {
+          "text": "priority.",
+          "start": 50.44,
+          "end": 51.04,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5312,
+      "start": 53.12,
+      "end": 58.82,
+      "text": " So yeah, we're like, we're going to get pretty deep with this. The last two playthroughs",
+      "tokens": [
+        407,
+        1338,
+        11,
+        321,
+        434,
+        411,
+        11,
+        321,
+        434,
+        516,
+        281,
+        483,
+        1238,
+        2452,
+        365,
+        341,
+        13,
+        440,
+        1036,
+        732,
+        48752,
+        82
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1602315685965798,
+      "compression_ratio": 1.5818181818181818,
+      "no_speech_prob": 0.00012584637443069369,
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "So",
+          "start": 53.12,
+          "end": 53.22,
+          "confidence": 0.996
+        },
+        {
+          "text": "yeah,",
+          "start": 53.22,
+          "end": 53.48,
+          "confidence": 0.958
+        },
+        {
+          "text": "we're",
+          "start": 53.6,
+          "end": 53.76,
+          "confidence": 0.992
+        },
+        {
+          "text": "like,",
+          "start": 53.76,
+          "end": 54.42,
+          "confidence": 0.702
+        },
+        {
+          "text": "we're",
+          "start": 54.68,
+          "end": 55.96,
+          "confidence": 0.989
+        },
+        {
+          "text": "going",
+          "start": 55.96,
+          "end": 56.04,
+          "confidence": 0.84
+        },
+        {
+          "text": "to",
+          "start": 56.04,
+          "end": 56.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "get",
+          "start": 56.08,
+          "end": 56.2,
+          "confidence": 0.998
+        },
+        {
+          "text": "pretty",
+          "start": 56.2,
+          "end": 56.34,
+          "confidence": 0.992
+        },
+        {
+          "text": "deep",
+          "start": 56.34,
+          "end": 56.54,
+          "confidence": 0.998
+        },
+        {
+          "text": "with",
+          "start": 56.54,
+          "end": 56.7,
+          "confidence": 0.991
+        },
+        {
+          "text": "this.",
+          "start": 56.7,
+          "end": 56.98,
+          "confidence": 0.993
+        },
+        {
+          "text": "The",
+          "start": 57.14,
+          "end": 57.22,
+          "confidence": 0.945
+        },
+        {
+          "text": "last",
+          "start": 57.22,
+          "end": 57.38,
+          "confidence": 0.997
+        },
+        {
+          "text": "two",
+          "start": 57.38,
+          "end": 57.76,
+          "confidence": 0.977
+        },
+        {
+          "text": "playthroughs",
+          "start": 57.76,
+          "end": 58.82,
+          "confidence": 0.975
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5312,
+      "start": 58.9,
+      "end": 65.53,
+      "text": " or last two streams. I'm sort of just been figuring out the game. And now that I've",
+      "tokens": [
+        420,
+        1036,
+        732,
+        15842,
+        13,
+        286,
+        478,
+        1333,
+        295,
+        445,
+        668,
+        15213,
+        484,
+        264,
+        1216,
+        13,
+        400,
+        586,
+        300,
+        286,
+        600
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1602315685965798,
+      "compression_ratio": 1.5818181818181818,
+      "no_speech_prob": 0.00012584637443069369,
+      "confidence": 0.941,
+      "words": [
+        {
+          "text": "or",
+          "start": 58.9,
+          "end": 59.06,
+          "confidence": 0.685
+        },
+        {
+          "text": "last",
+          "start": 59.06,
+          "end": 59.26,
+          "confidence": 0.818
+        },
+        {
+          "text": "two",
+          "start": 59.26,
+          "end": 59.58,
+          "confidence": 0.989
+        },
+        {
+          "text": "streams.",
+          "start": 59.58,
+          "end": 60.96,
+          "confidence": 0.91
+        },
+        {
+          "text": "I'm",
+          "start": 61.44,
+          "end": 62.82,
+          "confidence": 0.912
+        },
+        {
+          "text": "sort",
+          "start": 62.82,
+          "end": 62.92,
+          "confidence": 0.986
+        },
+        {
+          "text": "of",
+          "start": 62.92,
+          "end": 63.02,
+          "confidence": 0.999
+        },
+        {
+          "text": "just",
+          "start": 63.02,
+          "end": 63.14,
+          "confidence": 0.997
+        },
+        {
+          "text": "been",
+          "start": 63.14,
+          "end": 63.3,
+          "confidence": 0.989
+        },
+        {
+          "text": "figuring",
+          "start": 63.3,
+          "end": 63.58,
+          "confidence": 0.995
+        },
+        {
+          "text": "out",
+          "start": 63.58,
+          "end": 63.82,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 63.82,
+          "end": 63.98,
+          "confidence": 0.996
+        },
+        {
+          "text": "game.",
+          "start": 63.98,
+          "end": 64.18,
+          "confidence": 0.994
+        },
+        {
+          "text": "And",
+          "start": 64.46,
+          "end": 64.6,
+          "confidence": 0.928
+        },
+        {
+          "text": "now",
+          "start": 64.6,
+          "end": 65.22,
+          "confidence": 0.909
+        },
+        {
+          "text": "that",
+          "start": 65.22,
+          "end": 65.36,
+          "confidence": 0.991
+        },
+        {
+          "text": "I've",
+          "start": 65.36,
+          "end": 65.53,
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5312,
+      "start": 65.53,
+      "end": 69.5,
+      "text": " like had some time to collect some thoughts on it, I'll be talking a little bit more about",
+      "tokens": [
+        411,
+        632,
+        512,
+        565,
+        281,
+        2500,
+        512,
+        4598,
+        322,
+        309,
+        11,
+        286,
+        603,
+        312,
+        1417,
+        257,
+        707,
+        857,
+        544,
+        466
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1602315685965798,
+      "compression_ratio": 1.5818181818181818,
+      "no_speech_prob": 0.00012584637443069369,
+      "confidence": 0.973,
+      "words": [
+        {
+          "text": "like",
+          "start": 65.53,
+          "end": 65.66,
+          "confidence": 0.767
+        },
+        {
+          "text": "had",
+          "start": 65.66,
+          "end": 65.9,
+          "confidence": 0.992
+        },
+        {
+          "text": "some",
+          "start": 65.9,
+          "end": 66.08,
+          "confidence": 0.994
+        },
+        {
+          "text": "time",
+          "start": 66.08,
+          "end": 66.24,
+          "confidence": 0.997
+        },
+        {
+          "text": "to",
+          "start": 66.24,
+          "end": 66.4,
+          "confidence": 0.999
+        },
+        {
+          "text": "collect",
+          "start": 66.4,
+          "end": 66.64,
+          "confidence": 0.997
+        },
+        {
+          "text": "some",
+          "start": 66.64,
+          "end": 66.86,
+          "confidence": 0.991
+        },
+        {
+          "text": "thoughts",
+          "start": 66.86,
+          "end": 67.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "on",
+          "start": 67.16,
+          "end": 67.38,
+          "confidence": 0.999
+        },
+        {
+          "text": "it,",
+          "start": 67.38,
+          "end": 67.58,
+          "confidence": 0.998
+        },
+        {
+          "text": "I'll",
+          "start": 67.92,
+          "end": 68.18,
+          "confidence": 0.985
+        },
+        {
+          "text": "be",
+          "start": 68.18,
+          "end": 68.42,
+          "confidence": 0.952
+        },
+        {
+          "text": "talking",
+          "start": 68.42,
+          "end": 68.66,
+          "confidence": 0.999
+        },
+        {
+          "text": "a",
+          "start": 68.66,
+          "end": 68.84,
+          "confidence": 0.997
+        },
+        {
+          "text": "little",
+          "start": 68.84,
+          "end": 68.96,
+          "confidence": 0.994
+        },
+        {
+          "text": "bit",
+          "start": 68.96,
+          "end": 69.08,
+          "confidence": 0.994
+        },
+        {
+          "text": "more",
+          "start": 69.08,
+          "end": 69.26,
+          "confidence": 0.995
+        },
+        {
+          "text": "about",
+          "start": 69.26,
+          "end": 69.5,
+          "confidence": 0.878
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5312,
+      "start": 69.5,
+      "end": 76.46,
+      "text": " the characters and their dynamics. And like I guess why my character specifically is",
+      "tokens": [
+        264,
+        4342,
+        293,
+        641,
+        15679,
+        13,
+        400,
+        411,
+        286,
+        2041,
+        983,
+        452,
+        2517,
+        4682,
+        307
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1602315685965798,
+      "compression_ratio": 1.5818181818181818,
+      "no_speech_prob": 0.00012584637443069369,
+      "confidence": 0.922,
+      "words": [
+        {
+          "text": "the",
+          "start": 69.5,
+          "end": 69.98,
+          "confidence": 0.998
+        },
+        {
+          "text": "characters",
+          "start": 69.98,
+          "end": 70.64,
+          "confidence": 0.719
+        },
+        {
+          "text": "and",
+          "start": 70.64,
+          "end": 71.24,
+          "confidence": 0.993
+        },
+        {
+          "text": "their",
+          "start": 71.24,
+          "end": 71.48,
+          "confidence": 0.995
+        },
+        {
+          "text": "dynamics.",
+          "start": 71.48,
+          "end": 71.9,
+          "confidence": 0.997
+        },
+        {
+          "text": "And",
+          "start": 72.4,
+          "end": 72.44,
+          "confidence": 0.978
+        },
+        {
+          "text": "like",
+          "start": 72.44,
+          "end": 72.92,
+          "confidence": 0.911
+        },
+        {
+          "text": "I",
+          "start": 72.92,
+          "end": 73.12,
+          "confidence": 0.669
+        },
+        {
+          "text": "guess",
+          "start": 73.12,
+          "end": 73.34,
+          "confidence": 0.999
+        },
+        {
+          "text": "why",
+          "start": 73.34,
+          "end": 73.82,
+          "confidence": 0.948
+        },
+        {
+          "text": "my",
+          "start": 73.82,
+          "end": 74.68,
+          "confidence": 0.984
+        },
+        {
+          "text": "character",
+          "start": 74.68,
+          "end": 75.1,
+          "confidence": 0.934
+        },
+        {
+          "text": "specifically",
+          "start": 75.1,
+          "end": 75.8,
+          "confidence": 0.931
+        },
+        {
+          "text": "is",
+          "start": 75.8,
+          "end": 76.46,
+          "confidence": 0.945
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7864,
+      "start": 78.64,
+      "end": 86.56,
+      "text": " showing a lot of avoidance and confrontation and like is not maybe making some of the",
+      "tokens": [
+        4099,
+        257,
+        688,
+        295,
+        5042,
+        719,
+        293,
+        35363,
+        293,
+        411,
+        307,
+        406,
+        1310,
+        1455,
+        512,
+        295,
+        264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17236997793008993,
+      "compression_ratio": 1.6556603773584906,
+      "no_speech_prob": 0.00019953896116930991,
+      "confidence": 0.92,
+      "words": [
+        {
+          "text": "showing",
+          "start": 78.64,
+          "end": 78.82,
+          "confidence": 0.665
+        },
+        {
+          "text": "a",
+          "start": 78.82,
+          "end": 79.04,
+          "confidence": 0.997
+        },
+        {
+          "text": "lot",
+          "start": 79.04,
+          "end": 79.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 79.28,
+          "end": 79.54,
+          "confidence": 0.999
+        },
+        {
+          "text": "avoidance",
+          "start": 79.54,
+          "end": 80.34,
+          "confidence": 0.997
+        },
+        {
+          "text": "and",
+          "start": 80.34,
+          "end": 80.64,
+          "confidence": 0.992
+        },
+        {
+          "text": "confrontation",
+          "start": 80.64,
+          "end": 81.4,
+          "confidence": 0.998
+        },
+        {
+          "text": "and",
+          "start": 81.4,
+          "end": 82.06,
+          "confidence": 0.737
+        },
+        {
+          "text": "like",
+          "start": 82.06,
+          "end": 82.74,
+          "confidence": 0.881
+        },
+        {
+          "text": "is",
+          "start": 82.74,
+          "end": 84.06,
+          "confidence": 0.812
+        },
+        {
+          "text": "not",
+          "start": 84.06,
+          "end": 85.16,
+          "confidence": 0.759
+        },
+        {
+          "text": "maybe",
+          "start": 85.16,
+          "end": 85.8,
+          "confidence": 0.951
+        },
+        {
+          "text": "making",
+          "start": 85.8,
+          "end": 86.24,
+          "confidence": 0.996
+        },
+        {
+          "text": "some",
+          "start": 86.24,
+          "end": 86.44,
+          "confidence": 0.999
+        },
+        {
+          "text": "of",
+          "start": 86.44,
+          "end": 86.54,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 86.54,
+          "end": 86.56,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 7864,
+      "start": 86.56,
+      "end": 93.26,
+      "text": " best decisions. I'm doing like a mix of my own head can in roleplay. Like I'm not trying",
+      "tokens": [
+        1151,
+        5327,
+        13,
+        286,
+        478,
+        884,
+        411,
+        257,
+        2890,
+        295,
+        452,
+        1065,
+        1378,
+        393,
+        294,
+        3090,
+        2858,
+        13,
+        1743,
+        286,
+        478,
+        406,
+        1382
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17236997793008993,
+      "compression_ratio": 1.6556603773584906,
+      "no_speech_prob": 0.00019953896116930991,
+      "confidence": 0.875,
+      "words": [
+        {
+          "text": "best",
+          "start": 86.56,
+          "end": 86.8,
+          "confidence": 0.998
+        },
+        {
+          "text": "decisions.",
+          "start": 86.8,
+          "end": 87.2,
+          "confidence": 0.996
+        },
+        {
+          "text": "I'm",
+          "start": 87.38,
+          "end": 87.48,
+          "confidence": 0.969
+        },
+        {
+          "text": "doing",
+          "start": 87.48,
+          "end": 87.6,
+          "confidence": 0.996
+        },
+        {
+          "text": "like",
+          "start": 87.6,
+          "end": 87.74,
+          "confidence": 0.982
+        },
+        {
+          "text": "a",
+          "start": 87.74,
+          "end": 87.88,
+          "confidence": 0.992
+        },
+        {
+          "text": "mix",
+          "start": 87.88,
+          "end": 88.06,
+          "confidence": 0.999
+        },
+        {
+          "text": "of",
+          "start": 88.06,
+          "end": 88.36,
+          "confidence": 0.997
+        },
+        {
+          "text": "my",
+          "start": 88.36,
+          "end": 89.54,
+          "confidence": 0.975
+        },
+        {
+          "text": "own",
+          "start": 89.54,
+          "end": 89.7,
+          "confidence": 0.998
+        },
+        {
+          "text": "head",
+          "start": 89.7,
+          "end": 89.92,
+          "confidence": 0.992
+        },
+        {
+          "text": "can",
+          "start": 89.92,
+          "end": 90.18,
+          "confidence": 0.246
+        },
+        {
+          "text": "in",
+          "start": 90.18,
+          "end": 90.36,
+          "confidence": 0.767
+        },
+        {
+          "text": "roleplay.",
+          "start": 90.36,
+          "end": 90.94,
+          "confidence": 0.908
+        },
+        {
+          "text": "Like",
+          "start": 91.34,
+          "end": 91.36,
+          "confidence": 0.743
+        },
+        {
+          "text": "I'm",
+          "start": 91.36,
+          "end": 92.84,
+          "confidence": 0.882
+        },
+        {
+          "text": "not",
+          "start": 92.84,
+          "end": 92.96,
+          "confidence": 0.997
+        },
+        {
+          "text": "trying",
+          "start": 92.96,
+          "end": 93.26,
+          "confidence": 0.78
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 7864,
+      "start": 93.26,
+      "end": 97.65,
+      "text": " to play the game the best way. Honestly, I'm just trying to make this a fun play through",
+      "tokens": [
+        281,
+        862,
+        264,
+        1216,
+        264,
+        1151,
+        636,
+        13,
+        12348,
+        11,
+        286,
+        478,
+        445,
+        1382,
+        281,
+        652,
+        341,
+        257,
+        1019,
+        862,
+        807
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17236997793008993,
+      "compression_ratio": 1.6556603773584906,
+      "no_speech_prob": 0.00019953896116930991,
+      "confidence": 0.861,
+      "words": [
+        {
+          "text": "to",
+          "start": 93.26,
+          "end": 93.42,
+          "confidence": 0.998
+        },
+        {
+          "text": "play",
+          "start": 93.42,
+          "end": 93.6,
+          "confidence": 0.999
+        },
+        {
+          "text": "the",
+          "start": 93.6,
+          "end": 93.74,
+          "confidence": 0.998
+        },
+        {
+          "text": "game",
+          "start": 93.74,
+          "end": 93.9,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 93.9,
+          "end": 94.06,
+          "confidence": 0.98
+        },
+        {
+          "text": "best",
+          "start": 94.06,
+          "end": 94.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "way.",
+          "start": 94.22,
+          "end": 94.44,
+          "confidence": 0.999
+        },
+        {
+          "text": "Honestly,",
+          "start": 94.58,
+          "end": 94.78,
+          "confidence": 0.86
+        },
+        {
+          "text": "I'm",
+          "start": 94.88,
+          "end": 95.02,
+          "confidence": 0.847
+        },
+        {
+          "text": "just",
+          "start": 95.02,
+          "end": 95.06,
+          "confidence": 0.996
+        },
+        {
+          "text": "trying",
+          "start": 95.06,
+          "end": 95.2,
+          "confidence": 0.995
+        },
+        {
+          "text": "to",
+          "start": 95.2,
+          "end": 95.32,
+          "confidence": 0.998
+        },
+        {
+          "text": "make",
+          "start": 95.32,
+          "end": 95.42,
+          "confidence": 0.998
+        },
+        {
+          "text": "this",
+          "start": 95.42,
+          "end": 95.6,
+          "confidence": 0.988
+        },
+        {
+          "text": "a",
+          "start": 95.6,
+          "end": 95.78,
+          "confidence": 0.68
+        },
+        {
+          "text": "fun",
+          "start": 95.78,
+          "end": 95.92,
+          "confidence": 0.997
+        },
+        {
+          "text": "play",
+          "start": 95.92,
+          "end": 97.42,
+          "confidence": 0.243
+        },
+        {
+          "text": "through",
+          "start": 97.42,
+          "end": 97.65,
+          "confidence": 0.609
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 7864,
+      "start": 97.65,
+      "end": 103.68,
+      "text": " like just kind of doing wild shit. We're not going to see every single part of the game",
+      "tokens": [
+        411,
+        445,
+        733,
+        295,
+        884,
+        4868,
+        4611,
+        13,
+        492,
+        434,
+        406,
+        516,
+        281,
+        536,
+        633,
+        2167,
+        644,
+        295,
+        264,
+        1216
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17236997793008993,
+      "compression_ratio": 1.6556603773584906,
+      "no_speech_prob": 0.00019953896116930991,
+      "confidence": 0.953,
+      "words": [
+        {
+          "text": "like",
+          "start": 97.65,
+          "end": 97.88,
+          "confidence": 0.982
+        },
+        {
+          "text": "just",
+          "start": 97.88,
+          "end": 98.04,
+          "confidence": 0.948
+        },
+        {
+          "text": "kind",
+          "start": 98.04,
+          "end": 98.2,
+          "confidence": 0.974
+        },
+        {
+          "text": "of",
+          "start": 98.2,
+          "end": 98.32,
+          "confidence": 0.999
+        },
+        {
+          "text": "doing",
+          "start": 98.32,
+          "end": 98.48,
+          "confidence": 0.983
+        },
+        {
+          "text": "wild",
+          "start": 98.48,
+          "end": 98.96,
+          "confidence": 0.801
+        },
+        {
+          "text": "shit.",
+          "start": 98.96,
+          "end": 99.34,
+          "confidence": 0.965
+        },
+        {
+          "text": "We're",
+          "start": 101.06,
+          "end": 101.36,
+          "confidence": 0.953
+        },
+        {
+          "text": "not",
+          "start": 101.36,
+          "end": 101.52,
+          "confidence": 0.998
+        },
+        {
+          "text": "going",
+          "start": 101.52,
+          "end": 101.66,
+          "confidence": 0.846
+        },
+        {
+          "text": "to",
+          "start": 101.66,
+          "end": 101.74,
+          "confidence": 0.998
+        },
+        {
+          "text": "see",
+          "start": 101.74,
+          "end": 102.22,
+          "confidence": 0.998
+        },
+        {
+          "text": "every",
+          "start": 102.22,
+          "end": 102.54,
+          "confidence": 0.997
+        },
+        {
+          "text": "single",
+          "start": 102.54,
+          "end": 103.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "part",
+          "start": 103.12,
+          "end": 103.32,
+          "confidence": 0.982
+        },
+        {
+          "text": "of",
+          "start": 103.32,
+          "end": 103.44,
+          "confidence": 0.996
+        },
+        {
+          "text": "the",
+          "start": 103.44,
+          "end": 103.52,
+          "confidence": 0.979
+        },
+        {
+          "text": "game",
+          "start": 103.52,
+          "end": 103.68,
+          "confidence": 0.807
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 10372,
+      "start": 103.72,
+      "end": 108.52,
+      "text": " or every dialogue tree. And that's okay. But it has been great to get some recommendations",
+      "tokens": [
+        420,
+        633,
+        10221,
+        4230,
+        13,
+        400,
+        300,
+        311,
+        1392,
+        13,
+        583,
+        309,
+        575,
+        668,
+        869,
+        281,
+        483,
+        512,
+        10434
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15613289833068847,
+      "compression_ratio": 1.7716535433070866,
+      "no_speech_prob": 3.224537431378849e-05,
+      "confidence": 0.911,
+      "words": [
+        {
+          "text": "or",
+          "start": 103.72,
+          "end": 103.84,
+          "confidence": 0.61
+        },
+        {
+          "text": "every",
+          "start": 103.84,
+          "end": 103.98,
+          "confidence": 0.996
+        },
+        {
+          "text": "dialogue",
+          "start": 103.98,
+          "end": 104.3,
+          "confidence": 0.704
+        },
+        {
+          "text": "tree.",
+          "start": 104.3,
+          "end": 104.62,
+          "confidence": 0.981
+        },
+        {
+          "text": "And",
+          "start": 104.76,
+          "end": 104.78,
+          "confidence": 0.945
+        },
+        {
+          "text": "that's",
+          "start": 104.78,
+          "end": 104.9,
+          "confidence": 0.994
+        },
+        {
+          "text": "okay.",
+          "start": 104.9,
+          "end": 105.12,
+          "confidence": 0.836
+        },
+        {
+          "text": "But",
+          "start": 105.88,
+          "end": 106.44,
+          "confidence": 0.656
+        },
+        {
+          "text": "it",
+          "start": 106.44,
+          "end": 106.98,
+          "confidence": 0.981
+        },
+        {
+          "text": "has",
+          "start": 106.98,
+          "end": 107.12,
+          "confidence": 0.991
+        },
+        {
+          "text": "been",
+          "start": 107.12,
+          "end": 107.26,
+          "confidence": 0.998
+        },
+        {
+          "text": "great",
+          "start": 107.26,
+          "end": 107.44,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 107.44,
+          "end": 107.66,
+          "confidence": 0.998
+        },
+        {
+          "text": "get",
+          "start": 107.66,
+          "end": 107.88,
+          "confidence": 0.998
+        },
+        {
+          "text": "some",
+          "start": 107.88,
+          "end": 108.04,
+          "confidence": 0.996
+        },
+        {
+          "text": "recommendations",
+          "start": 108.04,
+          "end": 108.52,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 10372,
+      "start": 108.74,
+      "end": 114.54,
+      "text": " for things that like I just straight out missed because of like so far my character has",
+      "tokens": [
+        337,
+        721,
+        300,
+        411,
+        286,
+        445,
+        2997,
+        484,
+        6721,
+        570,
+        295,
+        411,
+        370,
+        1400,
+        452,
+        2517,
+        575
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15613289833068847,
+      "compression_ratio": 1.7716535433070866,
+      "no_speech_prob": 3.224537431378849e-05,
+      "confidence": 0.908,
+      "words": [
+        {
+          "text": "for",
+          "start": 108.74,
+          "end": 108.86,
+          "confidence": 0.998
+        },
+        {
+          "text": "things",
+          "start": 108.86,
+          "end": 109.06,
+          "confidence": 0.998
+        },
+        {
+          "text": "that",
+          "start": 109.06,
+          "end": 109.22,
+          "confidence": 0.937
+        },
+        {
+          "text": "like",
+          "start": 109.22,
+          "end": 109.34,
+          "confidence": 0.839
+        },
+        {
+          "text": "I",
+          "start": 109.34,
+          "end": 109.48,
+          "confidence": 0.971
+        },
+        {
+          "text": "just",
+          "start": 109.48,
+          "end": 109.62,
+          "confidence": 0.999
+        },
+        {
+          "text": "straight",
+          "start": 109.62,
+          "end": 109.92,
+          "confidence": 0.992
+        },
+        {
+          "text": "out",
+          "start": 109.92,
+          "end": 110.18,
+          "confidence": 0.984
+        },
+        {
+          "text": "missed",
+          "start": 110.18,
+          "end": 111.24,
+          "confidence": 0.929
+        },
+        {
+          "text": "because",
+          "start": 111.24,
+          "end": 111.72,
+          "confidence": 0.859
+        },
+        {
+          "text": "of",
+          "start": 111.72,
+          "end": 111.94,
+          "confidence": 0.975
+        },
+        {
+          "text": "like",
+          "start": 111.94,
+          "end": 112.22,
+          "confidence": 0.975
+        },
+        {
+          "text": "so",
+          "start": 112.22,
+          "end": 113.68,
+          "confidence": 0.747
+        },
+        {
+          "text": "far",
+          "start": 113.68,
+          "end": 113.86,
+          "confidence": 0.999
+        },
+        {
+          "text": "my",
+          "start": 113.86,
+          "end": 114.04,
+          "confidence": 0.499
+        },
+        {
+          "text": "character",
+          "start": 114.04,
+          "end": 114.34,
+          "confidence": 0.998
+        },
+        {
+          "text": "has",
+          "start": 114.34,
+          "end": 114.54,
+          "confidence": 0.933
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 10372,
+      "start": 114.54,
+      "end": 120.84,
+      "text": " just fallen into like he's just failing upwards basically like passing some of the early",
+      "tokens": [
+        445,
+        11547,
+        666,
+        411,
+        415,
+        311,
+        445,
+        18223,
+        22167,
+        1936,
+        411,
+        8437,
+        512,
+        295,
+        264,
+        2440
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15613289833068847,
+      "compression_ratio": 1.7716535433070866,
+      "no_speech_prob": 3.224537431378849e-05,
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "just",
+          "start": 114.54,
+          "end": 114.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "fallen",
+          "start": 114.78,
+          "end": 115.4,
+          "confidence": 0.997
+        },
+        {
+          "text": "into",
+          "start": 115.4,
+          "end": 116.4,
+          "confidence": 0.993
+        },
+        {
+          "text": "like",
+          "start": 116.4,
+          "end": 117.02,
+          "confidence": 0.977
+        },
+        {
+          "text": "he's",
+          "start": 117.02,
+          "end": 118.12,
+          "confidence": 0.818
+        },
+        {
+          "text": "just",
+          "start": 118.12,
+          "end": 118.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "failing",
+          "start": 118.24,
+          "end": 118.56,
+          "confidence": 0.994
+        },
+        {
+          "text": "upwards",
+          "start": 118.56,
+          "end": 118.92,
+          "confidence": 0.988
+        },
+        {
+          "text": "basically",
+          "start": 118.92,
+          "end": 119.52,
+          "confidence": 0.77
+        },
+        {
+          "text": "like",
+          "start": 119.52,
+          "end": 119.8,
+          "confidence": 0.553
+        },
+        {
+          "text": "passing",
+          "start": 119.8,
+          "end": 120.22,
+          "confidence": 0.984
+        },
+        {
+          "text": "some",
+          "start": 120.22,
+          "end": 120.46,
+          "confidence": 0.998
+        },
+        {
+          "text": "of",
+          "start": 120.46,
+          "end": 120.58,
+          "confidence": 0.997
+        },
+        {
+          "text": "the",
+          "start": 120.58,
+          "end": 120.66,
+          "confidence": 0.995
+        },
+        {
+          "text": "early",
+          "start": 120.66,
+          "end": 120.84,
+          "confidence": 0.845
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 10372,
+      "start": 120.86,
+      "end": 126.46,
+      "text": " skill checks. Some of the comments on the last video were telling me that like missing",
+      "tokens": [
+        5389,
+        13834,
+        13,
+        2188,
+        295,
+        264,
+        3053,
+        322,
+        264,
+        1036,
+        960,
+        645,
+        3585,
+        385,
+        300,
+        411,
+        5361
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15613289833068847,
+      "compression_ratio": 1.7716535433070866,
+      "no_speech_prob": 3.224537431378849e-05,
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "skill",
+          "start": 120.86,
+          "end": 121.12,
+          "confidence": 0.93
+        },
+        {
+          "text": "checks.",
+          "start": 121.12,
+          "end": 121.58,
+          "confidence": 0.978
+        },
+        {
+          "text": "Some",
+          "start": 122.26,
+          "end": 122.66,
+          "confidence": 0.928
+        },
+        {
+          "text": "of",
+          "start": 122.66,
+          "end": 122.74,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 122.74,
+          "end": 122.96,
+          "confidence": 0.999
+        },
+        {
+          "text": "comments",
+          "start": 122.96,
+          "end": 123.46,
+          "confidence": 0.883
+        },
+        {
+          "text": "on",
+          "start": 123.46,
+          "end": 123.74,
+          "confidence": 0.996
+        },
+        {
+          "text": "the",
+          "start": 123.74,
+          "end": 123.84,
+          "confidence": 0.996
+        },
+        {
+          "text": "last",
+          "start": 123.84,
+          "end": 123.98,
+          "confidence": 0.999
+        },
+        {
+          "text": "video",
+          "start": 123.98,
+          "end": 124.22,
+          "confidence": 0.995
+        },
+        {
+          "text": "were",
+          "start": 124.22,
+          "end": 124.38,
+          "confidence": 0.757
+        },
+        {
+          "text": "telling",
+          "start": 124.38,
+          "end": 124.62,
+          "confidence": 0.996
+        },
+        {
+          "text": "me",
+          "start": 124.62,
+          "end": 124.8,
+          "confidence": 0.997
+        },
+        {
+          "text": "that",
+          "start": 124.8,
+          "end": 124.96,
+          "confidence": 0.986
+        },
+        {
+          "text": "like",
+          "start": 124.96,
+          "end": 125.2,
+          "confidence": 0.992
+        },
+        {
+          "text": "missing",
+          "start": 125.2,
+          "end": 126.46,
+          "confidence": 0.963
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 10372,
+      "start": 127.5,
+      "end": 132.98,
+      "text": " or succeeding in some of these early skill checks has like made me skip over a lot of tutorials",
+      "tokens": [
+        420,
+        47912,
+        294,
+        512,
+        295,
+        613,
+        2440,
+        5389,
+        13834,
+        575,
+        411,
+        1027,
+        385,
+        10023,
+        670,
+        257,
+        688,
+        295,
+        17616
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15613289833068847,
+      "compression_ratio": 1.7716535433070866,
+      "no_speech_prob": 3.224537431378849e-05,
+      "confidence": 0.952,
+      "words": [
+        {
+          "text": "or",
+          "start": 127.5,
+          "end": 127.74,
+          "confidence": 0.736
+        },
+        {
+          "text": "succeeding",
+          "start": 127.74,
+          "end": 128.32,
+          "confidence": 0.996
+        },
+        {
+          "text": "in",
+          "start": 128.32,
+          "end": 128.6,
+          "confidence": 0.989
+        },
+        {
+          "text": "some",
+          "start": 128.6,
+          "end": 128.8,
+          "confidence": 0.999
+        },
+        {
+          "text": "of",
+          "start": 128.8,
+          "end": 128.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "these",
+          "start": 128.94,
+          "end": 129.1,
+          "confidence": 0.996
+        },
+        {
+          "text": "early",
+          "start": 129.1,
+          "end": 129.34,
+          "confidence": 0.996
+        },
+        {
+          "text": "skill",
+          "start": 129.34,
+          "end": 129.56,
+          "confidence": 0.95
+        },
+        {
+          "text": "checks",
+          "start": 129.56,
+          "end": 129.84,
+          "confidence": 0.988
+        },
+        {
+          "text": "has",
+          "start": 129.84,
+          "end": 130.02,
+          "confidence": 0.959
+        },
+        {
+          "text": "like",
+          "start": 130.02,
+          "end": 130.3,
+          "confidence": 0.989
+        },
+        {
+          "text": "made",
+          "start": 130.3,
+          "end": 131.5,
+          "confidence": 0.974
+        },
+        {
+          "text": "me",
+          "start": 131.5,
+          "end": 131.66,
+          "confidence": 0.995
+        },
+        {
+          "text": "skip",
+          "start": 131.66,
+          "end": 131.88,
+          "confidence": 0.997
+        },
+        {
+          "text": "over",
+          "start": 131.88,
+          "end": 132.14,
+          "confidence": 0.998
+        },
+        {
+          "text": "a",
+          "start": 132.14,
+          "end": 132.28,
+          "confidence": 0.998
+        },
+        {
+          "text": "lot",
+          "start": 132.28,
+          "end": 132.38,
+          "confidence": 0.998
+        },
+        {
+          "text": "of",
+          "start": 132.38,
+          "end": 132.52,
+          "confidence": 0.938
+        },
+        {
+          "text": "tutorials",
+          "start": 132.52,
+          "end": 132.98,
+          "confidence": 0.679
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 13328,
+      "start": 133.34,
+      "end": 140.76,
+      "text": " which makes sense because I kind of feel lost on some of the systems. But that's okay.",
+      "tokens": [
+        597,
+        1669,
+        2020,
+        570,
+        286,
+        733,
+        295,
+        841,
+        2731,
+        322,
+        512,
+        295,
+        264,
+        3652,
+        13,
+        583,
+        300,
+        311,
+        1392,
+        13
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15621992982464072,
+      "compression_ratio": 1.5219298245614035,
+      "no_speech_prob": 0.00019951957801822573,
+      "confidence": 0.951,
+      "words": [
+        {
+          "text": "which",
+          "start": 133.34,
+          "end": 133.72,
+          "confidence": 0.797
+        },
+        {
+          "text": "makes",
+          "start": 133.72,
+          "end": 134.76,
+          "confidence": 0.921
+        },
+        {
+          "text": "sense",
+          "start": 134.76,
+          "end": 135.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "because",
+          "start": 135.1,
+          "end": 135.36,
+          "confidence": 0.91
+        },
+        {
+          "text": "I",
+          "start": 135.36,
+          "end": 135.58,
+          "confidence": 0.996
+        },
+        {
+          "text": "kind",
+          "start": 135.58,
+          "end": 135.76,
+          "confidence": 0.986
+        },
+        {
+          "text": "of",
+          "start": 135.76,
+          "end": 135.88,
+          "confidence": 0.999
+        },
+        {
+          "text": "feel",
+          "start": 135.88,
+          "end": 136.04,
+          "confidence": 0.983
+        },
+        {
+          "text": "lost",
+          "start": 136.04,
+          "end": 136.32,
+          "confidence": 0.998
+        },
+        {
+          "text": "on",
+          "start": 136.32,
+          "end": 136.6,
+          "confidence": 0.993
+        },
+        {
+          "text": "some",
+          "start": 136.6,
+          "end": 136.76,
+          "confidence": 0.998
+        },
+        {
+          "text": "of",
+          "start": 136.76,
+          "end": 136.88,
+          "confidence": 0.984
+        },
+        {
+          "text": "the",
+          "start": 136.88,
+          "end": 136.98,
+          "confidence": 0.997
+        },
+        {
+          "text": "systems.",
+          "start": 136.98,
+          "end": 137.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "But",
+          "start": 138.76,
+          "end": 140.32,
+          "confidence": 0.703
+        },
+        {
+          "text": "that's",
+          "start": 140.32,
+          "end": 140.56,
+          "confidence": 0.997
+        },
+        {
+          "text": "okay.",
+          "start": 140.56,
+          "end": 140.76,
+          "confidence": 0.932
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 13328,
+      "start": 140.92,
+      "end": 146.1,
+      "text": " We're discovering it as we go. And I think that just makes for interesting playthrough",
+      "tokens": [
+        492,
+        434,
+        24773,
+        309,
+        382,
+        321,
+        352,
+        13,
+        400,
+        286,
+        519,
+        300,
+        445,
+        1669,
+        337,
+        1880,
+        48752
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15621992982464072,
+      "compression_ratio": 1.5219298245614035,
+      "no_speech_prob": 0.00019951957801822573,
+      "confidence": 0.968,
+      "words": [
+        {
+          "text": "We're",
+          "start": 140.92,
+          "end": 141.12,
+          "confidence": 0.997
+        },
+        {
+          "text": "discovering",
+          "start": 141.12,
+          "end": 141.52,
+          "confidence": 0.997
+        },
+        {
+          "text": "it",
+          "start": 141.52,
+          "end": 141.76,
+          "confidence": 0.982
+        },
+        {
+          "text": "as",
+          "start": 141.76,
+          "end": 141.86,
+          "confidence": 0.989
+        },
+        {
+          "text": "we",
+          "start": 141.86,
+          "end": 142.0,
+          "confidence": 0.998
+        },
+        {
+          "text": "go.",
+          "start": 142.0,
+          "end": 142.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "And",
+          "start": 142.38,
+          "end": 142.44,
+          "confidence": 0.948
+        },
+        {
+          "text": "I",
+          "start": 142.44,
+          "end": 142.52,
+          "confidence": 0.999
+        },
+        {
+          "text": "think",
+          "start": 142.52,
+          "end": 142.64,
+          "confidence": 0.999
+        },
+        {
+          "text": "that",
+          "start": 142.64,
+          "end": 142.76,
+          "confidence": 0.996
+        },
+        {
+          "text": "just",
+          "start": 142.76,
+          "end": 142.9,
+          "confidence": 0.994
+        },
+        {
+          "text": "makes",
+          "start": 142.9,
+          "end": 143.16,
+          "confidence": 0.997
+        },
+        {
+          "text": "for",
+          "start": 143.16,
+          "end": 143.46,
+          "confidence": 0.992
+        },
+        {
+          "text": "interesting",
+          "start": 143.46,
+          "end": 144.1,
+          "confidence": 0.978
+        },
+        {
+          "text": "playthrough",
+          "start": 144.1,
+          "end": 146.1,
+          "confidence": 0.678
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 13328,
+      "start": 146.14,
+      "end": 151.18,
+      "text": " dynamics. What I have been fascinated by is how well the game has responded to my like",
+      "tokens": [
+        15679,
+        13,
+        708,
+        286,
+        362,
+        668,
+        24597,
+        538,
+        307,
+        577,
+        731,
+        264,
+        1216,
+        575,
+        15806,
+        281,
+        452,
+        411
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15621992982464072,
+      "compression_ratio": 1.5219298245614035,
+      "no_speech_prob": 0.00019951957801822573,
+      "confidence": 0.988,
+      "words": [
+        {
+          "text": "dynamics.",
+          "start": 146.14,
+          "end": 146.66,
+          "confidence": 0.998
+        },
+        {
+          "text": "What",
+          "start": 147.3,
+          "end": 147.5,
+          "confidence": 0.974
+        },
+        {
+          "text": "I",
+          "start": 147.5,
+          "end": 147.62,
+          "confidence": 0.998
+        },
+        {
+          "text": "have",
+          "start": 147.62,
+          "end": 147.74,
+          "confidence": 0.997
+        },
+        {
+          "text": "been",
+          "start": 147.74,
+          "end": 147.9,
+          "confidence": 0.997
+        },
+        {
+          "text": "fascinated",
+          "start": 147.9,
+          "end": 148.34,
+          "confidence": 0.998
+        },
+        {
+          "text": "by",
+          "start": 148.34,
+          "end": 148.58,
+          "confidence": 0.995
+        },
+        {
+          "text": "is",
+          "start": 148.58,
+          "end": 148.78,
+          "confidence": 0.969
+        },
+        {
+          "text": "how",
+          "start": 148.78,
+          "end": 148.9,
+          "confidence": 0.994
+        },
+        {
+          "text": "well",
+          "start": 148.9,
+          "end": 149.14,
+          "confidence": 0.987
+        },
+        {
+          "text": "the",
+          "start": 149.14,
+          "end": 149.34,
+          "confidence": 0.994
+        },
+        {
+          "text": "game",
+          "start": 149.34,
+          "end": 149.52,
+          "confidence": 0.999
+        },
+        {
+          "text": "has",
+          "start": 149.52,
+          "end": 149.72,
+          "confidence": 0.996
+        },
+        {
+          "text": "responded",
+          "start": 149.72,
+          "end": 150.28,
+          "confidence": 0.997
+        },
+        {
+          "text": "to",
+          "start": 150.28,
+          "end": 150.6,
+          "confidence": 0.996
+        },
+        {
+          "text": "my",
+          "start": 150.6,
+          "end": 150.86,
+          "confidence": 0.994
+        },
+        {
+          "text": "like",
+          "start": 150.86,
+          "end": 151.18,
+          "confidence": 0.912
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 13328,
+      "start": 153.38,
+      "end": 157.44,
+      "text": " weird way of approaching this like it's completely fine that I skipped certain things.",
+      "tokens": [
+        3657,
+        636,
+        295,
+        14908,
+        341,
+        411,
+        309,
+        311,
+        2584,
+        2489,
+        300,
+        286,
+        30193,
+        1629,
+        721,
+        13
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15621992982464072,
+      "compression_ratio": 1.5219298245614035,
+      "no_speech_prob": 0.00019951957801822573,
+      "confidence": 0.943,
+      "words": [
+        {
+          "text": "weird",
+          "start": 153.38,
+          "end": 153.98,
+          "confidence": 0.98
+        },
+        {
+          "text": "way",
+          "start": 153.98,
+          "end": 154.24,
+          "confidence": 0.981
+        },
+        {
+          "text": "of",
+          "start": 154.24,
+          "end": 154.38,
+          "confidence": 0.997
+        },
+        {
+          "text": "approaching",
+          "start": 154.38,
+          "end": 154.72,
+          "confidence": 0.998
+        },
+        {
+          "text": "this",
+          "start": 154.72,
+          "end": 155.0,
+          "confidence": 0.992
+        },
+        {
+          "text": "like",
+          "start": 155.0,
+          "end": 155.24,
+          "confidence": 0.541
+        },
+        {
+          "text": "it's",
+          "start": 155.24,
+          "end": 155.68,
+          "confidence": 0.95
+        },
+        {
+          "text": "completely",
+          "start": 155.68,
+          "end": 155.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "fine",
+          "start": 155.94,
+          "end": 156.28,
+          "confidence": 0.987
+        },
+        {
+          "text": "that",
+          "start": 156.28,
+          "end": 156.46,
+          "confidence": 0.967
+        },
+        {
+          "text": "I",
+          "start": 156.46,
+          "end": 156.58,
+          "confidence": 0.992
+        },
+        {
+          "text": "skipped",
+          "start": 156.58,
+          "end": 156.82,
+          "confidence": 0.945
+        },
+        {
+          "text": "certain",
+          "start": 156.82,
+          "end": 157.16,
+          "confidence": 0.997
+        },
+        {
+          "text": "things.",
+          "start": 157.16,
+          "end": 157.44,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 15772,
+      "start": 157.72,
+      "end": 163.36,
+      "text": " It's completely fine that I don't know how to play it very well. It's not like I've",
+      "tokens": [
+        467,
+        311,
+        2584,
+        2489,
+        300,
+        286,
+        500,
+        380,
+        458,
+        577,
+        281,
+        862,
+        309,
+        588,
+        731,
+        13,
+        467,
+        311,
+        406,
+        411,
+        286,
+        600
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21185572007123163,
+      "compression_ratio": 1.522167487684729,
+      "no_speech_prob": 2.9730814276263118e-05,
+      "confidence": 0.961,
+      "words": [
+        {
+          "text": "It's",
+          "start": 157.72,
+          "end": 157.82,
+          "confidence": 0.973
+        },
+        {
+          "text": "completely",
+          "start": 157.82,
+          "end": 158.08,
+          "confidence": 0.998
+        },
+        {
+          "text": "fine",
+          "start": 158.08,
+          "end": 158.44,
+          "confidence": 0.994
+        },
+        {
+          "text": "that",
+          "start": 158.44,
+          "end": 158.6,
+          "confidence": 0.984
+        },
+        {
+          "text": "I",
+          "start": 158.6,
+          "end": 158.74,
+          "confidence": 0.997
+        },
+        {
+          "text": "don't",
+          "start": 158.74,
+          "end": 159.06,
+          "confidence": 0.999
+        },
+        {
+          "text": "know",
+          "start": 159.06,
+          "end": 159.2,
+          "confidence": 0.995
+        },
+        {
+          "text": "how",
+          "start": 159.2,
+          "end": 159.44,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 159.44,
+          "end": 159.58,
+          "confidence": 0.999
+        },
+        {
+          "text": "play",
+          "start": 159.58,
+          "end": 159.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "it",
+          "start": 159.78,
+          "end": 159.92,
+          "confidence": 0.992
+        },
+        {
+          "text": "very",
+          "start": 159.92,
+          "end": 160.1,
+          "confidence": 0.994
+        },
+        {
+          "text": "well.",
+          "start": 160.1,
+          "end": 160.46,
+          "confidence": 0.999
+        },
+        {
+          "text": "It's",
+          "start": 161.36,
+          "end": 161.54,
+          "confidence": 0.888
+        },
+        {
+          "text": "not",
+          "start": 161.54,
+          "end": 161.72,
+          "confidence": 0.995
+        },
+        {
+          "text": "like",
+          "start": 161.72,
+          "end": 161.96,
+          "confidence": 0.947
+        },
+        {
+          "text": "I've",
+          "start": 161.96,
+          "end": 163.36,
+          "confidence": 0.807
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 15772,
+      "start": 163.36,
+      "end": 167.95,
+      "text": " not reached a roadblock where the game is like hey slow down friend. I need to teach you",
+      "tokens": [
+        406,
+        6488,
+        257,
+        3060,
+        28830,
+        689,
+        264,
+        1216,
+        307,
+        411,
+        4177,
+        2964,
+        760,
+        1277,
+        13,
+        286,
+        643,
+        281,
+        2924,
+        291
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21185572007123163,
+      "compression_ratio": 1.522167487684729,
+      "no_speech_prob": 2.9730814276263118e-05,
+      "confidence": 0.904,
+      "words": [
+        {
+          "text": "not",
+          "start": 163.36,
+          "end": 163.54,
+          "confidence": 0.996
+        },
+        {
+          "text": "reached",
+          "start": 163.54,
+          "end": 164.04,
+          "confidence": 0.998
+        },
+        {
+          "text": "a",
+          "start": 164.04,
+          "end": 164.2,
+          "confidence": 0.996
+        },
+        {
+          "text": "roadblock",
+          "start": 164.2,
+          "end": 164.68,
+          "confidence": 0.947
+        },
+        {
+          "text": "where",
+          "start": 164.68,
+          "end": 164.84,
+          "confidence": 0.981
+        },
+        {
+          "text": "the",
+          "start": 164.84,
+          "end": 164.96,
+          "confidence": 0.998
+        },
+        {
+          "text": "game",
+          "start": 164.96,
+          "end": 165.12,
+          "confidence": 0.955
+        },
+        {
+          "text": "is",
+          "start": 165.12,
+          "end": 165.26,
+          "confidence": 0.571
+        },
+        {
+          "text": "like",
+          "start": 165.26,
+          "end": 165.38,
+          "confidence": 0.998
+        },
+        {
+          "text": "hey",
+          "start": 165.38,
+          "end": 165.56,
+          "confidence": 0.64
+        },
+        {
+          "text": "slow",
+          "start": 165.56,
+          "end": 165.96,
+          "confidence": 0.895
+        },
+        {
+          "text": "down",
+          "start": 165.96,
+          "end": 166.26,
+          "confidence": 0.976
+        },
+        {
+          "text": "friend.",
+          "start": 166.26,
+          "end": 166.66,
+          "confidence": 0.916
+        },
+        {
+          "text": "I",
+          "start": 167.18,
+          "end": 167.36,
+          "confidence": 0.771
+        },
+        {
+          "text": "need",
+          "start": 167.36,
+          "end": 167.5,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 167.5,
+          "end": 167.6,
+          "confidence": 0.998
+        },
+        {
+          "text": "teach",
+          "start": 167.6,
+          "end": 167.8,
+          "confidence": 0.996
+        },
+        {
+          "text": "you",
+          "start": 167.8,
+          "end": 167.95,
+          "confidence": 0.791
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 15772,
+      "start": 167.95,
+      "end": 174.12,
+      "text": " this before you move on. It's happy to just let me move on and try to fail my way through",
+      "tokens": [
+        341,
+        949,
+        291,
+        1286,
+        322,
+        13,
+        467,
+        311,
+        2055,
+        281,
+        445,
+        718,
+        385,
+        1286,
+        322,
+        293,
+        853,
+        281,
+        3061,
+        452,
+        636,
+        807
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21185572007123163,
+      "compression_ratio": 1.522167487684729,
+      "no_speech_prob": 2.9730814276263118e-05,
+      "confidence": 0.965,
+      "words": [
+        {
+          "text": "this",
+          "start": 167.95,
+          "end": 168.2,
+          "confidence": 0.996
+        },
+        {
+          "text": "before",
+          "start": 168.2,
+          "end": 168.48,
+          "confidence": 0.998
+        },
+        {
+          "text": "you",
+          "start": 168.48,
+          "end": 168.66,
+          "confidence": 0.999
+        },
+        {
+          "text": "move",
+          "start": 168.66,
+          "end": 168.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "on.",
+          "start": 168.82,
+          "end": 169.04,
+          "confidence": 0.998
+        },
+        {
+          "text": "It's",
+          "start": 169.16,
+          "end": 169.52,
+          "confidence": 0.803
+        },
+        {
+          "text": "happy",
+          "start": 169.52,
+          "end": 169.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "to",
+          "start": 169.74,
+          "end": 169.9,
+          "confidence": 0.994
+        },
+        {
+          "text": "just",
+          "start": 169.9,
+          "end": 170.06,
+          "confidence": 0.998
+        },
+        {
+          "text": "let",
+          "start": 170.06,
+          "end": 170.28,
+          "confidence": 0.998
+        },
+        {
+          "text": "me",
+          "start": 170.28,
+          "end": 170.46,
+          "confidence": 0.995
+        },
+        {
+          "text": "move",
+          "start": 170.46,
+          "end": 170.74,
+          "confidence": 0.994
+        },
+        {
+          "text": "on",
+          "start": 170.74,
+          "end": 171.06,
+          "confidence": 0.996
+        },
+        {
+          "text": "and",
+          "start": 171.06,
+          "end": 171.46,
+          "confidence": 0.938
+        },
+        {
+          "text": "try",
+          "start": 171.46,
+          "end": 172.82,
+          "confidence": 0.947
+        },
+        {
+          "text": "to",
+          "start": 172.82,
+          "end": 173.16,
+          "confidence": 0.988
+        },
+        {
+          "text": "fail",
+          "start": 173.16,
+          "end": 173.56,
+          "confidence": 0.95
+        },
+        {
+          "text": "my",
+          "start": 173.56,
+          "end": 173.76,
+          "confidence": 0.995
+        },
+        {
+          "text": "way",
+          "start": 173.76,
+          "end": 173.92,
+          "confidence": 0.993
+        },
+        {
+          "text": "through",
+          "start": 173.92,
+          "end": 174.12,
+          "confidence": 0.924
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 17416,
+      "start": 174.16,
+      "end": 180.0,
+      "text": " everything which is kind of life isn't it. So with that said...",
+      "tokens": [
+        50364,
+        1203,
+        597,
+        307,
+        733,
+        295,
+        993,
+        1943,
+        380,
+        309,
+        13,
+        407,
+        365,
+        300,
+        848,
+        485,
+        51082
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.42454420195685494,
+      "compression_ratio": 0.9402985074626866,
+      "no_speech_prob": 2.480196963006165e-05,
+      "confidence": 0.804,
+      "words": [
+        {
+          "text": "everything",
+          "start": 174.16,
+          "end": 174.56,
+          "confidence": 0.996
+        },
+        {
+          "text": "which",
+          "start": 174.56,
+          "end": 174.88,
+          "confidence": 0.887
+        },
+        {
+          "text": "is",
+          "start": 174.88,
+          "end": 175.32,
+          "confidence": 0.955
+        },
+        {
+          "text": "kind",
+          "start": 175.32,
+          "end": 175.46,
+          "confidence": 0.987
+        },
+        {
+          "text": "of",
+          "start": 175.46,
+          "end": 175.62,
+          "confidence": 0.999
+        },
+        {
+          "text": "life",
+          "start": 175.62,
+          "end": 175.96,
+          "confidence": 0.967
+        },
+        {
+          "text": "isn't",
+          "start": 175.96,
+          "end": 177.06,
+          "confidence": 0.835
+        },
+        {
+          "text": "it.",
+          "start": 177.06,
+          "end": 178.04,
+          "confidence": 0.986
+        },
+        {
+          "text": "So",
+          "start": 178.3,
+          "end": 178.36,
+          "confidence": 0.67
+        },
+        {
+          "text": "with",
+          "start": 178.36,
+          "end": 179.42,
+          "confidence": 0.305
+        },
+        {
+          "text": "that",
+          "start": 179.42,
+          "end": 179.6,
+          "confidence": 0.752
+        },
+        {
+          "text": "said...",
+          "start": 179.6,
+          "end": 180.0,
+          "confidence": 0.69
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
