@@ -18,7 +18,7 @@ original video timestamps.
 
 # Streamlit GUI
 
-The [app_transcribe.py](https://github.com/anwesha-umn/TranscribeAI_subtitle_generation/blob/main/app_transcribe.py)  file includes code for implemeting the GUI. 
+The [app_transcribe.py](https://github.com/sing1174/Subtitle_generation/blob/main/app_transcribe.py)  file includes code for implemeting the GUI. 
 
 Use the following command to run the app: 
 `streamlit run app_transcribe.py`.
